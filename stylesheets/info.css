@@ -1,0 +1,7 @@
+.info.price {
+  display: none;
+}
+
+.info.price.show {
+  display: block;
+}

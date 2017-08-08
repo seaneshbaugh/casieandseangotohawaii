@@ -1,0 +1,26 @@
+.airport {
+  background: var(--airport-background-color);
+  margin-top: var(--default-top-margin);
+  padding: var(--default-padding);
+}
+
+.airport.arriving {}
+
+.airport.departing {}
+
+.airport > h4 {
+  overflow: hidden;
+}
+
+.airport > h4:before {
+  content: var(--airport-icon);
+  display: block;
+  float: left;
+  font-family: "Material Icons";
+  font-feature-settings: "liga" 1;
+  font-size: var(--h4-icon-size);
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
