@@ -5,3 +5,8 @@
 .info.price.show {
   display: block;
 }
+
+.info.frommers-guide-book-page {
+  color: var(--link-color);
+  font-style: normal;
+}

@@ -4,6 +4,10 @@
   padding: var(--default-padding);
 }
 
+.hotel.hide {
+  display: none;
+}
+
 .hotel > h3 {
   overflow: hidden;
 }

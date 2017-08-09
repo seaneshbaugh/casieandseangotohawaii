@@ -2,15 +2,20 @@
   --default-top-margin: 15px;
   --default-padding: 10px;
   --default-color: #444444;
+  --h1-icon-size: 48px;
   --h2-icon-size: 24px;
   --h3-icon-size: 18px;
   --h4-icon-size: 16px;
+  --h5-icon-size: 15px;
+  --h6-icon-size: 14px;
   --link-size: 24px;
   --link-color: #0000ff;
   --island-background-color: #f9f9f9;
   --hotel-background-color: #ee7a9f;
   --day-background-color: #ededed;
   --airport-background-color: #e4e4e4;
+  --flight-background-color: #dbdbdb;
+  --connection-background-color: #ffd1d1;
   --attraction-background-color: #e4e4e4;
   --minor-attraction-background-color: #e8e8e8;
   --beach-background-color: #edcafc;
@@ -28,7 +33,12 @@
   --hotel-icon: "\E53A";
   --day-icon: "\E430";
   --airport-icon: "\E539";
+  --airport-arriving-icon: "\E904";
+  --airport-departing-icon: "\E905";
+  --connection-icon: "\E572";
   --attraction-icon: "\E55F";
   --beach-icon: "\EB3E";
   --hike-icon: "\E536";
+  --route-icon: "\E531";
+  --route-part-icon: "\E566"
 }

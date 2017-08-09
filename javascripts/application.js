@@ -1,5 +1,5 @@
 (function() {
-  var onReady, parseQueryString, queryHasKey, showAll;
+  var onReady, parseQueryString, queryHasKey, queryKeyIsTrue, queryIsFalse, showAll, showAllIfQueryKeyIsTrue, hideAllIfQueryKeyIsFalse;
 
   onReady = function(completed) {
     if (document.readyState === "complete") {
@@ -36,17 +36,43 @@
   queryHasKey = function(query, key) {
     key = (key || "").toString();
 
-    if (!key) {
-      return false;
-    }
+    return key && query && query[key];
+  };
 
-    return query && query[key] && (query[key] === "1" || query[key].toString().toLowerCase() === "true");
-  }
+  queryKeyIsTrue = function(query, key) {
+    return queryHasKey(query, key) && (query[key] === "1" || query[key].toString().toLowerCase() === "true");
+  };
+
+  queryKeyIsFalse = function(query, key) {
+    return queryHasKey(query, key) && (query[key] === "0" || query[key].toString().toLowerCase() === "false");
+  };
 
   showAll = function(selector) {
     Array.prototype.slice.call(document.querySelectorAll(selector), 0).forEach(function(element) {
       element.classList.add("show");
+
+      element.classList.remove("hide");
     });
+  };
+
+  hideAll = function(selector) {
+    Array.prototype.slice.call(document.querySelectorAll(selector), 0).forEach(function(element) {
+      element.classList.add("hide");
+
+      element.classList.remove("show");
+    });
+  }
+
+  showAllIfQueryKeyIsTrue = function(query, key, selector) {
+    if (queryKeyIsTrue(query, key)) {
+      showAll(selector);
+    }
+  }
+
+  hideAllIfQueryKeyIsFalse = function(query, key, selector) {
+    if (queryKeyIsFalse(query, key)) {
+      hideAll(selector);
+    }
   }
 
   onReady(function() {
@@ -54,12 +80,22 @@
 
     query = parseQueryString(window.location.search);
 
-    if (queryHasKey(query, "optional")) {
-      showAll(".attraction.optional");
-    }
+    showAllIfQueryKeyIsTrue(query, "optional", ".attraction.optional");
 
-    if (queryHasKey(query, "price")) {
-      showAll(".info.price");
-    }
+    showAllIfQueryKeyIsTrue(query, "price", ".price");
+
+    hideAllIfQueryKeyIsFalse(query, "hotel", ".hotel");
+
+    hideAllIfQueryKeyIsFalse(query, "airport", ".airport");
+
+    hideAllIfQueryKeyIsFalse(query, "flight", ".flight");
+
+    hideAllIfQueryKeyIsFalse(query, "minor", ".attraction.minor");
+
+    hideAllIfQueryKeyIsFalse(query, "normal", ".attraction.normal");
+
+    hideAllIfQueryKeyIsFalse(query, "major", ".attraction.major");
+
+    hideAllIfQueryKeyIsFalse(query, "route", ".route");
   });
 })();
