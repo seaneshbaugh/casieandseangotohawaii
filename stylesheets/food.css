@@ -1,0 +1,12 @@
+.attraction.food {
+  background: var(--food-background-color);
+}
+
+.attraction.food > h4:before {
+  content: var(--food-icon);
+}
+
+.attraction.minor.food, .attraction.optional.food {
+  background: var(--minor-attraction-food-background-color);
+  color: var(--minor-attraction-food-color);
+}

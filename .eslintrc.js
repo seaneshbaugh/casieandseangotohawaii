@@ -1,6 +1,7 @@
 module.exports = {
   "env": {
-    "browser": true
+    "browser": true,
+    "es6": true
   },
   "extends": "eslint:recommended",
   "parser": "babel-eslint",
@@ -42,6 +43,9 @@ module.exports = {
     "max-len": [
       "error",
       200
+    ],
+    "no-ternary": [
+      "error"
     ],
     "no-unused-vars": [
       "error",

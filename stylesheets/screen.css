@@ -4,6 +4,7 @@
 @import url("./links.css");
 @import url("./info.css");
 @import url("./trip.css");
+@import url("./controls.css");
 @import url("./island.css");
 @import url("./hotel.css");
 @import url("./day.css");
@@ -11,4 +12,5 @@
 @import url("./attraction.css");
 @import url("./beach.css");
 @import url("./hike.css");
+@import url("./food.css");
 @import url("./route.css");
