@@ -218,7 +218,7 @@
   };
 
   const completed = function() {
-    setUIFromUIState(getUIStateFromQuery(parseQueryString(window.location.search) || defaultUIState));
+    setUIFromUIState(getUIStateFromQuery(parseQueryString(window.location.search) || {}));
 
     setEventHandlers();
   };
