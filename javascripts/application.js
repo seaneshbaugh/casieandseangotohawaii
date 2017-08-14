@@ -17,19 +17,19 @@
       "show": true
     },
     "optional": {
-      "selector": ".optional",
+      "selector": ".attraction.optional",
       "show": false
     },
     "minor": {
-      "selector": ".minor",
+      "selector": ".attraction.minor",
       "show": true
     },
     "normal": {
-      "selector": ".normal",
+      "selector": ".attraction.normal",
       "show": true
     },
     "major": {
-      "selector": ".major",
+      "selector": ".attraction.major",
       "show": true
     },
     "route": {
