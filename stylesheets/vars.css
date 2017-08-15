@@ -31,7 +31,10 @@
   --minor-attraction-color: #a5a5a5;
   --minor-attraction-beach-color: #dd9af9;
   --minor-attraction-hike-color: #00f004;
-  --minor-attraction-beach-color: #fa9aa9;
+  --minor-attraction-food-color: #fa9aa9;
+  --total-background-color: #f9f9f9;
+  --total-line-item-odd-background-color: #f3f8fb;
+  --total-line-item-even-background-color: #eff7f3;
   --open-icon: "\E5C5";
   --close-icon: "\E5C7";
   --map-icon: "\E55B";
@@ -52,5 +55,6 @@
   --hike-icon: "\E536";
   --food-icon: "FOOD";
   --route-icon: "\E531";
-  --route-part-icon: "\E566"
+  --route-part-icon: "\E566";
+  --total-icon: "\E263";
 }
