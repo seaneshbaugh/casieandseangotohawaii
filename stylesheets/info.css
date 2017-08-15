@@ -10,3 +10,12 @@
   color: var(--link-color);
   font-style: normal;
 }
+
+.info.notes {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.info.notes.danger {
+  color: var(--danger-color);
+}

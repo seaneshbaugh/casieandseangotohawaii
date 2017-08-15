@@ -10,6 +10,7 @@
   --h6-icon-size: 14px;
   --link-size: 24px;
   --link-color: #0000ff;
+  --danger-color: #ee1111;
   --omg-color: #daa520;
   --island-background-color: #f9f9f9;
   --hotel-background-color: #ee7a9f;
@@ -54,7 +55,7 @@
   --attraction-icon: "\E55F";
   --beach-icon: "\EB3E";
   --hike-icon: "\E536";
-  --food-icon: "FOOD";
+  --food-icon: "\E56C";
   --route-icon: "\E531";
   --route-part-icon: "\E566";
   --total-icon: "\E263";
