@@ -16,6 +16,9 @@
   --airport-background-color: #e4e4e4;
   --flight-background-color: #dbdbdb;
   --connection-background-color: #ffd1d1;
+  --rental-car-background-color: #e4e4e4;
+  --rental-car-pickup-background-color: #dbdbdb;
+  --rental-car-dropoff-background-color: #dbdbdb;
   --attraction-background-color: #e4e4e4;
   --minor-attraction-background-color: #e8e8e8;
   --beach-background-color: #edcafc;
@@ -41,6 +44,9 @@
   --airport-arriving-icon: "\E904";
   --airport-departing-icon: "\E905";
   --connection-icon: "\E572";
+  --rental-car-icon: "\E531";
+  --rental-car-pickup-icon: "\E5CB";
+  --rental-car-dropoff-icon: "\E5CC";
   --attraction-icon: "\E55F";
   --beach-icon: "\EB3E";
   --hike-icon: "\E536";

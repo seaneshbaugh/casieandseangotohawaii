@@ -16,6 +16,10 @@
       "selector": ".flight",
       "show": true
     },
+    "rental-car": {
+      "selector": ".rental-car",
+      "show": true
+    },
     "optional": {
       "selector": ".attraction.optional",
       "show": false

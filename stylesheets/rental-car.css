@@ -1,0 +1,117 @@
+.rental-car {
+  background: var(--rental-car-background-color);
+  margin-top: var(--default-top-margin);
+  padding: var(--default-padding);
+}
+
+.rental-car.hide {
+  display: none;
+}
+
+.rental-car > h4 {
+  overflow: hidden;
+}
+
+.rental-car > h4:before {
+  content: var(--rental-car-icon);
+  display: block;
+  float: left;
+  font-family: "Material Icons";
+  font-feature-settings: "liga" 1;
+  font-size: var(--h4-icon-size);
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.rental-car .company:before {
+  content: "Company: ";
+  font-weight: bold;
+}
+
+.rental-car .car-size:before {
+  content: "Car Size: ";
+  font-weight: bold;
+}
+
+.rental-car .price:before {
+  content: "Price: ";
+  font-weight: bold;
+}
+
+.rental-car .pickup {
+  background: var(--rental-car-pickup-background-color);
+  margin-top: var(--default-top-margin);
+  padding: var(--default-padding);
+}
+
+.rental-car .pickup > h5 {
+  overflow: hidden;
+}
+
+.rental-car .pickup > h5:before {
+  content: var(--rental-car-pickup-icon);
+  display: block;
+  float: left;
+  font-family: "Material Icons";
+  font-feature-settings: "liga" 1;
+  font-size: var(--h5-icon-size);
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.rental-car .pickup-location:before {
+  content: "Pickup Location: ";
+  font-weight: bold;
+}
+
+.rental-car .pickup-time:before {
+  content: "Pickup Time: ";
+  font-weight: bold;
+}
+
+.rental-car .pickup-date:before {
+  content: "Pickup Date: ";
+  font-weight: bold;
+}
+
+.rental-car .dropoff {
+  background: var(--rental-car-dropoff-background-color);
+  margin-top: var(--default-top-margin);
+  padding: var(--default-padding);
+}
+
+.rental-car .dropoff > h5 {
+  overflow: hidden;
+}
+
+.rental-car .dropoff > h5:before {
+  content: var(--rental-car-dropoff-icon);
+  display: block;
+  float: left;
+  font-family: "Material Icons";
+  font-feature-settings: "liga" 1;
+  font-size: var(--h5-icon-size);
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.rental-car .dropoff .location:before {
+  content: "Location: ";
+  font-weight: bold;
+}
+
+.rental-car .dropoff .time:before {
+  content: "Time: ";
+  font-weight: bold;
+}
+
+.rental-car .dropoff .date:before {
+  content: "Date: ";
+  font-weight: bold;
+}

@@ -21,6 +21,7 @@
         <button class="control on" data-key="hotel" data-selector=".hotel">Hotels</button>
         <button class="control on" data-key="airport" data-selector=".airport">Airports</button>
         <button class="control on" data-key="flight" data-selector=".flight">Flights</button>
+        <button class="control on" data-key="rental-car" data-selector=".renatal-car">Rental Cars</button>
         <button class="control off" data-key="optional" data-selector=".attraction.optional">Optional</button>
         <button class="control on" data-key="minor" data-selector=".attraction.minor">Minor</button>
         <button class="control on" data-key="normal" data-selector=".attraction.normal">Normal</button>
@@ -38,7 +39,8 @@
           </div>
           <div class="info address">2259 Kalakaua Ave, Honolulu, HI 96815</div>
           <div class="info phone">+1 808-923-7311</div>
-          <div class="info price">$475.00 &times; 3 = $1,425.00</div>
+          <div class="info room-type">Traditional Room, Ocean View, Historic Wing</div>
+          <div class="info price">$342.15 &times; 3 = $1,026.45</div>
           <cite class="info frommers-guide-book-page">Frommer's pg. 130</cite>
         </div>
         <div class="day">
@@ -73,6 +75,24 @@
               <div class="arrival-time">2:18 PM</div>
               <div class="total-duration">12h 8m</div>
               <div class="price">$502.80 + $5.60 = $508.40</div>
+            </div>
+          </div>
+          <div class="rental-car">
+            <h4>Rental Car</h4>
+            <div class="company">Budget</div>
+            <div class="car-size">Intermediate Car (Hyuandai Elantra)</div>
+            <div class="price">$126.07</div>
+            <div class="pickup">
+              <h5>Pickup</h5>
+              <div class="location">Honolulu International Airport (HNL)</div>
+              <div class="time">3:00 PM</div>
+              <div class="date">10/27/17</div>
+            </div>
+            <div class="dropoff">
+              <h5>Dropoff</h5>
+              <div class="location">Honolulu International Airport (HNL)</div>
+              <div class="time">1:00 PM</div>
+              <div class="date">10/30/17</div>
             </div>
           </div>
           <div class="attraction major beach">
@@ -391,7 +411,25 @@
               <div class="price">$72.00 &times; 2 = $144.00</div>
             </div>
           </div>
-          <div class="attraction beach">
+          <div class="rental-car">
+            <h4>Rental Car</h4>
+            <div class="company">Alamo</div>
+            <div class="car-size">Standard SUV</div>
+            <div class="price">$174.73</div>
+            <div class="pickup">
+              <h5>Pickup</h5>
+              <div class="location">Lihue Airport (LIH)</div>
+              <div class="time">2:30 PM</div>
+              <div class="date">10/30/17</div>
+            </div>
+            <div class="dropoff">
+              <h5>Dropoff</h5>
+              <div class="location">Lihue Airport (LIH)</div>
+              <div class="time">12:30 PM</div>
+              <div class="date">11/3/17</div>
+            </div>
+          </div>
+          <div class="attraction normal beach">
             <h4>Lydgate Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -401,7 +439,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Kalapaki Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -414,7 +452,7 @@
         </div>
         <div class="day">
           <h3>Day 5 - Tuesday Oct 31</h3>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Keālia Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -424,7 +462,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Donkey's Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -434,7 +472,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Anahola Beach Park</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -444,7 +482,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction hike">
+          <div class="attraction normal hike">
             <h4>Kīlauea Point National Wildlife Refuge</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -454,7 +492,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction">
+          <div class="attraction normal">
             <h4>Kīlauea Lighthouse</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -464,7 +502,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Kauapea Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -474,7 +512,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Kalihiwai Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -484,7 +522,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Kalihikai Park</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -494,7 +532,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Anini Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -504,7 +542,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Queen's Bath</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -514,7 +552,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Hideaways Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -524,7 +562,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Black Pot Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -534,7 +572,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Hanalei Beach Park</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -544,7 +582,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Waioli Beach Park</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -554,7 +592,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Waikokos</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -564,7 +602,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4>Lumahai Beach</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -574,7 +612,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction food">
+          <div class="attraction normal food">
             <h4>Sushi Girl Kauai</h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -584,7 +622,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -594,7 +632,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -604,7 +642,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -614,7 +652,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -624,7 +662,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -634,7 +672,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -644,7 +682,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -654,7 +692,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -664,7 +702,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -674,7 +712,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -684,7 +722,7 @@
             <div class="info address"></div>
             <div class="info phone"></div>
           </div>
-          <div class="attraction beach">
+          <div class="attraction normal beach">
             <h4></h4>
             <div class="links">
               <div class="link map"><a href="" target="_blank"></a></div>
@@ -763,6 +801,24 @@
               <div class="arrival-location">Kahului Airport (OGG)</div>
               <div class="arrival-time">1:17 PM</div>
               <div class="price">$109.11 &times; 2 = $218.22</div>
+            </div>
+          </div>
+          <div class="rental-car">
+            <h4>Rental Car</h4>
+            <div class="company">Budget</div>
+            <div class="car-size">Intermediate Car (Hyuandai Elantra)</div>
+            <div class="price">$132.90</div>
+            <div class="pickup">
+              <h5>Pickup</h5>
+              <div class="location">Kahului Airport (OGG)</div>
+              <div class="time">2:00 PM</div>
+              <div class="date">11/3/17</div>
+            </div>
+            <div class="dropoff">
+              <h5>Dropoff</h5>
+              <div class="location">Kahului Airport (OGG)</div>
+              <div class="time">10:00 PM</div>
+              <div class="date">11/6/17</div>
             </div>
           </div>
         </div>
