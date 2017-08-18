@@ -65,7 +65,7 @@
 }
 
 .total table tr.subtotal {
-  border-top: 1px solid --var(default-color);
+  border-top: 1px solid #444444;
 }
 
 .total .grandtotal {
