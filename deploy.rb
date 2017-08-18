@@ -4,7 +4,7 @@ credentials = Aws::SharedCredentials.new(profile_name: ENV['AWS_CREDENTIALS_PROF
 
 client = Aws::S3::Client.new(credentials: credentials, region: ENV['AWS_REGION'] || 'us-east-1')
 
-bucket = ENV['S3_BUCKET'] || 'hawaii-2017'
+bucket = ENV['S3_BUCKET'] || 'casieandseangotohawaii.com'
 
 client.create_bucket(bucket: bucket)
 
