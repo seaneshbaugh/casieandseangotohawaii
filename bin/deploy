@@ -1,3 +1,7 @@
+#!/usr/bin/env ruby
+
+# frozen_string_literal: true
+
 require 'aws-sdk'
 
 credentials = Aws::SharedCredentials.new(profile_name: ENV['AWS_CREDENTIALS_PROFILE'] || 'sean')
@@ -13,7 +17,7 @@ client.put_bucket_acl({
   bucket: bucket
 })
 
-Dir[File.join(__dir__, '**', '*.{css,html,ico,jpg,js,png,svg}')].each do |file|
+Dir[File.join(__dir__, '..',  '**', '*.{css,html,ico,jpg,js,png,svg}')].each do |file|
   object_key = file.split(__dir__).last.sub(/^\//, '')
 
   puts "Uploading #{object_key}"
