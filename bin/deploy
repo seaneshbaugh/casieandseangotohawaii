@@ -17,8 +17,10 @@ client.put_bucket_acl({
   bucket: bucket
 })
 
-Dir[File.join(__dir__, '..',  '**', '*.{css,html,ico,jpg,js,png,svg}')].each do |file|
-  object_key = file.split(__dir__).last.sub(/^\//, '')
+root_directory = File.expand_path(File.join(__dir__, '..'))
+
+Dir[File.join(root_directory,  '**', '*.{css,html,ico,jpg,js,png,svg}')].each do |file|
+  object_key = file.split(root_directory).last.sub(/^\//, '')
 
   puts "Uploading #{object_key}"
 
