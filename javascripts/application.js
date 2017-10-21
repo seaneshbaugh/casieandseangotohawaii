@@ -39,6 +39,10 @@
     "route": {
       "selector": ".route",
       "show": false
+    },
+    "meal": {
+      "selector": ".meal",
+      "show": true
     }
   };
 
