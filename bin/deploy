@@ -3,6 +3,7 @@
 # frozen_string_literal: true
 
 require 'aws-sdk'
+require 'mime/types'
 
 credentials = Aws::SharedCredentials.new(profile_name: ENV['AWS_CREDENTIALS_PROFILE'] || 'sean')
 
@@ -27,6 +28,7 @@ Dir[File.join(root_directory,  '**', '*.{css,html,ico,jpg,js,png,svg}')].each do
   client.put_object({
     bucket: bucket,
     key: object_key,
+    content_type: MIME::Types.type_for(File.extname(object_key).sub(/\A\./, '')).first.to_s,
     body: File.read(file)
   })
 
