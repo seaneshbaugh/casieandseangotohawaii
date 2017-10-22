@@ -4,7 +4,7 @@
   padding: var(--default-padding);
 }
 
-.meal .hide {
+.meal.hide {
   display: none;
 }
 
