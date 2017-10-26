@@ -225,10 +225,24 @@
     });
   };
 
+  const debug = function() {
+    Array.prototype.slice.call(document.querySelectorAll(".meal"), 0).forEach(function(meal) {
+      if (meal.querySelectorAll(".restaurant").length === 0) {
+        console.warn(meal.parentNode.querySelector("h3").innerText + ": " + meal.querySelector("h4").innerText + " has no meals.");
+      }
+    });
+  };
+
   const completed = function() {
-    setUIFromUIState(getUIStateFromQuery(parseQueryString(window.location.search) || {}));
+    const query = parseQueryString(window.location.search);
+
+    setUIFromUIState(getUIStateFromQuery(query || {}));
 
     setEventHandlers();
+
+    if (queryKeyIsTrue(query, "debug")) {
+      debug();
+    }
   };
 
   if (document.readyState === "complete") {
