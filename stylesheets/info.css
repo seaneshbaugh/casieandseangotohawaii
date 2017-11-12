@@ -38,11 +38,11 @@
 }
 
 .info.rating.two-star:before, .info.rating.two-stars:before {
-  content: var(--rating-two-star-icon);
+  content: var(--rating-two-stars-icon);
 }
 
 .info.rating.three-star:before, .info.rating.three-stars:before {
-  content: var(--rating-three-star-icon);
+  content: var(--rating-three-stars-icon);
 }
 
 .info.rating.four-star:before, .info.rating.four-stars:before {
