@@ -1,0 +1,79 @@
+.total {
+    background: var(--total-background-color);
+    margin-top: var(--default-top-margin);
+    padding: var(--default-padding);
+}
+
+.total.hide {
+    display: none;
+}
+
+.total > h2 {
+    overflow: hidden;
+}
+
+.total > h2:before {
+    content: var(--total-icon);
+    display: block;
+    float: left;
+    font-family: "Material Icons";
+    font-feature-settings: "liga" 1;
+    font-size: var(--h2-icon-size);
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+.total table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.total table {
+    border-collapse: collapse;
+    font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+
+.total table tbody {
+    border-top: var(--default-top-margin) solid var(--total-background-color);
+}
+
+.total table tbody tr.line-item:nth-of-type(odd) {
+    background: var(--total-line-item-odd-background-color);
+}
+
+.total table tbody tr.line-item:nth-of-type(even) {
+    background: var(--total-line-item-even-background-color);
+}
+
+.total table tbody tr th {
+    overflow: hidden;
+    text-align: left;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 45%;
+}
+
+.total table tbody tr td {
+    text-align: right;
+    width: 20%;
+}
+
+.total table tbody tr td:nth-of-type(1) {
+    width: 35%;
+}
+
+.total table tr.subtotal {
+    border-top: 1px solid #444444;
+}
+
+.total .grandtotal {
+    font-size: 18px;
+}
+
+@media (max-width: 640px) {
+    .total table {
+        font-size: 10px;
+    }
+}

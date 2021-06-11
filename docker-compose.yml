@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  middleman:
+    build:
+      context: "."
+      dockerfile: "./Dockerfile"
+    env_file:
+      - ".env"
+    volumes:
+      - ".:/casieandseangotohawaii"
+      - "node_modules:/casieandseangotohawaii/node_modules"
+    ports:
+      - "4567:4567"
+    command: "bundle exec middleman"
+
+volumes:
+  node_modules:

@@ -1,0 +1,13 @@
+!!!
+%html{ lang: 'en' }
+  %head
+    %meta{ charset: 'utf-8' }
+    %title= current_page.data.title || "Casie and Sean Go to Hawai'i"
+    %meta{ content: 'width=device-width, initial-scale=1, shrink-to-fit=no', name: 'viewport' }
+    = stylesheet_link_tag 'site', media: 'all'
+    = javascript_include_tag 'site'
+    = favicon_tag 'favicon.ico'
+    %link{ href: '/humans.txt', rel: 'author' }
+    %meta{ content: 'Sean Eshbaugh', name: 'author' }
+  %body
+    = yield

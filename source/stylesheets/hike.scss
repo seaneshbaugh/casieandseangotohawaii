@@ -1,0 +1,12 @@
+.attraction.hike {
+    background: var(--hike-background-color);
+}
+
+.attraction.hike > h4:before {
+    content: var(--hike-icon);
+}
+
+.attraction.minor.hike, .attraction.optional.hike {
+    background: var(--minor-attraction-hike-background-color);
+    color: var(--minor-attraction-hike-color);
+}
