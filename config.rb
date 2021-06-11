@@ -48,7 +48,7 @@ page '/*.txt', layout: false
 activate :external_pipeline,
   name: :webpack,
   command: build? ?
-  './node_modules/webpack/bin/webpack.js --bail -p' :
+  './node_modules/webpack/bin/webpack.js --bail --mode=production' :
   './node_modules/webpack/bin/webpack.js --watch --progress --color --mode=development',
   source: 'dist',
   latency: 1
