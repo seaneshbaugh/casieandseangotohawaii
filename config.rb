@@ -1,9 +1,9 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
+# activate :autoprefixer do |prefix|
+#   prefix.browsers = "last 2 versions"
+# end
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
@@ -19,13 +19,18 @@ page '/*.txt', layout: false
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
-# proxy(
-#   '/this-page-has-no-template.html',
-#   '/template-file.html',
-#   locals: {
-#     which_fake_page: 'Rendering a fake page with a local variable'
-#   },
-# )
+trips = %w[2017 2021]
+
+trips.each do |trip|
+  proxy(
+    "/#{trip}.html",
+    '/show.html',
+    locals: {
+      trip: trip
+    },
+    ignore: true
+  )
+end
 
 # Helpers
 # Methods defined in the helpers block are available in templates
