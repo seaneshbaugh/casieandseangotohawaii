@@ -1,6 +1,6 @@
-import "material-design-icons/iconfont/MaterialIcons-Regular.woff2";
-import "material-design-icons/iconfont/MaterialIcons-Regular.woff";
-import "material-design-icons/iconfont/MaterialIcons-Regular.ttf";
+// import "material-design-icons/iconfont/MaterialIcons-Regular.woff2";
+// import "material-design-icons/iconfont/MaterialIcons-Regular.woff";
+// import "material-design-icons/iconfont/MaterialIcons-Regular.ttf";
 
 (function() {
   const defaultUIState = {
