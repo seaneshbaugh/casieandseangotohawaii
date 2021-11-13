@@ -1,0 +1,50 @@
+-
+  id: 1
+  flight_number: "AA 761"
+  departure_airport_id: 1
+  departure_time: "7:10 AM"
+  duration: "2h 35m"
+  connections:
+    -
+      flight_number: "AA 692"
+      connection_airport_id: 5
+      connection_arrival_time: "7:45 AM"
+      connection_departure_time: "10:35 AM"
+      connection_layover_duration: "2h 40m"
+      connection_duration: "6h 43m"
+  arrival_airport_id: 2
+  arrival_time: "2:13 PM"
+  total_duration: "12h 3m"
+-
+  id: 2
+  flight_number: "HA 153"
+  departure_airport_id: 2
+  departure_time: "1:15 PM"
+  duration: "43m"
+  arrival_airport_id: 3
+  aarival_time: "1:58 PM"
+-
+  id: 3
+  flight_number: "HA 244"
+  departure_airport_id: 3
+  departure_time: "12:28 PM"
+  duration: "49m"
+  arrival_airport_id: 4
+  aarival_time: "1:17 PM"
+-
+  id: 4
+  flight_number: "AA 645"
+  departure_airport_id: 4
+  departure_time: "11:20 PM"
+  duration: "5h 43m"
+  connections:
+    -
+      flight_number: "AA 560"
+      connection_airport_id: 5
+      connection_arrival_time: "8:03 AM"
+      connection_departure_time: "11:50 AM"
+      connection_layover_duration: "3h 47m"
+      connection_duration: "2h 23m"
+  arrival_airport: 1
+  arrival_time: "3:13 PM"
+  total_duration: "11h 53m"

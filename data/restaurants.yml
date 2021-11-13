@@ -1,0 +1,625 @@
+-
+  id: 1
+  name: "Marukame Udon"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.279337343720897%2C-157.82618586152796&z=18"
+    -
+      type: "website"
+      url: "http://www.toridollusa.com/menu-waikiki.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Marukame+Udon"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/marukame-udon-honolulu"
+  info:
+    address: "2310 Kuhio Avenue, Suite 124 Honolulu, HI 96815"
+    phone: "+1 808-931-6000"
+    hours: "7:00 AM - 10:00 PM"
+    price_range: "$"
+    genre: "Japanese, noodles"
+    frommers_guide_book_page: "Frommer's pg. 143"
+-
+  id: 2
+  name: "Surf Lanai Restaurant"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27713740450897%2C-157.82887332866676&z=18"
+    -
+      type: "website"
+      url: "https://www.royal-hawaiian.com/dining/surflanai/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Surf+Lanai+Restaurant"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/surf-lanai-honolulu"
+  info:
+    address: "2259 Kalakaua Ave, Honolulu, HI 96815"
+    phone: "+1 808-921-4600"
+    hours: "6:30 AM - 11:00 AM, 11:30 PM - 2:00 PM"
+    price_range: "$$"
+    genre: "breakfast and brunch, American"
+-
+  id: 3
+  name: "Uncle Clay's House of Pure Aloha"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.28396624494161%2C-157.75830956960453&z=14"
+    -
+      type: "website"
+      url: "https://uncleclays.com/shave-ice/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q="
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/uncle-clays-house-of-pure-aloha-honolulu-2"
+  info:
+    address: "820 W Hind Dr #116, Honolulu, HI 96821"
+    phone: "+1 808-373-5111"
+    hours: "10:30 AM - 7:45 PM"
+    price_range: "$"
+    genre: "shaved ice"
+-
+  id: 4
+  name: "Ono Steaks & Shrimp Shack"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://casieandseangotohawaii.com/"
+    -
+      type: "website"
+      url: "https://casieandseangotohawaii.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ono+Steaks+and+Shrimp+Shack"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/ono-steaks-and-shrimp-shack-waimanalo"
+  info:
+    address: "2310 Kuhio Avenue, Suite 124 Honolulu, HI 96815"
+    phone: "+1 808-931-6000"
+    hours: "7:00 AM - 10:00 PM"
+    price_range: "$"
+    genre: "Japanese, noodles"
+    frommers_guide_book_page: "Frommer's pg. 143"
+-
+  id: 5
+  name: "Duke's Waikiki"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27721902447238%2C-157.8279704089996&z=16"
+    -
+      type: "website"
+      url: "http://www.dukeswaikiki.com/menus/dining-room"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Duke%27s+Waikiki"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/dukes-waikiki-honolulu-2"
+  info:
+    address: "2335 Kalakaua Ave, Ste 116, Honolulu, HI 96815"
+    phone: "+1 808-922-2268"
+    hours: "7:00 AM - 12: 00 AM"
+    price_range: "$$$"
+    genre: "Hawaiian, seafood"
+-
+  id: 6
+  name: "Leonard's Bakery"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.285198759754678%2C-157.81340109999996&z=15"
+    -
+      type: "website"
+      url: "https://www.leonardshawaii.com/home/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Leonard%27s+Bakery+Honolulu"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/leonards-bakery-honolulu"
+  info:
+    address: "933 Kapahulu Ave, Honolulu, HI 96816"
+    phone: ""
+    hours: "5:30 AM - 10:00 AM"
+    price_range: "$"
+    genre: "bakery"
+    notes: "Food was fantastic, service was friendly but ultimately awful."
+-
+  id: 7
+  name: "Countryside Cafe"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.429354968151422%2C-158.17881123068844&z=14"
+    -
+      type: "website"
+      url: "http://www.countrysidecafe808.net/menu"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Countryside+Cafe+Waianae"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/countryside-cafe-waianae"
+  info:
+    address: "87-70 Farrington Hwy #104, Waianae, HI 96792"
+    phone: "+1 808-888-5448"
+    hours: "7:00 AM - 1:00 PM"
+    price_range: "$$"
+    genre: "breakfast and brunch, cafes, waffles"
+-
+  id: 8
+  name: "Jinroku"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27640399848348%2C-157.8242622036529&z=18"
+    -
+      type: "website"
+      url: "http://www.jinrokupacific.com/menueng.html"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Jinroku+Waikiki"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/jinroku-honolulu"
+  info:
+    address: "2427 Kuhio Ave, Honolulu, HI 96815"
+    phone: "+1 808-926-8955"
+    hours: "11:30 AM - 2:00 PM, 5:30 PM - 10:30 PM"
+    price_range: "$$"
+    genre: "Japanese, seafood"
+    frommers_guide_book_page: "Frommer's pg. 142"
+-
+  id: 9
+  name: "Kono's"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.288135220590156%2C-157.81489278704834&z=15"
+    -
+      type: "website"
+      url: "http://www.konosnorthshore.com/menu/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kono%27s+Honolulu"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/konos-honolulu"
+  info:
+    address: "945 Kapahulu Ave, Honolulu, HI 96816"
+    phone: "+1 808-892-1088"
+    hours: "7:30 AM - 6:30 PM"
+    price_range: "$"
+    genre: "breakfast and brunch, Hawaiian, sandwiches"
+-
+  id: 10
+  name: "Tiki Tacos"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.06673025429459%2C-159.3198329948441&z=15"
+    -
+      type: "website"
+      url: "http://restaurantwebexpert.com/TikiTacos/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Tiki+Taco+Kauai"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/tiki-tacos-kapaa"
+  info:
+    address: "4-971 Kuhio Hwy, Kapaa, HI 96746"
+    phone: "+1 808-823-8226"
+    hours: "10:00 AM - 8:30 PM"
+    price_range: "$"
+    genre: "Mexican"
+-
+  id: 11
+  name: "JO2 Restaurant"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.065534019483195%2C-159.3198329948441&z=15"
+    -
+      type: "website"
+      url: "http://www.jotwo.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=JO2+Restaurant"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/jo2-kapaa-4"
+  info:
+    address: "4-971 Kuhio Hwy, Kapaa, HI 96746"
+    phone: "+1 808-212-1627"
+    hours: "5:00 PM - 9:00 PM"
+    price_range: "$$"
+    genre: "Asian fusion"
+-
+  id: 12
+  name: "Kountry Kitchen"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.078156343310834%2C-159.31669437990115&z=15"
+    -
+      type: "website"
+      url: "http://www.kountrystylekitchen.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kountry+Kitchen+Kauai"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/kountry-style-kitchen-restaurant-kapaa"
+  info:
+    address: "4-1485 Kuhio Hwy, Kapaa, HI 96746"
+    phone: "+1 808-822-3511"
+    hours: "6:00 AM - 1:30 PM"
+    price_range: "$"
+    genre: "American, breakfast and brunch, Hawaiian"
+-
+  id: 13
+  name: "Kalypso Island Bar & Grill"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.20309069673345%2C-159.49771165980223&z=14"
+    -
+      type: "website"
+      url: "http://www.kalypsokauai.com/menu.html"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kalypso+Island+Bar+and+Grill"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/kalypso-island-bar-and-grill-hanalei"
+  info:
+    address: "5-5156 Kuhio Hwy, Ste G, Hanalei, HI 96714"
+    phone: "+1 808-826-9700"
+    hours: "11:00 AM - 9:00 PM"
+    price_range: "$$"
+    genre: "American, Hawaiian"
+-
+  id: 14
+  name: "Lemongrass Grill Seafood & Bar"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://casieandseangotohawaii.com/"
+    -
+      type: "website"
+      url: "http://www.lemongrasshawaii.com/Menu.html"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lemongrass+Grill+Seafood+and+Bar"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/lemongrass-grill-seafood-and-bar-kapaa-2"
+  info:
+    address: "4-871 Kuhio Hwy, Kapaa, HI 96746"
+    phone: "+1 808-821-2888"
+    hours: "4:00 PM - 9:30 PM"
+    price_range: "$$"
+    genre: "Asian fusion, seafood"
+#### START OF MISSING
+-
+  id: 15 # day 6 breakfast
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 16 # day 6 lunch
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 17 # day 6 snack
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 18 # day 6 dinner
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 19 # day 7 breakfast
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 20 # day 7 lunch
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 21 # day 7 snack
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 22 # day 7 dinner
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 23 # day 8 breakfast
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 24 # day 8 snack
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+#### END OF MISSING
+-
+  id: 25
+  name: "Lahaina Grill"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.876522713878664%2C-156.68405352648927&z=13"
+    -
+      type: "website"
+      url: "https://lahainagrill.com/menu-2/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lahaina+Grill"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/lahaina-grill-lahaina"
+  info:
+    address: "127 Lahainaluna Rd, Lahaina, HI 96761"
+    phone: "+1 808-667-5117"
+    hours: "5:00 PM - 9:00"
+    price_range: "$$$"
+    genre: "American, seafood"
+    frommers_guide_book_page: "Frommer's pg. 391"
+#### START OF MISSING
+-
+  id: 26 # day 9 breakfast
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 27 # day 9 lunch
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 28 # day 9 snack
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 29 # day 9 dinner
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 30 # day 10 breakfast
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+-
+  id: 31 # day 10 lunch
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+#### END OF MISSING
+-
+  id: 32
+  name: "Merriman's"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.001005164453375%2C-156.67981369189454&z=13"
+    -
+      type: "website"
+      url: "https://www.merrimanshawaii.com/kapalua/dinner-menu/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Merriman%26s+Kapalua"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/merrimans-kapalua-lahaina-2"
+  info:
+    address: "1 Bay Club Pl, Lahaina, HI 96761"
+    phone: "+1 808-669-6400"
+    hours: "3:00 PM - 9:00 PM"
+    price_range: "$$$"
+    genre: "American, seafood"
+    frommers_guide_book_page: "Frommer's pg. 402"
+#### START OF MISSING
+-
+  id: 33 # day 11 breakfast
+  name: ""
+  priority: "normal"
+  visible: true
+  links: []
+  info:
+    address: ""
+    phone: ""
+    hours: ""
+    price_range: ""
+    genre: ""
+#### END OF MISSING
+-
+  id: 34
+  name: "Mama's Fish House"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.932916969269815%2C-156.3776175276612&z=13"
+    -
+      type: "website"
+      url: "https://www.mamasfishhouse.com/menus/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Mama%27s+Fish+House+Maui"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/mamas-fish-house-paia-9"
+  info:
+    address: "799 Poho Pl, Paia, HI 96779"
+    phone: "+1 808-579-8488"
+    hours: "11:00 AM - 9:00 PM"
+    price_range: "$$$"
+    genre: "Hawaiian, seafood"
+    notes: "\"Top 10 Fine Dining Restaurants in the US.\" - Trip Advisor. \"Second most popular restaurant in the US.\" - Open Table"

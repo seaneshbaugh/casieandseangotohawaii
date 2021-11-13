@@ -52,13 +52,19 @@
     -webkit-font-smoothing: antialiased;
 }
 
-.meal .restaurant .selection {
+.meal .ratings {
     background: var(--restaurant-background-color);
     margin-top: calc(var(--default-top-margin) / 2);
     padding: var(--default-padding);
 }
 
-.meal .restaurant .selection:nth-child(2) {
+.meal .food {
+    background: var(--restaurant-background-color);
+    margin-top: calc(var(--default-top-margin) / 2);
+    padding: var(--default-padding);
+}
+
+.meal .food:nth-child(2) {
     margin-top: calc(var(--default-top-margin) / 4);
 }
 
@@ -66,7 +72,7 @@
     overflow: hidden;
 }
 
-.meal .restaurant h6:before {
+.meal .food h6:before {
     content: var(--meal-icon);
     display: block;
     float: left;

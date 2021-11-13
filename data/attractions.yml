@@ -1,0 +1,923 @@
+-
+  id: 1
+  name: "Waikiki Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.276629942039932%2C-157.82878119167935&z=15"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/waikiki-beach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Waikiki+Beach"
+  info:
+    address: "Honolulu, HI 96815"
+    frommers_guide_book_page: "Frommer's pg. 102"
+-
+  id: 2
+  name: "Duke Kahanamoku Statue"
+  type: ""
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.276778496112843%2C-157.827089003595&z=15"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/attractions/dukestatue.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Duke+Kahanamoku+Statue"
+  info:
+    address: "Kalakaua Ave, Honolulu, HI 96815"
+-
+  id: 3
+  name: "Diamond Head State Monument"
+  type: "hike"
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.285845996799853%2C-157.81406118349605&z=16"
+    -
+      type: "website"
+      url: "http://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Diamond+Head+State+Monument"
+  info:
+    address: "4191 Diamond Head Rd, Honolulu, HI 96816"
+    phone: "+1 808-587-0300"
+    frommers_guide_book_page: "Frommer's pg. 114"
+-
+  id: 4
+  name: "Hanauma Bay Nature Preserve"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27441396226611%2C-157.6980041640411&z=14"
+    -
+      type: "website"
+      url: "https://www.honolulu.gov/cms-dpr-menu/site-dpr-sitearticles/1716-hanauma-bay-home.html"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hanauma+Bay+Nature+Preserve"
+  info:
+    address: "100 Hanauma Bay Rd, Honolulu, HI 96825"
+    phone: "+1 808-396-4229"
+    frommers_guide_book_page: "Frommer's pg. 104"
+-
+  id: 5
+  name: "Lanai Lookout"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.276097765431473%2C-157.686989392932&z=16"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/attractions/lanailookout.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lanai+Lookout+Oahu"
+  info:
+    address: "7949-7967 Kalanianaole Hwy, Honolulu, HI 96825"
+-
+  id: 6
+  name: "Wawamalu Beach Park"
+  type: "beach"
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.287438729508644%2C-157.66992662605742&z=16"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/wawamalubeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Wawamalu+Beach+Park"
+  info:
+    address: "8549 Kalanianaole Hwy, Honolulu, HI 96825"
+-
+  id: 7
+  name: "Makapu'u Lookout"
+  type: ""
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.31149381502788%2C-157.6585403412979&z=15"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/attractions/makapuulookout.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Makapu%27u+Lookout"
+  info:
+    address: "Kalanianaole Hwy, Honolulu, HI 96825"
+    phone: "+1 808-464-0840"
+    frommers_guide_book_page: "Frommer's pg. 116"
+-
+  id: 8
+  name: "Kailua Beach Park"
+  type: "beach"
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.39779089765779%2C-157.7315457032105&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/kailuabeachpark.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kailua+Beach+Park"
+  info:
+    address: "526 Kawailoa Rd, Kailua, HI 96734"
+    phone: "+1 808-266-7652"
+    frommers_guide_book_page: "Frommer's pg. 106"
+-
+  id: 9
+  name: "Lanikai Beach"
+  type: "beach"
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.40142002794666%2C-157.72734781523747&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/lanikaibeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lanikai+Beach"
+  info:
+    address: "Kailua, HI 96734"
+    phone: "+1 808-261-2727"
+    notes: "desktop.png"
+    frommers_guide_book_page: "Frommer's pg. 106"
+-
+  id: 10
+  name: "Nanakuli Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.38552291121506%2C-158.14377594683538&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/nanakulibeachpark.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kalaniana%27ole+Beach+Park"
+  info:
+    address: "89-269 Farrington Hwy, Waianae, HI 96792"
+    phone: "+1 808-668-1137"
+-
+  id: 11
+  name: "Mermaid's Secret Cave"
+  type: "beach"
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.38222340689748%2C-158.15794916923835&z=12"
+    -
+      type: "website"
+      url: "https://lookintohawaii.com/hawaii/47144/mermaid-cave-tunnels-activities-oahu-waianae-hi"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Mermaid%27s+Secret+Cave"
+  info:
+    address: "416 Keaulana Ave Ste 89, Waianae, HI 96792"
+-
+  id: 12
+  name: "Maipalaoa Beach Park"
+  type: "beach"
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.403686296090882%2C-158.18155965878293&z=13"
+    -
+      type: "website"
+      url: "https://lookintohawaii.com/hawaii/45036/maipalaoa-beach-park-beaches-oahu-waianae-hi"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Maipalaoa+Beach+Park"
+  info:
+    address: "Maipalaoa Rd, Waianae, HI 96792"
+-
+  id: 13
+  name: "Ma'ili Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.421239592004945%2C-158.17878388913272&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/mailibeachpark.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ma%27ili+Beach+Park"
+  info:
+    address: "87-21 Farrington Hwy, Waianae, HI 96792"
+    phone: "+1 808-768-3003"
+-
+  id: 14
+  name: "Kaneana Cave"
+  type: ""
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.520049986749058%2C-158.22776205000002&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/ancientsites/kaneanacave.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kaneana+Cave"
+  info:
+    address: "Farrington Hwy, Waianae, HI 96792"
+-
+  id: 15
+  name: "Keawaula Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.549057870981894%2C-158.24188860000004&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/yokohama-bay.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Keawaula+Beach"
+  info:
+    address: "Farrington Hwy, Waialua, HI 96791"
+    phone: "+1 808-587-0300"
+    frommers_guide_book_page: "Frommer's pg. 108"
+-
+  id: 16
+  name: "Kaena Point State Park"
+  type: "hike"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.5794864142986%2C-158.2866086915314&z=13"
+    -
+      type: "website"
+      url: "http://dlnr.hawaii.gov/dsp/hiking/oahu/kaena-point-trail/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kaena+Point+State+Park"
+  info:
+    address: "Waialua, HI 96791"
+    frommers_guide_book_page: "Frommer's pg. 117"
+-
+  id: 17
+  name: "Makua Beach"
+  type: "beach"
+  priority: "optional"
+  visible: false
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.53367620920656%2C-158.23023799999999&z=14"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/makuabeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q="
+  info:
+    address: "Waianae, HI 96792"
+-
+  id: 18
+  name: "Laniakea Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.622340251706397%2C-158.0938447545227&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/laniakeabeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Laniakea+Beach"
+  info:
+    address: "574, 61-574 Pohaku Loa Way, Haleiwa, HI 96712"
+    phone: "+1 808-464-0840"
+-
+  id: 19
+  name: "Waimea Bay Beach Park"
+  type: "beach"
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.640322940435652%2C-158.06500564319458&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/beaches/waimea-bay-beach-park.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Waimea+Bay+Beach+Park"
+  info:
+    address: "61-31 Kamehameha Hwy, Haleiwa, HI 96712"
+    frommers_guide_book_page: "Frommer's pg. 108"
+-
+  id: 20
+  name: "Foster Botanical Garden"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.314762153467743%2C-157.87943979521793&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/oahu/gardens/fosterbotanicalgardens.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Foster+Botanical+Garden"
+  info:
+    address: "180 N Vineyard Blvd, Honolulu, HI 96817"
+    phone: "+1 808-522-7060"
+    notes: "$5.00 for adults."
+    frommers_guide_book_page: "Frommer's pg. 81"
+-
+  id: 21
+  name: "Donkey Beach"
+  type: "beach"
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.119166590075096%2C-159.30567975678412&z=12"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/donkeybeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Donkey+Beach+Kauai"
+  info:
+    address: "Makanani St, Kealia, HI 96751"
+    frommers_guide_book_page: "Frommer's pg. 527"
+-
+  id: 22
+  name: "Anahola Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.16280581097035%2C-159.30567975678412&z=12"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/anaholabeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Anahola+Beach+Park"
+  info:
+    address: "Anahola Rd, Mile Marker 13, Anahola, HI 96703"
+    frommers_guide_book_page: "Frommer's pg. 526"
+-
+  id: 23
+  name: "Kīlauea Lighthouse"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.232210290185%2C-159.40202470459906&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/attractions/kilauea-lighthouse.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=K%C4%ABlauea+Lighthouse"
+  info:
+    address: "3500 Kilauea Rd, Kilauea, HI 96754"
+    phone: "+1 808-828-0384"
+-
+  id: 24
+  name: "Queen's Bath"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.230850836157842%2C-159.50604180541086&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/queensbath.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Queen%27s+Bath"
+  info:
+    address: "Kapiolani Rd, Princeville, HI 96722"
+    notes: "Dangerous waves can occur without warning."
+    frommers_guide_book_page: "Frommer's pg. 527"
+-
+  id: 25
+  name: "Hanalei Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.217668733857423%2C-159.5029519006257&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/hanaleibay.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hanalei+Beach+Park"
+  info:
+    address: "Hanalei, HI 96714"
+    frommers_guide_book_page: "Frommer's pg. 529"
+-
+  id: 26
+  name: "Haena Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.222565215344957%2C-159.57298232929531&z=14"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/haena-beach-park.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Haena+Beach+Park"
+  info:
+    address: "7640 Kuhio Hwy, Hanalei, HI 96714"
+-
+  id: 27
+  name: "Maniniholo Dry Cave"
+  type: ""
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.220988566086376%2C-159.58431939330148&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/ancientsites/maniniholodrycave.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Maniniholo+Dry+Cave"
+  info:
+    address: "5-7878 Kuhio Hwy, Kilauea, HI 96754"
+-
+  id: 28
+  name: "Ke'e Beach"
+  type: "beach"
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.220777701845094%2C-159.58449105467844&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/kee-beach-park.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ke%27e+Beach"
+  info:
+    address: "State Hwy 56, Ha'ena, HI 96714"
+    phone: "+1 808-241-6670"
+    frommers_guide_book_page: "Frommer's pg. 530"
+-
+  id: 29
+  name: "Makauwahi Cave Trail"
+  type: "hike"
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.887870323992416%2C-159.4247812349028&z=13"
+    -
+      type: "website"
+      url: "http://www.cavereserve.org/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Makauwahi+Cave+Trail"
+  info:
+    address: "Koloa, HI 96756"
+    phone: "+1 808-634-0605"
+-
+  id: 30
+  name: "Makauwahi Cave"
+  type: ""
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.88845525264154%2C-159.41886248876648&z=16"
+    -
+      type: "website"
+      url: "http://www.cavereserve.org/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Makauwahi+Cave"
+  info:
+    address: "Koloa, HI 96756"
+    phone: "+1 808-634-0605"
+    notes: "Tours are led from 10:00 AM to 2:00 PM. This cave is the subject of the book &ldquo;Back to the Future in the Caves of Kaua'i: A Scientist's Adventures in the Dark&rdquo; by David A. Burney."
+    frommers_guide_book_page: "Frommer's pg. 516"
+-
+  id: 31
+  name: "Maha'ulepu Heritage Trail"
+  type: "hike"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.87991822080648%2C-159.43096104447312&z=13"
+    -
+      type: "website"
+      url: "http://www.hikemahaulepu.org/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Maha%27ulepu+Heritage+Trail"
+  info:
+    address: "Maha'ulepu Heritage Trail, Koloa, HI 96756"
+    frommers_guide_book_page: "Frommer's pg. 554"
+-
+  id: 32
+  name: "Po'ipu Beach Park"
+  type: "beach"
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.88165359176226%2C-159.4592851716704&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/poipu-beach-park.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Po%27ipu+Beach+Park"
+  info:
+    address: "Hoona Rd, Po'ipu, HI 96756"
+    phone: "+1 808-742-7444"
+    notes: "Literally the best beach in the United States."
+    frommers_guide_book_page: "Frommer's pg. 532"
+-
+  id: 33
+  name: "Spouting Horn Park"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.884483563633854%2C-159.49761178229681&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/attractions/spouting-horn.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Spouting+Horn+Park"
+  info:
+    address: "Po'ipu, HI"
+    phone: "+1 808-742-7444"
+-
+  id: 34
+  name: "Shipwreck Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.875108563042097%2C-159.44160404984422&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/shipwreckbeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Shipwreck+Beach+Kauai"
+  info:
+    address: "Ainako Rd, Eastern End, Po'ipu, HI 96756"
+    notes: "The shipwreck was destroyed entirely by hurricane 'Iwa in 1982."
+    frommers_guide_book_page: "Frommer's pg. 533"
+-
+  id: 35
+  name: "Waimea Canyon Lookout"
+  type: ""
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.076939618817597%2C-159.6728780105925&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/scenicdrives/waimeacanyondrive.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Waimea+Canyon+Lookout"
+  info:
+    address: "Waimea, HI 96796"
+    frommers_guide_book_page: "Frommer's pg. 522"
+-
+  id: 36
+  name: "Kokee Natural History Museum"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.134898920452788%2C-159.67149171022652&z=13"
+    -
+      type: "website"
+      url: "http://www.kokee.org/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kokee+Natural+History+Museum"
+  info:
+    address: "3600 Kokee Rd, Kekaha, HI 96752"
+    phone: "+1 808-335-9975"
+-
+  id: 37
+  name: "Kalalau Lookout"
+  type: ""
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.154671025211968%2C-159.66436224242835&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/scenicdrives/waimeacanyondrive.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kalalau+Lookout"
+  info:
+    address: "Kokee Rd, Kapaa, HI 96746"
+    frommers_guide_book_page: "Frommer's pg. 519"
+-
+  id: 38
+  name: "Pu'u O Kila Lookout"
+  type: ""
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.151809222892375%2C-159.6557791735807&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/scenicdrives/waimeacanyondrive.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Pu%27u+O+Kila+Lookout"
+  info:
+    address: "Pihea Trail, Kapaa, HI 96746"
+    notes: "&ldquo;The most impressive view.&rdquo;"
+    frommers_guide_book_page: "Frommer's pg. 519"
+-
+  id: 39
+  name: "Po'ipu Beach Park"
+  type: "beach"
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.88165359176226%2C-159.4592851716704&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/poipu-beach-park.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Po%27ipu+Beach+Park"
+  info:
+    address: "Hoona Rd, Po'ipu, HI 96756"
+    phone: "+1 808-742-7444"
+    notes: "So good we went back for the sunset."
+    frommers_guide_book_page: "Frommer's pg. 532"
+-
+  id: 40
+  name: "Kahekili Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.94498776873017%2C-156.70276010092448&z=13"
+    -
+      type: "website"
+      url: "http://mauiguidebook.com/beaches/kahekili-beach-park/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kahekili+Beach+Park"
+  info:
+    address: "65 Kai Ala Dr, Lahaina, HI 96761"
+-
+  id: 41
+  name: "Dragon's Teeth"
+  type: ""
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.005409502729496%2C-156.66774118002604&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/maui/attractions/dragonsteeth.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Dragon%27s+Teeth+Maui"
+  info:
+    address: "Dragon's Teeth Access Trail, Lahaina, HI 96761"
+-
+  id: 42
+  name: "Honolua Bay"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://casieandseangotohawaii.com/"
+    -
+      type: "website"
+      url: "https://casieandseangotohawaii.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q="
+  info:
+    address: ""
+    phone: ""
+    frommers_guide_book_page: "Frommer's pg."
+-
+  id: 43
+  name: "Nakalele Blowhole"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.025146822484018%2C-156.58997857626628&z=15"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/maui/attractions/nakaleleblowhole.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Nakalele+Blowhole"
+  info:
+    address: "Mile Marker 38, North of Lahaina on Hwy 30, Lahaina, HI"
+    notes: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
+-
+  id: 44
+  name: "Wailea Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.71841594168609%2C-156.454111709421&z=12"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/maui/beaches/waileabeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Wailea+Beach"
+  info:
+    address: "Wailea Alanui Dr, Wailea, HI 96753"
+    phone: "+1 808-879-4364"
+    frommers_guide_book_page: "Frommer's pg. 327"
+-
+  id: 45
+  name: "The Road to Hana"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.85789885591582%2C-156.17716825373236&z=11"
+    -
+      type: "website"
+      url: "http://roadtohana.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=The+Road+to+Hana"
+  info:
+    frommers_guide_book_page: "Frommer's pg. 313"
+-
+  id: 46
+  name: "Hasegawa General Store"
+  type: ""
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.78644091285426%2C-156.0032296813256&z=18"
+    -
+      type: "website"
+      url: "http://www.hanamaui.com/the-hasegawa-general-store-and-uniquely-hana-items/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hasegawa+General+Store"
+  info:
+    address: "5165 Hana Hwy, Hana, HI 96713"
+    phone: "+1 808-248-8231"
+-
+  id: 47
+  name: "Wai'anapanapa State Park"
+  type: "beach"
+  priority: "major"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.793118190665805%2C-156.01252523695962&z=13"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/maui/beaches/waianapanapa-black-sand-beach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Wai%27anapanapa+State+Park"
+  info:
+    address: "Hana Hwy near mile marker 32, Hana, HI 96713"
+    phone: "+1 808-984-8109"
+    frommers_guide_book_page: "Frommer's pg. 330"
+-
+  id: 48
+  name: "Haleakalā National Park"
+  type: ""
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.74830173595671%2C-156.24866967895593&z=11"
+    -
+      type: "website"
+      url: "https://www.nps.gov/hale/index.htm"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Haleakala+National+Park"
+  info:
+    address: "Kula, HI 96790"
+    phone: "+1 808-572-4400"
+    frommers_guide_book_page: "Frommer's pg. 310"

@@ -1,0 +1,13 @@
+/* TEAM */
+  Developer: Sean Eshbaugh
+  Site: https://seaneshbaugh.com/
+  GitHub: https://github.com/seaneshbaugh
+  Contact: sean (at) seaneshbaugh.com
+
+/* THANKS */
+  Casie Clark
+
+/* SITE */
+  Created On: 2017/08/08
+  Last Updated: 2021/11/10
+  View the source at: https://github.com/seaneshbaugh/casieandseangotohawaii

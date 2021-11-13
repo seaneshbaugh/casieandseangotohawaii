@@ -1,4 +1,4 @@
-/* See https://google.github.io/material-design-icons/#setup-method-2-self-hosting. */
+// See https://google.github.io/material-design-icons/#setup-method-2-self-hosting.
 
 @font-face {
     font-family: "Material Icons";
@@ -9,30 +9,27 @@
          url("../fonts/MaterialIcons-Regular.woff2") format("woff2"),
          url("../fonts/MaterialIcons-Regular.woff") format("woff"),
          url("../fonts/MaterialIcons-Regular.ttf") format("truetype");
-         // url("/fonts/MaterialIcons-Regular.woff2") format("woff2"),
-         // url("/fonts/MaterialIcons-Regular.woff") format("woff"),
-         // url("/fonts/MaterialIcons-Regular.ttf") format("truetype");
-         // url("../../node_modules/material-design-icons/iconfont/MaterialIcons-Regular.woff2") format("woff2"),
-         // url("../../node_modules/material-design-icons/iconfont/MaterialIcons-Regular.woff") format("woff"),
-         // url("../../node_modules/material-design-icons/iconfont/MaterialIcons-Regular.ttf") format("truetype");
+         // TODO: Figure out why Webpack, when it is run by Middleman, isn't properly rewriting
+         // the url here. For some reason it keeps it as it is here rather than rewriting it to
+         // be whatever the asset/resource loader rewrites it to. For now I've copied the
+         // Material Icons fonts to the project directory. Webpack seems to handle that correctly.
+         // See: https://stackoverflow.com/questions/63788424/how-can-i-make-middleman-work-with-custom-fonts-font-awesome-through-webpack.
          // url("~material-design-icons/iconfont/MaterialIcons-Regular.woff2") format("woff2"),
          // url("~material-design-icons/iconfont/MaterialIcons-Regular.woff") format("woff"),
          // url("~material-design-icons/iconfont/MaterialIcons-Regular.ttf") format("truetype")
 }
 
 .material-icons {
-    /* -moz-osx-font-smoothing: grayscale; // Support for Firefox. */
-    /* -webkit-font-smoothing: antialiased; // Support for all WebKit browsers. */
     direction: ltr;
     display: inline-block;
     font-family: "Material Icons";
-    font-feature-settings: "liga"; /* Support for IE. */
-    font-size: 24px; /* Preferred icon size */
+    font-feature-settings: "liga";
+    font-size: 24px;
     font-style: normal;
     font-weight: normal;
     letter-spacing: normal;
     line-height: 1;
-    text-rendering: optimizeLegibility; /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
     text-transform: none;
     white-space: nowrap;
     word-wrap: normal;

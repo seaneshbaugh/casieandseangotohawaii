@@ -1,0 +1,66 @@
+-
+  id: 1
+  company: "Budget"
+  car_make_model: "Mazda 3"
+  price: "$126.07"
+  pickup_location_airport_id: 2
+  pickup_date: "10/27/17"
+  pickup_time: "3:00 PM"
+  dropoff_location_airport_id: 2
+  dropoff_date: "10/30/17"
+  dropoff_time: "1:00 PM"
+-
+  id: 2
+  company: "Alamo"
+  car_make_model: "Hyundai Santa Fe"
+  price: "$174.73"
+  pickup_location_airport_id: 3
+  pickup_date: "10/30/17"
+  pickup_time: "2:30 PM"
+  dropoff_location_airport_id: 3
+  dropoff_date: "11/3/17"
+  dropoff_time: "12:30 PM"
+-
+  id: 3
+  company: "Budget"
+  car_make_model: "Jeep Wrangler"
+  price: "$132.90"
+  pickup_location_airport_id: 4
+  pickup_date: "11/3/17"
+  pickup_time: "2:00 PM"
+  dropoff_location_airport_id: 4
+  dropoff_date: "11/6/17"
+  dropoff_time: "10:00 PM"
+-
+  id: 4
+  company: "Avis"
+  car_make_model: "Standard SUV"
+  price: "$698.65"
+  pickup_location_airport_id: 4
+  pickup_date: "12/1/21"
+  pickup_time: "1:30 PM"
+  dropoff_location_airport_id: 4
+  dropoff_date: "12/7/21"
+  dropoff_time: "3:00 PM"
+-
+  id: 5
+  company: "Avis"
+  car_make_model: "Standard SUV"
+  price: "$416.59"
+  pickup_location_airport_id: 2
+  pickup_date: "12/7/21"
+  pickup_time: "5:00 PM"
+  dropoff_location_airport_id: 2
+  dropoff_date: "12/13/21"
+  dropoff_time: "8:00 PM"
+-
+  id: 6
+  company: "Alamo"
+  car_make_model: "Intermediate SUV"
+  price: "$96.79"
+  pickup_location_airport_id: 6
+  pickup_date: "12/9/21"
+  pickup_time: "9:30 AM"
+  dropoff_location_airport_id: 6
+  dropoff_date: "12/9/21"
+  dropoff_time: "6:30 PM"

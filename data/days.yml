@@ -1,0 +1,78 @@
+-
+  id: 1
+  trip_id: 1
+  leg_id: 1
+  name: "1"
+  date: "2017-10-27"
+-
+  id: 2
+  trip_id: 1
+  leg_id: 1
+  name: "2"
+  date: "2017-10-28"
+-
+  id: 3
+  trip_id: 1
+  leg_id: 1
+  name: "3"
+  date: "2017-10-29"
+-
+  id: 4
+  trip_id: 1
+  leg_id: 1
+  name: "4"
+  date: "2017-10-30"
+-
+  id: 5
+  trip_id: 1
+  leg_id: 2
+  name: "4"
+  date: "2017-10-30"
+-
+  id: 6
+  trip_id: 1
+  leg_id: 2
+  name: "5"
+  date: "2017-10-31"
+-
+  id: 7
+  trip_id: 1
+  leg_id: 2
+  name: "6"
+  date: "2017-11-01"
+-
+  id: 8
+  trip_id: 1
+  leg_id: 2
+  name: "7"
+  date: "2017-11-02"
+-
+  id: 9
+  trip_id: 1
+  leg_id: 2
+  name: "8"
+  date: "2017-11-03"
+-
+  id: 10
+  trip_id: 1
+  leg_id: 3
+  name: "8"
+  date: "2017-11-03"
+-
+  id: 11
+  trip_id: 1
+  leg_id: 3
+  name: "9"
+  date: "2017-11-04"
+-
+  id: 12
+  trip_id: 1
+  leg_id: 3
+  name: "10"
+  date: "2017-11-05"
+-
+  id: 13
+  trip_id: 1
+  leg_id: 3
+  name: "11"
+  date: "2017-11-06"

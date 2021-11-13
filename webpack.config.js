@@ -28,7 +28,6 @@ module.exports = {
         use: [
           MiniCssExtractPlugin.loader,
           "css-loader",
-//          "resolve-url-loader",
           {
             loader: "sass-loader",
             options: {
@@ -41,17 +40,6 @@ module.exports = {
         test: /\.(ttf|otf|eot|svg|woff2?)$/,
         type: "asset/resource"
       }
-      // {
-      //   test: /\.(ttf|otf|eot|svg|woff2?)$/,
-      //   use: [
-      //     {
-      //       loader: "file-loader",
-      //       options: {
-      //         name: "fonts/[name].[ext]"
-      //       }
-      //     }
-      //   ]
-      // }
     ]
   },
   plugins: [

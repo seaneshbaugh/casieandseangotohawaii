@@ -1,0 +1,19 @@
+.hotel
+  %h3= hotel.name
+  .links
+    - hotel.links.each do |link|
+      %div{ class: "link #{link.type}" }
+        %a{ href: link.url, target: '_blank' }
+  - if hotel.info.address
+    .info.address= hotel.info.address
+  - if hotel.info.phone
+    .info.phone= hotel.info.phone
+  - if hotel.info.frommers_guide_book_page
+    %cite.info.frommers-guide-book-page= hotel.info.frommers_guide_book_page
+  - if hotel_stay = stay(trip.id, leg.id, hotel.id)
+    - if hotel_stay.price
+      .info.price= hotel_stay.price
+    - if hotel_stay.room_type
+      .info.room-type= hotel_stay.room_type
+    - if hotel_stay.reservation_number
+      .info.reservation-number= hotel_stay.reservation_number

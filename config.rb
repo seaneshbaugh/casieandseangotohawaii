@@ -19,14 +19,17 @@ page '/*.txt', layout: false
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
-trips = %w[2017 2021]
+trip_names = {
+  '2017' => 1
+}
 
-trips.each do |trip|
+trip_names.each do |trip_name, trip_id|
   proxy(
-    "/#{trip}.html",
+    "/#{trip_name}.html",
     '/show.html',
-    locals: {
-      trip: trip
+    data: {
+      trip_name: trip_name,
+      trip_id: trip_id
     },
     ignore: true
   )
@@ -36,11 +39,61 @@ end
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
+helpers do
+  def airport(airport_id)
+    data.airports.select { |airport| airport.id == airport_id }.first
+  end
+
+  def events(leg_id, day_id)
+    data.events.select { |event| event.leg_id == leg_id && event.day_id == day_id }.sort_by { |event| event.order }
+  end
+
+  def days(trip_id, leg_id)
+    data.days.select { |day| day.trip_id == trip_id && day.leg_id == leg_id }
+  end
+
+  def eventable(eventable_type, eventable_id)
+    # This makes the assumption that all the eventable data types are pluralized by just
+    # adding an 's'. So far that's true.
+    data.send("#{eventable_type}s").select { |eventable| eventable.id == eventable_id }.first
+  end
+
+  def hotel(hotel_id)
+    data.hotels.select { |hotel| hotel.id == hotel_id }.first
+  end
+
+  def legs(trip_id)
+    data.legs.select { |leg| leg.trip_id == trip_id }
+  end
+
+  def meal(meal_id)
+    data.meal.select { |meal| meal.id == meal_id }.first
+  end
+
+  def past_trips
+    data.trips.sort { |a, b| Date.strptime(a.start_date, '%Y-%m-%d') <=> Date.strptime(b.start_date, '%Y-%m-%d') }[1..-1]
+  end
+
+  def rental_car(rental_car_id)
+    data.rental_cars.select { |rental_car| rental_car.id == rental_car_id }.first
+  end
+
+  def restaurant(restaurant_id)
+    data.restaurants.select { |restaurant| restaurant.id == restaurant_id }.first
+  end
+
+  def stay(trip_id, leg_id, hotel_id)
+    data.stays.select { |stay| stay.trip_id == trip_id && stay.leg_id == leg_id && stay.hotel_id == hotel_id }.first
+  end
+
+  def trips
+    data.trips
+  end
+
+  def trip(trip_id)
+    data.trips.select { |trip| trip.id == trip_id }.first
+  end
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings

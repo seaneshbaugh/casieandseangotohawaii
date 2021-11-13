@@ -30,8 +30,8 @@
     font-weight: bold;
 }
 
-.rental-car .car-size:before {
-    content: "Car Size: ";
+.rental-car .car-make-model:before {
+    content: "Car Make/Model: ";
     font-weight: bold;
 }
 
@@ -63,18 +63,18 @@
     -webkit-font-smoothing: antialiased;
 }
 
-.rental-car .pickup-location:before {
-    content: "Pickup Location: ";
+.rental-car .pickup .location:before {
+    content: "Location: ";
     font-weight: bold;
 }
 
-.rental-car .pickup-time:before {
-    content: "Pickup Time: ";
+.rental-car .pickup .time:before {
+    content: "Time: ";
     font-weight: bold;
 }
 
-.rental-car .pickup-date:before {
-    content: "Pickup Date: ";
+.rental-car .pickup .date:before {
+    content: "Date: ";
     font-weight: bold;
 }
 

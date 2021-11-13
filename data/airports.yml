@@ -1,0 +1,105 @@
+-
+  id: 1
+  name: "Dallas/Fort Worth International Airport"
+  code: "DFW"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Dallas%2FFort+Worth+International+Airport/@32.8998091,-97.0753541,13z/data=!4m5!3m4!1s0x864c2a660d222aa7:0x73323f5e067d201c!8m2!3d32.8998091!4d-97.0403352"
+    -
+      type: "website"
+      url: "https://www.dfwairport.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Dallas+Fort+Worth+International+Airport"
+  info:
+    address: "2400 Aviation Dr, DFW Airport, TX 75261"
+    phone: "+1 972-973-3112"
+-
+  id: 2
+  name: "Daniel K. Inouye International Airport"
+  code: "HNL"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.33285196785694%2C-157.93720178943943&z=13"
+    -
+      type: "website"
+      url: "https://airports.hawaii.gov/hnl/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Honolulu+International+Airport"
+  info:
+    address: "300 Rodgers Blvd, Honolulu, HI 96819"
+    phone: "+1 808-836-6411"
+    frommers_guide_book_page: "57"
+-
+  id: 3
+  name: "Lihue Airport"
+  code: "LIH"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.98722376037447%2C-159.35138284917304&z=13"
+    -
+      type: "website"
+      url: "https://airports.hawaii.gov/lih/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lihue+Airport"
+  info:
+    address: "3901 Mokulele Loop, Lihue, HI 96766"
+    phone: "+1 808-274-3800"
+    frommers_guide_book_page: "490"
+-
+  id: 4
+  name: "Kahului Airport"
+  code: "OGG"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.913948416418336%2C-156.454111709421&z=12"
+    -
+      type: "website"
+      url: "https://airports.hawaii.gov/ogg/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kahului+Airport"
+  info:
+    address: "1 Keolani Pl, Kahului, HI 96732"
+    phone: "+1 808-872-3830"
+    frommers_guide_book_page: "291"
+-
+  id: 5
+  name: "Phoenix Sky Harbor International Airport"
+  code: "PHX"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Phoenix+Sky+Harbor+International+Airport/@33.4312378,-112.0283201,13z/data=!4m5!3m4!1s0x872b0e5c330370a5:0x82f535d5e256ee42!8m2!3d33.435249!4d-112.010124"
+    -
+      type: "website"
+      url: "https://www.skyharbor.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Phoenix+Sky+Harbor+International+Airport"
+  info:
+    address: "3400 E Sky Harbor Blvd, Phoenix, AZ 85034"
+    phone: "+1 602-273-330"
+-
+  id: 6
+  name: "Hilo International Airport"
+  code: "ITO"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Hilo+International+Airport/@19.7188342,-155.0767055,13z/data=!4m5!3m4!1s0x79524c78af8cfe03:0x2e9bfe4565716c7f!8m2!3d19.7188342!4d-155.0416866?hl=en"
+    -
+      type: "website"
+      url: "https://airports.hawaii.gov/ito/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hilo+International+Airport"
+  info:
+    address: "2450 Kekuanaoa St, Hilo, HI 96720"
+    phone: "+1 808-961-9300"

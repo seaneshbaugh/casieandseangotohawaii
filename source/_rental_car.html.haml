@@ -1,0 +1,15 @@
+.rental-car.show
+  %h4 Rental Car
+  .company= rental_car.company
+  .car-make-model= rental_car.car_make_model
+  .price.hide= rental_car.price
+  .pickup
+    %h5 Pickup
+    .location= "#{airport(rental_car.pickup_location_airport_id).name} (#{airport(rental_car.pickup_location_airport_id).code})"
+    .time= rental_car.pickup_time
+    .date= rental_car.pickup_date
+  .dropoff
+    %h5 Dropoff
+    .location= "#{airport(rental_car.dropoff_location_airport_id).name} (#{airport(rental_car.dropoff_location_airport_id).code})"
+    .time= rental_car.dropoff_time
+    .date= rental_car.dropoff_date

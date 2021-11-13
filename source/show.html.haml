@@ -1,5 +1,4 @@
 ---
-title: "Casie and Sean Go to Hawai'i - #{trip}"
+title: "Casie and Sean Go to Hawai'i"
 ---
-.trip
-  %h1= "Casie and Sean Go to Hawai'i - #{trip}"
+= partial 'trip', locals: { trip: trip(current_page.data.trip_id) }
