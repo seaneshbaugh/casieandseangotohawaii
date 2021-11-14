@@ -12,6 +12,7 @@ services:
       - "node_modules:/casieandseangotohawaii/node_modules"
     ports:
       - "4567:4567"
+      - "35729:35729"
     command: "bundle exec middleman"
 
 volumes:
