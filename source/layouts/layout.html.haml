@@ -11,10 +11,12 @@
     %meta{ content: 'Sean Eshbaugh', name: 'author' }
   %body
     %header.header
-      %h1= "#{current_page.data.title} - #{current_page.data.trip_name}"
-      %ul.trips
-        - trips.each do |trip|
-          %li= link_to(trip.name, "/#{trip.slug}")
+      %h1.page-title= current_page.data.title
+      %h2.trip-name= current_page.data.trip_name
+      %nav.main-nav
+        %ul.trips-nav-list
+          - trips.each do |trip|
+            %li.trips-nav-list-item= link_to(trip.name, "/#{trip.slug}")
       .controls
         %button.control.off{"data-key" => "price", "data-selector" => ".price"} Prices
         %button.control.on{"data-key" => "hotel", "data-selector" => ".hotel"} Hotels
