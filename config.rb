@@ -116,3 +116,8 @@ activate :external_pipeline,
   latency: 1
 
 set :haml, { attr_wrapper: '"' }
+
+files.watch(
+  :source,
+  path: File.join(__dir__, 'source')
+)
