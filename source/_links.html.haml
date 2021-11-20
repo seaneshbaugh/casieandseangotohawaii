@@ -1,0 +1,4 @@
+.links
+  - links.each do |link|
+    %div{ class: ['link', link.type].compact.join(' ') }
+      %a{ href: link.url, target: '_blank' }
