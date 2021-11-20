@@ -11,12 +11,9 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=The+Royal+Hawaiian"
-  info:
-    address: "2259 Kalakaua Ave, Honolulu, HI 96815"
-    phone: "+1 808-923-7311"
-    room_type: "Traditional Room, Ocean View, Historic Wing"
-    price: "$342.15 × 3 = $1,026.45"
-    frommers_guide_book_page: "Frommer's pg. 130"
+  address: "2259 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-923-7311"
+  frommers_guide_book_page: "Frommer's pg. 130"
 -
   id: 2
   name: "Courtyard Marriott Kaua'i at Coconut Beach"
@@ -30,12 +27,9 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Courtyard+by+Marriott+Kaua%27i+at+Coconut+Beach"
-  info:
-    address: "650 Aleka Loop, Kapaa, HI 96746"
-    phone: "+1 808-822-3455"
-    price: "$272.20 × 4 = $1,088.79"
-    reservation_number: "94576492"
-    frommers_guide_book_page: "Frommer's pg. 565"
+  address: "650 Aleka Loop, Kapaa, HI 96746"
+  phone: "+1 808-822-3455"
+  frommers_guide_book_page: "Frommer's pg. 565"
 -
   id: 3
   name: "Royal Lahaina"
@@ -49,12 +43,9 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Royal+Lahaina"
-  info:
-    address: "2780 Kekaa Dr, Lahaina, HI 96761"
-    phone: "+1 808-661-3611"
-    reservation_number: "7288229255103"
-    price: "$277.87 × 3 = $833.61"
-    frommers_guide_book_page: "Frommer's pg."
+  address: "2780 Kekaa Dr, Lahaina, HI 96761"
+  phone: "+1 808-661-3611"
+  frommers_guide_book_page: "Frommer's pg."
 -
   id: 4
   name: "Honua Kai Resort &amp; Spa"
@@ -68,6 +59,5 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Honua+Kai+Resort+Spa"
-  info:
-    address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
-    phone: "+1 855-718-5789"
+  address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
+  phone: "+1 855-718-5789"

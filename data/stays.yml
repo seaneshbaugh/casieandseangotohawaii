@@ -5,7 +5,6 @@
   hotel_id: 1
   price: "$342.15 × 3 = $1,026.45"
   room_type: "Traditional Room, Ocean View, Historic Wing"
-  reservation_number: ""
 -
   id: 2
   trip_id: 1
@@ -13,7 +12,6 @@
   hotel_id: 2
   price: " $272.20 × 4 = $1,088.79"
   room_type: ""
-  reservation_number: "94576492"
 -
   id: 3
   trip_id: 1
@@ -21,4 +19,17 @@
   hotel_id: 3
   price: "$277.87 × 3 = $833.61"
   room_type: ""
-  reservation_number: "7288229255103"
+-
+  id: 4
+  trip_id: 2
+  leg_id: 4
+  hotel_id: 4
+  price: ""
+  room_type: ""
+-
+  id: 5
+  trip_id: 2
+  leg_id: 5
+  hotel_id: 5
+  price: ""
+  room_type: ""
