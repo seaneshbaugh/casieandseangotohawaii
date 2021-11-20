@@ -1,0 +1,8 @@
+%div{ class: ['leg', leg.type].compact.join(' ') }
+  %h2.leg-name= leg.name
+  - if hotel(leg.hotel_id)
+    = partial('hotel', locals: { trip: trip, leg: leg, hotel: hotel(leg.hotel_id) })
+  - if rental_car(leg.rental_car_id)
+    = partial('rental_car', locals: { rental_car: rental_car(leg.rental_car_id) })
+  - days(trip.id, leg.id).each do |day|
+    = partial('day', locals: { leg: leg, day: day })

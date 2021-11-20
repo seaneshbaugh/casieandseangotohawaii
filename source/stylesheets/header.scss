@@ -1,7 +1,6 @@
 .header {
-    margin: 0 auto;
+    margin: var(--default-top-margin) auto 0 auto;
     max-width: calc(100% - 40px);
-    padding: 20px;
     width: 1000px;
 
     .main-nav {

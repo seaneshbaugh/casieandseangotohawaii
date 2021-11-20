@@ -1,18 +1,25 @@
-.day {
-    background: var(--day-background-color);
+.leg {
     margin-top: var(--default-top-margin);
-    padding: var(--default-padding);
 
-    .name {
+    &:nth-of-type(1) {
+        margin-top: 0;
+    }
+
+    &.island {
+        background: var(--island-background-color);
+    }
+
+    .leg-name {
+        padding: var(--default-padding) var(--default-padding) 0 var(--default-padding);
         overflow: hidden;
 
         &:before {
-            content: var(--day-icon);
+            content: var(--island-icon);
             display: block;
             float: left;
             font-family: "Material Icons";
             font-feature-settings: "liga" 1;
-            font-size: var(--h3-icon-size);
+            font-size: var(--h2-icon-size);
             font-style: normal;
             font-weight: normal;
             padding-right: 5px;
