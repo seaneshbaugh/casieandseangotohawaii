@@ -1,23 +1,15 @@
 .rental-car {
     background: var(--rental-car-background-color);
-    margin: 10px 10px 0 10px;
+    margin: var(--default-margin) var(--default-margin) 0 var(--default-margin);
     padding: var(--default-padding);
 
-    .rental-car-title {
+    > .name {
         overflow: hidden;
 
         &:before {
+            @include material-icon;
             content: var(--rental-car-icon);
-            display: block;
-            float: left;
-            font-family: "Material Icons";
-            font-feature-settings: "liga" 1;
             font-size: var(--h3-icon-size);
-            font-style: normal;
-            font-weight: normal;
-            padding-right: 5px;
-            text-rendering: optimizeLegibility;
-            -webkit-font-smoothing: antialiased;
         }
     }
 
@@ -63,23 +55,15 @@
     }
 
     .pickup, .dropoff {
-        margin-top: var(--default-top-margin);
+        margin-top: var(--default-margin);
         padding: var(--default-padding);
 
         h4 {
             overflow: hidden;
 
             &:before {
-                display: block;
-                float: left;
-                font-family: "Material Icons";
-                font-feature-settings: "liga" 1;
+                @include material-icon;
                 font-size: var(--h4-icon-size);
-                font-style: normal;
-                font-weight: normal;
-                padding-right: 5px;
-                text-rendering: optimizeLegibility;
-                -webkit-font-smoothing: antialiased;
             }
         }
 

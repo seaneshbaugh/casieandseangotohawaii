@@ -1,6 +1,10 @@
 :root {
-    --default-top-margin: 10px;
+    --page-width: 1000px;
+    --page-max-width-margin: 20px;
+    --default-margin: 10px;
     --default-padding: 10px;
+    --default-column-gap: 10px;
+    --default-row-gap: 10px;
     --default-color: #444444;
     --h1-icon-size: 48px;
     --h2-icon-size: 24px;
@@ -16,7 +20,6 @@
     --controls-background-color: #e4e4e4;
     --control-button-on-background-color: #34c2d0;
     --control-button-off-background-color: #d8d8ec;
-    // --island-background-color: #f9f9f9;
     --island-background-color: #0099ff;
     --hotel-background-color: #ee7a9f;
     --day-background-color: #ededed;

@@ -1,13 +1,13 @@
 .header {
-    margin: var(--default-top-margin) auto 0 auto;
-    max-width: calc(100% - 40px);
-    width: 1000px;
+    margin: var(--default-margin) auto 0 auto;
+    max-width: calc(100% - (var(--page-max-width-margin) * 2));
+    width: var(--page-width);
 
     .main-nav {
-        margin-top: var(--default-top-margin);
+        margin-top: var(--default-margin);
 
         .trips-nav-list {
-            column-gap: 10px;
+            column-gap: var(--default-column-gap);
             display: flex;
             flex-wrap: wrap;
             list-style: none;
@@ -23,18 +23,18 @@
 
     .controls {
         background: var(--controls-background-color);
-        column-gap: 10px;
+        column-gap: var(--default-column-gap);
         display: flex;
         flex-wrap: wrap;
-        margin-top: var(--default-top-margin);
+        margin-top: var(--default-margin);
         padding: var(--default-padding);
-        row-gap: 10px;
+        row-gap: var(--default-row-gap);
 
         .control {
             border: none;
             cursor: pointer;
             flex: 1;
-            padding: 5px;
+            padding: calc(var(--default-padding) / 2);
 
             &.on {
                 background: var(--control-button-on-background-color);

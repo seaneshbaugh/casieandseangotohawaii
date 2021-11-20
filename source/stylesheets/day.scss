@@ -1,23 +1,15 @@
 .day {
     background: var(--day-background-color);
-    margin-top: var(--default-top-margin);
+    margin: var(--default-margin);
     padding: var(--default-padding);
 
     .name {
         overflow: hidden;
 
         &:before {
+            @include material-icon;
             content: var(--day-icon);
-            display: block;
-            float: left;
-            font-family: "Material Icons";
-            font-feature-settings: "liga" 1;
             font-size: var(--h3-icon-size);
-            font-style: normal;
-            font-weight: normal;
-            padding-right: 5px;
-            text-rendering: optimizeLegibility;
-            -webkit-font-smoothing: antialiased;
         }
     }
 }

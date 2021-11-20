@@ -1,23 +1,15 @@
 .hotel {
     background: var(--hotel-background-color);
-    margin: 10px 10px 0 10px;
+    margin: var(--default-margin) var(--default-margin) 0 var(--default-margin);
     padding: var(--default-padding);
 
-    .hotel-name {
+    > .name {
         overflow: hidden;
 
         &:before {
+            @include material-icon;
             content: var(--hotel-icon);
-            display: block;
-            float: left;
-            font-family: "Material Icons";
-            font-feature-settings: "liga" 1;
             font-size: var(--h3-icon-size);
-            font-style: normal;
-            font-weight: normal;
-            padding-right: 5px;
-            text-rendering: optimizeLegibility;
-            -webkit-font-smoothing: antialiased;
         }
     }
 }

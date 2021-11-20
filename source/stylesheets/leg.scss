@@ -1,5 +1,6 @@
 .leg {
-    margin-top: var(--default-top-margin);
+    margin-top: var(--default-margin);
+    overflow: hidden;
 
     &:nth-of-type(1) {
         margin-top: 0;
@@ -9,22 +10,14 @@
         background: var(--island-background-color);
     }
 
-    .leg-name {
-        padding: var(--default-padding) var(--default-padding) 0 var(--default-padding);
+    > .name {
+        margin: var(--default-margin) var(--default-margin) 0 var(--default-margin);
         overflow: hidden;
 
         &:before {
+            @include material-icon;
             content: var(--island-icon);
-            display: block;
-            float: left;
-            font-family: "Material Icons";
-            font-feature-settings: "liga" 1;
             font-size: var(--h2-icon-size);
-            font-style: normal;
-            font-weight: normal;
-            padding-right: 5px;
-            text-rendering: optimizeLegibility;
-            -webkit-font-smoothing: antialiased;
         }
     }
 }

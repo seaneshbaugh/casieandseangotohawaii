@@ -1,5 +1,5 @@
 .trip {
-    margin: var(--default-top-margin) auto;
-    max-width: calc(100% - 40px);
-    width: 1000px;
+    margin: var(--default-margin) auto;
+    max-width: calc(100% - (var(--page-max-width-margin) * 2));
+    width: var(--page-width);
 }

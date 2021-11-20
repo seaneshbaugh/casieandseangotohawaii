@@ -1,5 +1,5 @@
 %div{ class: ['leg', leg.type].compact.join(' ') }
-  %h2.leg-name= leg.name
+  %h2.name= leg.name
   - if hotel(leg.hotel_id)
     = partial('hotel', locals: { trip: trip, leg: leg, hotel: hotel(leg.hotel_id) })
   - if rental_car(leg.rental_car_id)

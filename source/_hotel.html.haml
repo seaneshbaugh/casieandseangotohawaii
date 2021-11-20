@@ -1,5 +1,5 @@
 .hotel
-  %h3.hotel-name= hotel.name
+  %h3.name= hotel.name
   = partial('links', locals: { links: hotel.links })
   - if hotel.address
     .address= hotel.address
