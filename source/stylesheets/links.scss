@@ -1,40 +1,48 @@
 .links {
     overflow: hidden;
-}
 
-.link.map a, .link.website a, .link.images a, .link.reviews a {
-    display: block;
-    float: left;
-    height: var(--link-size);
-    width: var(--link-size);
-}
+    .link {
+        a {
+            height: var(--link-size);
+            width: var(--link-size);
 
-.link.map a:before, .link.website a:before, .link.images a:before, .link.reviews a:before {
-    color: var(--link-color);
-    display: block;
-    float: left;
-    font-family: "Material Icons";
-    font-feature-settings: "liga" 1;
-    font-size: var(--link-size);
-    font-style: normal;
-    font-weight: normal;
-    text-decoration: none;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-}
+            &:before {
+                @include material-icon;
+                color: var(--link-color);
+                font-size: var(--link-size);
+            }
+        }
 
-.link.map a:before {
-    content: var(--map-icon);
-}
+        &.map {
+            a {
+                &:before {
+                    content: var(--map-icon);
+                }
+            }
+        }
 
-.link.website a:before {
-    content: var(--website-icon);
-}
+        &.website {
+            a {
+                &:before {
+                    content: var(--website-icon);
+                }
+            }
+        }
 
-.link.images a:before {
-    content: var(--images-icon);
-}
+        &.images {
+            a {
+                &:before {
+                    content: var(--images-icon);
+                }
+            }
+        }
 
-.link.reviews a:before {
-    content: var(--reviews-icon);
+        &.reviews {
+            a {
+                &:before {
+                    content: var(--reviews-icon);
+                }
+            }
+        }
+    }
 }
