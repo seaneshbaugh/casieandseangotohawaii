@@ -6,9 +6,10 @@
   - if hotel.phone
     .phone= hotel.phone
   - if hotel.frommers_guide_book_page
-    %cite.frommers-guide-book-page= "Frommer's pg. #{hotel.frommers_guide_book_page}"
+    %cite.frommers-guide-book-page= hotel.frommers_guide_book_page
   - if hotel_stay = stay(trip.id, leg.id, hotel.id)
-    - if hotel_stay.price
-      .price= hotel_stay.price
-    - if hotel_stay.room_type
-      .room-type= hotel_stay.room_type
+    .stay
+      - if hotel_stay.price
+        .price= hotel_stay.price
+      - if hotel_stay.room_type
+        .room-type= hotel_stay.room_type

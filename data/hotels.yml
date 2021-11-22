@@ -13,7 +13,7 @@
       url: "https://www.google.com/search?tbm=isch&q=The+Royal+Hawaiian"
   address: "2259 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-923-7311"
-  frommers_guide_book_page: "Frommer's pg. 130"
+  frommers_guide_book_page: "130"
 -
   id: 2
   name: "Courtyard Marriott Kaua'i at Coconut Beach"
@@ -29,7 +29,7 @@
       url: "https://www.google.com/search?tbm=isch&q=Courtyard+by+Marriott+Kaua%27i+at+Coconut+Beach"
   address: "650 Aleka Loop, Kapaa, HI 96746"
   phone: "+1 808-822-3455"
-  frommers_guide_book_page: "Frommer's pg. 565"
+  frommers_guide_book_page: "565"
 -
   id: 3
   name: "Royal Lahaina"
@@ -45,7 +45,6 @@
       url: "https://www.google.com/search?tbm=isch&q=Royal+Lahaina"
   address: "2780 Kekaa Dr, Lahaina, HI 96761"
   phone: "+1 808-661-3611"
-  frommers_guide_book_page: "Frommer's pg."
 -
   id: 4
   name: "Honua Kai Resort &amp; Spa"
@@ -61,3 +60,4 @@
       url: "https://www.google.com/search?tbm=isch&q=Honua+Kai+Resort+Spa"
   address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
   phone: "+1 855-718-5789"
+  frommers_guide_book_page: "356"

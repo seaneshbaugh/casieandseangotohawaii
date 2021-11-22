@@ -12,4 +12,35 @@
             font-size: var(--h3-icon-size);
         }
     }
+
+    > .address::before {
+        content: "Address: ";
+        font-weight: bold;
+    }
+
+    > .phone::before {
+        content: "Phone: ";
+        font-weight: bold;
+    }
+
+    > .frommers-guide-book-page::before {
+        content: "Frommer's pg: ";
+        font-weight: bold;
+    }
+
+    > .stay {
+        background: var(--hotel-stay-background-color);
+        margin-top: calc(var(--default-margin) / 2);
+        padding: calc(var(--default-padding) / 2);
+
+        > .price::before {
+            content: "Price: ";
+            font-weight: bold;
+        }
+
+        > .room-type::before {
+            content: "Room Type: ";
+            font-weight: bold;
+        }
+    }
 }
