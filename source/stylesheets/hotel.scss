@@ -4,6 +4,7 @@
     padding: var(--default-padding);
 
     > .name {
+        font-size: var(--h3-font-size);
         overflow: hidden;
 
         &:before {

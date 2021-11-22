@@ -3,7 +3,8 @@
     margin: var(--default-margin);
     padding: var(--default-padding);
 
-    .name {
+    > .name {
+        font-size: var(--h3-font-size);
         overflow: hidden;
 
         &:before {

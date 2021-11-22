@@ -4,6 +4,7 @@
     padding: var(--default-padding);
 
     > .name {
+        font-size: var(--h3-font-size);
         overflow: hidden;
 
         &:before {
@@ -13,44 +14,34 @@
         }
     }
 
-    .company {
-        &:before {
-            content: "Company: ";
-            font-weight: bold;
-        }
+    > .company::before {
+        content: "Company: ";
+        font-weight: bold;
     }
 
-    .car-make-model {
-        &:before {
-            content: "Car Make/Model: ";
-            font-weight: bold;
-        }
+    > .car-make-model::before {
+        content: "Car Make/Model: ";
+        font-weight: bold;
     }
 
-    .price {
-        &:before {
-            content: "Price: ";
-            font-weight: bold;
-        }
+    > .price::before {
+        content: "Price: ";
+        font-weight: bold;
     }
 
     .pickup {
         background: var(--rental-car-pickup-background-color);
 
-        h4 {
-            &:before {
-                content: var(--rental-car-pickup-icon);
-            }
+        > .name::before {
+            content: var(--rental-car-pickup-icon);
         }
     }
 
     .dropoff {
         background: var(--rental-car-dropoff-background-color);
 
-        h4 {
-            &:before {
-                content: var(--rental-car-dropoff-icon);
-            }
+        > .name::before {
+            content: var(--rental-car-dropoff-icon);
         }
     }
 
@@ -58,7 +49,8 @@
         margin-top: var(--default-margin);
         padding: var(--default-padding);
 
-        h4 {
+        > .name {
+            font-size: var(--h4-font-size);
             overflow: hidden;
 
             &:before {
@@ -67,25 +59,19 @@
             }
         }
 
-        .location {
-            &:before {
-                content: "Location: ";
-                font-weight: bold;
-            }
+        > .location::before {
+            content: "Location: ";
+            font-weight: bold;
         }
 
-        .time {
-            &:before {
-                content: "Time: ";
-                font-weight: bold;
-            }
+        > .date::before {
+            content: "Date: ";
+            font-weight: bold;
         }
 
-        .date {
-            &:before {
-                content: "Date: ";
-                font-weight: bold;
-            }
+        > .time::before {
+            content: "Time: ";
+            font-weight: bold;
         }
     }
 }

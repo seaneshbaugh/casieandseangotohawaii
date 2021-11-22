@@ -3,6 +3,10 @@
     max-width: calc(100% - (var(--page-max-width-margin) * 2));
     width: var(--page-width);
 
+    .page-title {
+        font-size: var(--h1-font-size);
+    }
+
     .main-nav {
         margin-top: var(--default-margin);
 
@@ -13,10 +17,8 @@
             list-style: none;
             padding: 0;
 
-            .trips-nav-list-item {
-                a {
-                    font-weight: 100;
-                }
+            .trips-nav-list-item a {
+                font-weight: 100;
             }
         }
     }
@@ -50,7 +52,7 @@
 @media (max-width: 500px) {
     .header {
         .page-title {
-            font-size: 28px;
+            font-size: var(--h1-small-font-size);
         }
     }
 }

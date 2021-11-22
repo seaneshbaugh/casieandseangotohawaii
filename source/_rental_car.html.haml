@@ -4,12 +4,12 @@
   .car-make-model= rental_car.car_make_model
   .price.hide= rental_car.price
   .pickup
-    %h4 Pickup
+    %h4.name Pickup
     .location= "#{airport(rental_car.pickup_location_airport_id).name} (#{airport(rental_car.pickup_location_airport_id).code})"
-    .time= rental_car.pickup_time
     .date= rental_car.pickup_date
+    .time= rental_car.pickup_time
   .dropoff
-    %h4 Dropoff
+    %h4.name Dropoff
     .location= "#{airport(rental_car.dropoff_location_airport_id).name} (#{airport(rental_car.dropoff_location_airport_id).code})"
-    .time= rental_car.dropoff_time
     .date= rental_car.dropoff_date
+    .time= rental_car.dropoff_time
