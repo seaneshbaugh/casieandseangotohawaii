@@ -1,40 +1,119 @@
-.event {
-    &.flight {
-        background: var(--flight-background-color);
+.event.flight {
+    background: var(--flight-background-color);
+
+    > .name::before {
+        content: var(--flight-icon);
+    }
+
+    .departure, .connections, .arrival {
+        margin-top: calc(var(--default-margin) / 2);
+        padding: calc(var(--default-padding) / 2);
 
         > .name {
+            font-size: var(--h5-font-size);
+            overflow: hidden;
+
             &:before {
-                content: var(--airport-icon);
-                font-size: var(--h4-icon-size);
+                @include material-icon
+                font-size: var(--h5-icon-size);
             }
         }
+    }
 
-        .departure, .connections, .arrival {
-            margin-top: calc(var(--default-margin) / 2);
+    .departure {
+        background: var(--departure-background-color);
+
+        > .name::before {
+            content: var(--flight-departure-icon);
         }
 
-        .departure {
-            > .name {
-                &:before {
-                    content: var(--flight-departure-icon);
-                }
+        > .departure-location::before {
+            content: "Departure Location: ";
+            font-weight: bold;
+        }
+
+        > .flight-number::before {
+            content: "Flight Number: ";
+            font-weight: bold;
+        }
+
+        > .departure-time::before {
+            content: "Departure Time: ";
+            font-weight: bold;
+        }
+
+        > .duration::before {
+            content: "Duration: ";
+            font-weight: bold;
+        }
+    }
+
+    .connections {
+        > .name::before {
+            content: var(--flight-connection-icon);
+        }
+
+        .connection {
+            > .connection-location::before {
+                content: "Connection Location: ";
+                font-weight: bold;
+            }
+
+            > .flight-number::before {
+                content: "Flight Number";
+                font-weight: bold;
+            }
+
+            > .connection-arrival-time::before {
+                content: "Connection Arrival Time: ";
+                font-weight: bold;
+            }
+
+            > .connection-departure-time::before {
+                content: "Connection Departure Time: ";
+                font-weight: bold;
+            }
+
+            > .connection-layover-duration::before {
+                content: "Connection Layover Duration: ";
+                font-weight: bold;
+            }
+
+            > .connection-duration::before {
+                content: "Connection Duration: ";
+                font-weight: bold;
             }
         }
+    }
 
-        .connections {
-            > .name {
-                &:before {
-                    content: var(--flight-connection-icon);
-                }
-            }
+    .arrival {
+        > .name::before {
+            content: var(--flight-arrival-icon);
         }
 
-        .arrival {
-            > .name {
-                &:before {
-                    content: var(--flight-arrival-icon);
-                }
-            }
+        > .arrival-location::before {
+            content: "Arrival Location: ";
+            font-weight: bold;
         }
+
+        > .arrival-time::before {
+            content: "Flight Number: ";
+            font-weight: bold;
+        }
+
+        > .departure-time::before {
+            content: "Departure Time: ";
+            font-weight: bold;
+        }
+    }
+
+    > .total-duration::before {
+        content: "Total Duration: ";
+        font-weight: bold;
+    }
+
+    > .price::before {
+        content: "Price: ";
+        font-weight: bold;
     }
 }

@@ -12,9 +12,8 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Dallas+Fort+Worth+International+Airport"
-  info:
-    address: "2400 Aviation Dr, DFW Airport, TX 75261"
-    phone: "+1 972-973-3112"
+  address: "2400 Aviation Dr, DFW Airport, TX 75261"
+  phone: "+1 972-973-3112"
 -
   id: 2
   name: "Daniel K. Inouye International Airport"
@@ -29,10 +28,9 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Honolulu+International+Airport"
-  info:
-    address: "300 Rodgers Blvd, Honolulu, HI 96819"
-    phone: "+1 808-836-6411"
-    frommers_guide_book_page: "57"
+  address: "300 Rodgers Blvd, Honolulu, HI 96819"
+  phone: "+1 808-836-6411"
+  frommers_guide_book_page: "57"
 -
   id: 3
   name: "Lihue Airport"
@@ -47,10 +45,9 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Lihue+Airport"
-  info:
-    address: "3901 Mokulele Loop, Lihue, HI 96766"
-    phone: "+1 808-274-3800"
-    frommers_guide_book_page: "490"
+  address: "3901 Mokulele Loop, Lihue, HI 96766"
+  phone: "+1 808-274-3800"
+  frommers_guide_book_page: "490"
 -
   id: 4
   name: "Kahului Airport"
@@ -65,10 +62,9 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Kahului+Airport"
-  info:
-    address: "1 Keolani Pl, Kahului, HI 96732"
-    phone: "+1 808-872-3830"
-    frommers_guide_book_page: "291"
+  address: "1 Keolani Pl, Kahului, HI 96732"
+  phone: "+1 808-872-3830"
+  frommers_guide_book_page: "291"
 -
   id: 5
   name: "Phoenix Sky Harbor International Airport"
@@ -83,9 +79,8 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Phoenix+Sky+Harbor+International+Airport"
-  info:
-    address: "3400 E Sky Harbor Blvd, Phoenix, AZ 85034"
-    phone: "+1 602-273-330"
+  address: "3400 E Sky Harbor Blvd, Phoenix, AZ 85034"
+  phone: "+1 602-273-330"
 -
   id: 6
   name: "Hilo International Airport"
@@ -100,6 +95,6 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Hilo+International+Airport"
-  info:
-    address: "2450 Kekuanaoa St, Hilo, HI 96720"
-    phone: "+1 808-961-9300"
+  address: "2450 Kekuanaoa St, Hilo, HI 96720"
+  phone: "+1 808-961-9300"
+  frommers_guide_book_page: "171"

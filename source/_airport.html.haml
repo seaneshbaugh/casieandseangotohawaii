@@ -1,11 +1,9 @@
-%h6= airport.name
-.links
-  - airport.links&.each do |link|
-    %div{ class: "link #{link.type}" }
-      %a{ href: link.url, target: '_blank' }
-- if airport.info&.address
-  .info.address= airport.info.address
-- if airport.info&.phone
-  .info.phone= airport.info.phone
-- if airport.info&.frommers_guide_book_page
-  %cite.info.frommers-guide-book-page= "Frommer's pg. #{airport.info.frommers_guide_book_page}"
+.airport
+  %h6.name= "#{airport.name} (#{airport.code})"
+  = partial('links', locals: { links: airport.links })
+  - if airport.address
+    .address= airport.address
+  - if airport.phone
+    .phone= airport.phone
+  - if airport.info&.frommers_guide_book_page
+    %cite.frommers-guide-book-page= "Frommer's pg. #{airport.info.frommers_guide_book_page}"

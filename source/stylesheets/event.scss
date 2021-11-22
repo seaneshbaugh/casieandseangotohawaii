@@ -4,11 +4,12 @@
     padding: var(--default-padding);
 
     > .name {
+        font-size: var(--h4-font-size);
         overflow: hidden;
 
         &:before {
             @include material-icon;
-            font-size: var(--h3-icon-size);
+            font-size: var(--h4-icon-size);
         }
     }
 }
