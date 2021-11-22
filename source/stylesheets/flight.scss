@@ -49,6 +49,8 @@
     }
 
     .connections {
+        background: var(--connections-background-color);
+
         > .name::before {
             content: var(--flight-connection-icon);
         }
@@ -60,7 +62,7 @@
             }
 
             > .flight-number::before {
-                content: "Flight Number";
+                content: "Flight Number: ";
                 font-weight: bold;
             }
 
@@ -87,6 +89,9 @@
     }
 
     .arrival {
+        background: var(--arrival-background-color);
+        margin-bottom: calc(var(--default-margin) / 2);
+
         > .name::before {
             content: var(--flight-arrival-icon);
         }
@@ -97,12 +102,7 @@
         }
 
         > .arrival-time::before {
-            content: "Flight Number: ";
-            font-weight: bold;
-        }
-
-        > .departure-time::before {
-            content: "Departure Time: ";
+            content: "Arrival Time: ";
             font-weight: bold;
         }
     }

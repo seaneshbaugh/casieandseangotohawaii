@@ -2,7 +2,7 @@
     .departure .departure-location, .connections .connection .connection-location, .arrival .arrival-location {
         .airport {
             background: var(--airport-background-color);
-            padding: var(--default-padding);
+            padding: calc(var(--default-padding) / 2);
 
             > .name {
                 font-size: var(--h6-font-size);

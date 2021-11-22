@@ -23,7 +23,7 @@
     %h5.name Arrival
     .arrival-location
       = partial('airport', locals: { airport: airport(flight.arrival_airport_id) })
-    .attival-time= flight.arrival_time
+    .arrival-time= flight.arrival_time
   .total-duration= flight.total_duration
   - if flight.price
     .price= flight.price
