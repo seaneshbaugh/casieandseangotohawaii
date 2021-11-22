@@ -1,7 +1,7 @@
-%div{ class: ['event', 'flight', flight.priority, flight.type, 'show'].compact.join(' ') }
-  %h4 Flight
+.event.flight
+  %h4.name Flight
   .departure
-    %h5 Departure
+    %h5.name Departure
     .departure-location
       = partial('airport', locals: { airport: airport(flight.departure_airport_id) })
     .flight-number= flight.flight_number
@@ -9,7 +9,7 @@
     .duration= flight.duration
   - if flight.connections
     .connections
-      %h5 Connections
+      %h5.name Connections
       - flight.connections.each do |connection|
         .connection
           .connection-location
@@ -20,7 +20,7 @@
           .connection-layover-duration= connection.connection_layover_duration
           .connection-duration= connection.connection_duration
   .arrival
-    %h5 Arrival
+    %h5.name Arrival
     .arrival-location
       = partial('airport', locals: { airport: airport(flight.arrival_airport_id) })
     .attival-time= flight.arrival_time

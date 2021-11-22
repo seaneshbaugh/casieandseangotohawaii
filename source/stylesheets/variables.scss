@@ -1,51 +1,68 @@
 :root {
     --page-width: 1000px;
     --page-max-width-margin: 20px;
+
     --default-margin: 10px;
     --default-padding: 10px;
     --default-column-gap: 10px;
     --default-row-gap: 10px;
     --default-color: #444444;
+
     --h1-icon-size: 48px;
     --h2-icon-size: 24px;
     --h3-icon-size: 18px;
     --h4-icon-size: 16px;
     --h5-icon-size: 15px;
     --h6-icon-size: 14px;
+
     --link-size: 24px;
+
     --link-color: #0000ff;
+
     --danger-color: #ee1111;
     --omg-color: #daa520;
     --rating-color: #e8c508;
+
     --controls-background-color: #e4e4e4;
     --control-button-on-background-color: #34c2d0;
     --control-button-off-background-color: #d8d8ec;
+
     --island-background-color: #0099ff;
+
     --hotel-background-color: #ee7a9f;
-    --day-background-color: #ededed;
-    --airport-background-color: #e4e4e4;
-    --flight-background-color: #dbdbdb;
-    --connection-background-color: #ffd1d1;
     --rental-car-background-color: #e4e4e4;
     --rental-car-pickup-background-color: #dbdbdb;
     --rental-car-dropoff-background-color: #dbdbdb;
+    --day-background-color: #ededed;
+
+    --event-background-color: #d0d0d0;
+    --flight-background-color: #dbdbdb;
+
+    --airport-background-color: #e4e4e4;
+
+    --connection-background-color: #ffd1d1;
+
     --attraction-background-color: #e4e4e4;
     --minor-attraction-background-color: #e8e8e8;
     --beach-background-color: #edcafc;
     --hike-background-color: #c7ffc8;
     --meal-background-color: #f8cae9;
     --restaurant-background-color: #f8caa0;
+
     --minor-attraction-beach-background-color: #f8ecfe;
     --minor-attraction-hike-background-color: #ebffeb;
     --minor-attraction-meal-background-color: #ffefeb;
     --major-attraction-border-color: #ffd700;
+
     --minor-attraction-color: #a5a5a5;
     --minor-attraction-beach-color: #dd9af9;
     --minor-attraction-hike-color: #00f004;
     --minor-attraction-meal-color: #fa9aa9;
+
     --total-background-color: #f9f9f9;
     --total-line-item-odd-background-color: #f3f8fb;
     --total-line-item-even-background-color: #eff7f3;
+
     --open-icon: "\E5C5";
     --close-icon: "\E5C7";
     --map-icon: "\E55B";
@@ -53,15 +70,15 @@
     --images-icon: "\E413";
     --island-icon: "\E564";
     --hotel-icon: "\E53A";
-    --day-icon: "\E430";
-    --airport-icon: "\E539";
-    --airport-arriving-icon: "\E904";
-    --airport-departing-icon: "\E905";
-    --connection-icon: "\E572";
     --rental-car-icon: "\E531";
     --rental-car-pickup-icon: "\E5CB";
     --rental-car-dropoff-icon: "\E5CC";
     --attraction-icon: "\E55F";
+    --day-icon: "\E430";
+    --flight-icon: "\E539";
+    --flight-departure-icon: "\E905";
+    --flight-connection-icon: "\E572";
+    --flight-arrivial-icon: "\E904";
     --beach-icon: "\EB3E";
     --hike-icon: "\E536";
     --meal-icon: "\E56C";

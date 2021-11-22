@@ -16,27 +16,6 @@
     overflow: hidden;
 }
 
-.airport > h4:before {
-    content: var(--airport-icon);
-    display: block;
-    float: left;
-    font-family: "Material Icons";
-    font-feature-settings: "liga" 1;
-    font-size: var(--h4-icon-size);
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-}
-
-.airport.arriving > h4:before {
-    content: var(--airport-arriving-icon);
-}
-
-.airport.departing > h4:before {
-    content: var(--airport-departing-icon);
-}
-
 .airport .flight {
     background: var(--flight-background-color);
     font-size: 14px;

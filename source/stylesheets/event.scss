@@ -1,0 +1,14 @@
+.event {
+    background: var(--event-background-color);
+    margin-top: var(--default-margin);
+    padding: var(--default-padding);
+
+    > .name {
+        overflow: hidden;
+
+        &:before {
+            @include material-icon;
+            font-size: var(--h3-icon-size);
+        }
+    }
+}

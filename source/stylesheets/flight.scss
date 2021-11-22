@@ -1,0 +1,40 @@
+.event {
+    &.flight {
+        background: var(--flight-background-color);
+
+        > .name {
+            &:before {
+                content: var(--airport-icon);
+                font-size: var(--h4-icon-size);
+            }
+        }
+
+        .departure, .connections, .arrival {
+            margin-top: calc(var(--default-margin) / 2);
+        }
+
+        .departure {
+            > .name {
+                &:before {
+                    content: var(--flight-departure-icon);
+                }
+            }
+        }
+
+        .connections {
+            > .name {
+                &:before {
+                    content: var(--flight-connection-icon);
+                }
+            }
+        }
+
+        .arrival {
+            > .name {
+                &:before {
+                    content: var(--flight-arrival-icon);
+                }
+            }
+        }
+    }
+}
