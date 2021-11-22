@@ -13,36 +13,20 @@
             }
         }
 
-        &.map {
-            a {
-                &:before {
-                    content: var(--map-icon);
-                }
-            }
+        &.map a::before {
+            content: var(--map-icon);
         }
 
-        &.website {
-            a {
-                &:before {
-                    content: var(--website-icon);
-                }
-            }
+        &.website a::before {
+            content: var(--website-icon);
         }
 
-        &.images {
-            a {
-                &:before {
-                    content: var(--images-icon);
-                }
-            }
+        &.images a::before {
+            content: var(--images-icon);
         }
 
-        &.reviews {
-            a {
-                &:before {
-                    content: var(--reviews-icon);
-                }
-            }
+        &.reviews a::before {
+            content: var(--reviews-icon);
         }
     }
 }
