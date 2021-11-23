@@ -1,10 +1,9 @@
-%div{ class: ['event', 'attraction', attraction.priority, attraction.type, attraction.visible ? 'show' : 'hide'].compact.join(' ') }
-  %h4= attraction.name
-  .links
-    - attraction.links&.each do |link|
-      %div{ class: "link #{link.type}" }
-        %a{ href: link.url, target: '_blank' }
-  - if attraction.info&.address
-    .info.address= attraction.info.address
-  - if attraction.info&.frommers_guide_book_page
-    %cite.info.frommers-guide-book-page= "Frommer's pg. #{attraction.info.frommers_guide_book_page}"
+%div{ class: ['event', 'attraction', attraction.priority, attraction.type].compact.join(' ') }
+  %h4.name= attraction.name
+  = partial('links', locals: { links: attraction.links })
+  - if attraction.address
+    .address= attraction.address
+  - if attraction.phone
+    .phone= attraction.phone
+  - if attraction.frommers_guide_book_page
+    %cite.frommers-guide-book-page= attraction.frommers_guide_book_page

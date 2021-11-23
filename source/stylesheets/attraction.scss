@@ -1,51 +1,55 @@
-.attraction {
+.event.attraction {
     background: var(--attraction-background-color);
-    margin-top: var(--default-top-margin);
+    margin-top: var(--default-margin);
     padding: var(--default-padding);
-}
 
-.attraction.optional {
-    display: none;
-}
+    &.minor, &.optional {
+        background: var(--minor-attraction-background-color);
+        color: var(--minor-attraction-color);
+    }
 
-.attraction.optional.show {
-    display: block;
-}
+    &.major {
+        border: 3px dotted var(--major-attraction-border-color);
+    }
 
-.attraction.hide {
-    display: none;
-}
+    &.omg {
+        border: 3px dotted var(--omg-color);
+        color: var(--omg-color);
 
-.attraction.major {
-    border: 3px dotted var(--major-attraction-border-color);
-}
+        a:before {
+            color: var(--omg-color);
+        }
+    }
 
-.attraction.minor, .attraction.optional {
-    background: var(--minor-attraction-background-color);
-    color: var(--minor-attraction-color);
-}
+    &.beach {
+        background: var(--beach-background-color);
+    }
 
-.attraction.omg {
-    color: var(--omg-color);
-}
+    &.beach > .name:before {
+        content: var(--beach-icon);
+    }
 
-.attraction.omg a:before {
-    color: var(--omg-color);
-}
+    &.beach.minor, &.beach.optional {
+        background: var(--minor-attraction-beach-background-color);
+        color: var(--minor-attraction-beach-color);
+    }
 
-.attraction > h4 {
-    overflow: hidden;
-}
+    > .name::before {
+        content: var(--attraction-icon);
+    }
 
-.attraction > h4:before {
-    content: var(--attraction-icon);
-    display: block;
-    float: left;
-    font-family: "Material Icons";
-    font-feature-settings: "liga" 1;
-    font-size: var(--h4-icon-size);
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
+    > .address::before {
+        content: "Address: ";
+        font-weight: bold;
+    }
+
+    > .phone::before {
+        content: "Phone: ";
+        font-weight: bold;
+    }
+
+    > .frommers-guide-book-page::before {
+        content: "Frommer's pg: ";
+        font-weight: bold;
+    }
 }
