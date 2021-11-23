@@ -39,9 +39,11 @@
 
     --hotel-background-color: #ee7a9f;
     --hotel-stay-background-color: #e86a7c;
+
     --rental-car-background-color: #e4e4e4;
     --rental-car-pickup-background-color: #dbdbdb;
     --rental-car-dropoff-background-color: #dbdbdb;
+
     --day-background-color: #ededed;
 
     --event-background-color: #d0d0d0;
@@ -54,20 +56,22 @@
 
     --attraction-background-color: #e4e4e4;
     --minor-attraction-background-color: #e8e8e8;
+    --minor-attraction-color: #a5a5a5;
+
     --beach-background-color: #edcafc;
+    --minor-attraction-beach-background-color: #f8ecfe;
+    --minor-attraction-beach-color: #dd9af9;
+
     --hike-background-color: #c7ffc8;
+    --minor-attraction-hike-background-color: #ebffeb;
+    --minor-attraction-hike-color: #00f004;
+
+    --scenic-view-background-color: #d3f2a9;
+
     --meal-background-color: #f8cae9;
     --restaurant-background-color: #f8caa0;
 
-    --minor-attraction-beach-background-color: #f8ecfe;
-    --minor-attraction-hike-background-color: #ebffeb;
-    --minor-attraction-meal-background-color: #ffefeb;
     --major-attraction-border-color: #ffd700;
-
-    --minor-attraction-color: #a5a5a5;
-    --minor-attraction-beach-color: #dd9af9;
-    --minor-attraction-hike-color: #00f004;
-    --minor-attraction-meal-color: #fa9aa9;
 
     --total-background-color: #f9f9f9;
     --total-line-item-odd-background-color: #f3f8fb;
@@ -91,6 +95,7 @@
     --flight-arrival-icon: "\E904";
     --beach-icon: "\EB3E";
     --hike-icon: "\E536";
+    --scenic-view-icon: "\E40B";
     --meal-icon: "\E56C";
     --restaurant-icon: "\E563";
     --rating-one-star-icon: "\E885";

@@ -16,22 +16,43 @@
         border: 3px dotted var(--omg-color);
         color: var(--omg-color);
 
-        a:before {
+        a::before {
             color: var(--omg-color);
         }
     }
 
     &.beach {
         background: var(--beach-background-color);
+
+        &.minor, &.optional {
+            background: var(--minor-attraction-beach-background-color);
+            color: var(--minor-attraction-beach-color);
+        }
+
+        > .name::before {
+            content: var(--beach-icon);
+        }
     }
 
-    &.beach > .name:before {
-        content: var(--beach-icon);
+    &.hike {
+        background: var(--hike-background-color);
+
+        &.minor, &.optional {
+            background: var(--minor-attraction-hike-background-color);
+            color: var(--minor-attraction-hike-color);
+        }
+
+        > .name::before {
+            content: var(--hike-icon);
+        }
     }
 
-    &.beach.minor, &.beach.optional {
-        background: var(--minor-attraction-beach-background-color);
-        color: var(--minor-attraction-beach-color);
+    &.scenic-view {
+        background: var(--scenic-view-background-color);
+
+        > .name::before {
+            content: var(--scenic-view-icon);
+        }
     }
 
     > .name::before {
