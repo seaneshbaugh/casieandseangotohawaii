@@ -40,10 +40,6 @@
       "selector": ".attraction.major",
       "show": true
     },
-    "route": {
-      "selector": ".route",
-      "show": false
-    },
     "meal": {
       "selector": ".meal",
       "show": true
