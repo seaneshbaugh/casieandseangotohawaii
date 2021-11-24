@@ -1,86 +1,112 @@
-.meal {
+.event.meal {
     background: var(--meal-background-color);
-    margin-top: var(--default-top-margin);
-    padding: var(--default-padding);
-}
 
-.meal.hide {
-    display: none;
-}
+    > .name::before {
+        content: var(--meal-icon);
+    }
 
-.meal > h2 {
-    overflow: hidden;
-}
+    > .restaurant {
+        background: var(--restaurant-background-color);
+        margin-top: calc(var(--default-margin) / 2);
+        padding: calc(var(--default-padding) / 2);
 
-.meal > h4:before {
-    content: var(--meal-icon);
-    display: block;
-    float: left;
-    font-family: "Material Icons";
-    font-feature-settings: "liga" 1;
-    font-size: var(--h4-icon-size);
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-}
+        > .name {
+            font-size: var(--h5-font-size);
+            overflow: hidden;
 
-.meal .restaurant {
-    background: var(--restaurant-background-color);
-    margin-top: calc(var(--default-top-margin) / 2);
-    padding: var(--default-padding);
-}
+            &:before {
+                @include material-icon;
+                font-size: var(--h5-icon-size);
+            }
+        }
 
-.meal .restaurant:nth-child(2) {
-    margin-top: calc(var(--default-top-margin) / 4);
-}
+        > .address::before {
+            content: "Address: ";
+            font-weight: bold;
+        }
 
-.meal .restaurant > h5 {
-    overflow: hidden;
-}
+        > .phone::before {
+            content: "Phone: ";
+            font-weight: bold;
+        }
 
-.meal .restaurant > h5:before {
-    content: var(--restaurant-icon);
-    display: block;
-    float: left;
-    font-family: "Material Icons";
-    font-feature-settings: "liga" 1;
-    font-size: var(--h5-icon-size);
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-}
+        > .hours::before {
+            content: "Hours: ";
+            font-weight: bold;
+        }
 
-.meal .ratings {
-    background: var(--restaurant-background-color);
-    margin-top: calc(var(--default-top-margin) / 2);
-    padding: var(--default-padding);
-}
+        > .price-range::before {
+            content: "Price Range: ";
+            font-weight: bold;
+        }
 
-.meal .food {
-    background: var(--restaurant-background-color);
-    margin-top: calc(var(--default-top-margin) / 2);
-    padding: var(--default-padding);
-}
+        > .genre::before {
+            content: "Genre: ";
+            font-weight: bold;
+        }
 
-.meal .food:nth-child(2) {
-    margin-top: calc(var(--default-top-margin) / 4);
-}
+        > .frommers-guide-book-page::before {
+            content: "Frommer's pg: ";
+            font-weight: bold;
+        }
+    }
 
-.meal .restaurant .selection h6 {
-    overflow: hidden;
-}
+    > .ratings {
+        background: var(--restaurant-background-color);
+        margin-top: calc(var(--default-margin) / 2);
+        padding: calc(var(--default-padding) / 2);
 
-.meal .food h6:before {
-    content: var(--meal-icon);
-    display: block;
-    float: left;
-    font-family: "Material Icons";
-    font-feature-settings: "liga" 1;
-    font-size: var(--h6-icon-size);
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
+        &:before {
+            content: "Ratings: ";
+            float: left;
+            font-weight: bold;
+            margin-right: calc(var(--default-margin) / 2);
+        }
+
+        > .average {
+            overflow: hidden;
+
+            &:before {
+                @include material-icon;
+                color: var(--rating-color);
+                font-size: 17px;
+            }
+
+            &.one-star::before {
+                content: var(--rating-one-star-icon);
+            }
+
+            &.two-star::before {
+                content: var(--rating-two-stars-icon);
+            }
+
+            &.three-star::before {
+                content: var(--rating-three-stars-icon);
+            }
+
+            &.four-star:before {
+                content: var(--rating-four-stars-icon);
+            }
+
+            &.five-star:before {
+                content: var(--rating-five-stars-icon);
+            }
+        }
+    }
+
+    > .food {
+        background: var(--restaurant-background-color);
+        margin-top: calc(var(--default-margin) / 2);
+        padding: calc(var(--default-padding) / 2);
+
+        > .selection {
+            > .name {
+                font-size: var(--h6-font-size);
+            }
+
+            .items {
+                margin: calc(var(--default-margin) / 2) 0 0 0;
+            }
+        }
+    }
 }

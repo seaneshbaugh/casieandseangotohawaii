@@ -5,7 +5,7 @@
         content: var(--flight-icon);
     }
 
-    .departure, .connections, .arrival {
+    > .departure, > .connections, > .arrival {
         margin-top: calc(var(--default-margin) / 2);
         padding: calc(var(--default-padding) / 2);
 
@@ -20,7 +20,7 @@
         }
     }
 
-    .departure {
+    > .departure {
         background: var(--departure-background-color);
 
         > .name::before {
@@ -48,7 +48,7 @@
         }
     }
 
-    .connections {
+    > .connections {
         background: var(--connections-background-color);
 
         > .name::before {
@@ -88,7 +88,7 @@
         }
     }
 
-    .arrival {
+    > .arrival {
         background: var(--arrival-background-color);
         margin-bottom: calc(var(--default-margin) / 2);
 

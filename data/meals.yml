@@ -4,311 +4,288 @@
   restaurant_id: 1
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Niku Udon"
-        - "Shrimp Tempura"
-        - "Mushroom Tempura"
-        - "Soda"
-      Sean:
-        - "Nikitama Udon"
-        - "Shrimp Tempura"
-        - "Calamari Tempura"
-        - "Potato Croquette"
-        - "Soda"
-      Shared:
-        - "Asparagus Tempura"
-    ratings:
-      Sean: 4
-      Casie: 4
+  food:
+    Casie:
+      - "Niku Udon"
+      - "Shrimp Tempura"
+      - "Mushroom Tempura"
+      - "Soda"
+    Sean:
+      - "Nikitama Udon"
+      - "Shrimp Tempura"
+      - "Calamari Tempura"
+      - "Potato Croquette"
+      - "Soda"
+    Shared:
+      - "Asparagus Tempura"
+  ratings:
+    Sean: 4
+    Casie: 4
 -
   id: 2
   name: "Breakfast"
   restaurant_id: 2
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "‘The Royal Bake Shop’ Banana Bread French Toast"
-        - "Royal Kona Coffee"
-      Sean:
-        - "‘The Works’ Omelet"
-        - "Royal Kona Coffee"
-    ratings:
-      Casie: 3
-      Sean: 4
+  food:
+    Casie:
+      - "‘The Royal Bake Shop’ Banana Bread French Toast"
+      - "Royal Kona Coffee"
+    Sean:
+      - "‘The Works’ Omelet"
+      - "Royal Kona Coffee"
+  ratings:
+    Casie: 3
+    Sean: 4
 -
   id: 3
   name: "Snack"
   restaurant_id: 3
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Classic Rainbow"
-      Sean:
-        - "Pina Colada"
-    ratings:
-      Casie: 5
-      Sean: 5
+  food:
+    Casie:
+      - "Classic Rainbow"
+    Sean:
+      - "Pina Colada"
+  ratings:
+    Casie: 5
+    Sean: 5
 -
   id: 4
   name: "Lunch"
   restaurant_id: 4
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Shrimp and Steak Plate"
-        - "Potato Macaroni Salad"
-        - "White Rice"
-        - "Soda"
-      Sean:
-        - "Kaiwe Slow Smoked Pork with Onions"
-        - "Potato Macaroni Salad"
-        - "White Rice"
-        - "Soda"
-    ratings:
-      Sean: 4
-      Casie: 4
+  food:
+    Casie:
+      - "Shrimp and Steak Plate"
+      - "Potato Macaroni Salad"
+      - "White Rice"
+      - "Soda"
+    Sean:
+      - "Kaiwe Slow Smoked Pork with Onions"
+      - "Potato Macaroni Salad"
+      - "White Rice"
+      - "Soda"
+  ratings:
+    Sean: 4
+    Casie: 4
 -
   id: 5
   name: "Dinner"
   restaurant_id: 5
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Seven Spice Ahi"
-      Sean:
-        - "Sautéed Mac Nut and Herb Crusted Mahi-mahi"
-      Shared:
-        - "Panko Fried Calamari"
-    ratings:
-      Sean: 4
+  food:
+    Casie:
+      - "Seven Spice Ahi"
+    Sean:
+      - "Sautéed Mac Nut and Herb Crusted Mahi-mahi"
+    Shared:
+      - "Panko Fried Calamari"
+  ratings:
+    Sean: 4
 -
   id: 6
   name: "Breakfast"
   restaurant_id: 6
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Coffee"
-      Sean:
-        - "Iced Mocha Macademia Nut Latte"
-      Shared:
-        - "4 × Dobash Malasadas"
-        - "4 × Custard Malasadas"
-        - "4 × Haupia Malasadas"
-        - "Macadamia Nut Cookies"
-    ratings:
-      Sean: 2
+  food:
+    Casie:
+      - "Coffee"
+    Sean:
+      - "Iced Mocha Macademia Nut Latte"
+    Shared:
+      - "4 × Dobash Malasadas"
+      - "4 × Custard Malasadas"
+      - "4 × Haupia Malasadas"
+      - "Macadamia Nut Cookies"
+  ratings:
+    Sean: 2
+  notes: "Food was fantastic, service was friendly but ultimately awful."
 -
   id: 7
   name: "Lunch"
   restaurant_id: 7
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie: []
-      Sean: []
-      Shared: []
-    ratings:
-      Sean: 4
+  food:
+    Casie: []
+    Sean: []
+    Shared: []
+  ratings:
+    Sean: 4
 -
   id: 8
   name: "Dinner"
   restaurant_id: 8
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Iced Tea"
-      Sean:
-        - "Soda"
-      Shared:
-        - "Geen Asparagus Salad"
-        - "Dote-yaki"
-        - "Steak, Shrimp, Scallop, and Vegetable Teppanyaki"
-        - "Takoyaki"
-        - "Pork/Squid/Shrimp Tama"
-        - "Cream Kuromitsu Milk Pudding"
-    ratings:
-      Sean: 4
+  food:
+    Casie:
+      - "Iced Tea"
+    Sean:
+      - "Soda"
+    Shared:
+      - "Geen Asparagus Salad"
+      - "Dote-yaki"
+      - "Steak, Shrimp, Scallop, and Vegetable Teppanyaki"
+      - "Takoyaki"
+      - "Pork/Squid/Shrimp Tama"
+      - "Cream Kuromitsu Milk Pudding"
+  ratings:
+    Sean: 4
 -
   id: 9
   name: "Breakfast"
   restaurant_id: 9
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Waimea Chun"
-        - "Iced Coffee"
-      Sean:
-        - "Haleiwa Chun"
-        - "Iced Coffee"
-    ratings:
-      Sean: 5
+  food:
+    Casie:
+      - "Waimea Chun"
+      - "Iced Coffee"
+    Sean:
+      - "Haleiwa Chun"
+      - "Iced Coffee"
+  ratings:
+    Sean: 5
 -
   id: 10
   name: "Lunch"
   restaurant_id: 10
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "The Best Fish Taco"
-        - "Shrimp Taco"
-        - "Pineapple Jarritos"
-      Sean:
-        - "Spicy Kahuna Fish Taco"
-        - "Roasted Pork Taco"
-        - "Mango Jarritos"
-    ratings:
-      Casie: 2
-      Sean: 2
+  food:
+    Casie:
+      - "The Best Fish Taco"
+      - "Shrimp Taco"
+      - "Pineapple Jarritos"
+    Sean:
+      - "Spicy Kahuna Fish Taco"
+      - "Roasted Pork Taco"
+      - "Mango Jarritos"
+  ratings:
+    Casie: 2
+    Sean: 2
 -
   id: 11
   name: "Dinner"
   restaurant_id: 11
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Potato Crusted Opakapaka"
-      Sean:
-        - "Seared Ahi and Scallops with a Port Kauai Vanilla Sauce"
-        - "Soda"
-      Shared:
-        - "Valrhona Chocolate Cream Brûlée"
-    ratings:
-      Sean: 5
+  food:
+    Casie:
+      - "Potato Crusted Opakapaka"
+    Sean:
+      - "Seared Ahi and Scallops with a Port Kauai Vanilla Sauce"
+      - "Soda"
+    Shared:
+      - "Valrhona Chocolate Cream Brûlée"
+  ratings:
+    Sean: 5
 -
   id: 12
   name: "Breakfast"
   restaurant_id: 12
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Traditional Loco Moco"
-        - "Iced Coffee"
-      Sean:
-        - "Kauai Benedict"
-        - "Iced Coffee"
-    ratings:
-      Sean: 4
+  food:
+    Casie:
+      - "Traditional Loco Moco"
+      - "Iced Coffee"
+    Sean:
+      - "Kauai Benedict"
+      - "Iced Coffee"
+  ratings:
+    Sean: 4
 -
   id: 13
   name: "Lunch"
   restaurant_id: 13
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie: []
-      Sean: []
-      Shared: []
-    ratings:
-      Sean: 3
+  food:
+    Casie: []
+    Sean: []
+    Shared: []
+  ratings:
+    Sean: 3
 -
   id: 14
   name: "Dinner"
   restaurant_id: 14
   priority: "normal"
   visible: true
-  info:
-    food:
-      Casie:
-        - "Pacific Coast Coconut Shrimp"
-      Sean:
-        - "Mixed Seafood Red Thai Curry"
-    ratings:
-      Sean: 3
+  food:
+    Casie:
+      - "Pacific Coast Coconut Shrimp"
+    Sean:
+      - "Mixed Seafood Red Thai Curry"
+  ratings:
+    Sean: 3
 -
   id: 15
   name: "Breakfast"
   restaurant_id: 15
   priority: "normal"
   visible: true
-  info:
 -
   id: 16
   name: "Lunch"
   restaurant_id: 16
   priority: "normal"
   visible: true
-  info:
 -
   id: 17
   name: "Snack"
   restaurant_id: 17
   priority: "normal"
   visible: true
-  info:
 -
   id: 18
   name: "Dinner"
   restaurant_id: 18
   priority: "normal"
   visible: true
-  info:
 -
   id: 19
   name: "Breakfast"
   restaurant_id: 19
   priority: "normal"
   visible: true
-  info:
 -
   id: 20
   name: "Lunch"
   restaurant_id: 20
   priority: "normal"
   visible: true
-  info:
 -
   id: 21
   name: "Snack"
   restaurant_id: 21
   priority: "normal"
   visible: true
-  info:
 -
   id: 22
   name: "Dinner"
   restaurant_id: 22
   priority: "normal"
   visible: true
-  info:
 -
   id: 23
   name: "Breakfast"
   restaurant_id: 23
   priority: "normal"
   visible: true
-  info:
 -
   id: 24
   name: "Snack"
   restaurant_id: 24
   priority: "normal"
   visible: true
-  info:
 -
   id: 25
   name: "Dinner"
@@ -321,60 +298,52 @@
   restaurant_id: 26
   priority: "normal"
   visible: true
-  info:
 -
   id: 27
   name: "Lunch"
   restaurant_id: 27
   priority: "normal"
   visible: true
-  info:
 -
   id: 28
   name: "Snack"
   restaurant_id: 28
   priority: "normal"
   visible: true
-  info:
 -
   id: 29
   name: "Dinner"
   restaurant_id: 29
   priority: "normal"
   visible: true
-  info:
 -
   id: 30
   name: "Breakfast"
   restaurant_id: 30
   priority: "normal"
   visible: true
-  info:
 -
   id: 31
   name: "Lunch"
   restaurant_id: 31
   priority: "normal"
   visible: true
-  info:
 -
   id: 32
   name: "Dinner"
   restaurant_id: 32
   priority: "normal"
   visible: true
-  info:
 -
   id: 33
   name: "Breakfast"
   restaurant_id: 33
   priority: "normal"
   visible: true
-  info:
 -
   id: 34
   name: "Dinner"
   restaurant_id: 34
   priority: "normal"
   visible: true
-  info:
+  notes: "\"Top 10 Fine Dining Restaurants in the US.\" - Trip Advisor. \"Second most popular restaurant in the US.\" - Open Table"

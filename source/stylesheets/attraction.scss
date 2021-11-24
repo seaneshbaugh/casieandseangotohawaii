@@ -73,4 +73,17 @@
         content: "Frommer's pg: ";
         font-weight: bold;
     }
+
+    > .notes {
+        font-style: italic;
+
+        &:before {
+            content: "Notes: ";
+            font-weight: bold;
+        }
+
+        &.danger {
+            color: var(--danger-color);
+        }
+    }
 }

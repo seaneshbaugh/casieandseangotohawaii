@@ -1,31 +1,31 @@
-%div{ class: ['meal', meal.name.downcase, 'show'].compact.join(' ') }
-  %h4= meal.name
+%div{ class: ['event', 'meal', meal.name.downcase].compact.join(' ') }
+  %h4.name= meal.name
   - r = restaurant(meal.restaurant_id)
   .restaurant
-    %h5= r.name
-    .links
-      - r.links&.each do |link|
-        %div{ class: "link #{link.type}" }
-          %a{ href: link.url, target: '_blank' }
-    - if r.info&.address
-      .info.address= r.info.address
-    - if r.info&.phone
-      .info.phone= r.info.phone
-    - if r.info&.hours
-      .info.hours= r.info.hours
-    - if r.info&.frommers_guide_book_page
-      %cite.info.frommers-guide-book-page= "Frommer's pg. #{r.info.frommers_guide_book_page}"
-    - if r.info&.price_range
-      .info.price-range= r.info.price_range
-    - if r.info&.genre
-      .info.genre= r.info.genre
-  - if meal.info&.ratings
-    %div{ class: ['info', 'ratings', "#{['one', 'two', 'three', 'four', 'five'][(meal.info.ratings.values.inject(&:+) / meal.info.ratings.length) - 1]}-star"].compact.join(' ') }= meal.info.ratings.map { |name, rating| "#{name}: #{rating}" }.join(', ')
-  - if meal.info&.food
-    .info.food
-      - meal.info.food.each do |name, selection|
+    %h5.name= r.name
+    = partial('links', locals: { links: r.links })
+    - if r.address
+      .address= r.address
+    - if r.phone
+      .phone= r.phone
+    - if r.hours
+      .hours= r.hours
+    - if r.price_range
+      .price-range= r.price_range
+    - if r.genre
+      .genre= r.genre
+    - if r.frommers_guide_book_page
+      %cite.frommers-guide-book-page= r.frommers_guide_book_page
+  - if meal.ratings
+    .ratings
+      %div{ class: ['average', "#{['one', 'two', 'three', 'four', 'five'][(meal.ratings.values.inject(&:+) / meal.ratings.length) - 1]}-star"].compact.join(' ') }
+      - meal.ratings.each do |name, rating|
+        %div{ class: ['rating', name.downcase].compact.join(' ') }= "#{name}: #{rating}"
+  - if meal.food
+    .food
+      - meal.food.each do |name, selection|
         .selection
-          %h6= name
+          %h6.name= name
           %ul.items
             - selection.each do |item|
               %li= item
