@@ -24,6 +24,7 @@
     .arrival-location
       = partial('airport', locals: { airport: airport(flight.arrival_airport_id) })
     .arrival-time= flight.arrival_time
-  .total-duration= flight.total_duration
+  - if flight.connections
+    .total-duration= flight.total_duration
   - if flight.price
     .price= flight.price
