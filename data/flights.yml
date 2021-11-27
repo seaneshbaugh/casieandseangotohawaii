@@ -22,7 +22,7 @@
   departure_time: "1:15 PM"
   duration: "43m"
   arrival_airport_id: 3
-  aarival_time: "1:58 PM"
+  arrival_time: "1:58 PM"
 -
   id: 3
   flight_number: "HA 244"
@@ -30,7 +30,7 @@
   departure_time: "12:28 PM"
   duration: "49m"
   arrival_airport_id: 4
-  aarival_time: "1:17 PM"
+  arrival_time: "1:17 PM"
 -
   id: 4
   flight_number: "AA 645"
@@ -45,7 +45,7 @@
       connection_departure_time: "11:50 AM"
       connection_layover_duration: "3h 47m"
       connection_duration: "2h 23m"
-  arrival_airport: 1
+  arrival_airport_id: 1
   arrival_time: "3:13 PM"
   total_duration: "11h 53m"
 -
