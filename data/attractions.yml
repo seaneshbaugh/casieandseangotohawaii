@@ -692,26 +692,6 @@
   frommers_guide_book_page: "519"
 -
   id: 39
-  name: "Po'ipu Beach Park"
-  type: "beach"
-  priority: "omg"
-  visible: true
-  links:
-    -
-      type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.88165359176226%2C-159.4592851716704&z=13"
-    -
-      type: "website"
-      url: "https://www.to-hawaii.com/kauai/beaches/poipu-beach-park.php"
-    -
-      type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Po%27ipu+Beach+Park"
-  address: "Hoona Rd, Po'ipu, HI 96756"
-  phone: "+1 808-742-7444"
-  notes: "So good we went back for the sunset."
-  frommers_guide_book_page: "532"
--
-  id: 40
   name: "Kahekili Beach Park"
   type: "beach"
   priority: "normal"
@@ -728,7 +708,7 @@
       url: "https://www.google.com/search?tbm=isch&q=Kahekili+Beach+Park"
   address: "65 Kai Ala Dr, Lahaina, HI 96761"
 -
-  id: 41
+  id: 40
   name: "Dragon's Teeth"
   type: "point-of-interest"
   priority: "major"
@@ -745,7 +725,7 @@
       url: "https://www.google.com/search?tbm=isch&q=Dragon%27s+Teeth+Maui"
   address: "Dragon's Teeth Access Trail, Lahaina, HI 96761"
 -
-  id: 42
+  id: 41
   name: "Honolua Bay"
   type: "beach"
   priority: "normal"
@@ -763,7 +743,7 @@
   address: ""
   phone: ""
 -
-  id: 43
+  id: 42
   name: "Nakalele Blowhole"
   type: "point-of-interest"
   priority: "normal"
@@ -781,7 +761,7 @@
   address: "Mile Marker 38, North of Lahaina on Hwy 30, Lahaina, HI"
   notes: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
 -
-  id: 44
+  id: 43
   name: "Wailea Beach"
   type: "beach"
   priority: "normal"
@@ -800,7 +780,7 @@
   phone: "+1 808-879-4364"
   frommers_guide_book_page: "327"
 -
-  id: 45
+  id: 44
   name: "The Road to Hana"
   type: "point-of-interest"
   priority: "normal"
@@ -817,7 +797,7 @@
       url: "https://www.google.com/search?tbm=isch&q=The+Road+to+Hana"
   frommers_guide_book_page: "313"
 -
-  id: 46
+  id: 45
   name: "Hasegawa General Store"
   type: "store"
   priority: "normal"
@@ -835,7 +815,7 @@
   address: "5165 Hana Hwy, Hana, HI 96713"
   phone: "+1 808-248-8231"
 -
-  id: 47
+  id: 46
   name: "Wai'anapanapa State Park"
   type: "beach"
   priority: "major"
@@ -854,7 +834,7 @@
   phone: "+1 808-984-8109"
   frommers_guide_book_page: "330"
 -
-  id: 48
+  id: 47
   name: "Haleakalā National Park"
   type: "scenic-view"
   priority: "omg"
