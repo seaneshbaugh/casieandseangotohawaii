@@ -48,3 +48,43 @@
   arrival_airport: 1
   arrival_time: "3:13 PM"
   total_duration: "11h 53m"
+-
+  id: 5
+  flight_number: "AA 7"
+  departure_airport_id: 1
+  departure_time: "9:20 AM"
+  duration: ""
+  arrival_airport_id: 4
+  arrival_time: "1:41 PM"
+-
+  id: 6
+  flight_number: "HA 353"
+  departure_airport_id: 4
+  departure_time: "4:10 PM"
+  duration: "40m"
+  arrival_airport_id: 2
+  arrival_time: "4:50 PM"
+-
+  id: 7
+  flight_number: "HA 182"
+  departure_airport_id: 2
+  departure_time: "8:40 AM"
+  duration: "56m"
+  arrival_airport_id: 6
+  arrival_time: "9:36 AM"
+-
+  id: 8
+  flight_number: "HA 511"
+  departure_airport_id: 6
+  departure_time: "7:15 PM"
+  duration: "52m"
+  arrival_airport_id: 2
+  arrival_time: "8:07 PM"
+-
+  id: 9
+  flight_number: "AA 8"
+  departure_airport_id: 2
+  departure_time: "7:45 PM"
+  duration: ""
+  arrival_airport_id: 1
+  arrival_time: "7:11 AM"
