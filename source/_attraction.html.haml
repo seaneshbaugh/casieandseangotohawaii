@@ -7,3 +7,7 @@
     .phone= attraction.phone
   - if attraction.frommers_guide_book_page
     %cite.frommers-guide-book-page= attraction.frommers_guide_book_page
+  - if event.notes_danger
+    .notes.danger= event.notes_danger
+  - elsif event.notes
+    .notes= event.notes
