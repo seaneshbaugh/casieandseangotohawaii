@@ -29,7 +29,7 @@
   id: 4
   trip_id: 2
   hotel_id: 4
-  rental_car_id: 1
+  rental_car_id: 4
   type: "island"
   name: "Maui"
   start_date: "2021-12-01"
@@ -38,7 +38,7 @@
   id: 5
   trip_id: 2
   hotel_id: 1
-  rental_car_id: 1
+  rental_car_id: 5
   type: "island"
   name: "O'ahu"
   start_date: "2021-12-07"
@@ -47,7 +47,7 @@
   id: 6
   trip_id: 2
   hotel_id: null
-  rental_car_id: 1
+  rental_car_id: 6
   type: "island"
   name: "Hawai'i"
   start_date: "2021-12-09"
@@ -55,8 +55,8 @@
 -
   id: 7
   trip_id: 2
-  hotel_id: 1
-  rental_car_id: 1
+  hotel_id: null
+  rental_car_id: null
   type: "island"
   name: "O'ahu"
   start_date: "2021-12-09"
