@@ -347,3 +347,62 @@
   priority: "normal"
   visible: true
   notes: "\"Top 10 Fine Dining Restaurants in the US.\" - Trip Advisor. \"Second most popular restaurant in the US.\" - Open Table"
+-
+  id: 35
+  name: "Lunch"
+  restaurant_id: 35
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Shoyu Poke"
+      - "Water"
+    Cathie:
+      - "Avocado and Papaya Shrimp Salad"
+      - "Water"
+    Dwayne:
+      - "Shrimp with Walnut"
+      - "Water"
+    Kyle:
+      - "Sweet and Spicy Shrimp"
+      - "Water"
+    Sean:
+      - "Pele Poke"
+      - "Passion Orange Aloha"
+  ratings:
+    Casie: 3
+    Cathie: 4
+    Dwayne: 4
+    Kyle: 3
+    Sean: 4
+-
+  id: 36
+  name: "Dinner"
+  restaurant_id: 36
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Sautéed Mac Nut &amp; Herb Crusted Fresh Nairagi"
+      - "Water"
+    Cathie:
+      - "Farm to Fork"
+      - "Molokai Margarita"
+    Dwayne:
+      - "Fish Tacos (nairagi)"
+      - "Duke's Blonde Ale"
+    Kyle:
+      - "Duke's Cheeseburger"
+      - "Fries"
+      - "Duke's Mai Tai"
+    Sean:
+      - "Sautéed Mac Nut &amp; Herb Crusted Fresh Nairagi"
+      - "Diet Coke"
+    Shared:
+      - "Kimo's Original Hula Pie"
+  ratings:
+    Casie: 3
+    Cathie: 3
+    Dwayne: 3
+    Kyle: 3
+    Sean: 3

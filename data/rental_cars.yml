@@ -34,7 +34,7 @@
 -
   id: 4
   company: "Avis"
-  car_make_model: "Standard SUV"
+  car_make_model: "Chrysler Pacifica"
   price: "$698.65"
   pickup_location_airport_id: 4
   pickup_date: "12/1/21"

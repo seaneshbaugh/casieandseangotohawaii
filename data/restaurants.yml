@@ -520,3 +520,37 @@
   price_range: "$$$"
   genre: "Hawaiian, seafood"
   frommers_guide_book_page: "415"
+-
+  id: 35
+  name: "Food Truck Park"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Food+Truck+Park/@20.8874485,-156.4509855,18.21z/data=!4m8!1m2!2m1!1scostco!3m4!1s0x7954d312ab8b98d1:0xd2016486f0210de1!8m2!3d20.8880739!4d-156.4507027?hl=en"
+    -
+      type: "website"
+      url: "https://www.mauihunter.com/check-out-the-food-truck-court-at-520-keolani-place-kahului-96732/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?q=520+Keolani+Pl+food+truck+park&client=firefox-b-1-d&sxsrf=AOaemvJjzzilHKSFYa4E9O5ICgvp9zoXeA:1638434622686&source=lnms&tbm=isch&sa=X&ved=2ahUKEwizv7DN3MT0AhVgJzQIHc1rCXcQ_AUoAnoECAEQBA&biw=1792&bih=932&dpr=2"
+  address: "520 Keolani Pl, Kahului, HI 96732"
+  price_range: "$"
+  genre: "Hawaiian, seafood, street food"
+-
+  id: 36
+  name: "Duke's Beach House Maui"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Duke's+Beach+House+Maui/@20.9444909,-156.6937823,17z/data=!3m1!5s0x7eaad4b5c3fbc96d:0x2d802cbba4983bba!4m12!1m6!3m5!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!2sDuke's+Beach+House+Maui!8m2!3d20.9444909!4d-156.6915936!3m4!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!8m2!3d20.9444909!4d-156.6915936"
+    -
+      type: "website"
+      url: "https://www.dukesmaui.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Duke%27s+Beach+House+Maui"
+  address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
+  phone: "+1 808-662-2900"
+  hours: "8:00 AM - 9:00 PM"
+  price_range: "$$"
+  genre: "Hawaiian, seafood"

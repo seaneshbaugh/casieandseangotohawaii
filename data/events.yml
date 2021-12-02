@@ -605,26 +605,54 @@
 -
   id: 87
   leg_id: 4
+  day_id: 14
+  eventable_type: "meal"
+  eventable_id: 35
+  order: 2
+-
+  id: 88
+  leg_id: 4
+  day_id: 14
+  eventable_type: "attraction"
+  eventable_id: 48
+  order: 3
+-
+  id: 89
+  leg_id: 4
+  day_id: 14
+  eventable_type: "attraction"
+  eventable_id: 49
+  order: 4
+-
+  id: 90
+  leg_id: 4
+  day_id: 14
+  eventable_type: "meal"
+  eventable_id: 36
+  order: 5
+-
+  id: 91
+  leg_id: 4
   day_id: 20
   eventable_type: "flight"
   eventable_id: 6
   order: 1
 -
-  id: 88
+  id: 92
   leg_id: 5
   day_id: 23
   eventable_type: "flight"
   eventable_id: 7
   order: 1
 -
-  id: 89
+  id: 93
   leg_id: 6
   day_id: 24
   eventable_type: "flight"
   eventable_id: 8
   order: 1
 -
-  id: 90
+  id: 94
   leg_id: 7
   day_id: 29
   eventable_type: "flight"

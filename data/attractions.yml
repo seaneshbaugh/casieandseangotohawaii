@@ -852,3 +852,37 @@
   address: "Kula, HI 96790"
   phone: "+1 808-572-4400"
   frommers_guide_book_page: "310"
+-
+  id: 48
+  name: "Papawai Point"
+  type: "scenic-view"
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps?q=Papawai+Point&source=lmns&hl=en&sa=X&ved=2ahUKEwiHwqeoycT0AhWYqp4KHX24Cs4Q_AUoAXoECAEQAQ"
+    -
+      type: "website"
+      url: "https://www.tripadvisor.com/Attraction_Review-g60634-d2442808-Reviews-Papawai_Scenic_Lookout-Lahaina_Maui_Hawaii.html"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Papawai+Point"
+  address: "HI 96793"
+-
+  id: 49
+  name: "Ka'anapali Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Ka%E2%80%99anapali+Beach/@20.9448776,-156.6918635,17.68z/data=!4m5!3m4!1s0x7eaad559e5d92b1f:0xe94d2d0992da04ba!8m2!3d20.9449001!4d-156.6923138"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/maui/beaches/kaanapali-beach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kaanapali+Beach"
+  address: "Unnamed Road, Lahaina, HI 96761"
