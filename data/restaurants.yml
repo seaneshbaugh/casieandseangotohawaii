@@ -298,7 +298,7 @@
 #### START OF MISSING
 -
   id: 15 # day 6 breakfast
-  name: ""
+  name: "Hanalima Bakery"
   links: []
   address: ""
   phone: ""
@@ -307,7 +307,7 @@
   genre: ""
 -
   id: 16 # day 6 lunch
-  name: ""
+  name: "Puka Dog"
   links: []
   address: ""
   phone: ""
@@ -316,7 +316,7 @@
   genre: ""
 -
   id: 17 # day 6 snack
-  name: ""
+  name: "Papalani Gelato"
   links: []
   address: ""
   phone: ""
@@ -325,7 +325,7 @@
   genre: ""
 -
   id: 18 # day 6 dinner
-  name: ""
+  name: "Sam's Ocean View"
   links: []
   address: ""
   phone: ""
@@ -334,7 +334,7 @@
   genre: ""
 -
   id: 19 # day 7 breakfast
-  name: ""
+  name: "Kalapaki Beach Hut"
   links: []
   address: ""
   phone: ""
@@ -343,7 +343,7 @@
   genre: ""
 -
   id: 20 # day 7 lunch
-  name: ""
+  name: "The Lodge at Koke'e"
   links: []
   address: ""
   phone: ""
@@ -352,7 +352,7 @@
   genre: ""
 -
   id: 21 # day 7 snack
-  name: ""
+  name: "JoJo's Shave Ice"
   links: []
   address: ""
   phone: ""
@@ -361,7 +361,7 @@
   genre: ""
 -
   id: 22 # day 7 dinner
-  name: ""
+  name: "Verde Restaurant"
   links: []
   address: ""
   phone: ""
@@ -370,7 +370,7 @@
   genre: ""
 -
   id: 23 # day 8 breakfast
-  name: ""
+  name: "Nom Kauai"
   links: []
   address: ""
   phone: ""
@@ -379,7 +379,7 @@
   genre: ""
 -
   id: 24 # day 8 snack
-  name: ""
+  name: "Royal Scoop"
   links: []
   address: ""
   phone: ""
@@ -412,7 +412,7 @@
 #### START OF MISSING
 -
   id: 26 # day 9 breakfast
-  name: ""
+  name: "Sea House Restaurant"
   links: []
   address: ""
   phone: ""
@@ -457,7 +457,7 @@
   genre: "Shaved ice, Ice cream"
 -
   id: 29 # day 9 dinner
-  name: ""
+  name: "Miso Phat Sushi"
   links: []
   address: ""
   phone: ""
@@ -466,7 +466,7 @@
   genre: ""
 -
   id: 30 # day 10 breakfast
-  name: ""
+  name: "Leoda's Kitchen and Pie Shop"
   links: []
   address: ""
   phone: ""
@@ -475,7 +475,7 @@
   genre: ""
 -
   id: 31 # day 10 lunch
-  name: ""
+  name: "Barefoot Cafe"
   links: []
   address: ""
   phone: ""
@@ -508,7 +508,7 @@
 #### START OF MISSING
 -
   id: 33 # day 11 breakfast
-  name: ""
+  name: "Royal Ocean Terrace Restaurant"
   links: []
   address: ""
   phone: ""

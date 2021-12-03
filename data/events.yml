@@ -689,26 +689,33 @@
 -
   id: 98
   leg_id: 4
+  day_id: 16
+  eventable_type: "meal"
+  eventable_id: 41
+  order: 6
+-
+  id: 99
+  leg_id: 4
   day_id: 20
   eventable_type: "flight"
   eventable_id: 6
   order: 1
 -
-  id: 99
+  id: 100
   leg_id: 5
   day_id: 23
   eventable_type: "flight"
   eventable_id: 7
   order: 1
 -
-  id: 100
+  id: 101
   leg_id: 6
   day_id: 24
   eventable_type: "flight"
   eventable_id: 8
   order: 1
 -
-  id: 101
+  id: 102
   leg_id: 7
   day_id: 29
   eventable_type: "flight"

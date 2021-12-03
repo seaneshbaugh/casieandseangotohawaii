@@ -486,3 +486,9 @@
     Casie: 3
     Cathie: 5
     Sean: 5
+-
+  id: 41
+  name: "Dinner"
+  restaurant_id: 32
+  priority: "normal"
+  visible: true
