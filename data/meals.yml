@@ -406,3 +406,83 @@
     Dwayne: 3
     Kyle: 3
     Sean: 3
+-
+  id: 37
+  name: "Lunch"
+  restaurant_id: 37
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Fish Sandwich"
+    Kyle:
+      - "Spicy Chicken Sandwich"
+    Sean:
+      - "Chop Steak Kau Kau Tin"
+      - "Diet Coke"
+  ratings:
+    Casie: 3
+    Kyle: 0
+    Sean: 4
+-
+  id: 38
+  name: "Snack"
+  restaurant_id: 28
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Medium half mango half pineapple shaved ice with macademia nut ice cream"
+    Kyle:
+      - "Sunset Beach shaved ice with macademia nut ice cream"
+    Sean:
+      - "No Ka Oi shaved ice with macademia nut ice cream"
+  ratings:
+    Casie: 4
+    Kyle: 4
+    Sean: 5
+-
+  id: 39
+  name: "Dinner"
+  restaurant_id: 38
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Water"
+    Cathie:
+      - "Water"
+    Dwayne:
+      - "Water"
+    Kyle:
+      - "Coke"
+    Sean:
+      - "Diet Coke"
+    Shared:
+      - "Focaccia"
+      - "Local-Kine Pizza"
+      - "Garlic Mushroom Pizza"
+      - "Pepperoni, Red Onions, Pepperoncini Pizza"
+  ratings:
+    Casie: 3
+    Cathie: 4
+    Dwayne: 3
+    Kyle: 4
+    Sean: 4
+-
+  id: 40
+  name: "Snack"
+  restaurant_id: 39
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "One Scoop Chocolate Macademia Nut Ice Cream on a Waffle Cone"
+    Cathie:
+      - "One Scoop Coconute Ice Cream on a Waffle Cone"
+    Sean:
+      - "One Scoop Vanilla Macademia Nut Ice Cream + One Scoop Coconut Ice Cream on a Waffle Cone"
+  ratings:
+    Casie: 3
+    Cathie: 5
+    Sean: 5

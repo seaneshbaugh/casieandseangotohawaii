@@ -886,3 +886,38 @@
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Kaanapali+Beach"
   address: "Unnamed Road, Lahaina, HI 96761"
+-
+  id: 50
+  name: "Kenolio Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kenolio+Park/@20.7811184,-156.4630039,18z/data=!4m12!1m6!3m5!1s0x7954d1b021100c3b:0x4245bc9926607de8!2sUlulani's+Hawaiian+Shave+Ice+-+Kihei!8m2!3d20.7817454!4d-156.4624555!3m4!1s0x7954d1b1d2a21cf1:0x65680e1145f0accb!8m2!3d20.7807385!4d-156.4623052"
+    -
+      type: "website"
+      url: "https://www.mauicounty.gov/facilities/facility/details/kenoliorecreationcomplex-110"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kenolio+Park"
+  address: "Kihei, HI 96753"
+-
+  id: 51
+  name: "Lahaina Banyan Court Park"
+  type: "point-of-interest"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/L%C4%81hain%C4%81+Banyan+Court,+United+States/@20.8721464,-156.6767093,17.83z/data=!4m9!1m2!2m1!1slahaina+banyan+tree!3m5!1s0x79552bb840ab7649:0x20049bc15959892c!8m2!3d20.8718511!4d-156.6776043!15sChNsYWhhaW5hIGJhbnlhbiB0cmVlWhUiE2xhaGFpbmEgYmFueWFuIHRyZWWSAQRwYXJrmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU13ZUhWNlRqVjNSUkFC?hl=en"
+    -
+      type: "website"
+      url: "https://lahainarestoration.org/lahaina-banyan-tree/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lahaina+Banyan+Tree"
+  address: "671 Front St, Lahaina, HI 96761"
+  phone: "+1 808-661-4685"

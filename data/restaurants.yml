@@ -420,23 +420,41 @@
   price_range: ""
   genre: ""
 -
-  id: 27 # day 9 lunch
-  name: ""
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  id: 27
+  name: "Star Noodle"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Star+Noodle/@20.893183,-156.6790216,13.61z/data=!3m1!5s0x79552ba3bb45c589:0x32c4f2c8cd5c619c!4m12!1m6!3m5!1s0x79552baf0fe028ed:0x5a7e9aa1faee3a70!2sStar+Noodle!8m2!3d20.8865269!4d-156.6852585!3m4!1s0x79552baf0fe028ed:0x5a7e9aa1faee3a70!8m2!3d20.8865269!4d-156.6852585"
+    -
+      type: "wesbite"
+      url: "https://www.starnoodle.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Star+Noodle+Maui"
+  address: "1285 Front St, Lahaina, HI 96761"
+  phone: "+1 808-667-5400"
+  hours: "10:30 AM - 10:00 PM"
+  price_range: "$"
+  genre: "Thai"
 -
-  id: 28 # day 9 snack
-  name: ""
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  id: 28
+  name: "Ululani's Hawaiian Shave Ice"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kihei/@20.7817454,-156.4646442,17z/data=!4m12!1m6!3m5!1s0x7954d1b021100c3b:0x4245bc9926607de8!2sUlulani's+Hawaiian+Shave+Ice+-+Kihei!8m2!3d20.7817454!4d-156.4624555!3m4!1s0x7954d1b021100c3b:0x4245bc9926607de8!8m2!3d20.7817454!4d-156.4624555"
+    -
+      type: "website"
+      url: "https://www.ululanishawaiianshaveice.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Tinroof+Maui"
+  address: "61 S Kihei Rd, Kihei, HI 96753"
+  phone: "+1 808-877-3700"
+  hours: "10:30 AM - 6:00 PM"
+  price_range: "$"
+  genre: "Shaved ice, Ice cream"
 -
   id: 29 # day 9 dinner
   name: ""
@@ -554,3 +572,51 @@
   hours: "8:00 AM - 9:00 PM"
   price_range: "$$"
   genre: "Hawaiian, seafood"
+-
+  id: 37
+  name: "Tinroof"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Tin+Roof+Maui/@20.8849802,-156.4558813,17z/data=!4m12!1m6!3m5!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!2sTin+Roof+Maui!8m2!3d20.8849863!4d-156.4537026!3m4!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!8m2!3d20.8849863!4d-156.4537026?hl=en"
+    -
+      type: "website"
+      url: "https://www.tinroofmaui.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Tinroof+Maui"
+  address: "360 Papa Pl St #116, Kahului, HI, 96732"
+  phone: "+1 808-868-0753"
+  genre: "Hawaiian"
+-
+  id: 38
+  name: "Kapena's Wood Fired Kitchen"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kapena's+Wood+Fired+Kitchen/@20.8682752,-156.677601,17z/data=!4m12!1m6!3m5!1s0x79552b986b6cc451:0xd3cd87711184fcc8!2sKapena's+Wood+Fired+Kitchen!8m2!3d20.8682752!4d-156.6754123!3m4!1s0x79552b986b6cc451:0xd3cd87711184fcc8!8m2!3d20.8682752!4d-156.6754123"
+    -
+      type: "website"
+      url: "https://kapenaskitchen.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kapenas+Wood+Fired+Kitchen"
+  address: "505 Front St #101, Lahaina, HI 96761"
+  phone: "+1 808 727-2727"
+  genre: "Pizza"
+-
+  id: 39
+  name: "BanyanTreats"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/BanyanTreats/@20.8724317,-156.6798924,17z/data=!4m12!1m6!3m5!1s0x79552bb823f236eb:0x7b082dcca780e768!2sBanyanTreats!8m2!3d20.8724317!4d-156.6777037!3m4!1s0x79552bb823f236eb:0x7b082dcca780e768!8m2!3d20.8724317!4d-156.6777037"
+    -
+      type: "website"
+      url: "https://banyantreats.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=BanyanTreats"
+  address: "658 Wharf St #9, Lahaina, HI 96761"
+  phone: "+1 808-661-5854"
+  genre: "Ice cream"
