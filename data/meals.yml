@@ -492,3 +492,15 @@
   restaurant_id: 32
   priority: "normal"
   visible: true
+-
+  id: 42
+  name: "Dinner"
+  restaurant_id: 40
+  priority: "normal"
+  visible: true
+-
+  id: 43
+  name: "Brunch"
+  restaurant_id: 41
+  priority: "normal"
+  visible: true

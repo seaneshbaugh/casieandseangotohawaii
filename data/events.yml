@@ -721,3 +721,17 @@
   eventable_type: "flight"
   eventable_id: 9
   order: 1
+-
+  id: 103
+  leg_id: 4
+  day_id: 17
+  eventable_type: "meal"
+  eventable_id: 42
+  order: 1
+-
+  id: 104
+  leg_id: 4
+  day_id: 19
+  eventable_type: "meal"
+  eventable_id: 43
+  order: 1

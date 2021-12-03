@@ -620,3 +620,38 @@
   address: "658 Wharf St #9, Lahaina, HI 96761"
   phone: "+1 808-661-5854"
   genre: "Ice cream"
+-
+  id: 40
+  name: "Old Lāhainā Lūʻau"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Old+Lahaina+Luau/@20.8859312,-156.6872611,17z/data=!3m1!4b1!4m8!3m7!1s0x79552ba3a8192b47:0x3e29ebcbc1c54e6a!5m2!4m1!1i2!8m2!3d20.8859312!4d-156.6850724"
+    -
+      type: "website"
+      url: "https://oldlahainaluau.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Old+Lahaina+Lu'au"
+  address: "1251 Front St, Lahaina, HI 96761"
+  phone: "+1 808-667-1998"
+  price_range: "$$$$"
+  genre: "Hawaiian"
+-
+  id: 41
+  name: "The Plantation House"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps?q=The+Plantation+House&client=firefox-b-1-d&sxsrf=AOaemvJ10lOvyQvntdzdiS3mvQKcxK_kDw:1638554933933&hotel_occupancy=2&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyCwguEIAEEMcBEK8BMgUIABCABDILCC4QgAQQxwEQrwEyCAgAEIAEEMkDMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyCwguEIAEEMcBEK8BOgcIIxCwAxAnOgcIABBHELADOgQIIxAnOgQIABBDOgoILhDHARCvARBDOgsILhDHARCvARCRAjoLCC4QgAQQxwEQowI6CwguEIAEEMcBENEDOgQILhBDOgsILhCABBCxAxCDAToHCC4QsQMQQzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOggILhCABBCxAzoFCC4QgAQ6CggAEIAEEIcCEBRKBAhBGABQ6QlYnklgh0xoBHACeAGAAfoCiAHUKJIBCDAuMjAuNS4ymAEAoAEByAEJwAEB&um=1&ie=UTF-8&sa=X&ved=2ahUKEwji16-Pocj0AhVoDjQIHTDwCSQQ_AUoAXoECAEQAw"
+    -
+      type: "website"
+      url: "https://www.cohnrestaurants.com/theplantationhouse"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=The+Plantation+House+Maui"
+  address: "2000 Plantation Club Dr, Lahaina, HI 96761"
+  phone: "+1 808-669-6299"
+  hours: "8:00 AM - 8:00 PM"
+  price_range: "$$$"
+  genre: "Hawaiian-Mediterranean"
