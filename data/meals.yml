@@ -492,6 +492,39 @@
   restaurant_id: 32
   priority: "normal"
   visible: true
+  food:
+    Casie:
+      - "Hawaiian Poke Duo"
+      - "Pan Seared Line Caught Mahi Mahi"
+      - "Chocolate Macademia Nut Tart"
+      - "Virgin Strawberry Daquiri"
+    Cathie:
+      - "Kona Keahole Lobster &amp; Tamimi Farm Tomatoes"
+      - "Pan Seared Line Caught Mahi Mahi"
+      - "Tahitian Vanilla Bean Crème Brulee"
+      - "White Wine"
+    Dwayne:
+      - "Hawaiian Poke Duo"
+      - "Pan Seared Line Caught Mahi Mahi"
+      - "Chocolate Macademia Nut Tart"
+      - "Beer"
+    Kyle:
+      - "Kalua Pig Quesadilla"
+      - "Harissa Spiced Diver Scallops &amp; Wild Shrimp"
+      - "Chocolate Macademia Nut Tart"
+      - "Merriman's Mai Tai"
+    Sean:
+      - "Hawaiian Poke Duo"
+      - "Pan Seared Line Caught Mahi Mahi"
+      - "Chocolate Macademia Nut Tart"
+      - "Merriman's Mai Tai"
+      - "Diet Coke"
+  ratings:
+    Casie: 5
+    Cathie: 5
+    Dwayne: 5
+    Kyle: 4.5
+    Sean: 5
 -
   id: 42
   name: "Dinner"
@@ -504,3 +537,55 @@
   restaurant_id: 41
   priority: "normal"
   visible: true
+-
+  id: 44
+  name: "Breakfast"
+  restaurant_id: 42
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Banana Bread French Toast"
+      - "Passion Orange Guava Juice"
+    Cathie:
+      - "Hawaiian Pancakes"
+      - "Water"
+    Dwayne:
+      - "Grand Slap!"
+      - "Passion Orange Guava Juice"
+    Sean:
+      - "Slappy Moco"
+      - "Passion Orange Guava Juice"
+  ratings:
+    Casie: 4.5
+    Cathie: 2
+    Dwayne: 2
+    Sean: 5
+-
+  id: 45
+  name: "Lunch"
+  restaurant_id: 43
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Kumu Famrs Half Papaya Salad"
+      - "Pineapple Ice Tea"
+    Cathie:
+      - "&ldquo;Local Style&rdquo; Portuguese Bean Soup"
+      - "Water"
+    Dwayne:
+      - "Cafe O'lei Ceasar Salad"
+      - "Ice Tea"
+    Kyle:
+      - "Prime Rib Dip"
+      - "Ice Tea"
+    Sean:
+      - "Mahimahi + Chips"
+      - "Lilokoi No Hito"
+  ratings:
+    Casie: 4
+    Cathie: 4
+    Dwayne: 2
+    Kyle: 4
+    Sean: 4

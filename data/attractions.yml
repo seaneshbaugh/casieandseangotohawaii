@@ -921,3 +921,20 @@
       url: "https://www.google.com/search?tbm=isch&q=Lahaina+Banyan+Tree"
   address: "671 Front St, Lahaina, HI 96761"
   phone: "+1 808-661-4685"
+-
+  id: 52
+  name: "ʻĪao Valley State Monument"
+  type: "scenic-view"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/%CA%BB%C4%AAao+Valley+State+Monument/@20.8808837,-156.547366,17z/data=!3m1!4b1!4m5!3m4!1s0x7954d36960476677:0xd4a4ed6d73aed86f!8m2!3d20.8808837!4d-156.5451773"
+    -
+      type: "website"
+      url: "https://dlnr.hawaii.gov/dsp/parks/maui/iao-valley-state-monument/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=ʻĪao+Valley+State+Monument"
+  address: "54 S High St, Wailuku, HI 96793"

@@ -692,7 +692,7 @@
   day_id: 16
   eventable_type: "meal"
   eventable_id: 41
-  order: 6
+  order: 5
 -
   id: 99
   leg_id: 4
@@ -735,3 +735,31 @@
   eventable_type: "meal"
   eventable_id: 43
   order: 1
+-
+  id: 105
+  leg_id: 4
+  day_id: 16
+  eventable_type: "meal"
+  eventable_id: 44
+  order: 1
+-
+  id: 106
+  leg_id: 4
+  day_id: 16
+  eventable_type: "attraction"
+  eventable_id: 52
+  order: 2
+-
+  id: 107
+  leg_id: 4
+  day_id: 16
+  eventable_type: "meal"
+  eventable_id: 45
+  order: 3
+-
+  id: 108
+  leg_id: 4
+  day_id: 16
+  eventable_type: "attraction"
+  eventable_id: 49
+  order: 4

@@ -655,3 +655,39 @@
   hours: "8:00 AM - 8:00 PM"
   price_range: "$$$"
   genre: "Hawaiian-Mediterranean"
+-
+  id: 42
+  name: "Slappy Cakes"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Slappy+Cakes/@20.9466167,-156.6900915,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad4c9c7afdf63:0xcf6acecc6be9e159!8m2!3d20.9466814!4d-156.6880541"
+    -
+      type: "website"
+      url: "https://www.slappycakesmaui.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Slappy+Cakes++Maui"
+  address: "3350 Lower Honoapiilani Rd #701, Lahaina, HI 96761"
+  phone: "+1 808-419-6600"
+  hours: "7:00 AM - 12:00 PM"
+  price_range: "$$"
+  genre: "Breakfast"
+-
+  id: 43
+  name: "Cafe O'Lei at the Mill House"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Cafe+O'Lei+at+the+Mill+House/@20.8491134,-156.5093908,17z/data=!3m1!5s0x7954d393a80dcf79:0x485f76f4563243cd!4m12!1m6!3m5!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!2sCafe+O'Lei+at+the+Mill+House!8m2!3d20.8490854!4d-156.5070341!3m4!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!8m2!3d20.8490854!4d-156.5070341"
+    -
+      type: "website"
+      url: "https://www.cafeoleirestaurants.com/#/cafe-olei-at-the-mill-house/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Cafe+Olei+at+the+Mill+House"
+  address: "1670 Honoapiilani Hwy, Wailuku, HI 96793"
+  phone: "+1 808-500-0553"
+  hours: "11:00 AM - 8:00 PM"
+  price_range: "$$"
+  genre: "Hawaiian, Seafood, American"
