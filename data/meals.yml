@@ -737,5 +737,20 @@
   id: 50
   name: "Dinner"
   restaurant_id: 48
-  priority: "normal"
+  priority: "omg"
   visible: true
+  food:
+    Casie:
+      - "Sesame Crusted Ahi Steak"
+      - "Tropical Smoothie"
+    Sean:
+      - "Herb Roasted Monchong"
+      - "Ginger Hoku"
+      - "Hibiscus Paloma"
+      - "Local Cola"
+    Shared:
+      - "Coconut Shrimp"
+      - "Kimo's Original Hula Pie"
+  ratings:
+    Casie: 5
+    Sean: 5

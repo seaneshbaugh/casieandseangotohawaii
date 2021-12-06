@@ -833,3 +833,66 @@
   eventable_type: "attraction"
   eventable_id: 49
   order: 1
+-
+  id: 118
+  leg_id: 4
+  day_id: 18
+  eventable_type: "meal"
+  eventable_id: 48
+  order: 2
+-
+  id: 119
+  leg_id: 4
+  day_id: 18
+  eventable_type: "attraction"
+  eventable_id: 59
+  order: 3
+-
+  id: 120
+  leg_id: 4
+  day_id: 18
+  eventable_type: "attraction"
+  eventable_id: 60
+  order: 4
+-
+  id: 121
+  leg_id: 4
+  day_id: 18
+  eventable_type: "attraction"
+  eventable_id: 61
+  order: 5
+-
+  id: 122
+  leg_id: 4
+  day_id: 18
+  eventable_type: "attraction"
+  eventable_id: 62
+  order: 6
+-
+  id: 123
+  leg_id: 4
+  day_id: 18
+  eventable_type: "attraction"
+  eventable_id: 63
+  order: 7
+-
+  id: 123
+  leg_id: 4
+  day_id: 18
+  eventable_type: "attraction"
+  eventable_id: 64
+  order: 8
+-
+  id: 124
+  leg_id: 4
+  day_id: 18
+  eventable_type: "meal"
+  eventable_id: 49
+  order: 9
+-
+  id: 125
+  leg_id: 4
+  day_id: 18
+  eventable_type: "meal"
+  eventable_id: 50
+  order: 10

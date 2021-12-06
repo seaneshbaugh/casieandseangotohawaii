@@ -1039,3 +1039,107 @@
   address: "2500 Honoapiilani Hwy, Wailuku, HI 96793"
   phone: "+1 808-249-0033"
   hours: "8:00 AM - 5:00 PM"
+-
+  id: 59
+  name: "Mai Poina Beach Park"
+  type: "beach"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Mai+Poina+Beach+Park/@20.7741773,-156.4625162,17z/data=!4m12!1m6!3m5!1s0x7954d1b2e4895985:0x57ba871d671a7554!2sMai+Poina+Beach+Park!8m2!3d20.7741773!4d-156.4603275!3m4!1s0x7954d1b2e4895985:0x57ba871d671a7554!8m2!3d20.7741773!4d-156.4603275"
+    -
+      type: "website"
+      url: "https://www.mauicounty.gov/Facilities/Facility/Details/Mai-Poina-Park-Maipoina-OE-IAU-Beach-Par-161"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Mai+Poina+Beach+Park"
+  address: "353 S Kihei Rd, Kihei, HI 96753"
+-
+  id: 60
+  name: "Maluaka Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Maluaka+Beach/@20.6461101,-156.4451945,17z/data=!4m12!1m6!3m5!1s0x7954db5b9973a693:0x79f3d040af56d38!2sMaluaka+Beach!8m2!3d20.6461101!4d-156.4430058!3m4!1s0x7954db5b9973a693:0x79f3d040af56d38!8m2!3d20.6461101!4d-156.4430058"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/maui/beaches/maluakabeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Maluaka+Beach"
+  address: "5400 Makena Alanui, Kihei, HI 96753"
+  hours: "7:30 AM - 7:30 PM"
+-
+  id: 61
+  name: "Makena Beach"
+  type: "beach"
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Makena+Beach/@20.6328457,-156.4511739,16.08z/data=!4m13!1m7!3m6!1s0x7eaad5ca21da6add:0xf2d3d66f2d3e5c3a!2sMakena+Beach!3b1!8m2!3d20.6316217!4d-156.4447925!3m4!1s0x7eaad5ca21da6add:0xf2d3d66f2d3e5c3a!8m2!3d20.6316217!4d-156.4447925"
+    -
+      type: "website"
+      url: "https://www.gohawaii.com/islands/maui/regions/south-maui/makena-beach"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Makena+Beach"
+  address: "6600 Makena Alanui, Kihei, HI 96753"
+  phone: "+1 800-464-2924"
+-
+  id: 62
+  name: "Ahihi-Kinau Natural Area Reserve"
+  type: "point-of-interest"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: "https://dlnr.hawaii.gov/ecosystems/nars/maui/ahihi-kinau-2/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ahihi+Kinau+Natural+Area+Reserve"
+  address: "Wailea, HI 96753"
+-
+  id: 63
+  name: "La Perouse Memorial"
+  type: "point-of-interest"
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/La+Perouse+Memorial/@20.6007558,-156.4220702,17z/data=!3m1!4b1!4m5!3m4!1s0x7954c33198325ab7:0x741d5e718e84e979!8m2!3d20.6007558!4d-156.4198815"
+    -
+      type: "website"
+      url: "https://www.francaisdeletranger.org/en/2014/05/30/mdfde-20th-anniversary-of-the-la-perouse-memorial-in-maui-hawaii-u-s-a/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=La+Perouse+Memorial"
+  address: "Kihei, HI 96753"
+-
+  id: 64
+  name: "Lava Fields"
+  type: "point-of-interest"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Lava+Fields/@20.5996326,-156.42222,17z/data=!4m12!1m6!3m5!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!2sLava+Fields!8m2!3d20.5996326!4d-156.4200313!3m4!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!8m2!3d20.5996326!4d-156.4200313"
+    -
+      type: "website"
+      url: "https://www.mauihawaii.org/sights/last-lava-laperouse/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lava+Fields+Maui"
+  address: "8650 Must Hold Block Boundary, Kihei, HI 96753"
