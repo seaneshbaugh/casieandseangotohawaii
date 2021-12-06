@@ -449,7 +449,7 @@
       url: "https://www.ululanishawaiianshaveice.com/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Tinroof+Maui"
+      url: "https://www.google.com/search?tbm=isch&q=Ululanis+Kihei+Maui"
   address: "61 S Kihei Rd, Kihei, HI 96753"
   phone: "+1 808-877-3700"
   hours: "10:30 AM - 6:00 PM"
@@ -465,14 +465,23 @@
   price_range: ""
   genre: ""
 -
-  id: 30 # day 10 breakfast
+  id: 30
   name: "Leoda's Kitchen and Pie Shop"
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Leoda's+Kitchen+and+Pie+Shop/@20.8113271,-156.6242033,17z/data=!3m1!5s0x795529d938635af7:0x8d9f774ddbc34204!4m12!1m6!3m5!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!2sLeoda's+Kitchen+and+Pie+Shop!8m2!3d20.8113193!4d-156.6220193!3m4!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!8m2!3d20.8113193!4d-156.6220193"
+    -
+      type: "website"
+      url: "https://www.leodas.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Leoda's+Kitchen+Pie+Shop"
+  address: "820 Olowalu Village Rd, Lahaina, HI 96761"
+  phone: "+1 808-662-3600"
+  hours: "10:00 AM - 6:00 PM"
+  price_range: "$$"
+  genre: "Sandwiches, Pies"
 -
   id: 31 # day 10 lunch
   name: "Barefoot Cafe"
@@ -691,3 +700,89 @@
   hours: "11:00 AM - 8:00 PM"
   price_range: "$$"
   genre: "Hawaiian, Seafood, American"
+-
+  id: 44
+  name: "Roy's Waikiki"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Roy's+Waikiki/@21.278664,-157.8337968,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0072757ba6dcc7:0x75b398de47b129bd!8m2!3d21.2787242!4d-157.8316861"
+    -
+      type: "website"
+      url: "https://www.royyamaguchi.com/roys-waikiki-oahu"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Roy's+Waikiki"
+  address: "226 Lewers St, Honolulu, HI 96815"
+  phone: "+1 808-923-7697"
+  hours: "4:30 PM - 9:00 PM"
+  price_range: "$$$"
+  genre: "Hawaiian, Seafood, Asian Fusion"
+-
+  id: 45
+  name: "Kihei Caffe"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kihei+Caffe/@20.7312953,-156.4539785,17z/data=!3m1!5s0x7954d074af1e99e7:0xda26793a7639da5!4m12!1m6!3m5!1s0x7954d074a6d82927:0xd3543519bb3e2afd!2sKihei+Caffe!8m2!3d20.7312979!4d-156.4517902!3m4!1s0x7954d074a6d82927:0xd3543519bb3e2afd!8m2!3d20.7312979!4d-156.4517902"
+    -
+      type: "website"
+      url: "https://kiheicaffe.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kihei+Caffe"
+  address: "1945 S Kihei Rd, Kihei, HI 96753"
+  phone: "+1 808-879-2230"
+  hours: "6:00 AM - 2:00 PM"
+  price_range: "$$"
+  genre: "Breakfast, Hawaiian"
+-
+  id: 46
+  name: "Ululani's Hawaiian Shave Ice"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kahului/@20.883035,-156.4566031,17z/data=!4m12!1m6!3m5!1s0x7954d2ea794ab09b:0xd1a7ead5f55cad3!2sUlulani's+Hawaiian+Shave+Ice+-+Kahului!8m2!3d20.8830541!4d-156.4544353!3m4!1s0x7954d2ea794ab09b:0xd1a7ead5f55cad3!8m2!3d20.8830541!4d-156.4544353"
+    -
+      type: "website"
+      url: "https://www.ululanishawaiianshaveice.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ululanis+Kahului+Maui"
+  address: "333 Dairy Rd, Kahului, HI 96732"
+  phone: "+1 808-280-8104"
+  hours: "10:30 AM - 6:00 PM"
+  price_range: "$"
+  genre: "Shaved ice, Ice cream"
+-
+  id: 47
+  name: "Olowalu Juice Stand"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Olowalu+Juice+Stand/@20.8113271,-156.6242033,17z/data=!3m1!5s0x795529d938635af7:0x8d9f774ddbc34204!4m12!1m6!3m5!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!2sLeoda's+Kitchen+and+Pie+Shop!8m2!3d20.8113193!4d-156.6220193!3m4!1s0x795529d950119e4f:0x93afedcf65969224!8m2!3d20.8118996!4d-156.6231123"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Olowalu+Juice+Stand"
+  address: "737 HI-30, Lahaina, HI 96761"
+  hours: "9:00 AM - 5:00 PM"
+  price_range: "$"
+  genre: "Smoothies"
+-
+  id: 48
+  name: "Leilani's on the Beach"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Leilani's+on+the+Beach/@20.9211776,-156.6977742,17z/data=!3m1!5s0x79552b43d412d3b1:0x725118268589a922!4m12!1m6!3m5!1s0x79552b417b74eae9:0x26350e83ee6b037c!2sLeilani's+on+the+Beach!8m2!3d20.9211776!4d-156.6955855!3m4!1s0x79552b417b74eae9:0x26350e83ee6b037c!8m2!3d20.9211776!4d-156.6955855"
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Leilani's+on+the+Beach"
+  address: "2435 Kaanapali Pkwy, Lahaina, HI 96761"
+  phone: "+1 808-661-4495"
+  hours: "11:00 AM - 9:00 PM"
+  price_range: "$$$"
+  genre: "Hawaiian, Seafood"

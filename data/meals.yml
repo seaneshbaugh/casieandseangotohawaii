@@ -531,6 +531,74 @@
   restaurant_id: 40
   priority: "normal"
   visible: true
+  food:
+    Casie:
+      - "Local Grown Green Salad"
+      - "Braised Beef"
+      - "I'a - Maui Style Fish"
+      - "Moa - Island Style Chicken"
+      - "Stir Fry Vegetables"
+      - "Sweet Potato Mash"
+      - "Haupio"
+      - "Kulolo"
+      - "Pineapple upside-down cake"
+    Cathie:
+      - "Local Grown Green Salad"
+      - "Braised Beef"
+      - "I'a - Maui Style Fish"
+      - "Moa - Island Style Chicken"
+      - "Stir Fry Vegetables"
+      - "Sweet Potato Mash"
+      - "Haupio"
+      - "Kulolo"
+      - "Pineapple upside-down cake"
+    Dwayne:
+      - "Local Grown Green Salad"
+      - "Braised Beef"
+      - "I'a - Maui Style Fish"
+      - "Moa - Island Style Chicken"
+      - "Stir Fry Vegetables"
+      - "Sweet Potato Mash"
+      - "Haupio"
+      - "Kulolo"
+      - "Pineapple upside-down cake"
+    Kyle:
+      - "Local Grown Green Salad"
+      - "Braised Beef"
+      - "I'a - Maui Style Fish"
+      - "Moa - Island Style Chicken"
+      - "Stir Fry Vegetables"
+      - "Sweet Potato Mash"
+      - "Haupio"
+      - "Kulolo"
+      - "Pineapple upside-down cake"
+    Sean:
+      - "Local Grown Green Salad"
+      - "Braised Beef"
+      - "I'a - Maui Style Fish"
+      - "Moa - Island Style Chicken"
+      - "Stir Fry Vegetables"
+      - "Sweet Potato Mash"
+      - "Haupio"
+      - "Kulolo"
+      - "Pineapple upside-down cake"
+    Shared:
+      - "Kalo and Sweet Potato Chips"
+      - "Kalo Hummus"
+      - "Hawaiian Sweet Rolls"
+      - "Taro Rolls"
+      - "Honey-Guava Butter"
+      - "Pua'a Kālua"
+      - "Laulau"
+      - "Poke 'Ahi"
+      - "Lomilomi Salmon"
+      - "Pa'i'ai"
+  ratings:
+    Casie: 4
+    Cathie: 3
+    Dwayne: 3
+    Kyle: 3
+    Sean: 4
 -
   id: 43
   name: "Brunch"
@@ -589,3 +657,85 @@
     Dwayne: 2
     Kyle: 4
     Sean: 4
+-
+  id: 46
+  name: "Breakfast"
+  restaurant_id: 45
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Kalua Pork Loco Moco"
+      - "Iced Coffee"
+    Sean:
+      - "Kalua Pork Loco Moco"
+      - "Iced Coffee"
+    Shared:
+      - "Cinnamon Roll"
+  ratings:
+    Casie: 4.75
+    Sean: 5
+-
+  id: 47
+  name: "Snack"
+  restaurant_id: 46
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Sunset Beach shaved ice with macademia nut ice cream"
+    Cathie:
+      - "Sunset Beach shaved ice with macademia nut ice cream"
+    Dwayne:
+      - "Sunset Beach shaved ice with macademia nut ice cream"
+    Sean:
+      - "Sunset Beach shaved ice with macademia nut ice cream"
+  ratings:
+    Casie: 5
+    Cathie: 4
+    Dwayne: 4
+    Sean: 5
+-
+  id: 48
+  name: "Lunch"
+  restaurant_id: 30
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Spicy Tuna Sandwich"
+      - "Olowalu Lime Pie"
+    Cathie:
+      - "Reuben Sandwich"
+      - "Coconut Cream Pie"
+    Dwayne:
+      - "Fresh Tuna Salad Sandwich"
+      - "Chocolate Mac Nut Pie"
+    Sean:
+      - "Seared Ahi Sandwich"
+      - "Pineapple Mac Nut Pie"
+  ratings:
+    Casie: 5
+    Cathie: 5
+    Dwayne: 5
+    Sean: 5
+-
+  id: 49
+  name: "Snack"
+  restaurant_id: 47
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Pineapple Smoothie"
+    Sean:
+      - "Coconut and Mango Smoothie"
+  ratings:
+    Casie: 5
+    Sean: 5
+-
+  id: 50
+  name: "Dinner"
+  restaurant_id: 48
+  priority: "normal"
+  visible: true

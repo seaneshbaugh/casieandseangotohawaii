@@ -938,3 +938,104 @@
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=ʻĪao+Valley+State+Monument"
   address: "54 S High St, Wailuku, HI 96793"
+-
+  id: 53
+  name: "Ho'okipa Beach Lookout"
+  type: "scenic-view"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Ho'okipa+Lookout/@20.9352639,-156.3577195,17z/data=!4m12!1m6!3m5!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!2sHo'okipa+Lookout!8m2!3d20.9352639!4d-156.3555308!3m4!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!8m2!3d20.9352639!4d-156.3555308"
+    -
+      type: "website"
+      url: "https://www.yelp.com/biz/hookipa-beach-lookout-paia"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ho'okipa+Beach+Lookout"
+  address: "Paia, HI 96779"
+-
+  id: 54
+  name: "Ho'okipa Beach Park"
+  type: "beach"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Ho'okipa+Beach+Park/@20.9352639,-156.3577195,17z/data=!4m12!1m6!3m5!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!2sHo'okipa+Lookout!8m2!3d20.9352639!4d-156.3555308!3m4!1s0x7eab330ae74efe51:0xd69131776ff145f!8m2!3d20.9342545!4d-156.356079"
+    -
+      type: "website"
+      url: "https://www.mauicounty.gov/facilities/Facility/Details/169"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ho'okipa+Beach"
+  address: "179 Hana Hwy, Paia, HI 96779"
+-
+  id: 55
+  name: "Olowalu Petroglyphs"
+  type: "point-of-interest"
+  priority: "minor"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Olowalu+Petroglyphs/@20.8187182,-156.6207625,17z/data=!4m12!1m6!3m5!1s0x795529e017e276ef:0x414c9a4b7c10fcbf!2sOlowalu+Petroglyphs!8m2!3d20.8187182!4d-156.6185738!3m4!1s0x795529e017e276ef:0x414c9a4b7c10fcbf!8m2!3d20.8187182!4d-156.6185738"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/maui/ancientsites/olowalupetroglyphs.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Olowalu+Petroglyphs"
+  address: "361 Luawai St, Lahaina, HI 96761"
+-
+  id: 56
+  name: "Lower Pāʻia Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Lower+P%C4%81%CA%BBia+Park/@20.9174777,-156.4330819,13z/data=!4m9!1m2!2m1!1sLower+Paia+Beach+Park!3m5!1s0x7eab32de7daf08db:0xa9fead98a42c2c40!8m2!3d20.9151504!4d-156.3847041!15sChVMb3dlciBQYWlhIEJlYWNoIFBhcmtaFyIVbG93ZXIgcGFpYSBiZWFjaCBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSTmNWb3lhRTUzRUFF"
+    -
+      type: "website"
+      url: "https://www.mauicounty.gov/Facilities/Facility/Details/Lower-Paia-Park-115"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Lower+Paia+Beach+Park"
+  address: "19 Hana Hwy, Paia, HI 96779"
+-
+  id: 57
+  name: "Pāʻia Secret Beach"
+  type: "beach"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/P%C4%81%CA%BBia+Secret+Beach/@20.905825,-156.3966137,13.85z/data=!4m9!1m2!2m1!1sLower+Paia+Beach+Park!3m5!1s0x7eab335e2356658f:0x427fa2a94b534656!8m2!3d20.9153104!4d-156.3886421!15sChVMb3dlciBQYWlhIEJlYWNoIFBhcmtaFyIVbG93ZXIgcGFpYSBiZWFjaCBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSemQwc3pRMlJCRUFF"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Paia+Secret+Beach"
+  address: "Puna Rd, Paia, HI 96779"
+-
+  id: 58
+  name: "King Kamehameha Golf Course Clubhouse"
+  type: "point-of-interest"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/The+King+Kamehameha+Golf+Club/@20.8371839,-156.5190789,17z/data=!4m9!1m2!2m1!1sKing+Kamehameha+Country+Club!3m5!1s0x7954d3ee96160ec5:0xf395d8d7a89ac31b!8m2!3d20.8406816!4d-156.5187633!15sChxLaW5nIEthbWVoYW1laGEgQ291bnRyeSBDbHViWh4iHGtpbmcga2FtZWhhbWVoYSBjb3VudHJ5IGNsdWKSAQlnb2xmX2NsdWI"
+    -
+      type: "website"
+      url: "https://www.kamehamehagolf.com/index.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=King+Kamehameha+Golf+Course+Clubhouse"
+  address: "2500 Honoapiilani Hwy, Wailuku, HI 96793"
+  phone: "+1 808-249-0033"
+  hours: "8:00 AM - 5:00 PM"
