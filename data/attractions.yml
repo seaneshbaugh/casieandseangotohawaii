@@ -709,21 +709,21 @@
   address: "65 Kai Ala Dr, Lahaina, HI 96761"
 -
   id: 40
-  name: "Dragon's Teeth"
+  name: "Makaluapuna Point"
   type: "point-of-interest"
-  priority: "major"
+  priority: "omg"
   visible: true
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.005409502729496%2C-156.66774118002604&z=13"
+      url: "https://www.google.com/maps/place/Makaluapuna+Point/@21.0065206,-156.6575188,17z/data=!4m12!1m6!3m5!1s0x7eaad5c8c3fb8ac3:0x6fd25cb731695ade!2sMakaluapuna+Point!8m2!3d21.0065206!4d-156.6553301!3m4!1s0x7eaad5c8c3fb8ac3:0x6fd25cb731695ade!8m2!3d21.0065206!4d-156.6553301"
     -
       type: "website"
       url: "https://www.to-hawaii.com/maui/attractions/dragonsteeth.php"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Dragon%27s+Teeth+Maui"
-  address: "Dragon's Teeth Access Trail, Lahaina, HI 96761"
+      url: "https://www.google.com/search?tbm=isch&q=Makaluapuna+Point"
+  address: "4946 Lower Honoapiilani Rd, Lahaina, HI 96761"
 -
   id: 41
   name: "Honolua Bay"
@@ -740,13 +740,12 @@
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Honolua+Bay"
-  address: ""
-  phone: ""
+  address: "HI 96761"
 -
   id: 42
   name: "Nakalele Blowhole"
   type: "point-of-interest"
-  priority: "normal"
+  priority: "high"
   visible: true
   links:
     -
@@ -1143,3 +1142,21 @@
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Lava+Fields+Maui"
   address: "8650 Must Hold Block Boundary, Kihei, HI 96753"
+-
+  id: 65
+  name: "Hāna Bay Beach Park"
+  type: "beach"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/H%C4%81na+Bay+Beach+Park/@20.7551518,-155.985599,17z/data=!4m12!1m6!3m5!1s0x7954ac24568435e1:0xb5818c2681d0110f!2sH%C4%81na+Bay+Beach+Park!8m2!3d20.7551518!4d-155.9834103!3m4!1s0x7954ac24568435e1:0xb5818c2681d0110f!8m2!3d20.7551518!4d-155.9834103"
+    -
+      type: "website"
+      url: "https://www.mauicounty.gov/Facilities/Facility/Details/Hana-Bay-Beach-Park-150"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hana+Bay+Beach+Park"
+  address: "150 Keawa Pl, Hana, HI 96713"
+  phone: "+1 808-248-7022"

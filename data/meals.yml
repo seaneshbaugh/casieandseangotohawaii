@@ -605,6 +605,30 @@
   restaurant_id: 41
   priority: "normal"
   visible: true
+  food:
+    Casie:
+      - "Seared Ahi Benedict"
+      - "Orange Juice"
+    Cathie:
+      - "Veggie Omlette"
+      - "Water"
+    Dwayne:
+      - "Seared Ahi Benedict"
+      - "Water"
+    Kyle:
+      - "Portuguese Sausage, Bacon &amp; Cheddar Omlette"
+      - "Ice Tea"
+    Sean:
+      - "Portuguese Sausage, Bacon &amp; Cheddar Omlette"
+      - "Seared Ahi Benedict"
+      - "Coffee"
+      - "Passion Orange Guava Juice"
+  ratings:
+    Casie: 4
+    Cathie: 4
+    Dwayne: 4
+    Kyle: 4
+    Sean: 4
 -
   id: 44
   name: "Breakfast"
@@ -753,4 +777,32 @@
       - "Kimo's Original Hula Pie"
   ratings:
     Casie: 5
+    Sean: 5
+-
+  id: 51
+  name: "Dinner"
+  restaurant_id: 49
+  priority: "normal"
+  visible: true
+  food:
+    Casie:
+      - "Fire Grilled Ahi Steak"
+      - "Water"
+    Cathie:
+      - "Kiawe Roasted Chicken"
+      - "Lilikoi Mojito"
+    Dwayne:
+      - "Crab Topped Macadamia Nut Crusted Mahi-mahi"
+      - "Barefoot Brew"
+    Sean:
+      - "Crab Topped Macadamia Nut Crusted Mahi-mahi"
+      - "Diet Local Cola"
+    Shared:
+      - "Lobster, Shrimp &amp; Scallop Potstickers"
+      - "Mango BBQ Ribs"
+  ratings:
+    Casie: 4.5
+    Cathie: 4
+    Dwayne: 5
+    Kyle: 3
     Sean: 5

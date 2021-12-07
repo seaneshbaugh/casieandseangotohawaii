@@ -777,12 +777,30 @@
       url: "https://www.google.com/maps/place/Leilani's+on+the+Beach/@20.9211776,-156.6977742,17z/data=!3m1!5s0x79552b43d412d3b1:0x725118268589a922!4m12!1m6!3m5!1s0x79552b417b74eae9:0x26350e83ee6b037c!2sLeilani's+on+the+Beach!8m2!3d20.9211776!4d-156.6955855!3m4!1s0x79552b417b74eae9:0x26350e83ee6b037c!8m2!3d20.9211776!4d-156.6955855"
     -
       type: "website"
-      url: ""
+      url: "https://www.leilanis.com/"
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Leilani's+on+the+Beach"
   address: "2435 Kaanapali Pkwy, Lahaina, HI 96761"
   phone: "+1 808-661-4495"
   hours: "11:00 AM - 9:00 PM"
+  price_range: "$$$"
+  genre: "Hawaiian, Seafood"
+-
+  id: 49
+  name: "Hula Grill Kaanapali"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Hula+Grill+Kaanapali/@20.9217917,-156.6975637,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b417b74eae9:0x48a630c5dc42e9ac!8m2!3d20.9217763!4d-156.6952446"
+    -
+      type: "website"
+      url: "https://www.hulagrillkaanapali.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hula+Grill+Kanapali"
+  address: "2435 Kaanapali Pkwy, Lahaina, HI 96761"
+  phone: "+1 808-667-6636"
+  hours: "11:00 AM - 8:45 PM"
   price_range: "$$$"
   genre: "Hawaiian, Seafood"
