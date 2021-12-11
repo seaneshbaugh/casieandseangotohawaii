@@ -1,0 +1,23 @@
+- make people table
+
+- add visits table
+- visits table belongs to attracion
+- visits table has notes for attraction
+- change events to point to visits instead of attractions
+
+- make participants table
+- participants table links people and visits
+
+- add orders table
+- orders links meals and people
+- orders table is one entry per food item
+- meals table has notes for restaurant
+
+- add travellers table
+- travellers table links flights and persons
+- flights table has notes for airport
+
+- add links table
+- links polymorphic belong to linkable (attraction, airport, restaurant)
+
+- drop visible columns

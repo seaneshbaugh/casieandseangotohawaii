@@ -806,3 +806,154 @@
     Dwayne: 5
     Kyle: 3
     Sean: 5
+-
+  id: 52
+  name: "Breakfast"
+  restaurant_id: 50
+  priority: "low"
+  visible: true
+  food:
+    Casie:
+      - "Sausage, Egg, and Cheese Bagel Sandwich"
+    Sean:
+      - "Sausage, Egg, and Cheese Bagel Sandwich"
+  ratings:
+    Casie: 1
+    Sean: 1
+-
+  id: 53
+  name: "Lunch"
+  restaurant_id: 51
+  food:
+    Casie:
+      - "Steakhouse Burger"
+      - "Water"
+    Cathie:
+      - "Water"
+    Dwayne:
+      - "Ice Tea"
+    Kyle:
+      - "Ice Tea"
+    Sean:
+      - "Cheeseburger in Paradise"
+      - "Diet Coke"
+      - "Pina Colada"
+  ratings:
+    Casie: 2
+    Cathie: 3
+    Dwayne: 3
+    Kyle: 3
+    Sean: 2
+-
+  id: 54
+  name: "Dinner"
+  restaurant_id: 52
+  food:
+    Casie:
+      - "Chicken Katsu Curry"
+      - "Water"
+    Cathie:
+      - "Island Cobb Salad"
+      - "Mojito"
+    Dwayne:
+      - "Original Spinach Salad"
+      - "Longboard Lager"
+    Kyle:
+      - "Chicken Katsu Curry"
+      - "Ice Tea"
+    Sean:
+      - "Kalua Pork Curry"
+      - "Diet Coke"
+  ratings:
+    Casie: 4
+    Cathie: 3
+    Dwayne: 3
+    Kyle: 3
+    Sean: 4
+-
+  id: 55
+  name: "Breakfast"
+  restaurant_id: 53
+  food:
+    Casie:
+      - "Chuns Breakfast Bomber"
+      - "Iced Vanilla Macadamia Nut Coffee"
+    Sean:
+      - "Chuns Breakfast Bomber"
+      - "Iced Vanilla Macadamia Nut Coffee"
+  ratings:
+    Casie: 5
+    Sean: 5
+-
+  id: 56
+  name: "Lunch"
+  restaurant_id: 5
+  food:
+    Casie:
+      - "Chilled Shrimp Salad"
+      - "Ice Tea"
+    Cathie:
+      - "Crispy Chicken BLT"
+      - "Water"
+    Dwayne:
+      - "Crispy Chicken BLT (minus chicken)"
+      - "Ice Tea"
+    Kyle:
+      - "Cajun Fish Tacos"
+      - "Coke"
+    Sean:
+      - "Coconut Shrimp &amp; Fries"
+      - "Local Diet Cola"
+    Shared:
+      - "Duke's Nachos"
+      - "Kimo's Original Hula Pie"
+  ratings:
+    Casie: 3.5
+    Cathie: 3
+    Dwayne: 3
+    Kyle: 3
+    Sean: 3
+-
+  id: 57
+  name: "Dinner"
+  restaurant_id: 1
+  food:
+    Casie:
+      - "Beef Udon"
+      - "Tempura Potato Croquette"
+      - "Tempura Shrimp"
+      - "Tempura Shrimp"
+      - "Tempura Mushroom"
+      - "Ito En Green Tea"
+    Sean:
+      - "Curry Nikutama Udon"
+      - "Tempura Potato Croquette"
+      - "Tempura Shrimp"
+      - "Tempura Shrimp"
+      - "Tempura Tamagoyaki"
+      - "Diet Coke"
+  ratings:
+    Casie: 4.5
+    Sean: 5
+-
+  id: 58
+  name: "Snack"
+  restaurant_id: 54
+  food:
+    Casie:
+      - "One Scoop Pineapple Orange Guava Sorbet in a Cup"
+    Sean:
+      - "One Scoop Coconut Ice Cream + One Scoop White Chocolate Macademia Nut Ice Cream on a Waffle Cone"
+  ratings:
+    Casie: 5
+    Sean: 4
+-
+  id: 59
+  name: "Breakfast"
+  restaurant_id: 55
+  food:
+    Casie:
+      - "Brudah Omelette"
+      - "Orange Juice"
+  ratings:
+    Casie: 4

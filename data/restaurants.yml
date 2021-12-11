@@ -804,3 +804,63 @@
   hours: "11:00 AM - 8:45 PM"
   price_range: "$$$"
   genre: "Hawaiian, Seafood"
+-
+  id: 50
+  name: "‘Āina Gourmet Market"
+  links: []
+  address: "130 Kai Malina Pkwy Suite 1, Lahaina, HI 96761"
+  phone: "+1 808-662-2832"
+  hours: "6:30 AM - 9:30 PM"
+  price_range: "$"
+  genre: "Breakfast"
+-
+  id: 51
+  name: "Cheeseburger In Paradise"
+  links: []
+  address: "811 Front St, Lahaina, HI 96761"
+  phone: "+1 808-661-4855"
+  hours: "10:30 AM - 9:30 PM"
+  price_range: "$$"
+  genre: "Hamburgers, American"
+-
+  id: 52
+  name: "Aloha Table"
+  links: []
+  address: "2238 Lauula St #2, Honolulu, HI 96815"
+  phone: "+1 808-922-2221"
+  hours: "11:30 AM - 2:00 PM, 4:00 PM - 11:00 PM"
+  price_range: "$$"
+  genre: "Hawaiian"
+-
+  id: 53
+  name: "Kono's Northshore"
+  links:
+    -
+      type: "website"
+      url: "https://www.konosnorthshore.com/"
+  address: "2310 Kuhio Avenue #1-A, Honolulu, HI 96815"
+  phone: "+1 808-888-8833"
+  hours: "7:00 AM - 9:00 PM"
+  price_range: "$"
+  genre: "Breakfast, Hawaiian"
+-
+  id: 54
+  name: "Café Glacé"
+  links: []
+  address: "227 Lewers St #115, Honolulu, HI 96815"
+  phone: "+1 808-927-2645"
+  hours: "8:00 AM - 9:30 PM"
+  price_range: "$"
+  genre: "Ice Cream"
+-
+  id: 55
+  name: "Ken's House of Pancakes"
+  links:
+    -
+      type: "website"
+      url: "https://www.kenshouseofpancakes.com/"
+  address: "1730 Kamehameha Ave, Hilo, HI 96720"
+  phone: "+1 808-935-8711"
+  hours: "6:00 AM - 9:00 PM"
+  price_range: "$"
+  genre: "Breakfast"

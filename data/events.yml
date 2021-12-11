@@ -699,7 +699,7 @@
   day_id: 20
   eventable_type: "flight"
   eventable_id: 6
-  order: 1
+  order: 4
 -
   id: 100
   leg_id: 5
@@ -932,3 +932,172 @@
   eventable_type: "meal"
   eventable_id: 51
   order: 5
+-
+  id: 131
+  leg_id: 4
+  day_id: 20
+  eventable_type: "meal"
+  eventable_id: 52
+  order: 1
+-
+  id: 132
+  leg_id: 4
+  day_id: 20
+  eventable_type: "attraction"
+  eventable_id: 66
+  order: 2
+  notes: "This beach is just a strip of sand on the side of HI 30. It is totally worth the stop, especially if coming from Lahaina."
+-
+  id: 133
+  leg_id: 4
+  day_id: 20
+  eventable_type: "meal"
+  eventable_id: 53
+  order: 3
+-
+  id: 134
+  leg_id: 5
+  day_id: 21
+  eventable_type: "meal"
+  eventable_id: 54
+  order: 5
+-
+  id: 135
+  leg_id: 5
+  day_id: 21
+  eventable_type: "attraction"
+  eventable_id: 1
+  order: 6
+-
+  id: 136
+  leg_id: 5
+  day_id: 21
+  eventable_type: "attraction"
+  eventable_id: 2
+  order: 7
+-
+  id: 137
+  leg_id: 5
+  day_id: 22
+  eventable_type: "meal"
+  eventable_id: 55
+  order: 1
+-
+  id: 138
+  leg_id: 5
+  day_id: 22
+  eventable_type: "meal"
+  eventable_id: 56
+  order: 2
+-
+  id: 139
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 1
+  order: 3
+-
+  id: 140
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 67
+  order: 4
+-
+  id: 139
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 68
+  order: 5
+-
+  id: 140
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 69
+  order: 6
+-
+  id: 141
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 70
+  order: 7
+-
+  id: 142
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 71
+  order: 8
+-
+  id: 143
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 72
+  order: 9
+-
+  id: 144
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 73
+  order: 10
+-
+  id: 145
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 74
+  order: 11
+-
+  id: 146
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 75
+  order: 12
+-
+  id: 147
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 69
+  order: 13
+-
+  id: 148
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 67
+  order: 14
+-
+  id: 149
+  leg_id: 5
+  day_id: 22
+  eventable_type: "attraction"
+  eventable_id: 1
+  order: 15
+-
+  id: 150
+  leg_id: 5
+  day_id: 22
+  eventable_type: "meal"
+  eventable_id: 57
+  order: 16
+-
+  id: 151
+  leg_id: 5
+  day_id: 22
+  eventable_type: "meal"
+  eventable_id: 58
+  order: 17
+-
+  id: 152
+  leg_id: 6
+  day_id: 24
+  eventable_type: "meal"
+  eventable_id: 59
+  order: 2

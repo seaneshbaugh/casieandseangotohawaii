@@ -1160,3 +1160,105 @@
       url: "https://www.google.com/search?tbm=isch&q=Hana+Bay+Beach+Park"
   address: "150 Keawa Pl, Hana, HI 96713"
   phone: "+1 808-248-7022"
+-
+  id: 66
+  name: "Ukumehame Beach Park"
+  type: "beach"
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Ukumehame+Beach+Park"
+  address: "615 Honoapiilani Hwy, Lahaina, HI 96761"
+  phone: "+1 808-661-4685"
+-
+  id: 67
+  name: "Kūhiō Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/K%C5%ABhi%C5%8D+Beach/@21.2719169,-157.823846,17z/data=!4m5!3m4!1s0x7c00727128728279:0xf1a8c5bdd3752804!8m2!3d21.2727724!4d-157.8238124"
+  address: "453 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-768-3003"
+-
+  id: 68
+  name: "Waikiki Wall"
+  type: "point-of-interest"
+  priority: "low"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Waikiki+Wall/@21.2719169,-157.823846,17z/data=!4m5!3m4!1s0x0:0x67589bfea8ab42f8!8m2!3d21.2713882!4d-157.8230116"
+    -
+      type: "website"
+      url: "http://www.waikikiwall.com/"
+  address: "204 Kapahulu Ave, Honolulu, HI 96815"
+  phone: "+1 808-497-9731"
+-
+  id: 69
+  name: "Queen's Beach"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links: []
+  address: "Honolulu, HI 96815"
+-
+  id: 70
+  name: "War Memorial Natatorium"
+  type: "point-of-interest"
+  priority: "minor"
+  visible: true
+  links: []
+  address: "2815 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-254-1828"
+-
+  id: 71
+  name: "Kaimana Beach"
+  type: "beach"
+  priority: "minor"
+  visible: true
+  links: []
+  address: "Honolulu, HI 96815"
+-
+  id: 72
+  name: "Outrigger Canoe Club Beach"
+  type: "beach"
+  priority: "minor"
+  visible: true
+  links: []
+  address: "Honolulu, HI 96815"
+-
+  id: 73
+  name: "Tonggs Beach"
+  type: "beach"
+  priority: "minor"
+  visible: true
+  links: []
+  address: "Kalakaua Ave, Honolulu, HI 96815"
+-
+  id: 74
+  name: "Mākālei Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links: []
+  address: "3111 Diamond Head Rd, Honolulu, HI 96815"
+-
+  id: 75
+  name: "Sans Souci State Recreational Park"
+  type: "park"
+  priority: "normal"
+  visible: true
+  links: []
+  address: "Honolulu, HI 96815"

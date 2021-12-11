@@ -45,7 +45,7 @@
 -
   id: 5
   company: "Avis"
-  car_make_model: "Standard SUV"
+  car_make_model: "Ford Edge"
   price: "$416.59"
   pickup_location_airport_id: 2
   pickup_date: "12/7/21"
@@ -56,7 +56,7 @@
 -
   id: 6
   company: "Alamo"
-  car_make_model: "Intermediate SUV"
+  car_make_model: "Chevrolet Equinox"
   price: "$96.79"
   pickup_location_airport_id: 6
   pickup_date: "12/9/21"

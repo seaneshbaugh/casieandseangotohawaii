@@ -47,6 +47,12 @@
         }
     }
 
+    &.park {
+        > .name::before {
+            content: var(--park-icon);
+        }
+    }
+
     &.scenic-view {
         background: var(--scenic-view-background-color);
 
