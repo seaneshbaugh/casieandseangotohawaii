@@ -957,3 +957,205 @@
       - "Orange Juice"
   ratings:
     Casie: 4
+-
+  id: 60
+  name: "Dinner"
+  restaurant_id: 56
+  food:
+    Casie:
+      - "Beer Battered Fish &amp; Chips"
+      - "Water"
+    Cathie:
+      - "Localicious Salad"
+      - "Pina Colada"
+    Dwayne:
+      - "Beer Battered Fish &amp; Chips"
+      - "Kona Light Blond Ale"
+    Sean:
+      - "Ono and Mahi Mahi"
+      - "Local Diet Cola"
+  ratings:
+    Casie: 3
+    Cathie: 3
+    Dwayne: 3
+    Sean: 4
+-
+  id: 61
+  name: "Breakfast"
+  restaurant_id: 57
+  food:
+    Casie:
+      - "Traditional Waffle"
+      - "Iced Latte"
+    Sean:
+      - "Salted Caramel Waffle"
+      - "Iced Latte"
+  ratings:
+    Casie: 3
+    Sean: 2
+-
+  id: 62
+  name: "Lunch"
+  restaurant_id: 58
+  food:
+    Casie:
+      - "Black Tiger Shrimp"
+      - "Plantation Ice Tea"
+      - "Kona Coffee Gelato"
+    Cathie:
+      - "Black Tiger Shrimp"
+      - "Water"
+      - "Kona Coffee Gelato"
+    Dwayne:
+      - "Crab Lobster Salad on Whole Wheat Croissant"
+      - "Plantation Ice Tea"
+      - "Halekulani's Signature Coconut Cake"
+    Kyle:
+      - "House Salad"
+      - "Maccheroni Bolognese"
+      - "Coke"
+    Sean:
+      - "Beef Tartare, Piemonte Style"
+      - "Hapu'upu'u"
+      - "Guava Juice"
+      - "Plantation Ice Tea"
+      - "Halekulani's Signature Coconut Cake"
+  ratings:
+    Casie: 5
+    Cathie: 5
+    Dwayne: 5
+    Kyle: 5
+    Sean: 5
+-
+  id: 63
+  name: "Dinner"
+  restaurant_id: 59
+  food:
+    Casie:
+      - "Water"
+    Sean:
+      - "Sake"
+      - "Coke Zero"
+    Shared:
+      - "Lava Roll"
+      - "Negi Toro Roll"
+      - "Philly Roll"
+      - "Creamy Spicy Shrimp Tempura"
+      - "Chicken Karaage"
+  ratings:
+    Casie: 3
+    Sean: 3
+-
+  id: 64
+  name: "Breakfast"
+  restaurant_id: 6
+  food:
+    Case:
+      - "Ice Coffee"
+    Sean:
+      - "Ice Coffee"
+    Shared:
+      - "Six Cinnamon Sugar Malasadas"
+      - "Two Chcoclate Malasadas"
+      - "Two Haupia Malasadas"
+      - "Two Macadamia Nut Malasadas"
+-
+  id: 65
+  name: "Lunch"
+  restaurant_id: 60
+  food:
+    Casie:
+      - "Teriyaki Shrimp Plate"
+      - "Aloha Ice Tea"
+    Sean:
+      - "Hawaiian Poke Plate"
+      - "Passion Orange Hawaiian Sun"
+  ratings:
+    Casie: 4.5
+    Sean: 4
+-
+  id: 66
+  name: "Dinner"
+  restaurant_id: 44
+  food:
+    Casie:
+      - ""
+    Cathie:
+      - ""
+    Dwayne:
+      - ""
+    Kyle:
+      - ""
+    Sean:
+      - ""
+    Shared:
+      - ""
+  ratings:
+    Casie: 5
+    Cathie: 5
+    Dwayne: 5
+    Kyle: 5
+    Sean: 5
+-
+  id: 67
+  name: "Breakfast"
+  restaurant_id: 61
+  food:
+    Casie:
+      - "Egg Lust Sandwich"
+      - "Mango Smoothie"
+      - "Ice Coffee"
+    Sean:
+      - "Royal Loco Moco"
+      - "Mango Smoothie"
+      - "Ice Coffee"
+  ratings:
+    Casie: 4
+    Sean: 4.5
+-
+  id: 68
+  name: "Lunch"
+  restaurant_id: 62
+  food:
+    Casie:
+      - ""
+    Cathie:
+      - ""
+    Dwayne:
+      - ""
+    Kyle:
+      - ""
+    Sean:
+      - ""
+    Shared:
+      - ""
+  ratings:
+    Casie: 3
+    Cathie: 3
+    Dwayne: 3
+    Kyle: 3
+    Sean: 4
+-
+  id: 69
+  name: "Dinner"
+  restaurant_id: 63
+  food:
+    Casie:
+      - ""
+    Cathie:
+      - ""
+    Dwayne:
+      - ""
+    Kyle:
+      - ""
+    Sean:
+      - ""
+    Shared:
+      - ""
+  ratings:
+    Casie: 5
+    Cathie: 5
+    Dwayne: 5
+    Kyle: 5
+    Sean: 5
+  notes: "The chef's vibes were immaculate."

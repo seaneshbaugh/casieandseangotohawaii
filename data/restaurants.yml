@@ -1,16 +1,16 @@
 -
   id: 1
-  name: "Marukame Udon"
+  name: "Marugame Udon"
   links:
     -
       type: "map"
       url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.279337343720897%2C-157.82618586152796&z=18"
     -
       type: "website"
-      url: "http://www.toridollusa.com/menu-waikiki.php"
+      url: "https://www.marugameudon.com/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Marukame+Udon"
+      url: "https://www.google.com/search?tbm=isch&q=Marugame+Udon+Waikiki"
     -
       type: "reviews"
       url: "https://www.yelp.com/biz/marukame-udon-honolulu"
@@ -18,7 +18,7 @@
   phone: "+1 808-931-6000"
   hours: "7:00 AM - 10:00 PM"
   price_range: "$"
-  genre: "Japanese, noodles"
+  genre: "Japanese"
   frommers_guide_book_page: "143"
 -
   id: 2
@@ -864,3 +864,101 @@
   hours: "6:00 AM - 9:00 PM"
   price_range: "$"
   genre: "Breakfast"
+-
+  id: 56
+  name: "Hula Grill Waikiki"
+  links:
+    -
+      type: "website"
+      url: "https://www.hulagrillwaikiki.com/"
+  address: "2335 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-923-4852"
+  hours: "7:00 AM - 10:00 PM"
+  price_range: "$$"
+  genre: "Hawaiian, Seafood"
+-
+  id: 57
+  name: "Hawaiian Aroma Caffe At Beachcomber Waikiki"
+  links:
+    -
+      type: "website"
+      url: "https://www.hawaiianaromacaffe.com/"
+  address: "2300 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-256-2602"
+  hours: "6:00 AM - 10:00 PM"
+  price_range: "$"
+  genre: "Breakfast"
+-
+  id: 58
+  name: "Orchids"
+  links:
+    -
+      type: "website"
+      url: "https://www.halekulani.com/dining/orchids/"
+  address: "2199 Kālia Rd, Honolulu, HI 96815"
+  phone: "+1 808-923-2311"
+  hours: "7:00 AM - 10:30 AM, 11:30 AM - 1:30 PM, 5:30 PM - 8:30 PM"
+  price_range: "$$$$"
+  genre: "Italian, Seafood"
+-
+  id: 59
+  name: "TsuruTonTan"
+  links:
+    -
+      type: "website"
+      url: "https://www.tsurutontan.com/hawaii"
+  address: "2233 Kalakaua Ave B310, Honolulu, HI 96815"
+  phone: "+1 808-888-8559"
+  hours: "11:00 AM - 2:00 PM, 4:30 PM - 9:00 PM"
+  genre: "Japanese"
+-
+  id: 60
+  name: "Aji Limo Truck"
+  links:
+    -
+      type: "website"
+      url: "https://www.facebook.com/ajilimotruck/"
+  address: "57-512 Kamehameha Hwy, Haleiwa, HI 96712"
+  phone: "+1 808-372-2306"
+  hours: "11:00 AM - 8:30 PM"
+  price_range: "$"
+  genre: "Hawaiian, Japanese, Peruvian"
+-
+  id: 61
+  name: "Barefoot Beach Cafe"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Barefoot+Beach+Cafe+@+Queen's+Surf+Beach/@21.2679099,-157.8246587,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00726ff958afd7:0x283d722b912d17d2!8m2!3d21.2679099!4d-157.82247"
+    -
+      type: "website"
+      url: "https://www.barefootbeachcafe.com/"
+  address: "2699 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-924-2233"
+  hours: "8:00 AM - 8:30 PM"
+  price_range: "$"
+  genre: "Breakfast"
+-
+  id: 62
+  name: "Mai Tai Bar"
+  links:
+    -
+      type: "website"
+      url: "https://www.royal-hawaiian.com/dining-overview/mai-tai-bar/"
+  address: "2259 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-923-7311"
+  price_range: "$$"
+  hours: "11:00 AM - 9:30 PM"
+  genre: "Hawaiian, New American"
+-
+  id: 63
+  name: "Tanaka of Tokyo Central"
+  links:
+    -
+      type: "website"
+      url: "https://www.tanakaoftokyo.com/en/central"
+  address: "2250 Kalakaua Ave 3rd Fl, Honolulu, HI 96815"
+  phone: "+1 808-922-4702"
+  price_range: "$$$"
+  hours: "5:00 PM - 9:00 PM"
+  genre: "Japanese"

@@ -1262,3 +1262,224 @@
   visible: true
   links: []
   address: "Honolulu, HI 96815"
+-
+  id: 76
+  name: "Steam Vents"
+  type: "scenic-view"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Steam+Vents/@19.4314419,-155.2732052,15z/data=!4m5!3m4!1s0x7953d08de1e092c9:0x3497a559a6f3ea9d!8m2!3d19.4314196!4d-155.2678831"
+  address: "1 Crater Rim Drive, Pāhoa, HI 96778"
+-
+  id: 77
+  name: "Kilauea Overlook"
+  type: "scenic-view"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kilauea+Overlook/@19.4227809,-155.2883972,15z/data=!4m5!3m4!1s0x0:0x2a43f85d9c40e464!8m2!3d19.4232814!4d-155.2841674?shorturl=1"
+  address: "Pāhoa, HI 96778"
+-
+  id: 78
+  name: "Nahuku - Thurston Lava Tube"
+  type: "point-of-interest"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Nahuku+-+Thurston+Lava+Tube/@19.4119859,-155.2418891,15z/data=!4m5!3m4!1s0x7953d0dff48262ff:0x9f8869525eb45d9b!8m2!3d19.4138014!4d-155.238647"
+  address: "Hawaii Volcanoes National Park, HI 96718"
+-
+  id: 79
+  name: "Devastation Trail"
+  type: "hike"
+  priority: "high"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Devastation+Trail/@19.4064602,-155.2550908,17z/data=!3m1!4b1!4m5!3m4!1s0x7953d0c5788cf87b:0x7b6fa1e7149011c3!8m2!3d19.4064602!4d-155.2529021"
+  address: "Crater Rim Drive, Volcano, HI 96785"
+-
+  id: 80
+  name: "Hale Ma'uma'u Volcano Crater"
+  type: "scenic-view"
+  priority: "omg"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Hale+Ma'uma'u+Volcano+Crater/@19.4029551,-155.2823118,17.13z/data=!4m5!3m4!1s0x7953d0a96428eda3:0x184a1216e531bf2e!8m2!3d19.4053821!4d-155.2810377"
+  address: "Halema'uma'u Trail, Pāhoa, HI 96778"
+-
+  id: 81
+  name: "Luamanu Crater"
+  type: "point-of-interest"
+  priorty: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Luamanu+Crater/@19.401241,-155.2561273,15.18z/data=!4m5!3m4!1s0x7953d0c953d8c683:0xd17a85cdf2326cce!8m2!3d19.3986262!4d-155.2537281"
+  address: "HI 96778"
+-
+  id: 82
+  name: "Kōko‘Olau Crater"
+  type: "point-of-interest"
+  priority: "low"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/K%C5%8Dko%E2%80%98Olau+Crater/@19.3876802,-155.2498449,16z/data=!4m5!3m4!1s0x7953d72e62c70623:0xf15717fc2765988c!8m2!3d19.3877777!4d-155.2472222"
+  address: "HI 96778"
+-
+  id: 83
+  name: "Hi'iaka Crater"
+  type: "point-of-interest"
+  priority: "low"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Hi'iaka+Crater/@19.3723964,-155.2345301,14z/data=!4m5!3m4!1s0x7953d6dc7a04f501:0xc599b248b35bce96!8m2!3d19.3745867!4d-155.2300189"
+  address: "HI 96778"
+-
+  id: 84
+  name: "Pauahi Crater"
+  type: "point-of-interest"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Pauahi+Crater/@19.3687677,-155.2266586,15z/data=!4m5!3m4!1s0x7953d6c32728820d:0x13523d33ad810ad0!8m2!3d19.3695517!4d-155.2226957"
+  address: "HI 96778"
+-
+  id: 85
+  name: "Kapiʻolani Regional Park"
+  type: "park"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kapi%CA%BBolani+Regional+Park/@21.2660806,-157.817983,17.54z/data=!4m5!3m4!1s0x7c00727ac7f5ad0f:0x94df96e0a28f26e0!8m2!3d21.2667349!4d-157.8187536"
+  address: "3840 Paki Ave, Honolulu, HI 96815"
+  phone: "+1 808-768-4623"
+-
+  id: 86
+  name: "Prince Jonah Kūhiō Kalanianaʻole Statue"
+  type: "point-of-interest"
+  priority: "low"
+  visible: true
+  links: []
+  address: "2537-2501, Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-768-3003"
+-
+  id: 87
+  name: "Waimānalo Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Waim%C4%81nalo+Beach+Park/@21.3321621,-157.6978268,17z/data=!3m1!4b1!4m5!3m4!1s0x7c001396ebfc5acd:0xd0c39557f7ae72d0!8m2!3d21.3321621!4d-157.6956381"
+  address: "41-741 Kalanianaʻole Hwy, Waimānalo, HI 96795"
+  phone: "+1 808-259-9106"
+-
+  id: 88
+  name: "Maunalua Bay Beach Park"
+  type: "beach"
+  priority: "low"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Maunalua+Bay+Beach+Park/@21.2834655,-157.7186812,17z/data=!4m5!3m4!1s0x7c00128bab113437:0x63ffd0979b5620cb!8m2!3d21.2837497!4d-157.7172941"
+  address: "Honolulu, HI 96825"
+  phone: "+1 808-768-3003"
+-
+  id: 89
+  name: "North Shore Macadamia Nut Company"
+  type: "store"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/North+Shore+Macadamia+Nut+Company/@21.5997938,-158.1035825,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0058d9f34aa8dd:0xaa8256704f8a08fc!8m2!3d21.5997938!4d-158.1013938"
+    -
+      type: "website"
+      url: "https://northshoremacnut.com/"
+  address: "62330 Kamehameha Hwy, Haleiwa, HI 96712"
+  phone: "+1 808-375-0698"
+  hours: "10:00 AM - 5:00 PM"
+-
+  id: 90
+  name: "Queen Kapi'olani Statue"
+  type: "point-of-interest"
+  priority: "low"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Queen+Kapi%CA%BBolani+Statue/@21.2686977,-157.8218292,19z/data=!4m5!3m4!1s0x0:0x7a2a36cf272edca7!8m2!3d21.2689106!4d-157.8217022"
+  address: "2686 Kalakaua Ave, Honolulu, HI 96815"
+-
+  id: 91
+  name: "Shark's Cove"
+  type: "point-of-interest"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Shark%E2%80%99s+Cove/@21.6498444,-158.065156,16z/data=!4m5!3m4!1s0x7c005993278aa08f:0x7af5606caf43ba2a!8m2!3d21.6499775!4d-158.0628227"
+  address: "Haleiwa, HI 96712"
+  phone: "+1 808-462-8290"
+-
+  id: 92
+  name: "Kawela Bay Beach Park"
+  type: "beach"
+  priority: "low"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kawela+Bay+Beach+Park/@21.6973862,-158.0097013,15z/data=!4m5!3m4!1s0x7c0050f0ee37ee01:0x82b95d7e2feac6c7!8m2!3d21.6973731!4d-158.0067635"
+  address: "57 Kamehameha Hwy, Kahuku, HI 96731"
+-
+  id: 93
+  name: "Ahupuaʻa ʻO Kahana State Park"
+  type: "park"
+  priority: "low"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Ahupua%CA%BBa+%CA%BBO+Kahana+State+Park/@21.5559723,-157.8839722,14z/data=!4m5!3m4!1s0x7c0043c03b6c08c7:0xe4669485810c5bdc!8m2!3d21.5559903!4d-157.8763274"
+    -
+      type: "website"
+      url: "https://dlnr.hawaii.gov/dsp/parks/oahu/ahupuaa-o-kahana-state-park/"
+  address: "52-222 Kamehameha Hwy, Kaaawa, HI 96730"
+  phone: "+1 808-237-7766"
+-
+  id: 94
+  name: "Kahana Bay Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kahana+Bay+Beach+Park/@21.5552244,-157.8773687,15.67z/data=!4m5!3m4!1s0x7c0043f58b3ab115:0xbaf96689cd2d20ca!8m2!3d21.5561936!4d-157.8743992"
+  address: "52-222 Kamehameha Hwy, Hauula, HI 96717"
+  phone: "+1 808-587-0300"
