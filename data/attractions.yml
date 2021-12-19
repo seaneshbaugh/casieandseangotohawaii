@@ -1483,3 +1483,27 @@
       url: "https://www.google.com/maps/place/Kahana+Bay+Beach+Park/@21.5552244,-157.8773687,15.67z/data=!4m5!3m4!1s0x7c0043f58b3ab115:0xbaf96689cd2d20ca!8m2!3d21.5561936!4d-157.8743992"
   address: "52-222 Kamehameha Hwy, Hauula, HI 96717"
   phone: "+1 808-587-0300"
+-
+  id: 95
+  name: "Diamond Head Beach Park"
+  type: "beach"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Diamond+Head+Beach+Park/@21.2549473,-157.8092937,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00728ae0159e07:0xb47479f0971655b7!8m2!3d21.2549473!4d-157.807105"
+  address: "3300 Diamond Head Rd, Honolulu, HI 96815"
+  phone: "+1 808-768-3003"
+-
+  id: 96
+  name: "Pearl Harbor National Memorial"
+  type: "point-of-interest"
+  priority: "normal"
+  visible: true
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Pearl+Harbor+National+Memorial/@21.366442,-157.9385196,17z/data=!4m5!3m4!1s0x7c006f4309506633:0xb8c592a70d9c602c!8m2!3d21.3675985!4d-157.938858"
+  address: "1 Arizona Memorial Pl, Honolulu, HI 96818"
+  phone: "+1 808-422-3399"

@@ -111,4 +111,9 @@
             }
         }
     }
+
+    > .notes::before {
+        content: "Notes: ";
+        font-weight: bold;
+    }
 }

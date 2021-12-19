@@ -171,7 +171,7 @@
   frommers_guide_book_page: "142"
 -
   id: 9
-  name: "Kono's"
+  name: "Kono's Northshore"
   links:
     -
       type: "map"
@@ -947,8 +947,8 @@
       url: "https://www.royal-hawaiian.com/dining-overview/mai-tai-bar/"
   address: "2259 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-923-7311"
-  price_range: "$$"
   hours: "11:00 AM - 9:30 PM"
+  price_range: "$$"
   genre: "Hawaiian, New American"
 -
   id: 63
@@ -959,6 +959,18 @@
       url: "https://www.tanakaoftokyo.com/en/central"
   address: "2250 Kalakaua Ave 3rd Fl, Honolulu, HI 96815"
   phone: "+1 808-922-4702"
-  price_range: "$$$"
   hours: "5:00 PM - 9:00 PM"
+  price_range: "$$$"
   genre: "Japanese"
+-
+  id: 64
+  name: "The Local @HNL"
+  links:
+    -
+      type: "website"
+      url: "https://airports.hawaii.gov/hnl/shop-dine/shops-restaurants/"
+  address: "300 Rodgers Blvd, Honolulu, HI 96819"
+  phone: "+1 808-824-3955"
+  hours: "6:00 AM - 10:00 PM"
+  price_range: "$"
+  genre: "American, Hawaiian"

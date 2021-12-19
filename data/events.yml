@@ -720,7 +720,7 @@
   day_id: 29
   eventable_type: "flight"
   eventable_id: 9
-  order: 1
+  order: 6
 -
   id: 103
   leg_id: 4
@@ -1410,3 +1410,38 @@
   eventable_type: "meal"
   eventable_id: 69
   order: 9
+-
+  id: 195
+  leg_id: 7
+  day_id: 29
+  eventable_type: "attraction"
+  eventable_id: 3
+  order: 1
+-
+  id: 196
+  leg_id: 7
+  day_id: 29
+  eventable_type: "attraction"
+  eventable_id: 95
+  order: 2
+-
+  id: 197
+  leg_id: 7
+  day_id: 29
+  eventable_type: "meal"
+  eventable_id: 70
+  order: 3
+-
+  id: 198
+  leg_id: 7
+  day_id: 29
+  eventable_type: "attraction"
+  eventable_id: 96
+  order: 4
+-
+  id: 199
+  leg_id: 7
+  day_id: 29
+  eventable_type: "meal"
+  eventable_id: 71
+  order: 5

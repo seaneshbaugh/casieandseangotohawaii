@@ -29,3 +29,5 @@
           %ul.items
             - selection.each do |item|
               %li= item
+  - if meal.notes
+    .notes= meal.notes

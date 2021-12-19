@@ -1159,3 +1159,46 @@
     Kyle: 5
     Sean: 5
   notes: "The chef's vibes were immaculate."
+-
+  id: 70
+  name: "Breakfast"
+  restaurant_id: 9
+  food:
+    Casie:
+      - "Chuns Breakfast Bomber"
+      - "Iced Vanilla Macadamia Nut Coffee"
+    Kyle:
+      - "Chuns Breakfast Bomber"
+    Sean:
+      - "Chuns Breakfast Bomber"
+      - "Iced Vanilla Macadamia Nut Coffee"
+  ratings:
+    Casie: 5
+    Kyle: 5
+    Sean: 5
+-
+  id: 71
+  name: "Dinner"
+  restaurant_id: 64
+  food:
+    Casie:
+      - "Chicken Fingers"
+      - "Water"
+    Cathie:
+      - "Pineapple Chicken Quesadilla"
+      - "Water"
+    Dwayne:
+      - "Loco Moco"
+      - "Longboard Island Lager"
+    Kyle:
+      - "Chicken Fingers"
+      - "Water"
+    Sean:
+      - "Loco Moco"
+      - "Diet Coke"
+  ratings:
+    Casie: 0
+    Cathie: 0
+    Dwayne: 0
+    Kyle: 0
+    Sean: 0
