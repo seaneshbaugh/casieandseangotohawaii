@@ -1290,14 +1290,14 @@
   day_id: 27
   eventable_type: "attraction"
   eventable_id: 89
-  order: 2
+  order: 3
 -
   id: 180
   leg_id: 7
   day_id: 27
   eventable_type: "attraction"
   eventable_id: 19
-  order: 3
+  order: 4
 -
   id: 181
   leg_id: 7
@@ -1311,42 +1311,42 @@
   day_id: 27
   eventable_type: "meal"
   eventable_id: 65
-  order: 4
+  order: 5
 -
   id: 183
   leg_id: 7
   day_id: 27
   eventable_type: "attraction"
   eventable_id: 91
-  order: 5
+  order: 6
 -
   id: 184
   leg_id: 7
   day_id: 27
   eventable_type: "attraction"
   eventable_id: 92
-  order: 6
--
-  id: 185
-  leg_id: 7
-  day_id: 27
-  eventable_type: "attraction"
-  eventable_id: 93
   order: 7
 -
   id: 185
   leg_id: 7
   day_id: 27
   eventable_type: "attraction"
-  eventable_id: 94
+  eventable_id: 93
   order: 8
+-
+  id: 185
+  leg_id: 7
+  day_id: 27
+  eventable_type: "attraction"
+  eventable_id: 94
+  order: 9
 -
   id: 186
   leg_id: 7
   day_id: 27
   eventable_type: "meal"
   eventable_id: 66
-  order: 9
+  order: 10
 -
   id: 187
   leg_id: 7
@@ -1445,3 +1445,10 @@
   eventable_type: "meal"
   eventable_id: 71
   order: 5
+-
+  id: 178
+  leg_id: 7
+  day_id: 27
+  eventable_type: "meal"
+  eventable_id: 72
+  order: 2

@@ -1118,22 +1118,25 @@
   restaurant_id: 62
   food:
     Casie:
-      - ""
+      - "Ahi Poke Bowl"
+      - "Water"
     Cathie:
-      - ""
+      - "Turkey Club"
+      - "Truffle Fries"
+      - "Water"
     Dwayne:
-      - ""
+      - "Burger"
+      - "Water"
     Kyle:
-      - ""
+      - "Water"
     Sean:
-      - ""
-    Shared:
-      - ""
+      - "Ahi Poke Bowl"
+      - "Pineapple Juice"
   ratings:
-    Casie: 3
-    Cathie: 3
+    Casie: 4
+    Cathie: 4
     Dwayne: 3
-    Kyle: 3
+    Kyle: 4
     Sean: 4
 -
   id: 69
@@ -1141,17 +1144,22 @@
   restaurant_id: 63
   food:
     Casie:
-      - ""
+      - "Seafood Combination"
+      - "Water"
     Cathie:
-      - ""
+      - "Filet"
+      - "Pinot Noir"
     Dwayne:
-      - ""
+      - "Filet"
+      - "Scallops"
+      - "Coors Light"
     Kyle:
-      - ""
+      - "Super Steak and Teriyaki Chicken"
+      - "Coke"
     Sean:
-      - ""
-    Shared:
-      - ""
+      - "Daimyo"
+      - "Hakushika Yamadanishiki Junmai Sake"
+      - "Diet Coke"
   ratings:
     Casie: 5
     Cathie: 5
@@ -1198,7 +1206,21 @@
       - "Diet Coke"
   ratings:
     Casie: 0
-    Cathie: 0
-    Dwayne: 0
+    Cathie: 2
+    Dwayne: 1
     Kyle: 0
     Sean: 0
+-
+  id: 72
+  name: "Breakfast"
+  restaurant_id: 65
+  food:
+    Cathie:
+      - "Eggs any Style (scrambled eggs, potatoes, toast, bacon)"
+      - "Kona Blend Coffee"
+    Dwayne:
+      - "Eggs any Style (scrambled eggs, potatoes, toast, bacon)"
+      - "Tea"
+  ratings:
+    Cathie: 3
+    Dwayne: 3

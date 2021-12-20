@@ -974,3 +974,15 @@
   hours: "6:00 AM - 10:00 PM"
   price_range: "$"
   genre: "American, Hawaiian"
+-
+  id: 65
+  name: "Surf Lanai"
+  links:
+    -
+      type: "website"
+      url: "https://www.royal-hawaiian.com/dining-overview/surf-lanai/"
+  address: "2259 Kalakaua Ave, Honolulu, HI 96815"
+  phone: "+1 808-921-4600"
+  hours: "6:30 AM - 10:30 AM"
+  price_range: "$$$"
+  genre: "Breakfast"
