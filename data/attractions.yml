@@ -3,7 +3,6 @@
   name: "Waikiki Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -21,7 +20,6 @@
   name: "Duke Kahanamoku Statue"
   type: ""
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -38,7 +36,6 @@
   name: "Diamond Head State Monument"
   type: "hike"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -57,7 +54,6 @@
   name: "Hanauma Bay Nature Preserve"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -76,7 +72,6 @@
   name: "Lanai Lookout"
   type: "scenic-view"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -93,7 +88,6 @@
   name: "Wawamalu Beach Park"
   type: "beach"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -110,7 +104,6 @@
   name: "Makapu'u Lookout"
   type: "scenic-view"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -129,7 +122,6 @@
   name: "Kailua Beach Park"
   type: "beach"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -148,7 +140,6 @@
   name: "Lanikai Beach"
   type: "beach"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -168,7 +159,6 @@
   name: "Nanakuli Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -186,7 +176,6 @@
   name: "Mermaid's Secret Cave"
   type: "beach"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -203,7 +192,6 @@
   name: "Maipalaoa Beach Park"
   type: "beach"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -220,7 +208,6 @@
   name: "Ma'ili Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -238,7 +225,6 @@
   name: "Kaneana Cave"
   type: "point-of-interest"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -255,7 +241,6 @@
   name: "Keawaula Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -274,7 +259,6 @@
   name: "Kaena Point State Park"
   type: "hike"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -292,7 +276,6 @@
   name: "Makua Beach"
   type: "beach"
   priority: "optional"
-  visible: false
   links:
     -
       type: "map"
@@ -309,7 +292,6 @@
   name: "Laniakea Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -327,7 +309,6 @@
   name: "Waimea Bay Beach Park"
   type: "beach"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -345,7 +326,6 @@
   name: "Foster Botanical Garden"
   type: "garden"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -365,7 +345,6 @@
   name: "Donkey Beach"
   type: "beach"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -383,7 +362,6 @@
   name: "Anahola Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -401,7 +379,6 @@
   name: "Kīlauea Lighthouse"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -419,7 +396,6 @@
   name: "Queen's Bath"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -438,7 +414,6 @@
   name: "Hanalei Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -456,7 +431,6 @@
   name: "Haena Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -473,7 +447,6 @@
   name: "Maniniholo Dry Cave"
   type: ""
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -490,7 +463,6 @@
   name: "Ke'e Beach"
   type: "beach"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -509,7 +481,6 @@
   name: "Makauwahi Cave Trail"
   type: "hike"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -527,7 +498,6 @@
   name: "Makauwahi Cave"
   type: "point-of-interest"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -547,7 +517,6 @@
   name: "Maha'ulepu Heritage Trail"
   type: "hike"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -565,7 +534,6 @@
   name: "Po'ipu Beach Park"
   type: "beach"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -585,7 +553,6 @@
   name: "Spouting Horn Park"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -603,7 +570,6 @@
   name: "Shipwreck Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -622,7 +588,6 @@
   name: "Waimea Canyon Lookout"
   type: "scenic-view"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -640,7 +605,6 @@
   name: "Kokee Natural History Museum"
   type: "museum"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -658,7 +622,6 @@
   name: "Kalalau Lookout"
   type: "scenic-view"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -676,7 +639,6 @@
   name: "Pu'u O Kila Lookout"
   type: ""
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -695,7 +657,6 @@
   name: "Kahekili Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -712,7 +673,6 @@
   name: "Makaluapuna Point"
   type: "point-of-interest"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -729,7 +689,6 @@
   name: "Honolua Bay"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -746,7 +705,6 @@
   name: "Nakalele Blowhole"
   type: "point-of-interest"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -764,7 +722,6 @@
   name: "Wailea Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -783,7 +740,6 @@
   name: "The Road to Hana"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -800,7 +756,6 @@
   name: "Hasegawa General Store"
   type: "store"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -818,7 +773,6 @@
   name: "Wai'anapanapa State Park"
   type: "beach"
   priority: "major"
-  visible: true
   links:
     -
       type: "map"
@@ -837,7 +791,6 @@
   name: "Haleakalā National Park"
   type: "scenic-view"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -856,11 +809,10 @@
   name: "Papawai Point"
   type: "scenic-view"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps?q=Papawai+Point&source=lmns&hl=en&sa=X&ved=2ahUKEwiHwqeoycT0AhWYqp4KHX24Cs4Q_AUoAXoECAEQAQ"
+      url: "https://www.google.com/maps/place/Papawai+Point/@20.7748335,-156.53807,17z/data=!4m5!3m4!1s0x7954d7240384c3c7:0x9dae7601d85df5a5!8m2!3d20.7750655!4d-156.5363747"
     -
       type: "website"
       url: "https://www.tripadvisor.com/Attraction_Review-g60634-d2442808-Reviews-Papawai_Scenic_Lookout-Lahaina_Maui_Hawaii.html"
@@ -873,7 +825,6 @@
   name: "Ka'anapali Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -890,7 +841,6 @@
   name: "Kenolio Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -907,7 +857,6 @@
   name: "Lahaina Banyan Court Park"
   type: "point-of-interest"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -925,7 +874,6 @@
   name: "ʻĪao Valley State Monument"
   type: "scenic-view"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -942,7 +890,6 @@
   name: "Ho'okipa Beach Lookout"
   type: "scenic-view"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -959,7 +906,6 @@
   name: "Ho'okipa Beach Park"
   type: "beach"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -976,7 +922,6 @@
   name: "Olowalu Petroglyphs"
   type: "point-of-interest"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -993,7 +938,6 @@
   name: "Lower Pāʻia Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1010,7 +954,6 @@
   name: "Pāʻia Secret Beach"
   type: "beach"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -1024,7 +967,6 @@
   name: "King Kamehameha Golf Course Clubhouse"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1043,7 +985,6 @@
   name: "Mai Poina Beach Park"
   type: "beach"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -1060,7 +1001,6 @@
   name: "Maluaka Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1078,7 +1018,6 @@
   name: "Makena Beach"
   type: "beach"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -1096,7 +1035,6 @@
   name: "Ahihi-Kinau Natural Area Reserve"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1113,7 +1051,6 @@
   name: "La Perouse Memorial"
   type: "point-of-interest"
   priority: "minor"
-  visible: true
   links:
     -
       type: "map"
@@ -1130,7 +1067,6 @@
   name: "Lava Fields"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1147,7 +1083,6 @@
   name: "Hāna Bay Beach Park"
   type: "beach"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -1165,7 +1100,6 @@
   name: "Ukumehame Beach Park"
   type: "beach"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -1183,7 +1117,6 @@
   name: "Kūhiō Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1195,7 +1128,6 @@
   name: "Waikiki Wall"
   type: "point-of-interest"
   priority: "low"
-  visible: true
   links:
     -
       type: "map"
@@ -1210,7 +1142,6 @@
   name: "Queen's Beach"
   type: "beach"
   priority: "normal"
-  visible: true
   links: []
   address: "Honolulu, HI 96815"
 -
@@ -1218,7 +1149,6 @@
   name: "War Memorial Natatorium"
   type: "point-of-interest"
   priority: "minor"
-  visible: true
   links: []
   address: "2815 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-254-1828"
@@ -1227,7 +1157,6 @@
   name: "Kaimana Beach"
   type: "beach"
   priority: "minor"
-  visible: true
   links: []
   address: "Honolulu, HI 96815"
 -
@@ -1235,7 +1164,6 @@
   name: "Outrigger Canoe Club Beach"
   type: "beach"
   priority: "minor"
-  visible: true
   links: []
   address: "Honolulu, HI 96815"
 -
@@ -1243,7 +1171,6 @@
   name: "Tonggs Beach"
   type: "beach"
   priority: "minor"
-  visible: true
   links: []
   address: "Kalakaua Ave, Honolulu, HI 96815"
 -
@@ -1251,7 +1178,6 @@
   name: "Mākālei Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links: []
   address: "3111 Diamond Head Rd, Honolulu, HI 96815"
 -
@@ -1259,7 +1185,6 @@
   name: "Sans Souci State Recreational Park"
   type: "park"
   priority: "normal"
-  visible: true
   links: []
   address: "Honolulu, HI 96815"
 -
@@ -1267,7 +1192,6 @@
   name: "Steam Vents"
   type: "scenic-view"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1278,7 +1202,6 @@
   name: "Kilauea Overlook"
   type: "scenic-view"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -1289,7 +1212,6 @@
   name: "Nahuku - Thurston Lava Tube"
   type: "point-of-interest"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -1300,7 +1222,6 @@
   name: "Devastation Trail"
   type: "hike"
   priority: "high"
-  visible: true
   links:
     -
       type: "map"
@@ -1311,7 +1232,6 @@
   name: "Hale Ma'uma'u Volcano Crater"
   type: "scenic-view"
   priority: "omg"
-  visible: true
   links:
     -
       type: "map"
@@ -1322,7 +1242,6 @@
   name: "Luamanu Crater"
   type: "point-of-interest"
   priorty: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1333,7 +1252,6 @@
   name: "Kōko‘Olau Crater"
   type: "point-of-interest"
   priority: "low"
-  visible: true
   links:
     -
       type: "map"
@@ -1344,7 +1262,6 @@
   name: "Hi'iaka Crater"
   type: "point-of-interest"
   priority: "low"
-  visible: true
   links:
     -
       type: "map"
@@ -1355,7 +1272,6 @@
   name: "Pauahi Crater"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1366,7 +1282,6 @@
   name: "Kapiʻolani Regional Park"
   type: "park"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1378,7 +1293,6 @@
   name: "Prince Jonah Kūhiō Kalanianaʻole Statue"
   type: "point-of-interest"
   priority: "low"
-  visible: true
   links: []
   address: "2537-2501, Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-768-3003"
@@ -1387,7 +1301,6 @@
   name: "Waimānalo Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1399,7 +1312,6 @@
   name: "Maunalua Bay Beach Park"
   type: "beach"
   priority: "low"
-  visible: true
   links:
     -
       type: "map"
@@ -1411,7 +1323,6 @@
   name: "North Shore Macadamia Nut Company"
   type: "store"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1427,7 +1338,6 @@
   name: "Queen Kapi'olani Statue"
   type: "point-of-interest"
   priority: "low"
-  visible: true
   links:
     -
       type: "map"
@@ -1438,7 +1348,6 @@
   name: "Shark's Cove"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1450,7 +1359,6 @@
   name: "Kawela Bay Beach Park"
   type: "beach"
   priority: "low"
-  visible: true
   links:
     -
       type: "map"
@@ -1461,7 +1369,6 @@
   name: "Ahupuaʻa ʻO Kahana State Park"
   type: "park"
   priority: "low"
-  visible: true
   links:
     -
       type: "map"
@@ -1476,7 +1383,6 @@
   name: "Kahana Bay Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1488,7 +1394,6 @@
   name: "Diamond Head Beach Park"
   type: "beach"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"
@@ -1500,7 +1405,6 @@
   name: "Pearl Harbor National Memorial"
   type: "point-of-interest"
   priority: "normal"
-  visible: true
   links:
     -
       type: "map"

@@ -19,5 +19,3 @@
 
 - add links table
 - links polymorphic belong to linkable (attraction, airport, restaurant)
-
-- drop visible columns
