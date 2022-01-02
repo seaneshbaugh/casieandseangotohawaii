@@ -1212,3 +1212,24 @@
   ratings:
     Cathie: 2
     Dwayne: 2
+-
+  id: 81
+  name: "Lunch"
+  restaurant_id: 67
+  food:
+    Shared:
+      - "Inu Burger"
+  ratings:
+    Cathie: 1
+    Dwayne: 1
+-
+  id: 82
+  name: "Lunch"
+  restaurant_id: 68
+  food:
+    Kyle:
+      - "McDouble"
+      - "Fries"
+      - "Coke"
+  ratings:
+    Kyle: 4

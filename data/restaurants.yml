@@ -1167,3 +1167,45 @@
   hours: "11:00 AM - 10:00 PM"
   price_range: "$$"
   genre: "Sports Bar, Pizza, Italian"
+-
+  id: 67
+  name: "Inu Pool Bar"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Inu+Pool+Bar/@20.9424691,-156.6935312,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad4b507dd161f:0xf3326801b13096e0!8m2!3d20.9424691!4d-156.6913425"
+    -
+      type: "website"
+      url: "https://www.marriott.com/en-us/hotels/jhmwi-the-westin-nanea-ocean-villas-kaanapali/dining/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Inu+Pool+Bar"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/inu-pool-bar-lahaina"
+  address: "45 Kai Malina Pkwy, Lahaina, HI 96761"
+  phone: "+1 808-662-6300"
+  hours: "11:00 AM - 8:00 PM"
+  price_range: "$$"
+  genre: "American, Hawaiian"
+-
+  id: 68
+  name: "McDonald's"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/McDonald's/@20.8829897,-156.4555119,17z/data=!4m5!3m4!1s0x7954d2ea8140a9ab:0x6a0c93c557b9167c!8m2!3d20.8830562!4d-156.4537401"
+    -
+      type: "website"
+      url: "https://www.mcdonalds.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=McDonald%27s+Dairy+Rd+Maui"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/mcdonalds-kahului-5"
+  address: "340 Dairy Rd, Kahului, HI 96732"
+  phone: "+1 808-877-6498"
+  hours: "Open 24 Hours"
+  price_range: "$"
+  genre: "Burgers"
