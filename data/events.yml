@@ -1276,7 +1276,7 @@
   day_id: 26
   eventable_type: "attraction"
   eventable_id: 1
-  order: 16
+  order: 17
 -
   id: 178
   leg_id: 7
@@ -1452,3 +1452,10 @@
   eventable_type: "meal"
   eventable_id: 72
   order: 2
+-
+  id: 177
+  leg_id: 7
+  day_id: 26
+  eventable_type: "meal"
+  eventable_id: 73
+  order: 16

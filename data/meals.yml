@@ -396,9 +396,9 @@
     Casie:
       - "Medium half mango half pineapple shaved ice with macademia nut ice cream"
     Kyle:
-      - "Sunset Beach shaved ice with macademia nut ice cream"
+      - "Medium Sunset Beach shaved ice with macademia nut ice cream"
     Sean:
-      - "No Ka Oi shaved ice with macademia nut ice cream"
+      - "Large No Ka Oi shaved ice with macademia nut ice cream"
   ratings:
     Casie: 3
     Kyle: 4
@@ -660,13 +660,13 @@
   priority: "normal"
   food:
     Casie:
-      - "Sunset Beach shaved ice with macademia nut ice cream"
+      - "Medium Sunset Beach shaved ice with macademia nut ice cream"
     Cathie:
-      - "Sunset Beach shaved ice with macademia nut ice cream"
+      - "Small Sunset Beach shaved ice with macademia nut ice cream"
     Dwayne:
-      - "Sunset Beach shaved ice with macademia nut ice cream"
+      - "Small Sunset Beach shaved ice with macademia nut ice cream"
     Sean:
-      - "Sunset Beach shaved ice with macademia nut ice cream"
+      - "Large Sunset Beach shaved ice with macademia nut ice cream"
   ratings:
     Casie: 5
     Cathie: 4
@@ -847,7 +847,7 @@
       - "Crispy Chicken BLT (minus chicken)"
       - "Ice Tea"
     Kyle:
-      - "Cajun Fish Tacos"
+      - "Korean Steak Tacos"
       - "Coke"
     Sean:
       - "Coconut Shrimp &amp; Fries"
@@ -1027,17 +1027,29 @@
   restaurant_id: 44
   food:
     Casie:
-      - ""
+      - "Misoyaki Butterfish"
+      - "Water"
+      - "Roy's Signature Melting Hot Chocolate Soufflé"
     Cathie:
-      - ""
+      - "Kauai Prawns"
+      - "Roy's Signature Melting Hot Chocolate Soufflé"
     Dwayne:
-      - ""
+      - "Blackened Island Ahi"
+      - "Roy's Waikiki Mai Tai"
+      - "Roy's Signature Melting Hot Chocolate Soufflé"
     Kyle:
-      - ""
+      - "CBK Roll"
+      - "HK Crab Cakes"
+      - "Roy's Signature Melting Hot Chocolate Soufflé"
     Sean:
-      - ""
+      - "Blackened Island Ahi"
+      - "Paradise Ciders Passion Orange Guava"
+      - "Diet Coke"
+      - "Roy's Signature Melting Hot Chocolate Soufflé"
     Shared:
-      - ""
+      - "Roy's Kiawe Smoked Szechuan Baby Back Ribs"
+      - "Mau-Gyotaku Roll"
+      - "HK Crab Cakes"
   ratings:
     Casie: 5
     Cathie: 5
@@ -1172,3 +1184,21 @@
   ratings:
     Cathie: 3
     Dwayne: 3
+-
+  id: 73
+  name: "Dinner"
+  restaurant_id: 66
+  food:
+    Cathie:
+      - "The Caddy Master"
+    Dwayne:
+      - "Longbeard Island Lager"
+    Kyle:
+      - "Longbeard Island Lager"
+    Shared:
+      - "BBQ Pork Pizza"
+      - "The G.O.A.T. Pizza"
+  ratings:
+    Cathie: 4
+    Dwayne: 4
+    Kyle: 4

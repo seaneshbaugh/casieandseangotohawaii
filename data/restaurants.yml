@@ -4,7 +4,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.279337343720897%2C-157.82618586152796&z=18"
+      url: "https://www.google.com/maps/place/Marukame+Udon+Waikiki/@21.2796049,-157.8280206,17z/data=!3m2!4b1!5s0x7c0072761e2b0ac1:0x3fc1569539b1156b!4m5!3m4!1s0x7c0072761fe019ad:0xee85c5aed8448988!8m2!3d21.2795988!4d-157.8258372"
     -
       type: "website"
       url: "https://www.marugameudon.com/"
@@ -26,7 +26,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27713740450897%2C-157.82887332866676&z=18"
+      url: "https://www.google.com/maps/place/Surf+Lanai/@21.2769939,-157.8305977,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00727593d8afcb:0xfa8ebecd754996a8!8m2!3d21.2769939!4d-157.828409"
     -
       type: "website"
       url: "https://www.royal-hawaiian.com/dining/surflanai/"
@@ -40,20 +40,20 @@
   phone: "+1 808-921-4600"
   hours: "6:30 AM - 11:00 AM, 11:30 PM - 2:00 PM"
   price_range: "$$"
-  genre: "breakfast and brunch, American"
+  genre: "Breakfast and Brunch, American"
 -
   id: 3
   name: "Uncle Clay's House of Pure Aloha"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.28396624494161%2C-157.75830956960453&z=14"
+      url: "https://www.google.com/maps/place/Uncle+Clay%27s+House+of+Pure+Aloha/@21.2791319,-157.7560591,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0012ae5eef98c9:0xcef43b3b97dce5c3!8m2!3d21.2791319!4d-157.7538704"
     -
       type: "website"
       url: "https://uncleclays.com/shave-ice/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q="
+      url: "https://www.google.com/search?tbm=isch&q=Uncle+Clay%27s+House+of+Pure+Aloha"
     -
       type: "reviews"
       url: "https://www.yelp.com/biz/uncle-clays-house-of-pure-aloha-honolulu-2"
@@ -61,17 +61,14 @@
   phone: "+1 808-373-5111"
   hours: "10:30 AM - 7:45 PM"
   price_range: "$"
-  genre: "shaved ice"
+  genre: "Shaved Ice"
 -
   id: 4
   name: "Ono Steaks & Shrimp Shack"
   links:
     -
       type: "map"
-      url: "https://casieandseangotohawaii.com/"
-    -
-      type: "website"
-      url: "https://casieandseangotohawaii.com/"
+      url: "https://www.google.com/maps/place/Ono+Steaks+and+Shrimp+Shack/@21.333408,-157.6994035,17z/data=!3m2!4b1!5s0x7c00139694383547:0xe7853a241b1a9f55!4m5!3m4!1s0x7c001396939d02e9:0xad0897f30220062d!8m2!3d21.3333702!4d-157.6972237"
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Ono+Steaks+and+Shrimp+Shack"
@@ -82,7 +79,7 @@
   phone: "+1 808-931-6000"
   hours: "7:00 AM - 10:00 PM"
   price_range: "$"
-  genre: "Japanese, noodles"
+  genre: "Hawaiian, Japanese"
   frommers_guide_book_page: "143"
 -
   id: 5
@@ -90,7 +87,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27721902447238%2C-157.8279704089996&z=16"
+      url: "https://www.google.com/maps/place/Duke%27s+Waikiki/@21.2769032,-157.8300774,17z/data=!3m2!4b1!5s0x7c007276e9c20fc1:0x1ea572c05adb9e7c!4m5!3m4!1s0x7c007275d5c243cb:0xfffee1e1a1e0c9f1!8m2!3d21.2769032!4d-157.8278887"
     -
       type: "website"
       url: "http://www.dukeswaikiki.com/menus/dining-room"
@@ -104,14 +101,14 @@
   phone: "+1 808-922-2268"
   hours: "7:00 AM - 12: 00 AM"
   price_range: "$$$"
-  genre: "Hawaiian, seafood"
+  genre: "Hawaiian, Seafood"
 -
   id: 6
   name: "Leonard's Bakery"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.285198759754678%2C-157.81340109999996&z=15"
+      url: "https://www.google.com/maps/place/Leonard's+Bakery/@21.2848821,-157.8155306,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0066002134d265:0xb9cb06fbe7f5980e!8m2!3d21.2849059!4d-157.8133473"
     -
       type: "website"
       url: "https://www.leonardshawaii.com/home/"
@@ -122,17 +119,17 @@
       type: "reviews"
       url: "https://www.yelp.com/biz/leonards-bakery-honolulu"
   address: "933 Kapahulu Ave, Honolulu, HI 96816"
-  phone: ""
+  phone: "+1 808-737-5591"
   hours: "5:30 AM - 10:00 AM"
   price_range: "$"
-  genre: "bakery"
+  genre: "Bakery"
 -
   id: 7
   name: "Countryside Cafe"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.429354968151422%2C-158.17881123068844&z=14"
+      url: "https://www.google.com/maps/place/Countryside+Cafe/@21.4275735,-158.1807487,17z/data=!3m2!4b1!5s0x7c008a2563c058ed:0x9d6e4dbeeb90f8f5!4m5!3m4!1s0x7c008a256f31c2d5:0x23f6b83adbebfcd9!8m2!3d21.4275735!4d-158.17856"
     -
       type: "website"
       url: "http://www.countrysidecafe808.net/menu"
@@ -146,20 +143,20 @@
   phone: "+1 808-888-5448"
   hours: "7:00 AM - 1:00 PM"
   price_range: "$$"
-  genre: "breakfast and brunch, cafes, waffles"
+  genre: "Breakfast and Brunch"
 -
   id: 8
-  name: "Jinroku"
+  name: "Jinroku Pacific"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27640399848348%2C-157.8242622036529&z=18"
+      url: "https://www.google.com/maps/place/Jinroku+Pacific/@21.276389,-157.8260837,17z/data=!3m1!4b1!4m5!3m4!1s0x7c007277aa0f11d5:0xe7cb531e651337ff!8m2!3d21.2763628!4d-157.8238696"
     -
       type: "website"
       url: "http://www.jinrokupacific.com/menueng.html"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Jinroku+Waikiki"
+      url: "https://www.google.com/search?tbm=isch&q=Jinroku+Pacific"
     -
       type: "reviews"
       url: "https://www.yelp.com/biz/jinroku-honolulu"
@@ -167,7 +164,7 @@
   phone: "+1 808-926-8955"
   hours: "11:30 AM - 2:00 PM, 5:30 PM - 10:30 PM"
   price_range: "$$"
-  genre: "Japanese, seafood"
+  genre: "Japanese, Seafood"
   frommers_guide_book_page: "142"
 -
   id: 9
@@ -175,13 +172,13 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.288135220590156%2C-157.81489278704834&z=15"
+      url: "https://www.google.com/maps/place/Kono's+Northshore+-+Honolulu/@21.2852889,-157.8155042,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006d83bbe574cb:0x177d2776fe6488f2!8m2!3d21.2853032!4d-157.8133441"
     -
       type: "website"
       url: "http://www.konosnorthshore.com/menu/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kono%27s+Honolulu"
+      url: "https://www.google.com/search?tbm=isch&q=Kono%27s+Northshore+Kapahulu"
     -
       type: "reviews"
       url: "https://www.yelp.com/biz/konos-honolulu"
@@ -196,7 +193,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.06673025429459%2C-159.3198329948441&z=15"
+      url: "https://www.google.com/maps/place/Tiki+Tacos/@22.0657373,-159.3213007,17z/data=!4m5!3m4!1s0x7c06e03555e6cf0b:0x8873353600753606!8m2!3d22.0654678!4d-159.3196313"
     -
       type: "website"
       url: "http://restaurantwebexpert.com/TikiTacos/"
@@ -217,7 +214,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.065534019483195%2C-159.3198329948441&z=15"
+      url: "https://www.google.com/maps/place/JO2+Restaurant/@22.0655535,-159.3218038,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e03555e66b3f:0x46308dbf055d7a7c!8m2!3d22.0655535!4d-159.3196151"
     -
       type: "website"
       url: "http://www.jotwo.com/"
@@ -238,7 +235,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.078156343310834%2C-159.31669437990115&z=15"
+      url: "https://www.google.com/maps/place/Kountry+Kitchen/@22.0783953,-159.31796,17z/data=!3m2!4b1!5s0x7c06e0f246e21511:0x3dd25d4c5d9c1f7b!4m5!3m4!1s0x7c06e0597bd31ee5:0x1f6fd11200f059ee!8m2!3d22.078374!4d-159.3157622"
     -
       type: "website"
       url: "http://www.kountrystylekitchen.com/"
@@ -252,17 +249,17 @@
   phone: "+1 808-822-3511"
   hours: "6:00 AM - 1:30 PM"
   price_range: "$"
-  genre: "American, breakfast and brunch, Hawaiian"
+  genre: "American, Breakfast and Brunch, Hawaiian"
 -
   id: 13
   name: "Kalypso Island Bar & Grill"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.20309069673345%2C-159.49771165980223&z=14"
+      url: "https://www.google.com/maps/place/Kalypso+Island+Bar+%26+Grill/@22.2032416,-159.498042,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06fae99ba58e6f:0xd4ffc052d130723b!8m2!3d22.2031887!4d-159.4958349"
     -
       type: "website"
-      url: "http://www.kalypsokauai.com/menu.html"
+      url: "https://kalypsokauai.com/"
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Kalypso+Island+Bar+and+Grill"
@@ -280,10 +277,10 @@
   links:
     -
       type: "map"
-      url: "https://casieandseangotohawaii.com/"
+      url: "https://www.google.com/maps/place/Lemongrass+Grill+-+Kauai/@22.0626575,-159.3223603,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e04aaa43f4cf:0xdfea803b0d1c671d!8m2!3d22.0626575!4d-159.3201716"
     -
       type: "website"
-      url: "http://www.lemongrasshawaii.com/Menu.html"
+      url: "http://www.lemongrasshawaii.com/"
     -
       type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Lemongrass+Grill+Seafood+and+Bar"
@@ -294,66 +291,142 @@
   phone: "+1 808-821-2888"
   hours: "4:00 PM - 9:30 PM"
   price_range: "$$"
-  genre: "Asian fusion, seafood"
-#### START OF MISSING
+  genre: "Asian Fusion, Seafood"
 -
-  id: 15 # day 6 breakfast
+  id: 15
   name: "Hanalima Bakery"
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Hanalima+Baking/@21.9666315,-159.3980448,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071c3d50f541ed:0xdd054eb7098cca9c!8m2!3d21.966395!4d-159.3957298"
+    -
+      type: "website"
+      url: "https://www.hanalimabaking.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hanalima+Bakery"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/hanalima-bakery-lihue"
+  address: "4495 Puhi Rd, Lihue, HI 96766"
+  phone: "+1 808-246-8816"
+  hours: "6:00 AM - 1:00 PM"
+  price_range: "$"
+  genre: "Bakery"
 -
-  id: 16 # day 6 lunch
+  id: 16
   name: "Puka Dog"
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Puka+Dog+Hawaiian+Style+Hot+Dogs/@21.8738762,-159.4555777,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071abeef842db1:0xb98a8f7c14c5a20b!8m2!3d21.873951!4d-159.4533924"
+    -
+      type: "website"
+      url: "https://www.pukadog.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Puka+Dog"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/puka-dog-koloa-5"
+  address: "2100 Hoone Rd, Poipu, HI 96756"
+  phone: "+1 808-742-6044"
+  hours: "10:00 AM - 7:30 PM"
+  price_range: "$"
+  genre: "Hot Dogs, Hawaiian"
 -
-  id: 17 # day 6 snack
+  id: 17
   name: "Papalani Gelato"
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Papalani+Gelato+Poipu+Shopping+Village/@21.8792649,-159.4607176,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071abf7c775ef1:0x29d9b7d2d47178f6!8m2!3d21.8792538!4d-159.4585323"
+    -
+      type: "website"
+      url: "https://papalanigelato.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Papalani+Gelato"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/papalani-gelato-koloa"
+  address: "2360 Kiahuna Plantation Dr, Koloa, HI 96756"
+  phone: "+1 808-742-2663"
+  hours: "12:00 PM - 9:00 PM"
+  price_range: "$"
+  genre: "Ice Cream"
 -
-  id: 18 # day 6 dinner
+  id: 18
   name: "Sam's Ocean View"
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Sam's+Ocean+View+Restaurant+Kapaa+Kauai/@22.0792972,-159.3164859,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e0f28888bd9b:0x545e8ecc44531482!8m2!3d22.079277!4d-159.3142737"
+    -
+      type: "website"
+      url: "https://www.samsoceanview.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Sam%27s+Ocean+View"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/sams-ocean-view-kapaa"
+  address: "4-1546 Kuhio Hwy, Kapaʻa, HI 96746"
+  phone: "+1 808-822-7887"
+  hours: "4:00 PM - 9:00 PM"
+  price_range: "$$"
+  genre: "New American, Seafood"
 -
-  id: 19 # day 7 breakfast
+  id: 19
   name: "Kalapaki Beach Hut"
-  links: []
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kalapaki+Beach+Hut/@21.9606803,-159.354051,17z/data=!4m5!3m4!1s0x7c071ee9fa7a3d9f:0xc22637219ab649bd!8m2!3d21.9609064!4d-159.3526725"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kalapaki+Beach+Hut"
+  address: "3474 Rice St, Lihue, HI 96766"
+  price_range: "$"
+  genre: "Shaved Ice"
 -
   id: 20 # day 7 lunch
   name: "The Lodge at Koke'e"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
   price_range: ""
   genre: ""
+#### START OF MISSING
 -
   id: 21 # day 7 snack
   name: "JoJo's Shave Ice"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -362,7 +435,19 @@
 -
   id: 22 # day 7 dinner
   name: "Verde Restaurant"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -371,7 +456,19 @@
 -
   id: 23 # day 8 breakfast
   name: "Nom Kauai"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -380,7 +477,19 @@
 -
   id: 24 # day 8 snack
   name: "Royal Scoop"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -413,7 +522,19 @@
 -
   id: 26 # day 9 breakfast
   name: "Sea House Restaurant"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -458,7 +579,19 @@
 -
   id: 29 # day 9 dinner
   name: "Miso Phat Sushi"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -485,7 +618,19 @@
 -
   id: 31 # day 10 lunch
   name: "Barefoot Cafe"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -518,7 +663,19 @@
 -
   id: 33 # day 11 breakfast
   name: "Royal Ocean Terrace Restaurant"
-  links: []
+  links:
+    -
+      type: "map"
+      url: ""
+    -
+      type: "website"
+      url: ""
+    -
+      type: "images"
+      url: ""
+    -
+      type: "reviews"
+      url: ""
   address: ""
   phone: ""
   hours: ""
@@ -553,13 +710,13 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Food+Truck+Park/@20.8874485,-156.4509855,18.21z/data=!4m8!1m2!2m1!1scostco!3m4!1s0x7954d312ab8b98d1:0xd2016486f0210de1!8m2!3d20.8880739!4d-156.4507027?hl=en"
+      url: "https://www.google.com/maps/place/Food+Truck+Park/@20.8879998,-156.4523373,17z/data=!4m5!3m4!1s0x7954d312ab8b98d1:0xd2016486f0210de1!8m2!3d20.8880739!4d-156.4507027"
     -
       type: "website"
       url: "https://www.mauihunter.com/check-out-the-food-truck-court-at-520-keolani-place-kahului-96732/"
     -
       type: "images"
-      url: "https://www.google.com/search?q=520+Keolani+Pl+food+truck+park&client=firefox-b-1-d&sxsrf=AOaemvJjzzilHKSFYa4E9O5ICgvp9zoXeA:1638434622686&source=lnms&tbm=isch&sa=X&ved=2ahUKEwizv7DN3MT0AhVgJzQIHc1rCXcQ_AUoAnoECAEQBA&biw=1792&bih=932&dpr=2"
+      url: "https://www.google.com/search?tbm=isch&q=520+Keolani+Pl+food+truck+park"
   address: "520 Keolani Pl, Kahului, HI 96732"
   price_range: "$"
   genre: "Hawaiian, seafood, street food"
@@ -569,13 +726,13 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Duke's+Beach+House+Maui/@20.9444909,-156.6937823,17z/data=!3m1!5s0x7eaad4b5c3fbc96d:0x2d802cbba4983bba!4m12!1m6!3m5!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!2sDuke's+Beach+House+Maui!8m2!3d20.9444909!4d-156.6915936!3m4!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!8m2!3d20.9444909!4d-156.6915936"
+      url: "https://www.google.com/maps/place/Duke's+Beach+House+Maui/@20.9445009,-156.6935463,17z/data=!3m1!5s0x7eaad4b5c3fbc96d:0x2d802cbba4983bba!4m5!3m4!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!8m2!3d20.9444909!4d-156.6915936"
     -
       type: "website"
       url: "https://www.dukesmaui.com/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Duke%27s+Beach+House+Maui"
+      url: "https://www.google.com/search?tbm=isch&q=Duke's+Beach+House+Maui"
   address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
   phone: "+1 808-662-2900"
   hours: "8:00 AM - 9:00 PM"
@@ -587,7 +744,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Tin+Roof+Maui/@20.8849802,-156.4558813,17z/data=!4m12!1m6!3m5!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!2sTin+Roof+Maui!8m2!3d20.8849863!4d-156.4537026!3m4!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!8m2!3d20.8849863!4d-156.4537026?hl=en"
+      url: "https://www.google.com/maps/place/Tin+Roof+Maui/@20.8850704,-156.4550552,17z/data=!4m5!3m4!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!8m2!3d20.8849863!4d-156.4537026"
     -
       type: "website"
       url: "https://www.tinroofmaui.com/"
@@ -603,15 +760,15 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Kapena's+Wood+Fired+Kitchen/@20.8682752,-156.677601,17z/data=!4m12!1m6!3m5!1s0x79552b986b6cc451:0xd3cd87711184fcc8!2sKapena's+Wood+Fired+Kitchen!8m2!3d20.8682752!4d-156.6754123!3m4!1s0x79552b986b6cc451:0xd3cd87711184fcc8!8m2!3d20.8682752!4d-156.6754123"
+      url: "https://www.google.com/maps/place/Kapena's+Wood+Fired+Kitchen/@20.8679043,-156.6773435,17z/data=!4m5!3m4!1s0x79552b986b6cc451:0xd3cd87711184fcc8!8m2!3d20.8682752!4d-156.6754123"
     -
       type: "website"
       url: "https://kapenaskitchen.com/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kapenas+Wood+Fired+Kitchen"
+      url: "https://www.google.com/search?tbm=isch&q=Kapena's+Wood+Fired+Kitchen"
   address: "505 Front St #101, Lahaina, HI 96761"
-  phone: "+1 808 727-2727"
+  phone: "+1 808-727-2727"
   genre: "Pizza"
 -
   id: 39
@@ -619,7 +776,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/BanyanTreats/@20.8724317,-156.6798924,17z/data=!4m12!1m6!3m5!1s0x79552bb823f236eb:0x7b082dcca780e768!2sBanyanTreats!8m2!3d20.8724317!4d-156.6777037!3m4!1s0x79552bb823f236eb:0x7b082dcca780e768!8m2!3d20.8724317!4d-156.6777037"
+      url: "https://www.google.com/maps/place/BanyanTreats/@20.8724317,-156.6798924,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bb823f236eb:0x7b082dcca780e768!8m2!3d20.8724317!4d-156.6777037"
     -
       type: "website"
       url: "https://banyantreats.com/"
@@ -652,7 +809,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps?q=The+Plantation+House&client=firefox-b-1-d&sxsrf=AOaemvJ10lOvyQvntdzdiS3mvQKcxK_kDw:1638554933933&hotel_occupancy=2&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyCwguEIAEEMcBEK8BMgUIABCABDILCC4QgAQQxwEQrwEyCAgAEIAEEMkDMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyCwguEIAEEMcBEK8BOgcIIxCwAxAnOgcIABBHELADOgQIIxAnOgQIABBDOgoILhDHARCvARBDOgsILhDHARCvARCRAjoLCC4QgAQQxwEQowI6CwguEIAEEMcBENEDOgQILhBDOgsILhCABBCxAxCDAToHCC4QsQMQQzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOggILhCABBCxAzoFCC4QgAQ6CggAEIAEEIcCEBRKBAhBGABQ6QlYnklgh0xoBHACeAGAAfoCiAHUKJIBCDAuMjAuNS4ymAEAoAEByAEJwAEB&um=1&ie=UTF-8&sa=X&ved=2ahUKEwji16-Pocj0AhVoDjQIHTDwCSQQ_AUoAXoECAEQAw"
+      url: "https://www.google.com/maps/place/The+Plantation+House/@21.0070938,-156.6420015,17z/data=!3m1!5s0x7eaad5e9c14b2fd9:0xfa6921b8b8d928b0!4m5!3m4!1s0x7eaad5e9bff3cb9b:0xbbd201faca55a651!8m2!3d21.0070838!4d-156.6403278"
     -
       type: "website"
       url: "https://www.cohnrestaurants.com/theplantationhouse"
@@ -688,13 +845,13 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Cafe+O'Lei+at+the+Mill+House/@20.8491134,-156.5093908,17z/data=!3m1!5s0x7954d393a80dcf79:0x485f76f4563243cd!4m12!1m6!3m5!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!2sCafe+O'Lei+at+the+Mill+House!8m2!3d20.8490854!4d-156.5070341!3m4!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!8m2!3d20.8490854!4d-156.5070341"
+      url: "https://www.google.com/maps/place/Cafe+O'Lei+at+the+Mill+House/@20.8489129,-156.5089402,17z/data=!3m1!5s0x7954d393a80dcf79:0x485f76f4563243cd!4m5!3m4!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!8m2!3d20.8490854!4d-156.5070341"
     -
       type: "website"
       url: "https://www.cafeoleirestaurants.com/#/cafe-olei-at-the-mill-house/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Cafe+Olei+at+the+Mill+House"
+      url: "https://www.google.com/search?tbm=isch&q=Cafe+O'lei+at+the+Mill+House"
   address: "1670 Honoapiilani Hwy, Wailuku, HI 96793"
   phone: "+1 808-500-0553"
   hours: "11:00 AM - 8:00 PM"
@@ -712,7 +869,10 @@
       url: "https://www.royyamaguchi.com/roys-waikiki-oahu"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Roy's+Waikiki"
+      url: "https://www.google.com/search?tbm=isch&q=Roy%27s+Waikiki"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/roys-waikiki-honolulu"
   address: "226 Lewers St, Honolulu, HI 96815"
   phone: "+1 808-923-7697"
   hours: "4:30 PM - 9:00 PM"
@@ -724,7 +884,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Kihei+Caffe/@20.7312953,-156.4539785,17z/data=!3m1!5s0x7954d074af1e99e7:0xda26793a7639da5!4m12!1m6!3m5!1s0x7954d074a6d82927:0xd3543519bb3e2afd!2sKihei+Caffe!8m2!3d20.7312979!4d-156.4517902!3m4!1s0x7954d074a6d82927:0xd3543519bb3e2afd!8m2!3d20.7312979!4d-156.4517902"
+      url: "https://www.google.com/maps/place/Kihei+Caffe+Lahaina/@20.8853753,-156.6842098,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bfe522ba9a9:0x43b02d727b7e0fc7!8m2!3d20.8853771!4d-156.6820163"
     -
       type: "website"
       url: "https://kiheicaffe.com/"
@@ -986,3 +1146,24 @@
   hours: "6:30 AM - 10:30 AM"
   price_range: "$$$"
   genre: "Breakfast"
+-
+  id: 66
+  name: "Skybox Taphouse"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Skybox+Taphouse/@21.2783472,-157.8287884,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00732e5801ad71:0x364f92d0f799519e!8m2!3d21.2783472!4d-157.8265997"
+    -
+      type: "website"
+      url: "https://www.skyboxtaphouse.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Skybox+Taphouse+Honolulu"
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/skybox-taphouse-honolulu"
+  address: "2330 Kalakaua Ave Suite 302, Honolulu, HI 96815"
+  phone: "+1 808-378-8542"
+  hours: "11:00 AM - 10:00 PM"
+  price_range: "$$"
+  genre: "Sports Bar, Pizza, Italian"

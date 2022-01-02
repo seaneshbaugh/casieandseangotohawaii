@@ -789,18 +789,18 @@
 -
   id: 47
   name: "Haleakalā National Park"
-  type: "scenic-view"
+  type: "park"
   priority: "omg"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.74830173595671%2C-156.24866967895593&z=11"
+      url: "https://www.google.com/maps/place/Haleakal%C4%81+National+Park/@20.7167597,-156.1789995,13z/data=!4m5!3m4!1s0x7954b73425a04bd1:0x9c23fd88e8f5f4ca!8m2!3d20.7203826!4d-156.1551524"
     -
       type: "website"
       url: "https://www.nps.gov/hale/index.htm"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Haleakala+National+Park"
+      url: "https://www.google.com/search?tbm=isch&q=Haleakalā+National+Park"
   address: "Kula, HI 96790"
   phone: "+1 808-572-4400"
   frommers_guide_book_page: "310"
@@ -828,13 +828,13 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Ka%E2%80%99anapali+Beach/@20.9448776,-156.6918635,17.68z/data=!4m5!3m4!1s0x7eaad559e5d92b1f:0xe94d2d0992da04ba!8m2!3d20.9449001!4d-156.6923138"
+      url: "https://www.google.com/maps/place/Ka%E2%80%99anapali+Beach/@20.9447774,-156.6938805,17z/data=!4m5!3m4!1s0x7eaad559e5d92b1f:0xe94d2d0992da04ba!8m2!3d20.9449001!4d-156.6923138"
     -
       type: "website"
       url: "https://www.to-hawaii.com/maui/beaches/kaanapali-beach.php"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kaanapali+Beach"
+      url: "https://www.google.com/search?tbm=isch&q=Ka'anapali+Beach"
   address: "Unnamed Road, Lahaina, HI 96761"
 -
   id: 50
@@ -844,7 +844,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Kenolio+Park/@20.7811184,-156.4630039,18z/data=!4m12!1m6!3m5!1s0x7954d1b021100c3b:0x4245bc9926607de8!2sUlulani's+Hawaiian+Shave+Ice+-+Kihei!8m2!3d20.7817454!4d-156.4624555!3m4!1s0x7954d1b1d2a21cf1:0x65680e1145f0accb!8m2!3d20.7807385!4d-156.4623052"
+      url: "https://www.google.com/maps/place/Kenolio+Park/@20.7805667,-156.4635189,17z/data=!4m5!3m4!1s0x7954d1b1d2a21cf1:0x65680e1145f0accb!8m2!3d20.7807385!4d-156.4623052"
     -
       type: "website"
       url: "https://www.mauicounty.gov/facilities/facility/details/kenoliorecreationcomplex-110"
@@ -854,19 +854,19 @@
   address: "Kihei, HI 96753"
 -
   id: 51
-  name: "Lahaina Banyan Court Park"
+  name: "Lāhainā Banyan Court Park"
   type: "point-of-interest"
   priority: "high"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/L%C4%81hain%C4%81+Banyan+Court,+United+States/@20.8721464,-156.6767093,17.83z/data=!4m9!1m2!2m1!1slahaina+banyan+tree!3m5!1s0x79552bb840ab7649:0x20049bc15959892c!8m2!3d20.8718511!4d-156.6776043!15sChNsYWhhaW5hIGJhbnlhbiB0cmVlWhUiE2xhaGFpbmEgYmFueWFuIHRyZWWSAQRwYXJrmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU13ZUhWNlRqVjNSUkFC?hl=en"
+      url: "https://www.google.com/maps/place/L%C4%81hain%C4%81+Banyan+Court,+United+States/@20.8720762,-156.679295,17z/data=!4m5!3m4!1s0x79552bb840ab7649:0x20049bc15959892c!8m2!3d20.8718511!4d-156.6776043"
     -
       type: "website"
       url: "https://lahainarestoration.org/lahaina-banyan-tree/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Lahaina+Banyan+Tree"
+      url: "https://www.google.com/search?tbm=isch&q=Lāhainā+Banyan+Tree+Court+Park"
   address: "671 Front St, Lahaina, HI 96761"
   phone: "+1 808-661-4685"
 -
@@ -883,7 +883,7 @@
       url: "https://dlnr.hawaii.gov/dsp/parks/maui/iao-valley-state-monument/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=ʻĪao+Valley+State+Monument"
+      url: "https://www.google.com/search?tbm=isch&q=%CA%BB%C4%AAao+Valley+State+Monument"
   address: "54 S High St, Wailuku, HI 96793"
 -
   id: 53
@@ -893,7 +893,7 @@
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Ho'okipa+Lookout/@20.9352639,-156.3577195,17z/data=!4m12!1m6!3m5!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!2sHo'okipa+Lookout!8m2!3d20.9352639!4d-156.3555308!3m4!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!8m2!3d20.9352639!4d-156.3555308"
+      url: "https://www.google.com/maps/place/Ho%E2%80%98okipa/@20.9328389,-156.3603159,17z/data=!4m5!3m4!1s0x7eab330b07a3dce1:0x1b28b3ae25bfe270!8m2!3d20.9331087!4d-156.358596"
     -
       type: "website"
       url: "https://www.yelp.com/biz/hookipa-beach-lookout-paia"
