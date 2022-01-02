@@ -1,7 +1,7 @@
-%div{ class: ['event', 'meal', meal.name.downcase].compact.join(' ') }
+%div{ class: ['event', 'meal', meal.name.downcase].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => meal.id, 'eventable-type' => 'meal', 'meal-id' => meal.id } }
   %h4.name= meal.name
   - r = restaurant(meal.restaurant_id)
-  .restaurant
+  .restaurant{ data: { 'restaurant-id' => r.id } }
     %h5.name= r.name
     = partial('links', locals: { links: r.links })
     - if r.address

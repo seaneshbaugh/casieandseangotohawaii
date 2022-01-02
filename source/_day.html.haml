@@ -1,4 +1,4 @@
-.day
+.day{ data: { 'day-id' => day.id } }
   %h3.name= "Day #{day.name} - #{DateTime.strptime(day.date, '%Y-%m-%d').strftime('%A %b %-d')}"
   - events(leg.id, day.id).each do |event|
     - case event.eventable_type

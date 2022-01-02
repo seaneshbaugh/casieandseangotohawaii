@@ -1202,3 +1202,13 @@
     Cathie: 4
     Dwayne: 4
     Kyle: 4
+-
+  id: 80
+  name: "Breakfast"
+  restaurant_id: 50
+  food:
+    Shared:
+      - "Banana Muffins"
+  ratings:
+    Cathie: 2
+    Dwayne: 2

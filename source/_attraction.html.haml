@@ -1,4 +1,4 @@
-%div{ class: ['event', 'attraction', attraction.priority, attraction.type].compact.join(' ') }
+%div{ class: ['event', 'attraction', attraction.priority, attraction.type].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => attraction.id, 'eventable-type' => 'attraction', 'attraction-id' => attraction.id } }
   %h4.name= attraction.name
   = partial('links', locals: { links: attraction.links })
   - if attraction.address
