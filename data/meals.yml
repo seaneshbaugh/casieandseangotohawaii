@@ -805,7 +805,7 @@
       - "Mojito"
     Dwayne:
       - "Original Spinach Salad"
-      - "Longboard Lager"
+      - "Longboard Island Lager"
     Kyle:
       - "Chicken Katsu Curry"
       - "Ice Tea"
@@ -1232,4 +1232,22 @@
       - "Fries"
       - "Coke"
   ratings:
+    Kyle: 4
+-
+  id: 83
+  name: "Dinner"
+  restaurant_id: 62
+  food:
+    Cathie:
+      - "The Royal Margarita"
+    Dwayne:
+      - "Longboard Island Lager"
+    Kyle:
+      - "Water"
+    Shared:
+      - "Turkey Club"
+      - "Truffle Fries"
+  ratings:
+    Cathie: 4
+    Dwayne: 3
     Kyle: 4

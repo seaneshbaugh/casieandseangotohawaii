@@ -1086,14 +1086,14 @@
   day_id: 22
   eventable_type: "meal"
   eventable_id: 57
-  order: 16
+  order: 17
 -
   id: 151
   leg_id: 5
   day_id: 22
   eventable_type: "meal"
   eventable_id: 58
-  order: 17
+  order: 18
 -
   id: 152
   leg_id: 6
@@ -1480,3 +1480,10 @@
   eventable_type: "meal"
   eventable_id: 82
   order: 7
+-
+  id: 150
+  leg_id: 5
+  day_id: 22
+  eventable_type: "meal"
+  eventable_id: 83
+  order: 16
