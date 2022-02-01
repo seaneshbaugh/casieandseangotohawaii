@@ -8,13 +8,13 @@
       - "Niku Udon"
       - "Shrimp Tempura"
       - "Mushroom Tempura"
-      - "Soda"
+      - "Coke"
     Sean:
       - "Nikitama Udon"
       - "Shrimp Tempura"
       - "Calamari Tempura"
       - "Potato Croquette"
-      - "Soda"
+      - "Diet Coke"
     Shared:
       - "Asparagus Tempura"
   ratings:
@@ -92,24 +92,20 @@
     Sean:
       - "Iced Mocha Macademia Nut Latte"
     Shared:
-      - "4 × Dobash Malasadas"
-      - "4 × Custard Malasadas"
-      - "4 × Haupia Malasadas"
+      - "3 × Dobash Malasadas"
+      - "3 × Custard Malasadas"
+      - "2 × Haupia Malasadas"
+      - "4 x Macadamia Malasadas"
       - "Macadamia Nut Cookies"
   ratings:
-    Sean: 2
+    Casie: 4
+    Sean: 5
   notes: "Food was fantastic, service was friendly but ultimately awful."
 -
   id: 7
   name: "Lunch"
   restaurant_id: 7
   priority: "normal"
-  food:
-    Casie: []
-    Sean: []
-    Shared: []
-  ratings:
-    Sean: 4
 -
   id: 8
   name: "Dinner"
@@ -128,6 +124,7 @@
       - "Pork/Squid/Shrimp Tama"
       - "Cream Kuromitsu Milk Pudding"
   ratings:
+    Casie: 3
     Sean: 4
 -
   id: 9
@@ -142,6 +139,7 @@
       - "Haleiwa Chun"
       - "Iced Coffee"
   ratings:
+    Casie: 5
     Sean: 5
 -
   id: 10
@@ -194,12 +192,6 @@
   name: "Lunch"
   restaurant_id: 13
   priority: "normal"
-  food:
-    Casie: []
-    Sean: []
-    Shared: []
-  ratings:
-    Sean: 3
 -
   id: 14
   name: "Dinner"
@@ -232,6 +224,19 @@
   name: "Dinner"
   restaurant_id: 18
   priority: "normal"
+  food:
+    Casie:
+      - "Panzanella"
+      - "Root Beer"
+    Sean:
+      - "Fish Curry"
+      - "Coke"
+    Shared:
+      - "Smoked Salmon"
+      - "Flourless Chocolate Cake"
+  ratings:
+    Casie: 4
+    Sean: 4
 -
   id: 19
   name: "Breakfast"
@@ -242,6 +247,18 @@
   name: "Lunch"
   restaurant_id: 20
   priority: "normal"
+  food:
+    Casie:
+      - "Grilled Cheese"
+      - "Chips"
+      - "Hawaiian Sun"
+    Sean:
+      - "Burger"
+      - "Chips"
+      - "Hawaiian Sun"
+  ratings:
+    Casie: 3
+    Sean: 2
 -
   id: 21
   name: "Snack"
@@ -262,6 +279,12 @@
   name: "Snack"
   restaurant_id: 24
   priority: "normal"
+  food:
+    Casie: "One Scoop Mudpie Ice Cream"
+    Sean: "One Scoop Vanilla Ice Cream"
+  ratings:
+    Casie: 3
+    Sean: 3
 -
   id: 25
   name: "Dinner"
@@ -292,6 +315,18 @@
   name: "Breakfast"
   restaurant_id: 30
   priority: "normal"
+  food:
+    Casie:
+      - "Bacon and Egg Sandwich"
+      - "Pineapple Mac Nut Pie"
+      - "Cold Brew Coffee"
+    Sean:
+      - "Seared Ahi Sandwich"
+      - "Olowalu Lime Pie"
+      - "Cold Brew Coffee"
+  ratings:
+    Casie: 5
+    Sean: 5
 -
   id: 31
   name: "Lunch"
@@ -307,6 +342,16 @@
   name: "Breakfast"
   restaurant_id: 33
   priority: "normal"
+  food:
+    Casie:
+      - "Belgian Waffle"
+      - "Coffee"
+    Sean:
+      - "Royal Loco Moco"
+      - "Coffee"
+  ratings:
+    Casie: 3
+    Sean: 3
 -
   id: 34
   name: "Dinner"
