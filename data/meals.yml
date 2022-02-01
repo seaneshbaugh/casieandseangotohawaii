@@ -280,8 +280,10 @@
   restaurant_id: 24
   priority: "normal"
   food:
-    Casie: "One Scoop Mudpie Ice Cream"
-    Sean: "One Scoop Vanilla Ice Cream"
+    Casie:
+      - "One Scoop Mudpie Ice Cream"
+    Sean:
+      - "One Scoop Vanilla Ice Cream"
   ratings:
     Casie: 3
     Sean: 3
