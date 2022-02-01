@@ -390,119 +390,117 @@
   price_range: "$"
   genre: "Shaved Ice"
 -
-  id: 20 # day 7 lunch
-  name: "The Lodge at Koke'e"
+  id: 20
+  name: "Kōkeʻe Lodge"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/place/Koke'e+Lodge/@22.1302106,-159.6602995,17z/data=!3m1!4b1!4m8!3m7!1s0x7c07aa47683bb7ed:0xe1b08fe5c1ba47f2!5m2!4m1!1i2!8m2!3d22.1301572!4d-159.6580425"
     -
       type: "website"
-      url: ""
+      url: "http://www.kokeelodge.com/"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Kōkeʻe+Lodge"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
-#### START OF MISSING
+      url: "https://www.yelp.com/biz/kokee-lodge-waimea"
+  address: "3600 Kokee Rd, Waimea, HI 96716"
+  phone: "+1 808-335-6061"
+  hours: "9:00 AM - 4:00 PM"
+  price_range: "$$"
+  genre: "American"
 -
-  id: 21 # day 7 snack
+  id: 21
   name: "JoJo's Shave Ice"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/place/JoJo's+Shave+Ice/@21.9559175,-159.6717052,17z/data=!3m1!5s0x7c07a9e008bf5c1f:0xf5582401920e2fa9!4m5!3m4!1s0x7c07a9e008eadf6f:0x858ce10544bc7cca!8m2!3d21.9559913!4d-159.6699754?shorturl=1"
     -
       type: "website"
-      url: ""
+      url: "https://jojosshaveice.com/"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Jojo's+Shave+Ice"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+      url: "https://www.yelp.com/biz/jojos-shave-ice-waimea-2"
+  address: "9734 Kaumualii Hwy, Waimea, HI 96796"
+  phone: "+1 808-378-4712"
+  hours: "11:00 AM - 6:00 PM"
+  price_range: "$"
+  genre: "Shaved Ice"
 -
-  id: 22 # day 7 dinner
+  id: 22
   name: "Verde Restaurant"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/place/Verde+Restaurant+Lihue/@21.969311,-159.3901004,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071c2122831f7f:0xdfc200507335b95!8m2!3d21.969311!4d-159.3879117"
     -
       type: "website"
-      url: ""
+      url: "http://www.verdehawaii.com/"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Verde+Restaurant+Kauai"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+      url: "https://www.yelp.com/biz/verde-lihue-4"
+  address: "4454 Nuhou St #501, Lihue, HI 96766"
+  phone: "+1 808-320-7088"
+  hours: "11:00 PM - 8:00 PM"
+  price_range: "$$"
+  genre: "Mexican"
 -
-  id: 23 # day 8 breakfast
+  id: 23
   name: "Nom Kauai"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/search/4-1101+Kuhio+Hwy.+A-4+Kapaa,+HI+96746/@22.0693733,-159.3228685,17z/data=!3m1!4b1"
     -
       type: "website"
-      url: ""
+      url: "https://www.nomkauai.com/"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Nom+Kauai"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+      url: "https://www.yelp.com/biz/nom-kauai-kapaa"
+  address: "4-1101 Kuhio Hwy A-4 Kapaa, HI 96746"
+  phone: "+1 808-635-5903"
+  hours: "8:00 AM - 1:00 PM"
+  price_range: "$$"
+  genre: "Breakfast, Burgers"
 -
-  id: 24 # day 8 snack
+  id: 24
   name: "Royal Scoop"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/place/The+Royal+Scoop/@20.9319941,-156.6946769,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b9e1339a13f:0x4a89e93553e473e2!8m2!3d20.9319999!4d-156.6924588"
     -
       type: "website"
-      url: ""
+      url: "https://www.royallahaina.com/dining"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Royal+Scoop+Maui"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
-#### END OF MISSING
+      url: "https://www.yelp.com/biz/the-royal-scoop-lahaina"
+  address: "2780 Kekaa Dr, Lahaina, HI 96761"
+  phone: "+1 808-661-3611"
+  hours: "6:00 AM - 8:00 PM"
+  price_range: "$"
+  genre: "Ice Cream"
 -
   id: 25
   name: "Lahaina Grill"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.876522713878664%2C-156.68405352648927&z=13"
+      url: "https://www.google.com/maps/place/Lahaina+Grill/@20.875552,-156.6817257,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bb9998e71bb:0x148ddc2231bf0fd2!8m2!3d20.8755519!4d-156.679537"
     -
       type: "website"
       url: "https://lahainagrill.com/menu-2/"
@@ -518,28 +516,27 @@
   price_range: "$$$"
   genre: "American, seafood"
   frommers_guide_book_page: "391"
-#### START OF MISSING
 -
-  id: 26 # day 9 breakfast
+  id: 26
   name: "Sea House Restaurant"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/place/Sea+House+Restaurant/@20.9966832,-156.6681115,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad44cb77bc469:0xbb9e570fc130b3a8!8m2!3d20.9966832!4d-156.6659175"
     -
       type: "website"
-      url: ""
+      url: "https://www.napilikai.com/dining/"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Sea+House+Restaurant"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+      url: "https://www.yelp.com/biz/sea-house-restaurant-lahaina"
+  address: "5900 Lower Honoapiilani Rd, Lahaina, HI 96761"
+  phone: "+1 808-669-1500"
+  hours: "7:00 AM - 9:00 PM"
+  price_range: "$$"
+  genre: "Seafood, Hawaiian"
 -
   id: 27
   name: "Star Noodle"
@@ -577,79 +574,75 @@
   price_range: "$"
   genre: "Shaved ice, Ice cream"
 -
-  id: 29 # day 9 dinner
+  id: 29
   name: "Miso Phat Sushi"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/place/Miso+Phat+Sushi/@20.7492267,-156.4569426,17z/data=!3m1!4b1!4m5!3m4!1s0x7954d041c24b482b:0xea3041c5edd9039e!8m2!3d20.7492267!4d-156.4547539"
     -
       type: "website"
-      url: ""
+      url: "https://misophat.com/"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Miso+Phat+Sushi"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
+      url: "https://www.yelp.com/biz/miso-phat-sushi-kihei-2"
+  address: "1279 S Kihei Rd #108, Kihei, HI 96753"
+  phone: "+1 808-891-6476"
+  hours: "11:30 AM - 8:30 PM"
+  price_range: "$$"
+  genre: "Sushi"
 -
   id: 30
   name: "Leoda's Kitchen and Pie Shop"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/place/Leoda's+Kitchen+and+Pie+Shop/@20.8113271,-156.6242033,17z/data=!3m1!5s0x795529d938635af7:0x8d9f774ddbc34204!4m12!1m6!3m5!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!2sLeoda's+Kitchen+and+Pie+Shop!8m2!3d20.8113193!4d-156.6220193!3m4!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!8m2!3d20.8113193!4d-156.6220193"
+      url: "https://www.google.com/maps/place/Leoda's+Kitchen+and+Pie+Shop/@20.8113271,-156.6242033,17z/data=!4m5!3m4!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!8m2!3d20.8113193!4d-156.6220193"
     -
       type: "website"
       url: "https://www.leodas.com/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Leoda's+Kitchen+Pie+Shop"
+      url: "https://www.google.com/search?tbm=isch&q=Leoda%27s+Kitchen+Pie+Shop"
   address: "820 Olowalu Village Rd, Lahaina, HI 96761"
   phone: "+1 808-662-3600"
   hours: "10:00 AM - 6:00 PM"
   price_range: "$$"
   genre: "Sandwiches, Pies"
 -
-  id: 31 # day 10 lunch
-  name: "Barefoot Cafe"
+  id: 31
+  name: "Barefoot Cafe, Bakery &amp; Catering"
   links:
     -
       type: "map"
-      url: ""
-    -
-      type: "website"
-      url: ""
+      url: "https://www.google.com/maps/place/Barefoot+Cafe,+Bakery+%26+Catering/@20.754977,-155.9859633,17z/data=!3m1!4b1!4m5!3m4!1s0x7954adad25c9925b:0x760621908779fbfc!8m2!3d20.7549811!4d-155.9837743"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Barefoot+Cafe+Maui"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
+      url: "https://www.yelp.com/biz/barefoot-cafe-bakery-and-catering-h%C4%81na"
+  address: "1630 Keawa Pl, Hana, HI 96713"
+  phone: "+1 808-446-5519"
   hours: ""
   price_range: ""
   genre: ""
-#### END OF MISSING
 -
   id: 32
   name: "Merriman's"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.001005164453375%2C-156.67981369189454&z=13"
+      url: "https://www.google.com/maps/place/Merriman's+Kapalua/@20.9984073,-156.6693332,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad44b62d8196b:0xe2817ef1b6cae084!8m2!3d20.9984073!4d-156.6671445"
     -
       type: "website"
       url: "https://www.merrimanshawaii.com/kapalua/dinner-menu/"
     -
       type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Merriman%26s+Kapalua"
+      url: "https://www.google.com/search?tbm=isch&q=Merriman%27s+Kapalua"
     -
       type: "reviews"
       url: "https://www.yelp.com/biz/merrimans-kapalua-lahaina-2"
@@ -657,38 +650,36 @@
   phone: "+1 808-669-6400"
   hours: "3:00 PM - 9:00 PM"
   price_range: "$$$"
-  genre: "American, seafood"
+  genre: "American, Seafood"
   frommers_guide_book_page: "402"
-#### START OF MISSING
 -
-  id: 33 # day 11 breakfast
+  id: 33
   name: "Royal Ocean Terrace Restaurant"
   links:
     -
       type: "map"
-      url: ""
+      url: "https://www.google.com/maps/place/Royal+Ocean+Terrace+Restaurant/@20.9322677,-156.6943089,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b49a0ede727:0xdc80148e6c88bb42!8m2!3d20.9322677!4d-156.6921202"
     -
       type: "website"
-      url: ""
+      url: "https://www.royallahaina.com/dining"
     -
       type: "images"
-      url: ""
+      url: "https://www.google.com/search?tbm=isch&q=Royal+Ocean+Terrace+Restaurant"
     -
       type: "reviews"
-      url: ""
-  address: ""
-  phone: ""
-  hours: ""
-  price_range: ""
-  genre: ""
-#### END OF MISSING
+      url: "https://www.yelp.com/biz/royal-ocean-terrace-restaurant-and-lounge-lahaina-2"
+  address: "2780 Kekaa Dr, Lahaina, HI 96761"
+  phone: "+1 808-661-3611"
+  hours: "7:00 AM - 9:00 PM"
+  price_range: "$$"
+  genre: "Hawaiian"
 -
   id: 34
   name: "Mama's Fish House"
   links:
     -
       type: "map"
-      url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.932916969269815%2C-156.3776175276612&z=13"
+      url: "https://www.google.com/maps/place/Mama's+Fish+House/@20.9289879,-156.3692153,17z/data=!3m1!4b1!4m5!3m4!1s0x7eab330f83403f83:0x9033ebc2c3901d45!8m2!3d20.9290928!4d-156.3668766"
     -
       type: "website"
       url: "https://www.mamasfishhouse.com/menus/"
