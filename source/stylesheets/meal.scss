@@ -112,8 +112,12 @@
         }
     }
 
-    > .notes::before {
-        content: "Notes: ";
-        font-weight: bold;
+    > .notes {
+        margin-top: calc(var(--default-margin) / 2);
+
+        &:before {
+            content: "Notes: ";
+            font-weight: bold;
+        }
     }
 }
