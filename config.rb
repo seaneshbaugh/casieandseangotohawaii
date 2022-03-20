@@ -44,6 +44,10 @@ helpers do
     data.airports.select { |airport| airport.id == airport_id }.first
   end
 
+  def attraction(attraction_id)
+    data.attractions.select { |attraction| attraction.id == attraction_id }.first
+  end
+
   def events(leg_id, day_id)
     data.events.select { |event| event.leg_id == leg_id && event.day_id == day_id }.sort_by { |event| event.order }
   end
@@ -92,6 +96,14 @@ helpers do
 
   def trip(trip_id)
     data.trips.select { |trip| trip.id == trip_id }.first
+  end
+
+  def visits
+    data.visits
+  end
+
+  def visit(visit_id)
+    data.visits.select { |visit| visit.id == visit_id }.first
   end
 end
 

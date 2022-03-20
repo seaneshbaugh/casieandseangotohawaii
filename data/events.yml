@@ -9,14 +9,14 @@
   id: 2
   leg_id: 1
   day_id: 1
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 1
   order: 2
 -
   id: 3
   leg_id: 1
   day_id: 1
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 2
   order: 3
 -
@@ -37,7 +37,7 @@
   id: 6
   leg_id: 1
   day_id: 2
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 3
   order: 2
 -
@@ -51,28 +51,28 @@
   id: 8
   leg_id: 1
   day_id: 2
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 4
   order: 4
 -
   id: 9
   leg_id: 1
   day_id: 2
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 5
   order: 5
 -
   id: 10
   leg_id: 1
   day_id: 2
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 6
   order: 6
 -
   id: 11
   leg_id: 1
   day_id: 2
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 7
   order: 7
 -
@@ -86,14 +86,14 @@
   id: 13
   leg_id: 1
   day_id: 2
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 8
   order: 9
 -
   id: 14
   leg_id: 1
   day_id: 2
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 9
   order: 10
 -
@@ -114,28 +114,28 @@
   id: 17
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 10
   order: 2
 -
   id: 18
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 11
   order: 3
 -
   id: 19
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 12
   order: 4
 -
   id: 20
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 13
   order: 5
 -
@@ -149,36 +149,36 @@
   id: 22
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 14
   order: 7
 -
   id: 23
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 15
   order: 8
 -
   id: 24
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 16
   order: 9
 -
   id: 25
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
-  eventable_id: 18
+  eventable_type: "visit"
+  eventable_id: 17
   order: 10
 -
   id: 26
   leg_id: 1
   day_id: 3
-  eventable_type: "attraction"
-  eventable_id: 19
+  eventable_type: "visit"
+  eventable_id: 18
   order: 11
 -
   id: 27
@@ -198,8 +198,8 @@
   id: 29
   leg_id: 1
   day_id: 4
-  eventable_type: "attraction"
-  eventable_id: 20
+  eventable_type: "visit"
+  eventable_id: 19
   order: 2
 -
   id: 30
@@ -219,15 +219,15 @@
   id: 32
   leg_id: 2
   day_id: 5
-  eventable_type: "attraction"
-  eventable_id: 21
+  eventable_type: "visit"
+  eventable_id: 20
   order: 2
 -
   id: 33
   leg_id: 2
   day_id: 5
-  eventable_type: "attraction"
-  eventable_id: 22
+  eventable_type: "visit"
+  eventable_id: 21
   order: 3
 -
   id: 34
@@ -247,15 +247,15 @@
   id: 36
   leg_id: 2
   day_id: 6
-  eventable_type: "attraction"
-  eventable_id: 23
+  eventable_type: "visit"
+  eventable_id: 22
   order: 2
 -
   id: 37
   leg_id: 2
   day_id: 6
-  eventable_type: "attraction"
-  eventable_id: 24
+  eventable_type: "visit"
+  eventable_id: 23
   order: 3
 -
   id: 38
@@ -268,29 +268,29 @@
   id: 39
   leg_id: 2
   day_id: 6
-  eventable_type: "attraction"
-  eventable_id: 25
+  eventable_type: "visit"
+  eventable_id: 24
   order: 5
 -
   id: 40
   leg_id: 2
   day_id: 6
-  eventable_type: "attraction"
-  eventable_id: 26
+  eventable_type: "visit"
+  eventable_id: 25
   order: 6
 -
   id: 41
   leg_id: 2
   day_id: 6
-  eventable_type: "attraction"
-  eventable_id: 27
+  eventable_type: "visit"
+  eventable_id: 26
   order: 7
 -
   id: 42
   leg_id: 2
   day_id: 6
-  eventable_type: "attraction"
-  eventable_id: 28
+  eventable_type: "visit"
+  eventable_id: 27
   order: 8
 -
   id: 43
@@ -310,22 +310,22 @@
   id: 45
   leg_id: 2
   day_id: 7
-  eventable_type: "attraction"
-  eventable_id: 29
+  eventable_type: "visit"
+  eventable_id: 28
   order: 2
 -
   id: 46
   leg_id: 2
   day_id: 7
-  eventable_type: "attraction"
-  eventable_id: 30
+  eventable_type: "visit"
+  eventable_id: 29
   order: 3
 -
   id: 47
   leg_id: 2
   day_id: 7
-  eventable_type: "attraction"
-  eventable_id: 31
+  eventable_type: "visit"
+  eventable_id: 30
   order: 4
 -
   id: 48
@@ -345,22 +345,22 @@
   id: 50
   leg_id: 2
   day_id: 7
-  eventable_type: "attraction"
-  eventable_id: 32
+  eventable_type: "visit"
+  eventable_id: 31
   order: 7
 -
   id: 51
   leg_id: 2
   day_id: 7
-  eventable_type: "attraction"
-  eventable_id: 33
+  eventable_type: "visit"
+  eventable_id: 32
   order: 8
 -
   id: 52
   leg_id: 2
   day_id: 7
-  eventable_type: "attraction"
-  eventable_id: 34
+  eventable_type: "visit"
+  eventable_id: 33
   order: 9
 -
   id: 53
@@ -380,15 +380,15 @@
   id: 55
   leg_id: 2
   day_id: 8
-  eventable_type: "attraction"
-  eventable_id: 35
+  eventable_type: "visit"
+  eventable_id: 34
   order: 2
 -
   id: 56
   leg_id: 2
   day_id: 8
-  eventable_type: "attraction"
-  eventable_id: 36
+  eventable_type: "visit"
+  eventable_id: 35
   order: 3
 -
   id: 57
@@ -401,15 +401,15 @@
   id: 58
   leg_id: 2
   day_id: 8
-  eventable_type: "attraction"
-  eventable_id: 37
+  eventable_type: "visit"
+  eventable_id: 36
   order: 5
 -
   id: 59
   leg_id: 2
   day_id: 8
-  eventable_type: "attraction"
-  eventable_id: 38
+  eventable_type: "visit"
+  eventable_id: 37
   order: 6
 -
   id: 60
@@ -422,10 +422,9 @@
   id: 61
   leg_id: 2
   day_id: 8
-  eventable_type: "attraction"
-  eventable_id: 32
+  eventable_type: "visit"
+  eventable_id: 38
   order: 8
-  notes: "So good we went back for the sunset."
 -
   id: 62
   leg_id: 2
@@ -458,7 +457,7 @@
   id: 66
   leg_id: 3
   day_id: 10
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 39
   order: 2
 -
@@ -479,24 +478,23 @@
   id: 69
   leg_id: 3
   day_id: 11
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 40
   order: 2
 -
   id: 70
   leg_id: 3
   day_id: 11
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 41
   order: 3
 -
   id: 71
   leg_id: 3
   day_id: 11
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 42
   order: 4
-  notes_danger: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
 -
   id: 72
   leg_id: 3
@@ -515,7 +513,7 @@
   id: 74
   leg_id: 3
   day_id: 11
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 43
   order: 8
 -
@@ -536,7 +534,7 @@
   id: 77
   leg_id: 3
   day_id: 12
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 44
   order: 2
 -
@@ -550,14 +548,14 @@
   id: 79
   leg_id: 3
   day_id: 12
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 45
   order: 5
 -
   id: 80
   leg_id: 3
   day_id: 12
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 46
   order: 4
 -
@@ -578,7 +576,7 @@
   id: 83
   leg_id: 3
   day_id: 13
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 47
   order: 2
 -
@@ -613,14 +611,14 @@
   id: 88
   leg_id: 4
   day_id: 14
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 48
   order: 3
 -
   id: 89
   leg_id: 4
   day_id: 14
-  eventable_type: "attraction"
+  eventable_type: "visit"
   eventable_id: 49
   order: 4
 -
@@ -641,8 +639,8 @@
   id: 92
   leg_id: 4
   day_id: 15
-  eventable_type: "attraction"
-  eventable_id: 47
+  eventable_type: "visit"
+  eventable_id: 50
   order: 4
 -
   id: 92
@@ -655,15 +653,15 @@
   id: 93
   leg_id: 4
   day_id: 15
-  eventable_type: "attraction"
-  eventable_id: 50
+  eventable_type: "visit"
+  eventable_id: 51
   order: 6
 -
   id: 94
   leg_id: 3
   day_id: 11
-  eventable_type: "attraction"
-  eventable_id: 50
+  eventable_type: "visit"
+  eventable_id: 52
   order: 7
 -
   id: 95
@@ -683,8 +681,8 @@
   id: 97
   leg_id: 4
   day_id: 15
-  eventable_type: "attraction"
-  eventable_id: 51
+  eventable_type: "visit"
+  eventable_id: 53
   order: 9
 -
   id: 98
@@ -746,8 +744,8 @@
   id: 106
   leg_id: 4
   day_id: 16
-  eventable_type: "attraction"
-  eventable_id: 52
+  eventable_type: "visit"
+  eventable_id: 54
   order: 2
 -
   id: 107
@@ -760,8 +758,8 @@
   id: 108
   leg_id: 4
   day_id: 16
-  eventable_type: "attraction"
-  eventable_id: 49
+  eventable_type: "visit"
+  eventable_id: 55
   order: 4
 -
   id: 109
@@ -774,29 +772,29 @@
   id: 110
   leg_id: 4
   day_id: 17
-  eventable_type: "attraction"
-  eventable_id: 53
+  eventable_type: "visit"
+  eventable_id: 56
   order: 2
 -
   id: 111
   leg_id: 4
   day_id: 17
-  eventable_type: "attraction"
-  eventable_id: 54
+  eventable_type: "visit"
+  eventable_id: 57
   order: 3
 -
   id: 112
   leg_id: 4
   day_id: 17
-  eventable_type: "attraction"
-  eventable_id: 56
+  eventable_type: "visit"
+  eventable_id: 58
   order: 4
 -
   id: 113
   leg_id: 4
   day_id: 17
-  eventable_type: "attraction"
-  eventable_id: 57
+  eventable_type: "visit"
+  eventable_id: 59
   order: 5
 -
   id: 114
@@ -809,29 +807,29 @@
   id: 115
   leg_id: 4
   day_id: 17
-  eventable_tyle: "attraction"
+  eventable_type:
   eventable_id: 58
   order: 8
 -
   id: 116
   leg_id: 4
   day_id: 17
-  eventable_type: "attraction"
-  eventable_id: 55
+  eventable_type: "visit"
+  eventable_id: 60
   order: 9
 -
   id: 117
   leg_id: 4
   day_id: 17
-  eventable_type: "attraction"
-  eventable_id: 49
+  eventable_type: "visit"
+  eventable_id: 62
   order: 11
 -
   id: 117
   leg_id: 4
   day_id: 18
-  eventable_type: "attraction"
-  eventable_id: 49
+  eventable_type: "visit"
+  eventable_id: 62
   order: 1
 -
   id: 118
@@ -844,43 +842,43 @@
   id: 119
   leg_id: 4
   day_id: 18
-  eventable_type: "attraction"
-  eventable_id: 59
+  eventable_type: "visit"
+  eventable_id: 63
   order: 3
 -
   id: 120
   leg_id: 4
   day_id: 18
-  eventable_type: "attraction"
-  eventable_id: 60
+  eventable_type: "visit"
+  eventable_id: 64
   order: 4
 -
   id: 121
   leg_id: 4
   day_id: 18
-  eventable_type: "attraction"
-  eventable_id: 61
+  eventable_type: "visit"
+  eventable_id: 65
   order: 5
 -
   id: 122
   leg_id: 4
   day_id: 18
-  eventable_type: "attraction"
-  eventable_id: 62
+  eventable_type: "visit"
+  eventable_id: 66
   order: 6
 -
   id: 123
   leg_id: 4
   day_id: 18
-  eventable_type: "attraction"
-  eventable_id: 63
+  eventable_type: "visit"
+  eventable_id: 68
   order: 7
 -
   id: 123
   leg_id: 4
   day_id: 18
-  eventable_type: "attraction"
-  eventable_id: 64
+  eventable_type: "visit"
+  eventable_id: 68
   order: 8
 -
   id: 124
@@ -900,31 +898,30 @@
   id: 126
   leg_id: 3
   day_id: 12
-  eventable_type: "attraction"
-  eventable_id: 65
+  eventable_type: "visit"
+  eventable_id: 69
   order: 6
 -
   id: 127
   leg_id: 4
   day_id: 19
-  eventable_type: "attraction"
-  eventable_id: 40
+  eventable_type: "visit"
+  eventable_id: 70
   order: 2
 -
   id: 128
   leg_id: 4
   day_id: 19
-  eventable_type: "attraction"
-  eventable_id: 41
+  eventable_type: "visit"
+  eventable_id: 71
   order: 3
 -
   id: 129
   leg_id: 4
   day_id: 19
-  eventable_type: "attraction"
-  eventable_id: 42
+  eventable_type: "visit"
+  eventable_id: 72
   order: 4
-  notes_danger: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
 -
   id: 130
   leg_id: 4
@@ -943,10 +940,9 @@
   id: 132
   leg_id: 4
   day_id: 20
-  eventable_type: "attraction"
-  eventable_id: 66
+  eventable_type: "visit"
+  eventable_id: 73
   order: 2
-  notes: "This beach is just a strip of sand on the side of HI 30. It is totally worth the stop, especially if coming from Lahaina."
 -
   id: 133
   leg_id: 4
@@ -965,15 +961,15 @@
   id: 135
   leg_id: 5
   day_id: 21
-  eventable_type: "attraction"
-  eventable_id: 1
+  eventable_type: "visit"
+  eventable_id: 74
   order: 6
 -
   id: 136
   leg_id: 5
   day_id: 21
-  eventable_type: "attraction"
-  eventable_id: 2
+  eventable_type: "visit"
+  eventable_id: 75
   order: 7
 -
   id: 137
@@ -993,92 +989,92 @@
   id: 139
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 1
+  eventable_type: "visit"
+  eventable_id: 78
   order: 3
 -
   id: 140
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 67
+  eventable_type: "visit"
+  eventable_id: 79
   order: 4
 -
   id: 139
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 68
+  eventable_type: "visit"
+  eventable_id: 78
   order: 5
 -
   id: 140
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 69
+  eventable_type: "visit"
+  eventable_id: 79
   order: 6
 -
   id: 141
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 70
+  eventable_type: "visit"
+  eventable_id: 80
   order: 7
 -
   id: 142
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 71
+  eventable_type: "visit"
+  eventable_id: 81
   order: 8
 -
   id: 143
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 72
+  eventable_type: "visit"
+  eventable_id: 82
   order: 9
 -
   id: 144
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 73
+  eventable_type: "visit"
+  eventable_id: 83
   order: 10
 -
   id: 145
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 74
+  eventable_type: "visit"
+  eventable_id: 84
   order: 11
 -
   id: 146
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 75
+  eventable_type: "visit"
+  eventable_id: 85
   order: 12
 -
   id: 147
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 69
+  eventable_type: "visit"
+  eventable_id: 86
   order: 13
 -
   id: 148
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 67
+  eventable_type: "visit"
+  eventable_id: 87
   order: 14
 -
   id: 149
   leg_id: 5
   day_id: 22
-  eventable_type: "attraction"
-  eventable_id: 1
+  eventable_type: "visit"
+  eventable_id: 88
   order: 15
 -
   id: 150
@@ -1105,64 +1101,64 @@
   id: 153
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 76
+  eventable_type: "visit"
+  eventable_id: 89
   order: 3
 -
   id: 154
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 77
+  eventable_type: "visit"
+  eventable_id: 90
   order: 4
 -
   id: 155
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 78
+  eventable_type: "visit"
+  eventable_id: 91
   order: 5
 -
   id: 156
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 79
+  eventable_type: "visit"
+  eventable_id: 92
   order: 6
 -
   id: 157
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 80
+  eventable_type: "visit"
+  eventable_id: 93
   order: 7
 -
   id: 158
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 81
+  eventable_type: "visit"
+  eventable_id: 94
   order: 8
 -
   id: 159
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 82
+  eventable_type: "visit"
+  eventable_id: 95
   order: 9
 -
   id: 160
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 83
+  eventable_type: "visit"
+  eventable_id: 96
   order: 10
 -
   id: 161
   leg_id: 6
   day_id: 24
-  eventable_type: "attraction"
-  eventable_id: 84
+  eventable_type: "visit"
+  eventable_id: 97
   order: 11
 -
   id: 162
@@ -1182,64 +1178,64 @@
   id: 164
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 67
+  eventable_type: "visit"
+  eventable_id: 98
   order: 2
 -
   id: 165
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 86
+  eventable_type: "visit"
+  eventable_id: 99
   order: 3
 -
   id: 166
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 68
+  eventable_type: "visit"
+  eventable_id: 100
   order: 4
 -
   id: 167
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 69
+  eventable_type: "visit"
+  eventable_id: 101
   order: 5
 -
   id: 168
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 70
+  eventable_type: "visit"
+  eventable_id: 102
   order: 6
 -
   id: 169
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 75
+  eventable_type: "visit"
+  eventable_id: 103
   order: 7
 -
   id: 170
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 85
+  eventable_type: "visit"
+  eventable_id: 104
   order: 8
 -
   id: 171
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 69
+  eventable_type: "visit"
+  eventable_id: 105
   order: 10
 -
   id: 172
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 67
+  eventable_type: "visit"
+  eventable_id: 106
   order: 11
 -
   id: 173
@@ -1252,16 +1248,15 @@
   id: 174
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 87
+  eventable_type: "visit"
+  eventable_id: 107
   order: 13
-  notes_danger: "Pay heed to warning signs for man o' war."
 -
   id: 175
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 88
+  eventable_type: "visit"
+  eventable_id: 108
   order: 14
 -
   id: 176
@@ -1274,8 +1269,8 @@
   id: 177
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 1
+  eventable_type: "visit"
+  eventable_id: 109
   order: 17
 -
   id: 178
@@ -1288,22 +1283,22 @@
   id: 179
   leg_id: 7
   day_id: 27
-  eventable_type: "attraction"
-  eventable_id: 89
+  eventable_type: "visit"
+  eventable_id: 110
   order: 3
 -
   id: 180
   leg_id: 7
   day_id: 27
-  eventable_type: "attraction"
-  eventable_id: 19
+  eventable_type: "visit"
+  eventable_id: 111
   order: 4
 -
   id: 181
   leg_id: 7
   day_id: 26
-  eventable_type: "attraction"
-  eventable_id: 90
+  eventable_type: "visit"
+  eventable_id: 112
   order: 9
 -
   id: 182
@@ -1316,29 +1311,29 @@
   id: 183
   leg_id: 7
   day_id: 27
-  eventable_type: "attraction"
-  eventable_id: 91
+  eventable_type: "visit"
+  eventable_id: 113
   order: 6
 -
   id: 184
   leg_id: 7
   day_id: 27
-  eventable_type: "attraction"
-  eventable_id: 92
+  eventable_type: "visit"
+  eventable_id: 114
   order: 7
 -
   id: 185
   leg_id: 7
   day_id: 27
-  eventable_type: "attraction"
-  eventable_id: 93
+  eventable_type: "visit"
+  eventable_id: 116
   order: 8
 -
   id: 185
   leg_id: 7
   day_id: 27
-  eventable_type: "attraction"
-  eventable_id: 94
+  eventable_type: "visit"
+  eventable_id: 116
   order: 9
 -
   id: 186
@@ -1351,15 +1346,15 @@
   id: 187
   leg_id: 7
   day_id: 28
-  eventable_type: "attraction"
-  eventable_id: 67
+  eventable_type: "visit"
+  eventable_id: 117
   order: 1
 -
   id: 188
   leg_id: 7
   day_id: 28
-  eventable_type: "attraction"
-  eventable_id: 69
+  eventable_type: "visit"
+  eventable_id: 118
   order: 2
 -
   id: 189
@@ -1372,15 +1367,15 @@
   id: 190
   leg_id: 7
   day_id: 28
-  eventable_type: "attraction"
-  eventable_id: 69
+  eventable_type: "visit"
+  eventable_id: 119
   order: 4
 -
   id: 191
   leg_id: 7
   day_id: 28
-  eventable_type: "attraction"
-  eventable_id: 67
+  eventable_type: "visit"
+  eventable_id: 120
   order: 5
 -
   id: 192
@@ -1393,15 +1388,15 @@
   id: 193
   leg_id: 7
   day_id: 28
-  eventable_type: "attraction"
-  eventable_id: 10
+  eventable_type: "visit"
+  eventable_id: 122
   order: 7
 -
   id: 193
   leg_id: 7
   day_id: 28
-  eventable_type: "attraction"
-  eventable_id: 11
+  eventable_type: "visit"
+  eventable_id: 122
   order: 8
 -
   id: 194
@@ -1414,15 +1409,15 @@
   id: 195
   leg_id: 7
   day_id: 29
-  eventable_type: "attraction"
-  eventable_id: 3
+  eventable_type: "visit"
+  eventable_id: 123
   order: 1
 -
   id: 196
   leg_id: 7
   day_id: 29
-  eventable_type: "attraction"
-  eventable_id: 95
+  eventable_type: "visit"
+  eventable_id: 124
   order: 2
 -
   id: 197
@@ -1435,8 +1430,8 @@
   id: 198
   leg_id: 7
   day_id: 29
-  eventable_type: "attraction"
-  eventable_id: 96
+  eventable_type: "visit"
+  eventable_id: 125
   order: 4
 -
   id: 199

@@ -1,0 +1,15 @@
+- a = attraction(visit.attraction_id)
+%div.event.visit{ class: ['event', 'visit', a.priority, a.type].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => visit.id, 'eventable-type' => 'visit', 'visit-id' => visit.id } }
+  .attraction{ data: { 'attraction-id' => a.id } }
+    %h4.name= a.name
+    = partial('links', locals: { links: a.links })
+    - if a.address
+      .address= a.address
+    - if a.phone
+      .phone= a.phone
+    - if a.frommers_guide_book_page
+      %cite.frommers-guide-book-page= a.frommers_guide_book_page
+  - if event.notes_danger
+    .notes.danger= event.notes_danger
+  - elsif event.notes
+    .notes= event.notes

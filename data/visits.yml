@@ -1,0 +1,380 @@
+-
+  id: 1
+  attraction_id: 1
+-
+  id: 2
+  attraction_id: 2
+-
+  id: 3
+  attraction_id: 3
+-
+  id: 4
+  attraction_id: 4
+-
+  id: 5
+  attraction_id: 5
+-
+  id: 6
+  attraction_id: 6
+-
+  id: 7
+  attraction_id: 7
+-
+  id: 8
+  attraction_id: 8
+-
+  id: 9
+  attraction_id: 9
+-
+  id: 10
+  attraction_id: 10
+-
+  id: 11
+  attraction_id: 11
+-
+  id: 12
+  attraction_id: 12
+-
+  id: 13
+  attraction_id: 13
+-
+  id: 14
+  attraction_id: 14
+-
+  id: 15
+  attraction_id: 15
+-
+  id: 16
+  attraction_id: 16
+-
+  id: 17
+  attraction_id: 18
+-
+  id: 18
+  attraction_id: 19
+-
+  id: 19
+  attraction_id: 20
+-
+  id: 20
+  attraction_id: 21
+-
+  id: 21
+  attraction_id: 22
+-
+  id: 22
+  attraction_id: 23
+-
+  id: 23
+  attraction_id: 24
+-
+  id: 24
+  attraction_id: 25
+-
+  id: 25
+  attraction_id: 26
+-
+  id: 26
+  attraction_id: 27
+-
+  id: 27
+  attraction_id: 28
+-
+  id: 28
+  attraction_id: 29
+-
+  id: 29
+  attraction_id: 30
+-
+  id: 30
+  attraction_id: 31
+-
+  id: 31
+  attraction_id: 32
+-
+  id: 32
+  attraction_id: 33
+-
+  id: 33
+  attraction_id: 34
+-
+  id: 34
+  attraction_id: 35
+-
+  id: 35
+  attraction_id: 36
+-
+  id: 36
+  attraction_id: 37
+-
+  id: 37
+  attraction_id: 38
+-
+  id: 38
+  attraction_id: 32
+  notes: "So good we went back for the sunset."
+-
+  id: 39
+  attraction_id: 39
+-
+  id: 40
+  attraction_id: 40
+-
+  id: 41
+  attraction_id: 41
+-
+  id: 42
+  attraction_id: 42
+  notes_danger: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
+-
+  id: 43
+  attraction_id: 43
+-
+  id: 44
+  attraction_id: 44
+-
+  id: 45
+  attraction_id: 45
+-
+  id: 46
+  attraction_id: 46
+-
+  id: 47
+  attraction_id: 47
+-
+  id: 48
+  attraction_id: 48
+-
+  id: 49
+  attraction_id: 49
+-
+  id: 50
+  attraction_id: 47
+-
+  id: 51
+  attraction_id: 50
+-
+  id: 52
+  attraction_id: 50
+-
+  id: 53
+  attraction_id: 51
+-
+  id: 54
+  attraction_id: 52
+-
+  id: 55
+  attraction_id: 49
+-
+  id: 56
+  attraction_id: 53
+-
+  id: 57
+  attraction_id: 54
+-
+  id: 58
+  attraction_id: 56
+-
+  id: 59
+  attraction_id: 57
+-
+  id: 60
+  attraction_id: 55
+-
+  id: 61
+  attraction_id: 49
+-
+  id: 62
+  attraction_id: 49
+-
+  id: 63
+  attraction_id: 59
+-
+  id: 64
+  attraction_id: 60
+-
+  id: 65
+  attraction_id: 61
+-
+  id: 66
+  attraction_id: 62
+-
+  id: 67
+  attraction_id: 63
+-
+  id: 68
+  attraction_id: 64
+-
+  id: 69
+  attraction_id: 65
+-
+  id: 70
+  attraction_id: 40
+-
+  id: 71
+  attraction_id: 41
+-
+  id: 72
+  attraction_id: 42
+  notes_danger: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
+-
+  id: 73
+  attraction_id: 66
+  notes: "This beach is just a strip of sand on the side of HI 30. It is totally worth the stop, especially if coming from Lahaina."
+-
+  id: 74
+  attraction_id: 1
+-
+  id: 75
+  attraction_id: 2
+-
+  id: 76
+  attraction_id: 1
+-
+  id: 77
+  attraction_id: 67
+-
+  id: 78
+  attraction_id: 68
+-
+  id: 79
+  attraction_id: 69
+-
+  id: 80
+  attraction_id: 70
+-
+  id: 81
+  attraction_id: 71
+-
+  id: 82
+  attraction_id: 72
+-
+  id: 83
+  attraction_id: 73
+-
+  id: 84
+  attraction_id: 74
+-
+  id: 85
+  attraction_id: 75
+-
+  id: 86
+  attraction_id: 69
+-
+  id: 87
+  attraction_id: 67
+-
+  id: 88
+  attraction_id: 1
+-
+  id: 89
+  attraction_id: 76
+-
+  id: 90
+  attraction_id: 77
+-
+  id: 91
+  attraction_id: 78
+-
+  id: 92
+  attraction_id: 79
+-
+  id: 93
+  attraction_id: 80
+-
+  id: 94
+  attraction_id: 81
+-
+  id: 95
+  attraction_id: 82
+-
+  id: 96
+  attraction_id: 83
+-
+  id: 97
+  attraction_id: 84
+-
+  id: 98
+  attraction_id: 67
+-
+  id: 99
+  attraction_id: 86
+-
+  id: 100
+  attraction_id: 68
+-
+  id: 101
+  attraction_id: 69
+-
+  id: 102
+  attraction_id: 70
+-
+  id: 103
+  attraction_id: 75
+-
+  id: 104
+  attraction_id: 85
+-
+  id: 105
+  attraction_id: 69
+-
+  id: 106
+  attraction_id: 67
+-
+  id: 107
+  attraction_id: 87
+  notes_danger: "Pay heed to warning signs for man o' war."
+-
+  id: 108
+  attraction_id: 88
+-
+  id: 109
+  attraction_id: 1
+-
+  id: 110
+  attraction_id: 89
+-
+  id: 111
+  attraction_id: 19
+-
+  id: 112
+  attraction_id: 90
+-
+  id: 113
+  attraction_id: 91
+-
+  id: 114
+  attraction_id: 92
+-
+  id: 115
+  attraction_id: 93
+-
+  id: 116
+  attraction_id: 94
+-
+  id: 117
+  attraction_id: 67
+-
+  id: 118
+  attraction_id: 69
+-
+  id: 119
+  attraction_id: 69
+-
+  id: 120
+  attraction_id: 67
+-
+  id: 121
+  attraction_id: 10
+-
+  id: 122
+  attraction_id: 11
+-
+  id: 123
+  attraction_id: 3
+-
+  id: 124
+  attraction_id: 95
+-
+  id: 125
+  attraction_id: 96

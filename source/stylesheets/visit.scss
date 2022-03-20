@@ -1,0 +1,112 @@
+.event.visit {
+    background: var(--visit-background-color);
+    margin-top: var(--default-margin);
+    padding: var(--default-padding);
+
+    &.minor, &.optional {
+        background: var(--minor-visit-background-color);
+        color: var(--minor-visit-color);
+    }
+
+    &.major {
+        border: 3px dotted var(--major-visit-border-color);
+    }
+
+    &.omg {
+        border: 3px dotted var(--omg-color);
+        color: var(--omg-color);
+
+        a::before {
+            color: var(--omg-color);
+        }
+    }
+
+    &.beach {
+        background: var(--beach-background-color);
+
+        &.minor, &.optional {
+            background: var(--minor-visit-beach-background-color);
+            color: var(--minor-visit-beach-color);
+        }
+
+	> .attraction {
+            > .name::before {
+		content: var(--beach-icon);
+            }
+	}
+    }
+
+    &.hike {
+        background: var(--hike-background-color);
+
+        &.minor, &.optional {
+            background: var(--minor-visit-hike-background-color);
+            color: var(--minor-visit-hike-color);
+        }
+
+	> .attraction {
+            > .name::before {
+		content: var(--hike-icon);
+            }
+	}
+    }
+
+    &.park {
+	> .attraction {
+            > .name::before {
+		content: var(--park-icon);
+            }
+	}
+    }
+
+    &.scenic-view {
+        background: var(--scenic-view-background-color);
+
+	> .attraction {
+            > .name::before {
+		content: var(--scenic-view-icon);
+            }
+	}
+    }
+
+    > .attraction {
+	> .name {
+            font-size: var(--h4-font-size);
+	    overflow: hidden;
+
+	    &:before {
+		@include material-icon;
+		content: var(--visit-icon);
+		font-size: var(--h4-icon-size);
+	    }
+	}
+
+	> .address::before {
+            content: "Address: ";
+            font-weight: bold;
+	}
+
+	> .phone::before {
+            content: "Phone: ";
+            font-weight: bold;
+	}
+
+	> .frommers-guide-book-page::before {
+            content: "Frommer's pg: ";
+            font-weight: bold;
+	}
+    }
+
+    > .notes {
+        font-style: italic;
+
+        &:before {
+	    content: "Notes: ";
+	    font-weight: bold;
+        }
+
+        &.danger {
+	    color: var(--danger-color);
+        }
+    }
+}
