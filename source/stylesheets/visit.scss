@@ -109,4 +109,9 @@
 	    color: var(--danger-color);
         }
     }
+
+    > .visitors {
+	color: var(--visitors-color);
+	font-size: 10px;
+    }
 }

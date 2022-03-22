@@ -864,7 +864,7 @@
   leg_id: 4
   day_id: 18
   eventable_type: "visit"
-  eventable_id: 68
+  eventable_id: 67
   order: 7
 -
   id: 125
@@ -983,14 +983,14 @@
   leg_id: 5
   day_id: 22
   eventable_type: "visit"
-  eventable_id: 78
+  eventable_id: 76
   order: 3
 -
   id: 142
   leg_id: 5
   day_id: 22
   eventable_type: "visit"
-  eventable_id: 79
+  eventable_id: 77
   order: 4
 -
   id: 143
@@ -1319,7 +1319,7 @@
   leg_id: 7
   day_id: 27
   eventable_type: "visit"
-  eventable_id: 116
+  eventable_id: 115
   order: 8
 -
   id: 190
@@ -1382,7 +1382,7 @@
   leg_id: 7
   day_id: 28
   eventable_type: "visit"
-  eventable_id: 122
+  eventable_id: 121
   order: 7
 -
   id: 199

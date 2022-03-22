@@ -9,7 +9,9 @@
       .phone= a.phone
     - if a.frommers_guide_book_page
       %cite.frommers-guide-book-page= a.frommers_guide_book_page
-  - if event.notes_danger
-    .notes.danger= event.notes_danger
-  - elsif event.notes
-    .notes= event.notes
+  - if visit.notes_danger
+    .notes.danger= visit.notes_danger
+  - elsif visit.notes
+    .notes= visit.notes
+  .visitors
+    = visit_people(visit.id).map { |person| person.name }.join(', ')

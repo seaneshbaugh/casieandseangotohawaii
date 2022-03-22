@@ -105,6 +105,12 @@ helpers do
   def visit(visit_id)
     data.visits.select { |visit| visit.id == visit_id }.first
   end
+
+  def visit_people(visit_id)
+    people_ids = data.visitors.select { |visitor| visitor.visit_id == visit_id }.map { |visitor| visitor.person_id }
+
+    data.people.select { |person| people_ids.include?(person.id) }
+  end
 end
 
 # Build-specific configuration

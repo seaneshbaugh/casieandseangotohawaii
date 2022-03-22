@@ -5,8 +5,8 @@
 - visits table has notes for attraction
 - change events to point to visits instead of attractions
 
-- make participants table
-- participants table links people and visits
+- make visitors table
+- visitors table links people and visits
 
 - add orders table
 - orders links meals and people
