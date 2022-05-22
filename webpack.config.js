@@ -1,6 +1,7 @@
 const path = require("path");
 const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const WebpackAssetsManifest = require("webpack-assets-manifest");
 
 module.exports = {
   entry: {
@@ -9,7 +10,7 @@ module.exports = {
   },
   output: {
     path: path.join(__dirname, "dist"),
-    filename: "javascripts/[name].js",
+    filename: "javascripts/[name]-[hash].js"
   },
   module: {
     rules: [
@@ -46,6 +47,12 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: "[name].css",
       chunkFilename: "[id].css"
+    }),
+    new WebpackAssetsManifest({
+      publicPath: true,
+      writeToDisk: true,
+      integrity: true,
+      integrityHashes: ["sha256"]
     })
   ]
 };

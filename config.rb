@@ -78,6 +78,10 @@ helpers do
     data.trips.sort { |a, b| Date.strptime(a.start_date, '%Y-%m-%d') <=> Date.strptime(b.start_date, '%Y-%m-%d') }[1..-1]
   end
 
+  def pictures(event_id)
+    data.pictures.select { |picture| picture.event_id == event_id }
+  end
+
   def rental_car(rental_car_id)
     data.rental_cars.select { |rental_car| rental_car.id == rental_car_id }.first
   end
@@ -131,7 +135,9 @@ activate :external_pipeline,
   './node_modules/webpack/bin/webpack.js --bail --mode=production' :
   './node_modules/webpack/bin/webpack.js --watch --progress --color --mode=development --stats-children --stats-error-details',
   source: 'dist',
-  latency: 1
+  latency: 1,
+  ignore_exit_code: true,
+  manifest_json: 'dist/assets-manifest.json'
 
 set :haml, { attr_wrapper: '"' }
 

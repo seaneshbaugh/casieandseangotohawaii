@@ -14,4 +14,23 @@
             font-size: var(--h4-icon-size);
         }
     }
+
+    > .pictures-toggle {
+	cursor: pointer;
+    }
+
+    > .pictures {
+	display: none;
+
+	&.visible {
+	    display: block;
+	}
+
+	> .picture {
+	    img {
+		max-width: 200px;
+		max-height: 200px;
+	    }
+	}
+    }
 }

@@ -15,3 +15,10 @@
     .notes= visit.notes
   .visitors
     = visit_people(visit.id).map { |person| person.name }.join(', ')
+  - ps = pictures(event.id)
+  - if ps.length > 0
+    .pictures-toggle Show Pictures
+    .pictures
+      - ps.each do |picture|
+        %a.picture.lightbox{ href: "pictures/#{picture.filename}", 'data-gallery' => "gallery-#{event.id}", 'data-glightbox' => "title: #{picture.title};description: #{picture.description}" }
+          %img{ 'data-src' => "pictures/#{picture.filename}" }

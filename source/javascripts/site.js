@@ -1,6 +1,4 @@
-// import "material-design-icons/iconfont/MaterialIcons-Regular.woff2";
-// import "material-design-icons/iconfont/MaterialIcons-Regular.woff";
-// import "material-design-icons/iconfont/MaterialIcons-Regular.ttf";
+import GLightbox from "glightbox";
 
 (function() {
   const defaultUIState = {
@@ -84,7 +82,7 @@
       return null;
     }
 
-    return queryParts[1].split("&").reduce(function(accumulator, currentValue) {
+    return queryParts[1].split("&").reduce((accumulator, currentValue) => {
       const parts = currentValue.split("=");
 
       const key = decodeURIComponent(parts[0]);
@@ -160,7 +158,7 @@
   };
 
   const showAll = function(selector) {
-    Array.prototype.slice.call(document.querySelectorAll(selector), 0).forEach(function(element) {
+    document.querySelectorAll(selector).forEach((element) => {
       element.classList.add("show");
 
       element.classList.remove("hide");
@@ -168,7 +166,7 @@
   };
 
   const hideAll = function(selector) {
-    Array.prototype.slice.call(document.querySelectorAll(selector), 0).forEach(function(element) {
+    document.querySelectorAll(selector).forEach((element) => {
       element.classList.add("hide");
 
       element.classList.remove("show");
@@ -206,12 +204,12 @@
   };
 
   const setEventHandlers = function() {
-    window.onpopstate = function(event) {
+    window.onpopstate = (event) => {
       setUIFromUIState(deepClone(event.state || defaultUIState));
     };
 
-    Array.prototype.slice.call(document.querySelectorAll(".controls button.control") || [], 0).forEach(function(controlButton) {
-      controlButton.addEventListener("click", function(event) {
+    document.querySelectorAll(".controls button.control").forEach((controlButton) => {
+      controlButton.addEventListener("click", (event) => {
         event.preventDefault();
 
         if (event.target.classList.contains("on")) {
@@ -223,10 +221,25 @@
         setUIFromUIState(getUIStateFromQuery(parseQueryString(window.location.search) || defaultUIState));
       }, false);
     });
+
+    document.querySelectorAll(".pictures-toggle").forEach((pictureToggle) => {
+      pictureToggle.addEventListener("click", (event) => {
+	event.preventDefault();
+
+	const picturesContainer = pictureToggle.parentNode.querySelector(".pictures");
+
+	picturesContainer.querySelectorAll(".picture img").forEach((picture) => {
+	  picture.src = picture.dataset["src"];
+	});
+
+	picturesContainer.classList.toggle("visible");
+
+      }, false);
+    });
   };
 
   const debug = function() {
-    Array.prototype.slice.call(document.querySelectorAll(".meal"), 0).forEach(function(meal) {
+    document.querySelectorAll(".meal").forEach((meal) => {
       if (meal.querySelectorAll(".restaurant").length === 0) {
         console.warn(meal.parentNode.querySelector("h3").innerText + ": " + meal.querySelector("h4").innerText + " has no meals.");
       }
@@ -239,6 +252,8 @@
     setUIFromUIState(getUIStateFromQuery(query || {}));
 
     setEventHandlers();
+
+    GLightbox({ selector: ".lightbox" });
 
     if (queryKeyIsTrue(query, "debug")) {
       debug();

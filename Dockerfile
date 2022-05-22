@@ -18,7 +18,8 @@ RUN apk add --no-cache --virtual .build-deps \
     gcc \
     libc-dev \
     libgcc \
-    make
+    make \
+    git
 
 ENV APP_HOME /casieandseangotohawaii
 ENV BUNDLER_VERSION 2.2.17

@@ -4,8 +4,8 @@
     %meta{ charset: 'utf-8' }
     %title= "#{current_page.data.title} - #{current_page.data.trip_name}"
     %meta{ content: 'width=device-width, initial-scale=1, shrink-to-fit=no', name: 'viewport' }
-    = stylesheet_link_tag 'site', media: 'all'
-    = javascript_include_tag 'site'
+    = external_pipeline_stylesheet_tag :webpack, ['styles.css', 'src'], media: 'all'
+    = external_pipeline_javascript_tag :webpack, ['site.js', 'src']
     = favicon_tag 'favicon.ico'
     %link{ href: '/humans.txt', rel: 'author' }
     %meta{ content: 'Sean Eshbaugh', name: 'author' }
