@@ -98,3 +98,19 @@
   address: "2450 Kekuanaoa St, Hilo, HI 96720"
   phone: "+1 808-961-9300"
   frommers_guide_book_page: "171"
+-
+  id: 7
+  name: "Los Angeles International Airport"
+  code: "LAX"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Los+Angeles+International+Airport/@33.9435093,-118.4112155,17z/data=!4m6!3m5!1s0x80c2b0d213b24fb5:0x77a87b57698badf1!8m2!3d33.9434381!4d-118.409295!16zL20vMDRseWs?hl=en"
+    -
+      type: "website"
+      url: "https://www.flylax.com/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Los+Angeles+International+Airport"
+  address: "1 World Way, Los Angeles, CA 90045"
+  phone: "+1 855-463-5252"

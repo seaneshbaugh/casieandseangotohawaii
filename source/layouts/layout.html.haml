@@ -15,8 +15,8 @@
       %h2.trip-name= current_page.data.trip_name
       %nav.main-nav
         %ul.trips-nav-list
-          - trips.each do |trip|
-            %li.trips-nav-list-item= link_to(trip.name, "/#{trip.slug}")
+          - trips_reverse_chronological.each do |trip|
+            %li.trips-nav-list-item= link_to(trip.name, app.production? || trip.slug.empty? ? "/#{trip.slug}" : "/#{trip.slug}.html")
       .controls
         %button.control.off{"data-key" => "price", "data-selector" => ".price"} Prices
         %button.control.on{"data-key" => "hotel", "data-selector" => ".hotel"} Hotels

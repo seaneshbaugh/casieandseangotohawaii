@@ -61,3 +61,12 @@
   name: "O'ahu"
   start_date: "2021-12-09"
   end_date: "2021-12-13"
+-
+  id: 8
+  trip_id: 3
+  hotel_id: 5
+  rental_car_id: 7
+  type: "island"
+  name: "Kaua'i"
+  start_date: "2024-04-30"
+  end_date: "2024-05-09"

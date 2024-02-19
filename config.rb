@@ -20,7 +20,8 @@ page '/*.txt', layout: false
 # https://middlemanapp.com/advanced/dynamic-pages/
 
 trip_names = {
-  '2017' => 1
+  '2017' => 1,
+  '2021' => 2
 }
 
 trip_names.each do |trip_name, trip_id|
@@ -96,6 +97,10 @@ helpers do
 
   def trips
     data.trips
+  end
+
+  def trips_reverse_chronological
+    data.trips.sort { |a, b| Date.strptime(b.start_date, '%Y-%m-%d') <=> Date.strptime(a.start_date, '%Y-%m-%d') }
   end
 
   def trip(trip_id)

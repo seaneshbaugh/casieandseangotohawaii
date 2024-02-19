@@ -33,3 +33,10 @@
   hotel_id: 5
   price: ""
   room_type: ""
+-
+  id: 6
+  trip_id: 3
+  leg_id: 8
+  hotel_id: 5
+  price: ""
+  room_type: "Whole House/Condo/TBD"

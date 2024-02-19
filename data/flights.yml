@@ -88,3 +88,37 @@
   duration: ""
   arrival_airport_id: 1
   arrival_time: "7:11 AM"
+-
+  id: 10
+  flight_number: "AA 1540"
+  departure_airport_id: 1
+  departure_time: "12:20 PM"
+  duration: ""
+  connections:
+    -
+      flight_number: "AA 285"
+      connection_airport_id: 7
+      connection_arrival_time: "1:52 PM"
+      connection_departure_time: "2:55 PM"
+      connection_layover_duration: "1h 3m"
+      connection_duration: ""
+  arrival_airport_id: 3
+  arrival_time: "6:01 PM"
+  total_duration: ""
+-
+  id: 11
+  flight_number: "AA 286"
+  departure_airport_id: 3
+  departure_time: "10:00 PM"
+  duration: ""
+  connections:
+    -
+      flight_number: "AA 412"
+      connection_airport_id: 7
+      connection_arrival_time: "6:35 AM"
+      connection_departure_time: "8:00 AM"
+      connection_layover_duration: "1h 25m"
+      connection_duration: ""
+  arrival_airport_id: 1
+  arrival_time: "1:09 PM"
+  total_duration: ""

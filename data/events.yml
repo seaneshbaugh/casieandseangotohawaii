@@ -1475,3 +1475,17 @@
   eventable_type: "meal"
   eventable_id: 83
   order: 16
+-
+  id: 212
+  leg_id: 8
+  day_id: 30
+  eventable_type: "flight"
+  eventable_id: 10
+  order: 1
+-
+  id: 213
+  leg_id: 8
+  day_id: 39
+  eventable_type: "flight"
+  eventable_id: 11
+  order: 1

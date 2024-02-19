@@ -62,3 +62,9 @@
   address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
   phone: "+1 855-718-5789"
   frommers_guide_book_page: "356"
+-
+  id: 5
+  name: "TBD (Airbnb?)"
+  links: []
+  address: "TBD"
+  phone: null
