@@ -1411,3 +1411,36 @@
       url: "https://www.google.com/maps/place/Pearl+Harbor+National+Memorial/@21.366442,-157.9385196,17z/data=!4m5!3m4!1s0x7c006f4309506633:0xb8c592a70d9c602c!8m2!3d21.3675985!4d-157.938858"
   address: "1 Arizona Memorial Pl, Honolulu, HI 96818"
   phone: "+1 808-422-3399"
+-
+  id: 97
+  name: "Kaua`i Museum"
+  type: "museum"
+  priority: "normal"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Kaua%CA%BBi+Museum/@21.9749902,-159.3701627,17z/data=!4m6!3m5!1s0x7c071e8fb50ce8f1:0x11faaaa3a7da3cd2!8m2!3d21.975035!4d-159.368253!16s%2Fm%2F06_8r5z"
+    -
+      type: "website"
+      url: "https://www.kauaimuseum.org/"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Kauai+Museum"
+  address: "4428 Rice St, Lihue, HI 96766"
+  phone: "+1 808-245-6931"
+-
+  id: 98
+  name: "Hanakapi'ai Beach"
+  type: "beach"
+  priority: "major"
+  links:
+    -
+      type: "map"
+      url: "https://www.google.com/maps/place/Hanak%C4%81p%C4%AB%E2%80%98Ai+Beach/@22.2093718,-159.6001691,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06f9bc56ef9d93:0x3d72c35c041ce399!8m2!3d22.2087411!4d-159.5981826!16zL20vMGNyYzdo"
+    -
+      type: "website"
+      url: "https://www.to-hawaii.com/kauai/beaches/hanakapiaibeach.php"
+    -
+      type: "images"
+      url: "https://www.google.com/search?tbm=isch&q=Hanakapiai+Beach"
+  address: "HI 96746"

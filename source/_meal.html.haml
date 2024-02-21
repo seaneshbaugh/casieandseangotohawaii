@@ -1,21 +1,22 @@
 %div{ class: ['event', 'meal', meal.name.downcase].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => meal.id, 'eventable-type' => 'meal', 'meal-id' => meal.id } }
   %h4.name= meal.name
   - r = restaurant(meal.restaurant_id)
-  .restaurant{ data: { 'restaurant-id' => r.id } }
-    %h5.name= r.name
-    = partial('links', locals: { links: r.links })
-    - if r.address
-      .address= r.address
-    - if r.phone
-      .phone= r.phone
-    - if r.hours
-      .hours= r.hours
-    - if r.price_range
-      .price-range= r.price_range
-    - if r.genre
-      .genre= r.genre
-    - if r.frommers_guide_book_page
-      %cite.frommers-guide-book-page= r.frommers_guide_book_page
+  - if r
+    .restaurant{ data: { 'restaurant-id' => r.id } }
+      %h5.name= r.name
+      = partial('links', locals: { links: r.links })
+      - if r.address
+        .address= r.address
+      - if r.phone
+        .phone= r.phone
+      - if r.hours
+        .hours= r.hours
+      - if r.price_range
+        .price-range= r.price_range
+      - if r.genre
+        .genre= r.genre
+      - if r.frommers_guide_book_page
+        %cite.frommers-guide-book-page= r.frommers_guide_book_page
   - if meal.ratings
     .ratings
       %div{ class: ['average', "#{['one', 'two', 'three', 'four', 'five'][(meal.ratings.values.inject(&:+) / meal.ratings.length) - 1]}-star"].compact.join(' ') }

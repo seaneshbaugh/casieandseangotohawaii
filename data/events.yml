@@ -1488,4 +1488,235 @@
   day_id: 39
   eventable_type: "flight"
   eventable_id: 11
+  order: 5
+-
+  id: 214
+  leg_id: 8
+  day_id: 30
+  eventable_type: "meal"
+  eventable_id: 84
+  order: 2
+-
+  id: 215
+  leg_id: 8
+  day_id: 31
+  eventable_type: "meal"
+  eventable_id: 85
   order: 1
+-
+  id: 216
+  leg_id: 8
+  day_id: 31
+  eventable_type: "meal"
+  eventable_id: 86
+  order: 2
+-
+  id: 217
+  leg_id: 8
+  day_id: 31
+  eventable_type: "meal"
+  eventable_id: 87
+  order: 3
+-
+  id: 218
+  leg_id: 8
+  day_id: 32
+  eventable_type: "meal"
+  eventable_id: 88
+  order: 1
+-
+  id: 219
+  leg_id: 8
+  day_id: 32
+  eventable_type: "meal"
+  eventable_id: 89
+  order: 3
+-
+  id: 220
+  leg_id: 8
+  day_id: 32
+  eventable_type: "meal"
+  eventable_id: 90
+  order: 7
+-
+  id: 221
+  leg_id: 8
+  day_id: 33
+  eventable_type: "meal"
+  eventable_id: 91
+  order: 1
+-
+  id: 222
+  leg_id: 8
+  day_id: 33
+  eventable_type: "meal"
+  eventable_id: 92
+  order: 2
+-
+  id: 223
+  leg_id: 8
+  day_id: 33
+  eventable_type: "meal"
+  eventable_id: 93
+  order: 3
+-
+  id: 224
+  leg_id: 8
+  day_id: 34
+  eventable_type: "meal"
+  eventable_id: 94
+  order: 1
+-
+  id: 225
+  leg_id: 8
+  day_id: 34
+  eventable_type: "meal"
+  eventable_id: 95
+  order: 2
+-
+  id: 226
+  leg_id: 8
+  day_id: 34
+  eventable_type: "meal"
+  eventable_id: 96
+  order: 3
+-
+  id: 227
+  leg_id: 8
+  day_id: 35
+  eventable_type: "meal"
+  eventable_id: 97
+  order: 1
+-
+  id: 228
+  leg_id: 8
+  day_id: 35
+  eventable_type: "meal"
+  eventable_id: 98
+  order: 2
+-
+  id: 229
+  leg_id: 8
+  day_id: 35
+  eventable_type: "meal"
+  eventable_id: 99
+  order: 3
+-
+  id: 230
+  leg_id: 8
+  day_id: 36
+  eventable_type: "meal"
+  eventable_id: 100
+  order: 1
+-
+  id: 231
+  leg_id: 8
+  day_id: 36
+  eventable_type: "meal"
+  eventable_id: 101
+  order: 2
+-
+  id: 232
+  leg_id: 8
+  day_id: 36
+  eventable_type: "meal"
+  eventable_id: 102
+  order: 3
+-
+  id: 233
+  leg_id: 8
+  day_id: 37
+  eventable_type: "meal"
+  eventable_id: 103
+  order: 1
+-
+  id: 234
+  leg_id: 8
+  day_id: 37
+  eventable_type: "meal"
+  eventable_id: 104
+  order: 2
+-
+  id: 235
+  leg_id: 8
+  day_id: 37
+  eventable_type: "meal"
+  eventable_id: 105
+  order: 3
+-
+  id: 236
+  leg_id: 8
+  day_id: 38
+  eventable_type: "meal"
+  eventable_id: 106
+  order: 1
+-
+  id: 237
+  leg_id: 8
+  day_id: 38
+  eventable_type: "meal"
+  eventable_id: 107
+  order: 2
+-
+  id: 238
+  leg_id: 8
+  day_id: 38
+  eventable_type: "meal"
+  eventable_id: 108
+  order: 3
+-
+  id: 239
+  leg_id: 8
+  day_id: 39
+  eventable_type: "meal"
+  eventable_id: 109
+  order: 1
+-
+  id: 240
+  leg_id: 8
+  day_id: 39
+  eventable_type: "meal"
+  eventable_id: 110
+  order: 3
+-
+  id: 241
+  leg_id: 8
+  day_id: 39
+  eventable_type: "meal"
+  eventable_id: 111
+  order: 4
+-
+  id: 242
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 126
+  order: 2
+-
+  id: 243
+  leg_id: 8
+  day_id: 32
+  eventable_type: "visit"
+  eventable_id: 127
+  order: 6
+-
+  id: 244
+  leg_id: 8
+  day_id: 32
+  eventable_type: "visit"
+  eventable_id: 128
+  order: 2
+-
+  id: 245
+  leg_id: 8
+  day_id: 32
+  eventable_type: "visit"
+  eventable_id: 129
+  order: 4
+-
+  id: 246
+  leg_id: 8
+  day_id: 32
+  eventable_type: "visit"
+  eventable_id: 130
+  order: 5

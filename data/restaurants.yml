@@ -1200,3 +1200,15 @@
   hours: "Open 24 Hours"
   price_range: "$"
   genre: "Burgers"
+-
+  id: 69
+  name: "Richie's Huli BBQ"
+  links:
+    -
+      type: "reviews"
+      url: "https://www.yelp.com/biz/richies-huli-bbq-lihue"
+  address: ""
+  phone: "+1 808-652-2229"
+  hours: "10:00 AM - 5:00 PM"
+  price_range: "$"
+  genre: "BBQ"
