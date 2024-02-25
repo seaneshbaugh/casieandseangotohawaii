@@ -1241,7 +1241,7 @@
   id: 81
   name: "Luamanu Crater"
   type: "point-of-interest"
-  priorty: "normal"
+  priority: "normal"
   links:
     -
       type: "map"
