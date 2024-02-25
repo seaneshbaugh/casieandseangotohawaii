@@ -20,7 +20,7 @@
   id: 3
   trip_id: 1
   hotel_id: 3
-  rental_car_id: 1
+  rental_car_id: 3
   leg_type: "island"
   name: "Maui"
   start_date: "2017-11-03"
