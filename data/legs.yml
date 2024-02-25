@@ -3,7 +3,7 @@
   trip_id: 1
   hotel_id: 1
   rental_car_id: 1
-  type: "island"
+  leg_type: "island"
   name: "O'ahu"
   start_date: "2017-10-27"
   end_date: "2017-10-30"
@@ -12,7 +12,7 @@
   trip_id: 1
   hotel_id: 2
   rental_car_id: 2
-  type: "island"
+  leg_type: "island"
   name: "Kaua'i"
   start_date: "2017-10-30"
   end_date: "2017-11-03"
@@ -21,7 +21,7 @@
   trip_id: 1
   hotel_id: 3
   rental_car_id: 1
-  type: "island"
+  leg_type: "island"
   name: "Maui"
   start_date: "2017-11-03"
   end_date: "2017-11-06"
@@ -30,7 +30,7 @@
   trip_id: 2
   hotel_id: 4
   rental_car_id: 4
-  type: "island"
+  leg_type: "island"
   name: "Maui"
   start_date: "2021-12-01"
   end_date: "2021-12-07"
@@ -39,7 +39,7 @@
   trip_id: 2
   hotel_id: 1
   rental_car_id: 5
-  type: "island"
+  leg_type: "island"
   name: "O'ahu"
   start_date: "2021-12-07"
   end_date: "2021-12-09"
@@ -48,7 +48,7 @@
   trip_id: 2
   hotel_id: null
   rental_car_id: 6
-  type: "island"
+  leg_type: "island"
   name: "Hawai'i"
   start_date: "2021-12-09"
   end_date: "2021-12-09"
@@ -57,7 +57,7 @@
   trip_id: 2
   hotel_id: null
   rental_car_id: null
-  type: "island"
+  leg_type: "island"
   name: "O'ahu"
   start_date: "2021-12-09"
   end_date: "2021-12-13"
@@ -66,7 +66,7 @@
   trip_id: 3
   hotel_id: 5
   rental_car_id: 7
-  type: "island"
+  leg_type: "island"
   name: "Kaua'i"
   start_date: "2024-04-30"
   end_date: "2024-05-09"

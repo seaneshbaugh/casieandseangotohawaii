@@ -1,4 +1,4 @@
-%div{ class: ['leg', leg.type].compact.join(' '), data: { 'leg-id' => leg.id } }
+%div{ class: ['leg', leg.leg_type].compact.join(' '), data: { 'leg-id' => leg.id } }
   %h2.name= leg.name
   - if hotel(leg.hotel_id)
     = partial('hotel', locals: { trip: trip, leg: leg, hotel: hotel(leg.hotel_id) })
