@@ -2,6 +2,8 @@
 .cache
 .DS_Store
 .sass-cache
+*.db-shm
+*.db-wal
 build/
 dist/
 node_modules/
