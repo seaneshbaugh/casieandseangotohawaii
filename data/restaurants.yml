@@ -1,6 +1,7 @@
 -
   id: 1
   name: "Marugame Udon"
+  priority: "high"
   links:
     -
       type: "map"
@@ -23,6 +24,7 @@
 -
   id: 2
   name: "Surf Lanai Restaurant"
+  priority: "high"
   links:
     -
       type: "map"
@@ -44,6 +46,7 @@
 -
   id: 3
   name: "Uncle Clay's House of Pure Aloha"
+  priority: "high"
   links:
     -
       type: "map"
@@ -65,6 +68,7 @@
 -
   id: 4
   name: "Ono Steaks & Shrimp Shack"
+  priority: "high"
   links:
     -
       type: "map"
@@ -84,6 +88,7 @@
 -
   id: 5
   name: "Duke's Waikiki"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -105,6 +110,7 @@
 -
   id: 6
   name: "Leonard's Bakery"
+  priority: "omg"
   links:
     -
       type: "map"
@@ -126,6 +132,7 @@
 -
   id: 7
   name: "Countryside Cafe"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -147,6 +154,7 @@
 -
   id: 8
   name: "Jinroku Pacific"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -169,6 +177,7 @@
 -
   id: 9
   name: "Kono's Northshore"
+  priority: "major"
   links:
     -
       type: "map"
@@ -190,6 +199,7 @@
 -
   id: 10
   name: "Tiki Tacos"
+  priority: "minor"
   links:
     -
       type: "map"
@@ -211,6 +221,7 @@
 -
   id: 11
   name: "JO2 Restaurant"
+  priority: "high"
   links:
     -
       type: "map"
@@ -232,6 +243,7 @@
 -
   id: 12
   name: "Kountry Kitchen"
+  priority: "major"
   links:
     -
       type: "map"
@@ -253,6 +265,7 @@
 -
   id: 13
   name: "Kalypso Island Bar & Grill"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -274,6 +287,7 @@
 -
   id: 14
   name: "Lemongrass Grill Seafood & Bar"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -295,6 +309,7 @@
 -
   id: 15
   name: "Hanalima Bakery"
+  priority: "high"
   links:
     -
       type: "map"
@@ -316,6 +331,7 @@
 -
   id: 16
   name: "Puka Dog"
+  priority: "major"
   links:
     -
       type: "map"
@@ -337,6 +353,7 @@
 -
   id: 17
   name: "Papalani Gelato"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -358,6 +375,7 @@
 -
   id: 18
   name: "Sam's Ocean View"
+  priority: "high"
   links:
     -
       type: "map"
@@ -379,6 +397,7 @@
 -
   id: 19
   name: "Kalapaki Beach Hut"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -392,6 +411,7 @@
 -
   id: 20
   name: "Kōkeʻe Lodge"
+  priority: "minor"
   links:
     -
       type: "map"
@@ -413,6 +433,7 @@
 -
   id: 21
   name: "JoJo's Shave Ice"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -434,6 +455,7 @@
 -
   id: 22
   name: "Verde Restaurant"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -455,6 +477,7 @@
 -
   id: 23
   name: "Nom Kauai"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -476,6 +499,7 @@
 -
   id: 24
   name: "Royal Scoop"
+  priority: "low"
   links:
     -
       type: "map"
@@ -497,6 +521,7 @@
 -
   id: 25
   name: "Lahaina Grill"
+  priority: "omg"
   links:
     -
       type: "map"
@@ -519,6 +544,7 @@
 -
   id: 26
   name: "Sea House Restaurant"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -540,6 +566,7 @@
 -
   id: 27
   name: "Star Noodle"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -558,6 +585,7 @@
 -
   id: 28
   name: "Ululani's Hawaiian Shave Ice"
+  priority: "major"
   links:
     -
       type: "map"
@@ -576,6 +604,7 @@
 -
   id: 29
   name: "Miso Phat Sushi"
+  priority: "omg"
   links:
     -
       type: "map"
@@ -597,6 +626,7 @@
 -
   id: 30
   name: "Leoda's Kitchen and Pie Shop"
+  priority: "major"
   links:
     -
       type: "map"
@@ -615,6 +645,7 @@
 -
   id: 31
   name: "Barefoot Cafe, Bakery &amp; Catering"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -633,6 +664,7 @@
 -
   id: 32
   name: "Merriman's"
+  priority: "omg"
   links:
     -
       type: "map"
@@ -655,6 +687,7 @@
 -
   id: 33
   name: "Royal Ocean Terrace Restaurant"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -676,6 +709,7 @@
 -
   id: 34
   name: "Mama's Fish House"
+  priority: "omg"
   links:
     -
       type: "map"
@@ -698,6 +732,7 @@
 -
   id: 35
   name: "Food Truck Park"
+  priority: "high"
   links:
     -
       type: "map"
@@ -714,6 +749,7 @@
 -
   id: 36
   name: "Duke's Beach House Maui"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -732,6 +768,7 @@
 -
   id: 37
   name: "Tinroof"
+  priority: "low"
   links:
     -
       type: "map"
@@ -748,6 +785,7 @@
 -
   id: 38
   name: "Kapena's Wood Fired Kitchen"
+  priority: "high"
   links:
     -
       type: "map"
@@ -764,6 +802,7 @@
 -
   id: 39
   name: "BanyanTreats"
+  priority: "major"
   links:
     -
       type: "map"
@@ -780,6 +819,7 @@
 -
   id: 40
   name: "Old Lāhainā Lūʻau"
+  priority: "major"
   links:
     -
       type: "map"
@@ -797,6 +837,7 @@
 -
   id: 41
   name: "The Plantation House"
+  priority: "high"
   links:
     -
       type: "map"
@@ -815,6 +856,7 @@
 -
   id: 42
   name: "Slappy Cakes"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -833,6 +875,7 @@
 -
   id: 43
   name: "Cafe O'Lei at the Mill House"
+  priority: "minor"
   links:
     -
       type: "map"
@@ -851,6 +894,7 @@
 -
   id: 44
   name: "Roy's Waikiki"
+  priority: "omg"
   links:
     -
       type: "map"
@@ -872,6 +916,7 @@
 -
   id: 45
   name: "Kihei Caffe"
+  priority: "minor"
   links:
     -
       type: "map"
@@ -890,6 +935,7 @@
 -
   id: 46
   name: "Ululani's Hawaiian Shave Ice"
+  priority: "omg"
   links:
     -
       type: "map"
@@ -908,6 +954,7 @@
 -
   id: 47
   name: "Olowalu Juice Stand"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -922,6 +969,7 @@
 -
   id: 48
   name: "Leilani's on the Beach"
+  priority: "high"
   links:
     -
       type: "map"
@@ -940,6 +988,7 @@
 -
   id: 49
   name: "Hula Grill Kaanapali"
+  priority: "high"
   links:
     -
       type: "map"
@@ -958,6 +1007,7 @@
 -
   id: 50
   name: "‘Āina Gourmet Market"
+  priority: "normal"
   links: []
   address: "130 Kai Malina Pkwy Suite 1, Lahaina, HI 96761"
   phone: "+1 808-662-2832"
@@ -967,6 +1017,7 @@
 -
   id: 51
   name: "Cheeseburger In Paradise"
+  priority: "low"
   links: []
   address: "811 Front St, Lahaina, HI 96761"
   phone: "+1 808-661-4855"
@@ -976,6 +1027,7 @@
 -
   id: 52
   name: "Aloha Table"
+  priority: "normal"
   links: []
   address: "2238 Lauula St #2, Honolulu, HI 96815"
   phone: "+1 808-922-2221"
@@ -985,6 +1037,7 @@
 -
   id: 53
   name: "Kono's Northshore"
+  priority: "high"
   links:
     -
       type: "website"
@@ -997,6 +1050,7 @@
 -
   id: 54
   name: "Café Glacé"
+  priority: "normal"
   links: []
   address: "227 Lewers St #115, Honolulu, HI 96815"
   phone: "+1 808-927-2645"
@@ -1006,6 +1060,7 @@
 -
   id: 55
   name: "Ken's House of Pancakes"
+  priority: "high"
   links:
     -
       type: "website"
@@ -1018,6 +1073,7 @@
 -
   id: 56
   name: "Hula Grill Waikiki"
+  priority: "high"
   links:
     -
       type: "website"
@@ -1030,6 +1086,7 @@
 -
   id: 57
   name: "Hawaiian Aroma Caffe At Beachcomber Waikiki"
+  priority: "major"
   links:
     -
       type: "website"
@@ -1042,6 +1099,7 @@
 -
   id: 58
   name: "Orchids"
+  priority: "omg"
   links:
     -
       type: "website"
@@ -1054,6 +1112,7 @@
 -
   id: 59
   name: "TsuruTonTan"
+  priority: "normal"
   links:
     -
       type: "website"
@@ -1065,6 +1124,7 @@
 -
   id: 60
   name: "Aji Limo Truck"
+  priority: "normal"
   links:
     -
       type: "website"
@@ -1077,6 +1137,7 @@
 -
   id: 61
   name: "Barefoot Beach Cafe"
+  priority: "normal"
   links:
     -
       type: "map"
@@ -1092,6 +1153,7 @@
 -
   id: 62
   name: "Mai Tai Bar"
+  priority: "normal"
   links:
     -
       type: "website"
@@ -1104,6 +1166,7 @@
 -
   id: 63
   name: "Tanaka of Tokyo Central"
+  priority: "major"
   links:
     -
       type: "website"
@@ -1116,6 +1179,7 @@
 -
   id: 64
   name: "The Local @HNL"
+  priority: "minor"
   links:
     -
       type: "website"
@@ -1128,6 +1192,7 @@
 -
   id: 65
   name: "Surf Lanai"
+  priority: "normal"
   links:
     -
       type: "website"
@@ -1140,6 +1205,7 @@
 -
   id: 66
   name: "Skybox Taphouse"
+  priority: "minor"
   links:
     -
       type: "map"
@@ -1161,6 +1227,7 @@
 -
   id: 67
   name: "Inu Pool Bar"
+  priority: "minor"
   links:
     -
       type: "map"
@@ -1182,6 +1249,7 @@
 -
   id: 68
   name: "McDonald's"
+  priority: "minor"
   links:
     -
       type: "map"
@@ -1203,6 +1271,7 @@
 -
   id: 69
   name: "Richie's Huli BBQ"
+  priority: "normal"
   links:
     -
       type: "reviews"

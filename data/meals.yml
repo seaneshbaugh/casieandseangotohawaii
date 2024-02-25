@@ -2,7 +2,6 @@
   id: 1
   name: "Dinner"
   restaurant_id: 1
-  priority: "normal"
   food:
     Casie:
       - "Niku Udon"
@@ -24,7 +23,6 @@
   id: 2
   name: "Breakfast"
   restaurant_id: 2
-  priority: "normal"
   food:
     Casie:
       - "‘The Royal Bake Shop’ Banana Bread French Toast"
@@ -39,7 +37,6 @@
   id: 3
   name: "Snack"
   restaurant_id: 3
-  priority: "normal"
   food:
     Casie:
       - "Classic Rainbow"
@@ -52,7 +49,6 @@
   id: 4
   name: "Lunch"
   restaurant_id: 4
-  priority: "normal"
   food:
     Casie:
       - "Shrimp and Steak Plate"
@@ -71,7 +67,6 @@
   id: 5
   name: "Dinner"
   restaurant_id: 5
-  priority: "normal"
   food:
     Casie:
       - "Seven Spice Ahi"
@@ -85,7 +80,6 @@
   id: 6
   name: "Breakfast"
   restaurant_id: 6
-  priority: "normal"
   food:
     Casie:
       - "Coffee"
@@ -105,12 +99,10 @@
   id: 7
   name: "Lunch"
   restaurant_id: 7
-  priority: "normal"
 -
   id: 8
   name: "Dinner"
   restaurant_id: 8
-  priority: "normal"
   food:
     Casie:
       - "Iced Tea"
@@ -130,7 +122,6 @@
   id: 9
   name: "Breakfast"
   restaurant_id: 9
-  priority: "normal"
   food:
     Casie:
       - "Waimea Chun"
@@ -145,7 +136,6 @@
   id: 10
   name: "Lunch"
   restaurant_id: 10
-  priority: "normal"
   food:
     Casie:
       - "The Best Fish Taco"
@@ -162,7 +152,6 @@
   id: 11
   name: "Dinner"
   restaurant_id: 11
-  priority: "normal"
   food:
     Casie:
       - "Potato Crusted Opakapaka"
@@ -177,7 +166,6 @@
   id: 12
   name: "Breakfast"
   restaurant_id: 12
-  priority: "normal"
   food:
     Casie:
       - "Traditional Loco Moco"
@@ -191,12 +179,10 @@
   id: 13
   name: "Lunch"
   restaurant_id: 13
-  priority: "normal"
 -
   id: 14
   name: "Dinner"
   restaurant_id: 14
-  priority: "normal"
   food:
     Casie:
       - "Pacific Coast Coconut Shrimp"
@@ -208,22 +194,18 @@
   id: 15
   name: "Breakfast"
   restaurant_id: 15
-  priority: "normal"
 -
   id: 16
   name: "Lunch"
   restaurant_id: 16
-  priority: "normal"
 -
   id: 17
   name: "Snack"
   restaurant_id: 17
-  priority: "normal"
 -
   id: 18
   name: "Dinner"
   restaurant_id: 18
-  priority: "normal"
   food:
     Casie:
       - "Panzanella"
@@ -241,12 +223,10 @@
   id: 19
   name: "Breakfast"
   restaurant_id: 19
-  priority: "normal"
 -
   id: 20
   name: "Lunch"
   restaurant_id: 20
-  priority: "normal"
   food:
     Casie:
       - "Grilled Cheese"
@@ -263,22 +243,18 @@
   id: 21
   name: "Snack"
   restaurant_id: 21
-  priority: "normal"
 -
   id: 22
   name: "Dinner"
   restaurant_id: 22
-  priority: "normal"
 -
   id: 23
   name: "Breakfast"
   restaurant_id: 23
-  priority: "normal"
 -
   id: 24
   name: "Snack"
   restaurant_id: 24
-  priority: "normal"
   food:
     Casie:
       - "One Scoop Mudpie Ice Cream"
@@ -291,32 +267,26 @@
   id: 25
   name: "Dinner"
   restaurant_id: 25
-  priority: "normal"
 -
   id: 26
   name: "Breakfast"
   restaurant_id: 26
-  priority: "normal"
 -
   id: 27
   name: "Lunch"
   restaurant_id: 27
-  priority: "normal"
 -
   id: 28
   name: "Snack"
   restaurant_id: 28
-  priority: "normal"
 -
   id: 29
   name: "Dinner"
   restaurant_id: 29
-  priority: "normal"
 -
   id: 30
   name: "Breakfast"
   restaurant_id: 30
-  priority: "normal"
   food:
     Casie:
       - "Bacon and Egg Sandwich"
@@ -333,17 +303,14 @@
   id: 31
   name: "Lunch"
   restaurant_id: 31
-  priority: "normal"
 -
   id: 32
   name: "Dinner"
   restaurant_id: 32
-  priority: "normal"
 -
   id: 33
   name: "Breakfast"
   restaurant_id: 33
-  priority: "normal"
   food:
     Casie:
       - "Belgian Waffle"
@@ -358,13 +325,11 @@
   id: 34
   name: "Dinner"
   restaurant_id: 34
-  priority: "normal"
   notes: "\"Top 10 Fine Dining Restaurants in the US.\" - Trip Advisor. \"Second most popular restaurant in the US.\" - Open Table"
 -
   id: 35
   name: "Lunch"
   restaurant_id: 35
-  priority: "normal"
   food:
     Casie:
       - "Shoyu Poke"
@@ -391,7 +356,6 @@
   id: 36
   name: "Dinner"
   restaurant_id: 36
-  priority: "normal"
   food:
     Casie:
       - "Sautéed Mac Nut &amp; Herb Crusted Fresh Nairagi"
@@ -421,7 +385,6 @@
   id: 37
   name: "Lunch"
   restaurant_id: 37
-  priority: "normal"
   food:
     Casie:
       - "Orange Marlin Sandwich"
@@ -438,7 +401,6 @@
   id: 38
   name: "Snack"
   restaurant_id: 28
-  priority: "normal"
   food:
     Casie:
       - "Medium half mango half pineapple shaved ice with macademia nut ice cream"
@@ -454,7 +416,6 @@
   id: 39
   name: "Dinner"
   restaurant_id: 38
-  priority: "normal"
   food:
     Casie:
       - "Water"
@@ -481,7 +442,6 @@
   id: 40
   name: "Snack"
   restaurant_id: 39
-  priority: "normal"
   food:
     Casie:
       - "One Scoop Chocolate Macademia Nut Ice Cream on a Waffle Cone"
@@ -497,7 +457,6 @@
   id: 41
   name: "Dinner"
   restaurant_id: 32
-  priority: "normal"
   food:
     Casie:
       - "Hawaiian Poke Duo"
@@ -535,7 +494,6 @@
   id: 42
   name: "Dinner"
   restaurant_id: 40
-  priority: "normal"
   food:
     Casie:
       - "Local Grown Green Salad"
@@ -608,7 +566,6 @@
   id: 43
   name: "Brunch"
   restaurant_id: 41
-  priority: "normal"
   food:
     Casie:
       - "Seared Ahi Benedict"
@@ -637,7 +594,6 @@
   id: 44
   name: "Breakfast"
   restaurant_id: 42
-  priority: "normal"
   food:
     Casie:
       - "Banana Bread French Toast"
@@ -660,7 +616,6 @@
   id: 45
   name: "Lunch"
   restaurant_id: 43
-  priority: "normal"
   food:
     Casie:
       - "Kumu Famrs Half Papaya Salad"
@@ -687,7 +642,6 @@
   id: 46
   name: "Breakfast"
   restaurant_id: 45
-  priority: "normal"
   food:
     Casie:
       - "Kalua Pork Loco Moco"
@@ -704,7 +658,6 @@
   id: 47
   name: "Snack"
   restaurant_id: 46
-  priority: "normal"
   food:
     Casie:
       - "Medium Sunset Beach shaved ice with macademia nut ice cream"
@@ -723,7 +676,6 @@
   id: 48
   name: "Lunch"
   restaurant_id: 30
-  priority: "normal"
   food:
     Casie:
       - "Spicy Tuna Sandwich"
@@ -746,7 +698,6 @@
   id: 49
   name: "Snack"
   restaurant_id: 47
-  priority: "normal"
   food:
     Casie:
       - "Pineapple Smoothie"
@@ -759,7 +710,6 @@
   id: 50
   name: "Dinner"
   restaurant_id: 48
-  priority: "omg"
   food:
     Casie:
       - "Sesame Crusted Ahi Steak"
@@ -779,7 +729,6 @@
   id: 51
   name: "Dinner"
   restaurant_id: 49
-  priority: "normal"
   food:
     Casie:
       - "Fire Grilled Ahi Steak"
@@ -806,7 +755,6 @@
   id: 52
   name: "Breakfast"
   restaurant_id: 50
-  priority: "low"
   food:
     Casie:
       - "Sausage, Egg, and Cheese Bagel Sandwich"
