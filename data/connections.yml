@@ -1,0 +1,36 @@
+-
+  id: 1
+  flight_id: 1
+  flight_number: "AA 692"
+  connection_airport_id: 5
+  connection_arrival_time: "7:45 AM"
+  connection_departure_time: "10:35 AM"
+  connection_layover_duration: "2h 40m"
+  connection_duration: "6h 43m"
+-
+  id: 2
+  flight_id: 4
+  flight_number: "AA 560"
+  connection_airport_id: 5
+  connection_arrival_time: "8:03 AM"
+  connection_departure_time: "11:50 AM"
+  connection_layover_duration: "3h 47m"
+  connection_duration: "2h 23m"
+-
+  id: 3
+  flight_id: 10
+  flight_number: "AA 285"
+  connection_airport_id: 7
+  connection_arrival_time: "1:52 PM"
+  connection_departure_time: "2:55 PM"
+  connection_layover_duration: "1h 3m"
+  connection_duration: ""
+-
+  id: 4
+  flight_id: 11
+  flight_number: "AA 412"
+  connection_airport_id: 7
+  connection_arrival_time: "6:35 AM"
+  connection_departure_time: "8:00 AM"
+  connection_layover_duration: "1h 25m"
+  connection_duration: ""

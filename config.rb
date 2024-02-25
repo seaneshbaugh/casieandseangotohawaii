@@ -49,8 +49,8 @@ helpers do
     data.attractions.select { |attraction| attraction.id == attraction_id }.first
   end
 
-  def events(leg_id, day_id)
-    data.events.select { |event| event.leg_id == leg_id && event.day_id == day_id }.sort_by { |event| event.order }
+  def connections(flight_id)
+    data.connections.select { |connection| connection.flight_id == flight_id }
   end
 
   def days(trip_id, leg_id)
@@ -61,6 +61,10 @@ helpers do
     # This makes the assumption that all the eventable data types are pluralized by just
     # adding an 's'. So far that's true.
     data.send("#{eventable_type}s").select { |eventable| eventable.id == eventable_id }.first
+  end
+
+  def events(leg_id, day_id)
+    data.events.select { |event| event.leg_id == leg_id && event.day_id == day_id }.sort_by { |event| event.order }
   end
 
   def hotel(hotel_id)
