@@ -71,7 +71,7 @@
   price: ""
   pickup_location_airport_id: 3
   pickup_date: "4/30/24"
-  pickup_time: "TBD"
+  pickup_time: "6:00 PM"
   dropoff_location_airport_id: 3
   dropoff_date: "5/9/24"
-  dropoff_time: "TBD"
+  dropoff_time: "6:00 PM"
