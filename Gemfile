@@ -11,3 +11,9 @@ gem 'middleman-autoprefixer', '3.0.0'
 gem 'middleman-blog', '4.0.3'
 gem "middleman-livereload", "3.4.7"
 gem 'webrick', '1.7.0'
+
+group :development do
+  gem 'activerecord', '7.1.3'
+  gem 'activesupport', '7.1.3'
+  gem 'sqlite3', '1.7.2'
+end
