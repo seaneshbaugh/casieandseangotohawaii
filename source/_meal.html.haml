@@ -17,11 +17,13 @@
         .genre= r.genre
       - if r.frommers_guide_book_page
         %cite.frommers-guide-book-page= r.frommers_guide_book_page
-  - if meal.ratings
+  - rs = ratings(meal.id)
+  - if rs.present?
     .ratings
-      %div{ class: ['average', "#{['one', 'two', 'three', 'four', 'five'][(meal.ratings.values.inject(&:+) / meal.ratings.length) - 1]}-star"].compact.join(' ') }
-      - meal.ratings.each do |name, rating|
-        %div{ class: ['rating', name.downcase].compact.join(' ') }= "#{name}: #{rating}"
+      %div{ class: ['average', "#{['one', 'two', 'three', 'four', 'five'][(rs.map(&:rating).inject(&:+) / rs.length) - 1]}-star"].compact.join(' ') }
+      - rs.each do |rating|
+        - p = person(rating.person_id)
+        %div{ class: ['rating', p['name'].downcase].compact.join(' ') }= "#{p['name']}: #{rating.rating}"
   - if meal.food
     .food
       - meal.food.each do |name, selection|

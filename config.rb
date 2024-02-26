@@ -83,8 +83,16 @@ helpers do
     data.trips.sort { |a, b| Date.strptime(a.start_date, '%Y-%m-%d') <=> Date.strptime(b.start_date, '%Y-%m-%d') }[1..-1]
   end
 
+  def person(person_id)
+    data.people.select { |person| person.id = person_id }.first
+  end
+
   def pictures(event_id)
     data.pictures.select { |picture| picture.event_id == event_id }
+  end
+
+  def ratings(meal_id)
+    data.ratings.select { |rating| rating.meal_id == meal_id }
   end
 
   def rental_car(rental_car_id)

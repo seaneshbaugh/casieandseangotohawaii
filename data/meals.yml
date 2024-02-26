@@ -16,9 +16,6 @@
       - "Diet Coke"
     Shared:
       - "Asparagus Tempura"
-  ratings:
-    Sean: 4
-    Casie: 4
 -
   id: 2
   name: "Breakfast"
@@ -30,9 +27,6 @@
     Sean:
       - "‘The Works’ Omelet"
       - "Royal Kona Coffee"
-  ratings:
-    Casie: 3
-    Sean: 4
 -
   id: 3
   name: "Snack"
@@ -42,9 +36,6 @@
       - "Classic Rainbow"
     Sean:
       - "Pina Colada"
-  ratings:
-    Casie: 5
-    Sean: 5
 -
   id: 4
   name: "Lunch"
@@ -60,9 +51,6 @@
       - "Potato Macaroni Salad"
       - "White Rice"
       - "Soda"
-  ratings:
-    Sean: 4
-    Casie: 4
 -
   id: 5
   name: "Dinner"
@@ -74,8 +62,6 @@
       - "Sautéed Mac Nut and Herb Crusted Mahi-mahi"
     Shared:
       - "Panko Fried Calamari"
-  ratings:
-    Sean: 4
 -
   id: 6
   name: "Breakfast"
@@ -91,9 +77,6 @@
       - "2 × Haupia Malasadas"
       - "4 x Macadamia Malasadas"
       - "Macadamia Nut Cookies"
-  ratings:
-    Casie: 4
-    Sean: 5
   notes: "Food was fantastic, service was friendly but ultimately awful."
 -
   id: 7
@@ -115,9 +98,6 @@
       - "Takoyaki"
       - "Pork/Squid/Shrimp Tama"
       - "Cream Kuromitsu Milk Pudding"
-  ratings:
-    Casie: 3
-    Sean: 4
 -
   id: 9
   name: "Breakfast"
@@ -129,9 +109,6 @@
     Sean:
       - "Haleiwa Chun"
       - "Iced Coffee"
-  ratings:
-    Casie: 5
-    Sean: 5
 -
   id: 10
   name: "Lunch"
@@ -145,9 +122,6 @@
       - "Spicy Kahuna Fish Taco"
       - "Roasted Pork Taco"
       - "Mango Jarritos"
-  ratings:
-    Casie: 2
-    Sean: 2
 -
   id: 11
   name: "Dinner"
@@ -160,8 +134,6 @@
       - "Soda"
     Shared:
       - "Valrhona Chocolate Cream Brûlée"
-  ratings:
-    Sean: 5
 -
   id: 12
   name: "Breakfast"
@@ -173,8 +145,6 @@
     Sean:
       - "Kauai Benedict"
       - "Iced Coffee"
-  ratings:
-    Sean: 4
 -
   id: 13
   name: "Lunch"
@@ -188,8 +158,6 @@
       - "Pacific Coast Coconut Shrimp"
     Sean:
       - "Mixed Seafood Red Thai Curry"
-  ratings:
-    Sean: 3
 -
   id: 15
   name: "Breakfast"
@@ -216,9 +184,6 @@
     Shared:
       - "Smoked Salmon"
       - "Flourless Chocolate Cake"
-  ratings:
-    Casie: 4
-    Sean: 4
 -
   id: 19
   name: "Breakfast"
@@ -236,9 +201,6 @@
       - "Burger"
       - "Chips"
       - "Hawaiian Sun"
-  ratings:
-    Casie: 3
-    Sean: 2
 -
   id: 21
   name: "Snack"
@@ -260,9 +222,6 @@
       - "One Scoop Mudpie Ice Cream"
     Sean:
       - "One Scoop Vanilla Ice Cream"
-  ratings:
-    Casie: 3
-    Sean: 3
 -
   id: 25
   name: "Dinner"
@@ -296,9 +255,6 @@
       - "Seared Ahi Sandwich"
       - "Olowalu Lime Pie"
       - "Cold Brew Coffee"
-  ratings:
-    Casie: 5
-    Sean: 5
 -
   id: 31
   name: "Lunch"
@@ -318,9 +274,6 @@
     Sean:
       - "Royal Loco Moco"
       - "Coffee"
-  ratings:
-    Casie: 3
-    Sean: 3
 -
   id: 34
   name: "Dinner"
@@ -346,12 +299,6 @@
     Sean:
       - "Pele Poke"
       - "Passion Orange Aloha"
-  ratings:
-    Casie: 3
-    Cathie: 4
-    Dwayne: 4
-    Kyle: 3
-    Sean: 4
 -
   id: 36
   name: "Dinner"
@@ -375,12 +322,6 @@
       - "Diet Coke"
     Shared:
       - "Kimo's Original Hula Pie"
-  ratings:
-    Casie: 3
-    Cathie: 3
-    Dwayne: 3
-    Kyle: 3
-    Sean: 3
 -
   id: 37
   name: "Lunch"
@@ -393,10 +334,6 @@
     Sean:
       - "Chop Steak Kau Kau Tin"
       - "Diet Coke"
-  ratings:
-    Casie: 3
-    Kyle: 0
-    Sean: 4
 -
   id: 38
   name: "Snack"
@@ -408,10 +345,6 @@
       - "Medium Sunset Beach shaved ice with macademia nut ice cream"
     Sean:
       - "Large No Ka Oi shaved ice with macademia nut ice cream"
-  ratings:
-    Casie: 3
-    Kyle: 4
-    Sean: 5
 -
   id: 39
   name: "Dinner"
@@ -432,12 +365,6 @@
       - "Local-Kine Pizza"
       - "Garlic Mushroom Pizza"
       - "Pepperoni, Red Onions, Pepperoncini Pizza"
-  ratings:
-    Casie: 4
-    Cathie: 4
-    Dwayne: 4
-    Kyle: 4
-    Sean: 4
 -
   id: 40
   name: "Snack"
@@ -449,10 +376,6 @@
       - "One Scoop Coconute Ice Cream on a Waffle Cone"
     Sean:
       - "One Scoop Vanilla Macademia Nut Ice Cream + One Scoop Coconut Ice Cream on a Waffle Cone"
-  ratings:
-    Casie: 5
-    Cathie: 5
-    Sean: 5
 -
   id: 41
   name: "Dinner"
@@ -484,12 +407,6 @@
       - "Chocolate Macademia Nut Tart"
       - "Merriman's Mai Tai"
       - "Diet Coke"
-  ratings:
-    Casie: 5
-    Cathie: 5
-    Dwayne: 5
-    Kyle: 4.5
-    Sean: 5
 -
   id: 42
   name: "Dinner"
@@ -556,12 +473,6 @@
       - "Poke 'Ahi"
       - "Lomilomi Salmon"
       - "Pa'i'ai"
-  ratings:
-    Casie: 4
-    Cathie: 3
-    Dwayne: 3
-    Kyle: 3
-    Sean: 4
 -
   id: 43
   name: "Brunch"
@@ -584,12 +495,6 @@
       - "Seared Ahi Benedict"
       - "Coffee"
       - "Passion Orange Guava Juice"
-  ratings:
-    Casie: 4
-    Cathie: 4
-    Dwayne: 4
-    Kyle: 4
-    Sean: 4
 -
   id: 44
   name: "Breakfast"
@@ -607,11 +512,6 @@
     Sean:
       - "Slappy Moco"
       - "Passion Orange Guava Juice"
-  ratings:
-    Casie: 4.5
-    Cathie: 2
-    Dwayne: 2
-    Sean: 5
 -
   id: 45
   name: "Lunch"
@@ -632,12 +532,6 @@
     Sean:
       - "Mahimahi + Chips"
       - "Lilokoi No Hito"
-  ratings:
-    Casie: 4
-    Cathie: 4
-    Dwayne: 2
-    Kyle: 4
-    Sean: 4
 -
   id: 46
   name: "Breakfast"
@@ -651,9 +545,6 @@
       - "Iced Coffee"
     Shared:
       - "Cinnamon Roll"
-  ratings:
-    Casie: 4.75
-    Sean: 5
 -
   id: 47
   name: "Snack"
@@ -667,11 +558,6 @@
       - "Small Sunset Beach shaved ice with macademia nut ice cream"
     Sean:
       - "Large Sunset Beach shaved ice with macademia nut ice cream"
-  ratings:
-    Casie: 5
-    Cathie: 4
-    Dwayne: 4
-    Sean: 5
 -
   id: 48
   name: "Lunch"
@@ -689,11 +575,6 @@
     Sean:
       - "Seared Ahi Sandwich"
       - "Pineapple Mac Nut Pie"
-  ratings:
-    Casie: 5
-    Cathie: 5
-    Dwayne: 5
-    Sean: 5
 -
   id: 49
   name: "Snack"
@@ -703,9 +584,6 @@
       - "Pineapple Smoothie"
     Sean:
       - "Coconut and Mango Smoothie"
-  ratings:
-    Casie: 5
-    Sean: 5
 -
   id: 50
   name: "Dinner"
@@ -722,9 +600,6 @@
     Shared:
       - "Coconut Shrimp"
       - "Kimo's Original Hula Pie"
-  ratings:
-    Casie: 5
-    Sean: 5
 -
   id: 51
   name: "Dinner"
@@ -745,12 +620,6 @@
     Shared:
       - "Lobster, Shrimp &amp; Scallop Potstickers"
       - "Mango BBQ Ribs"
-  ratings:
-    Casie: 4.5
-    Cathie: 4
-    Dwayne: 5
-    Kyle: 3
-    Sean: 5
 -
   id: 52
   name: "Breakfast"
@@ -760,9 +629,6 @@
       - "Sausage, Egg, and Cheese Bagel Sandwich"
     Sean:
       - "Sausage, Egg, and Cheese Bagel Sandwich"
-  ratings:
-    Casie: 1
-    Sean: 1
 -
   id: 53
   name: "Lunch"
@@ -781,12 +647,6 @@
       - "Cheeseburger in Paradise"
       - "Diet Coke"
       - "Pina Colada"
-  ratings:
-    Casie: 2
-    Cathie: 3
-    Dwayne: 3
-    Kyle: 3
-    Sean: 2
 -
   id: 54
   name: "Dinner"
@@ -807,12 +667,6 @@
     Sean:
       - "Kalua Pork Curry"
       - "Diet Coke"
-  ratings:
-    Casie: 4
-    Cathie: 3
-    Dwayne: 3
-    Kyle: 3
-    Sean: 4
 -
   id: 55
   name: "Breakfast"
@@ -824,9 +678,6 @@
     Sean:
       - "Chuns Breakfast Bomber"
       - "Iced Vanilla Macadamia Nut Coffee"
-  ratings:
-    Casie: 5
-    Sean: 5
 -
   id: 56
   name: "Lunch"
@@ -850,12 +701,6 @@
     Shared:
       - "Duke's Nachos"
       - "Kimo's Original Hula Pie"
-  ratings:
-    Casie: 3.5
-    Cathie: 3
-    Dwayne: 3
-    Kyle: 3
-    Sean: 3
 -
   id: 57
   name: "Dinner"
@@ -875,9 +720,6 @@
       - "Tempura Shrimp"
       - "Tempura Tamagoyaki"
       - "Diet Coke"
-  ratings:
-    Casie: 4.5
-    Sean: 5
 -
   id: 58
   name: "Snack"
@@ -887,9 +729,6 @@
       - "One Scoop Pineapple Orange Guava Sorbet in a Cup"
     Sean:
       - "One Scoop Coconut Ice Cream + One Scoop White Chocolate Macademia Nut Ice Cream on a Waffle Cone"
-  ratings:
-    Casie: 5
-    Sean: 4
 -
   id: 59
   name: "Breakfast"
@@ -898,8 +737,6 @@
     Casie:
       - "Brudah Omelette"
       - "Orange Juice"
-  ratings:
-    Casie: 4
 -
   id: 60
   name: "Dinner"
@@ -917,11 +754,6 @@
     Sean:
       - "Ono and Mahi Mahi"
       - "Local Diet Cola"
-  ratings:
-    Casie: 3
-    Cathie: 3
-    Dwayne: 3
-    Sean: 4
 -
   id: 61
   name: "Breakfast"
@@ -933,9 +765,6 @@
     Sean:
       - "Salted Caramel Waffle"
       - "Iced Latte"
-  ratings:
-    Casie: 3
-    Sean: 2
 -
   id: 62
   name: "Lunch"
@@ -963,12 +792,6 @@
       - "Guava Juice"
       - "Plantation Ice Tea"
       - "Halekulani's Signature Coconut Cake"
-  ratings:
-    Casie: 5
-    Cathie: 5
-    Dwayne: 5
-    Kyle: 5
-    Sean: 5
 -
   id: 63
   name: "Dinner"
@@ -985,9 +808,6 @@
       - "Philly Roll"
       - "Creamy Spicy Shrimp Tempura"
       - "Chicken Karaage"
-  ratings:
-    Casie: 3
-    Sean: 3
 -
   id: 64
   name: "Breakfast"
@@ -1013,9 +833,6 @@
     Sean:
       - "Hawaiian Poke Plate"
       - "Passion Orange Hawaiian Sun"
-  ratings:
-    Casie: 4.5
-    Sean: 4
 -
   id: 66
   name: "Dinner"
@@ -1045,12 +862,6 @@
       - "Roy's Kiawe Smoked Szechuan Baby Back Ribs"
       - "Mau-Gyotaku Roll"
       - "HK Crab Cakes"
-  ratings:
-    Casie: 5
-    Cathie: 5
-    Dwayne: 5
-    Kyle: 5
-    Sean: 5
 -
   id: 67
   name: "Breakfast"
@@ -1064,9 +875,6 @@
       - "Royal Loco Moco"
       - "Mango Smoothie"
       - "Ice Coffee"
-  ratings:
-    Casie: 4
-    Sean: 4.5
 -
   id: 68
   name: "Lunch"
@@ -1087,12 +895,6 @@
     Sean:
       - "Ahi Poke Bowl"
       - "Pineapple Juice"
-  ratings:
-    Casie: 4
-    Cathie: 4
-    Dwayne: 3
-    Kyle: 4
-    Sean: 4
 -
   id: 69
   name: "Dinner"
@@ -1115,12 +917,6 @@
       - "Daimyo"
       - "Hakushika Yamadanishiki Junmai Sake"
       - "Diet Coke"
-  ratings:
-    Casie: 5
-    Cathie: 5
-    Dwayne: 5
-    Kyle: 5
-    Sean: 5
   notes: "The chef's vibes were immaculate."
 -
   id: 70
@@ -1135,10 +931,6 @@
     Sean:
       - "Chuns Breakfast Bomber"
       - "Iced Vanilla Macadamia Nut Coffee"
-  ratings:
-    Casie: 5
-    Kyle: 5
-    Sean: 5
 -
   id: 71
   name: "Dinner"
@@ -1159,12 +951,6 @@
     Sean:
       - "Loco Moco"
       - "Diet Coke"
-  ratings:
-    Casie: 0
-    Cathie: 2
-    Dwayne: 1
-    Kyle: 0
-    Sean: 0
 -
   id: 72
   name: "Breakfast"
@@ -1176,9 +962,6 @@
     Dwayne:
       - "Eggs any Style (scrambled eggs, potatoes, toast, bacon)"
       - "Tea"
-  ratings:
-    Cathie: 3
-    Dwayne: 3
 -
   id: 73
   name: "Dinner"
@@ -1193,10 +976,6 @@
     Shared:
       - "BBQ Pork Pizza"
       - "The G.O.A.T. Pizza"
-  ratings:
-    Cathie: 4
-    Dwayne: 4
-    Kyle: 4
 -
   id: 80
   name: "Breakfast"
@@ -1204,9 +983,6 @@
   food:
     Shared:
       - "Banana Muffins"
-  ratings:
-    Cathie: 2
-    Dwayne: 2
 -
   id: 81
   name: "Lunch"
@@ -1214,9 +990,6 @@
   food:
     Shared:
       - "Inu Burger"
-  ratings:
-    Cathie: 1
-    Dwayne: 1
 -
   id: 82
   name: "Lunch"
@@ -1226,8 +999,6 @@
       - "McDouble"
       - "Fries"
       - "Coke"
-  ratings:
-    Kyle: 4
 -
   id: 83
   name: "Dinner"
@@ -1242,175 +1013,143 @@
     Shared:
       - "Turkey Club"
       - "Truffle Fries"
-  ratings:
-    Cathie: 4
-    Dwayne: 3
-    Kyle: 4
 -
   id: 84
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 85
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 86
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 87
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 88
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 89
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 90
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 91
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 92
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 93
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 94
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 95
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 96
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 97
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 98
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 99
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 100
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 101
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 102
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 103
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 104
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 105
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 106
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 107
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 108
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 109
   name: "Breakfast"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 110
   name: "Lunch"
   restaurant_id: null
   food:
-  ratings:
 -
   id: 111
   name: "Dinner"
   restaurant_id: null
   food:
-  ratings:
