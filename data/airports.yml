@@ -4,13 +4,13 @@
   code: "DFW"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/Dallas%2FFort+Worth+International+Airport/@32.8998091,-97.0753541,13z/data=!4m5!3m4!1s0x864c2a660d222aa7:0x73323f5e067d201c!8m2!3d32.8998091!4d-97.0403352"
     -
-      type: "website"
+      link_type: "website"
       url: "https://www.dfwairport.com/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Dallas+Fort+Worth+International+Airport"
   address: "2400 Aviation Dr, DFW Airport, TX 75261"
   phone: "+1 972-973-3112"
@@ -20,13 +20,13 @@
   code: "HNL"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.33285196785694%2C-157.93720178943943&z=13"
     -
-      type: "website"
+      link_type: "website"
       url: "https://airports.hawaii.gov/hnl/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Honolulu+International+Airport"
   address: "300 Rodgers Blvd, Honolulu, HI 96819"
   phone: "+1 808-836-6411"
@@ -37,13 +37,13 @@
   code: "LIH"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.98722376037447%2C-159.35138284917304&z=13"
     -
-      type: "website"
+      link_type: "website"
       url: "https://airports.hawaii.gov/lih/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Lihue+Airport"
   address: "3901 Mokulele Loop, Lihue, HI 96766"
   phone: "+1 808-274-3800"
@@ -54,13 +54,13 @@
   code: "OGG"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.913948416418336%2C-156.454111709421&z=12"
     -
-      type: "website"
+      link_type: "website"
       url: "https://airports.hawaii.gov/ogg/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Kahului+Airport"
   address: "1 Keolani Pl, Kahului, HI 96732"
   phone: "+1 808-872-3830"
@@ -71,13 +71,13 @@
   code: "PHX"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/Phoenix+Sky+Harbor+International+Airport/@33.4312378,-112.0283201,13z/data=!4m5!3m4!1s0x872b0e5c330370a5:0x82f535d5e256ee42!8m2!3d33.435249!4d-112.010124"
     -
-      type: "website"
+      link_type: "website"
       url: "https://www.skyharbor.com/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Phoenix+Sky+Harbor+International+Airport"
   address: "3400 E Sky Harbor Blvd, Phoenix, AZ 85034"
   phone: "+1 602-273-330"
@@ -87,13 +87,13 @@
   code: "ITO"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/Hilo+International+Airport/@19.7188342,-155.0767055,13z/data=!4m5!3m4!1s0x79524c78af8cfe03:0x2e9bfe4565716c7f!8m2!3d19.7188342!4d-155.0416866?hl=en"
     -
-      type: "website"
+      link_type: "website"
       url: "https://airports.hawaii.gov/ito/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Hilo+International+Airport"
   address: "2450 Kekuanaoa St, Hilo, HI 96720"
   phone: "+1 808-961-9300"
@@ -104,13 +104,13 @@
   code: "LAX"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/Los+Angeles+International+Airport/@33.9435093,-118.4112155,17z/data=!4m6!3m5!1s0x80c2b0d213b24fb5:0x77a87b57698badf1!8m2!3d33.9434381!4d-118.409295!16zL20vMDRseWs?hl=en"
     -
-      type: "website"
+      link_type: "website"
       url: "https://www.flylax.com/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Los+Angeles+International+Airport"
   address: "1 World Way, Los Angeles, CA 90045"
   phone: "+1 855-463-5252"

@@ -3,13 +3,13 @@
   name: "The Royal Hawaiian"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/The+Royal+Hawaiian,+a+Luxury+Collection+Resort,+Waikiki/@21.2772612,-157.8305924,17z/data=!4m8!3m7!1s0x7c00727593d8afcb:0xb9789258e42af5c8!5m2!4m1!1i2!8m2!3d21.2772562!4d-157.8287149"
     -
-      type: "website"
+      link_type: "website"
       url: "https://www.royal-hawaiian.com/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=The+Royal+Hawaiian"
   address: "2259 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-923-7311"
@@ -19,13 +19,13 @@
   name: "Courtyard Marriott Kaua'i at Coconut Beach"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/Sheraton+Kauai+Coconut+Beach+Resort/@22.0567556,-159.3247054,17z/data=!4m8!3m7!1s0x7c06e0456a3a0ff7:0x97544110e655068a!5m2!4m1!1i2!8m2!3d22.056823!4d-159.3226167"
     -
-      type: "website"
+      link_type: "website"
       url: "https://www.marriott.com/hotels/travel/lihsk-sheraton-kauai-coconut-beach-resort/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Courtyard+by+Marriott+Kaua%27i+at+Coconut+Beach"
   address: "650 Aleka Loop, Kapaa, HI 96746"
   phone: "+1 808-822-3455"
@@ -36,13 +36,13 @@
   name: "Royal Lāhainā Resort"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/Royal+L%C4%81hain%C4%81+Resort/@20.9317321,-156.6945415,17z/data=!3m1!4b1!4m8!3m7!1s0x79552b49a0ede727:0x67c604ef6b0f7dc4!5m2!4m1!1i2!8m2!3d20.931837!4d-156.6918645"
     -
-      type: "website"
+      link_type: "website"
       url: "https://www.royallahaina.com/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Royal+Lāhainā+Resort"
   address: "2780 Kekaa Dr, Lahaina, HI 96761"
   phone: "+1 808-661-3611"
@@ -51,13 +51,13 @@
   name: "Honua Kai Resort &amp; Spa"
   links:
     -
-      type: "map"
+      link_type: "map"
       url: "https://www.google.com/maps/place/Honua+Kai+Resort+%26+Spa/@20.9444133,-156.6917413,17z/data=!4m8!3m7!1s0x7eaad4b5ebecc1b5:0x75715bda87fb3ccf!5m2!4m1!1i2!8m2!3d20.9442097!4d-156.6902037"
     -
-      type: "website"
+      link_type: "website"
       url: "https://www.honuakai.com/"
     -
-      type: "images"
+      link_type: "images"
       url: "https://www.google.com/search?tbm=isch&q=Honua+Kai+Resort+%26+Spa"
   address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
   phone: "+1 855-718-5789"
