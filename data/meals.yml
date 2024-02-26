@@ -993,7 +993,7 @@
   name: "Breakfast"
   restaurant_id: 6
   food:
-    Case:
+    Casie:
       - "Ice Coffee"
     Sean:
       - "Ice Coffee"
