@@ -24,13 +24,14 @@
       - rs.each do |rating|
         - p = person(rating.person_id)
         %div{ class: ['rating', p['name'].downcase].compact.join(' ') }= "#{p['name']}: #{rating.rating}"
-  - if meal.food
+  - os = orders(meal.id)
+  - if os.present?
     .food
-      - meal.food.each do |name, selection|
+      - orders_grouped_by_person_name(meal.id).each do |name, orders|
         .selection
           %h6.name= name
           %ul.items
-            - selection.each do |item|
-              %li= item
+            - orders.each do |item|
+              %li= item.food
   - if meal.notes
     .notes= meal.notes

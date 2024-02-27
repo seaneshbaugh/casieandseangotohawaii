@@ -79,12 +79,32 @@ helpers do
     data.meal.select { |meal| meal.id == meal_id }.first
   end
 
+  def orders(meal_id)
+    data.orders.select { |order| order.meal_id == meal_id }
+  end
+
+  def orders_grouped_by_person_name(meal_id)
+    orders(meal_id).group_by do |order|
+      person = person(order.person_id)
+
+      if person.nil? && !order.person_id.nil?
+        raise "Person with id #{order.person_id} not found. If you want to indicate a shared order leave person_id as nil."
+      end
+
+      if person
+        person.name
+      else
+        'Shared'
+      end
+    end
+  end
+
   def past_trips
     data.trips.sort { |a, b| Date.strptime(a.start_date, '%Y-%m-%d') <=> Date.strptime(b.start_date, '%Y-%m-%d') }[1..-1]
   end
 
   def person(person_id)
-    data.people.select { |person| person.id = person_id }.first
+    data.people.select { |person| person.id == person_id }.first
   end
 
   def pictures(event_id)

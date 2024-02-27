@@ -1,0 +1,2245 @@
+-
+  id: 1
+  meal_id: 1
+  person_id: 1
+  food: "Niku Udon"
+-
+  id: 2
+  meal_id: 1
+  person_id: 1
+  food: "Shrimp Tempura"
+-
+  id: 3
+  meal_id: 1
+  person_id: 1
+  food: "Mushroom Tempura"
+-
+  id: 4
+  meal_id: 1
+  person_id: 1
+  food: "Coke"
+-
+  id: 5
+  meal_id: 1
+  person_id: 2
+  food: "Nikitama Udon"
+-
+  id: 6
+  meal_id: 1
+  person_id: 2
+  food: "Shrimp Tempura"
+-
+  id: 7
+  meal_id: 1
+  person_id: 2
+  food: "Calamari Tempura"
+-
+  id: 8
+  meal_id: 1
+  person_id: 2
+  food: "Potato Croquette"
+-
+  id: 9
+  meal_id: 1
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 10
+  meal_id: 1
+  person_id: null
+  food: "Asparagus Tempura"
+-
+  id: 11
+  meal_id: 2
+  person_id: 1
+  food: "‘The Royal Bake Shop’ Banana Bread French Toast"
+-
+  id: 12
+  meal_id: 2
+  person_id: 1
+  food: "Royal Kona Coffee"
+-
+  id: 13
+  meal_id: 2
+  person_id: 2
+  food: "‘The Works’ Omelet"
+-
+  id: 14
+  meal_id: 2
+  person_id: 2
+  food: "Royal Kona Coffee"
+-
+  id: 15
+  meal_id: 3
+  person_id: 1
+  food: "Classic Rainbow"
+-
+  id: 16
+  meal_id: 3
+  person_id: 2
+  food: "Pina Colada"
+-
+  id: 17
+  meal_id: 4
+  person_id: 1
+  food: "Shrimp and Steak Plate"
+-
+  id: 18
+  meal_id: 4
+  person_id: 1
+  food: "Potato Macaroni Salad"
+-
+  id: 19
+  meal_id: 4
+  person_id: 1
+  food: "White Rice"
+-
+  id: 20
+  meal_id: 4
+  person_id: 1
+  food: "Soda"
+-
+  id: 21
+  meal_id: 4
+  person_id: 2
+  food: "Kaiwe Slow Smoked Pork with Onions"
+-
+  id: 22
+  meal_id: 4
+  person_id: 2
+  food: "Potato Macaroni Salad"
+-
+  id: 23
+  meal_id: 4
+  person_id: 2
+  food: "White Rice"
+-
+  id: 24
+  meal_id: 4
+  person_id: 2
+  food: "Soda"
+-
+  id: 25
+  meal_id: 5
+  person_id: 1
+  food: "Seven Spice Ahi"
+-
+  id: 26
+  meal_id: 5
+  person_id: 2
+  food: "Sautéed Mac Nut and Herb Crusted Mahi-mahi"
+-
+  id: 27
+  meal_id: 5
+  person_id: null
+  food: "Panko Fried Calamari"
+-
+  id: 28
+  meal_id: 6
+  person_id: 1
+  food: "Coffee"
+-
+  id: 29
+  meal_id: 6
+  person_id: 2
+  food: "Iced Mocha Macademia Nut Latte"
+-
+  id: 30
+  meal_id: 6
+  person_id: null
+  food: "3 × Dobash Malasadas"
+-
+  id: 31
+  meal_id: 6
+  person_id: null
+  food: "3 × Custard Malasadas"
+-
+  id: 32
+  meal_id: 6
+  person_id: null
+  food: "2 × Haupia Malasadas"
+-
+  id: 33
+  meal_id: 6
+  person_id: null
+  food: "4 x Macadamia Malasadas"
+-
+  id: 34
+  meal_id: 6
+  person_id: null
+  food: "Macadamia Nut Cookies"
+-
+  id: 35
+  meal_id: 8
+  person_id: 1
+  food: "Iced Tea"
+-
+  id: 36
+  meal_id: 8
+  person_id: 2
+  food: "Soda"
+-
+  id: 37
+  meal_id: 8
+  person_id: null
+  food: "Geen Asparagus Salad"
+-
+  id: 38
+  meal_id: 8
+  person_id: null
+  food: "Dote-yaki"
+-
+  id: 39
+  meal_id: 8
+  person_id: null
+  food: "Steak, Shrimp, Scallop, and Vegetable Teppanyaki"
+-
+  id: 40
+  meal_id: 8
+  person_id: null
+  food: "Takoyaki"
+-
+  id: 41
+  meal_id: 8
+  person_id: null
+  food: "Pork/Squid/Shrimp Tama"
+-
+  id: 42
+  meal_id: 8
+  person_id: null
+  food: "Cream Kuromitsu Milk Pudding"
+-
+  id: 43
+  meal_id: 9
+  person_id: 1
+  food: "Waimea Chun"
+-
+  id: 44
+  meal_id: 9
+  person_id: 1
+  food: "Iced Coffee"
+-
+  id: 45
+  meal_id: 9
+  person_id: 2
+  food: "Haleiwa Chun"
+-
+  id: 46
+  meal_id: 9
+  person_id: 2
+  food: "Iced Coffee"
+-
+  id: 47
+  meal_id: 10
+  person_id: 1
+  food: "The Best Fish Taco"
+-
+  id: 48
+  meal_id: 10
+  person_id: 1
+  food: "Shrimp Taco"
+-
+  id: 49
+  meal_id: 10
+  person_id: 1
+  food: "Pineapple Jarritos"
+-
+  id: 50
+  meal_id: 10
+  person_id: 2
+  food: "Spicy Kahuna Fish Taco"
+-
+  id: 51
+  meal_id: 10
+  person_id: 2
+  food: "Roasted Pork Taco"
+-
+  id: 52
+  meal_id: 10
+  person_id: 2
+  food: "Mango Jarritos"
+-
+  id: 53
+  meal_id: 11
+  person_id: 1
+  food: "Potato Crusted Opakapaka"
+-
+  id: 54
+  meal_id: 11
+  person_id: 2
+  food: "Seared Ahi and Scallops with a Port Kauai Vanilla Sauce"
+-
+  id: 55
+  meal_id: 11
+  person_id: 2
+  food: "Soda"
+-
+  id: 56
+  meal_id: 11
+  person_id: null
+  food: "Valrhona Chocolate Cream Brûlée"
+-
+  id: 57
+  meal_id: 12
+  person_id: 1
+  food: "Traditional Loco Moco"
+-
+  id: 58
+  meal_id: 12
+  person_id: 1
+  food: "Iced Coffee"
+-
+  id: 59
+  meal_id: 12
+  person_id: 2
+  food: "Kauai Benedict"
+-
+  id: 60
+  meal_id: 12
+  person_id: 2
+  food: "Iced Coffee"
+-
+  id: 61
+  meal_id: 14
+  person_id: 1
+  food: "Pacific Coast Coconut Shrimp"
+-
+  id: 62
+  meal_id: 14
+  person_id: 2
+  food: "Mixed Seafood Red Thai Curry"
+-
+  id: 63
+  meal_id: 18
+  person_id: 1
+  food: "Panzanella"
+-
+  id: 64
+  meal_id: 18
+  person_id: 1
+  food: "Root Beer"
+-
+  id: 65
+  meal_id: 18
+  person_id: 2
+  food: "Fish Curry"
+-
+  id: 66
+  meal_id: 18
+  person_id: 2
+  food: "Coke"
+-
+  id: 67
+  meal_id: 18
+  person_id: null
+  food: "Smoked Salmon"
+-
+  id: 68
+  meal_id: 18
+  person_id: null
+  food: "Flourless Chocolate Cake"
+-
+  id: 69
+  meal_id: 20
+  person_id: 1
+  food: "Grilled Cheese"
+-
+  id: 70
+  meal_id: 20
+  person_id: 1
+  food: "Chips"
+-
+  id: 71
+  meal_id: 20
+  person_id: 1
+  food: "Hawaiian Sun"
+-
+  id: 72
+  meal_id: 20
+  person_id: 2
+  food: "Burger"
+-
+  id: 73
+  meal_id: 20
+  person_id: 2
+  food: "Chips"
+-
+  id: 74
+  meal_id: 20
+  person_id: 2
+  food: "Hawaiian Sun"
+-
+  id: 75
+  meal_id: 24
+  person_id: 1
+  food: "One Scoop Mudpie Ice Cream"
+-
+  id: 76
+  meal_id: 24
+  person_id: 2
+  food: "One Scoop Vanilla Ice Cream"
+-
+  id: 77
+  meal_id: 30
+  person_id: 1
+  food: "Bacon and Egg Sandwich"
+-
+  id: 78
+  meal_id: 30
+  person_id: 1
+  food: "Pineapple Mac Nut Pie"
+-
+  id: 79
+  meal_id: 30
+  person_id: 1
+  food: "Cold Brew Coffee"
+-
+  id: 80
+  meal_id: 30
+  person_id: 2
+  food: "Seared Ahi Sandwich"
+-
+  id: 81
+  meal_id: 30
+  person_id: 2
+  food: "Olowalu Lime Pie"
+-
+  id: 82
+  meal_id: 30
+  person_id: 2
+  food: "Cold Brew Coffee"
+-
+  id: 83
+  meal_id: 33
+  person_id: 1
+  food: "Belgian Waffle"
+-
+  id: 84
+  meal_id: 33
+  person_id: 1
+  food: "Coffee"
+-
+  id: 85
+  meal_id: 33
+  person_id: 2
+  food: "Royal Loco Moco"
+-
+  id: 86
+  meal_id: 33
+  person_id: 2
+  food: "Coffee"
+-
+  id: 87
+  meal_id: 35
+  person_id: 1
+  food: "Shoyu Poke"
+-
+  id: 88
+  meal_id: 35
+  person_id: 1
+  food: "Water"
+-
+  id: 89
+  meal_id: 35
+  person_id: 3
+  food: "Avocado and Papaya Shrimp Salad"
+-
+  id: 90
+  meal_id: 35
+  person_id: 3
+  food: "Water"
+-
+  id: 91
+  meal_id: 35
+  person_id: 4
+  food: "Shrimp with Walnut"
+-
+  id: 92
+  meal_id: 35
+  person_id: 4
+  food: "Water"
+-
+  id: 93
+  meal_id: 35
+  person_id: 5
+  food: "Sweet and Spicy Shrimp"
+-
+  id: 94
+  meal_id: 35
+  person_id: 5
+  food: "Water"
+-
+  id: 95
+  meal_id: 35
+  person_id: 2
+  food: "Pele Poke"
+-
+  id: 96
+  meal_id: 35
+  person_id: 2
+  food: "Passion Orange Aloha"
+-
+  id: 97
+  meal_id: 36
+  person_id: 1
+  food: "Sautéed Mac Nut &amp; Herb Crusted Fresh Nairagi"
+-
+  id: 98
+  meal_id: 36
+  person_id: 1
+  food: "Water"
+-
+  id: 99
+  meal_id: 36
+  person_id: 3
+  food: "Farm to Fork"
+-
+  id: 100
+  meal_id: 36
+  person_id: 3
+  food: "Molokai Margarita"
+-
+  id: 101
+  meal_id: 36
+  person_id: 4
+  food: "Fish Tacos (nairagi)"
+-
+  id: 102
+  meal_id: 36
+  person_id: 4
+  food: "Duke's Blonde Ale"
+-
+  id: 103
+  meal_id: 36
+  person_id: 5
+  food: "Duke's Cheeseburger"
+-
+  id: 104
+  meal_id: 36
+  person_id: 5
+  food: "Fries"
+-
+  id: 105
+  meal_id: 36
+  person_id: 5
+  food: "Duke's Mai Tai"
+-
+  id: 106
+  meal_id: 36
+  person_id: 2
+  food: "Sautéed Mac Nut &amp; Herb Crusted Fresh Nairagi"
+-
+  id: 107
+  meal_id: 36
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 108
+  meal_id: 36
+  person_id: null
+  food: "Kimo's Original Hula Pie"
+-
+  id: 109
+  meal_id: 37
+  person_id: 1
+  food: "Orange Marlin Sandwich"
+-
+  id: 110
+  meal_id: 37
+  person_id: 5
+  food: "Spicy Chicken Sandwich"
+-
+  id: 111
+  meal_id: 37
+  person_id: 2
+  food: "Chop Steak Kau Kau Tin"
+-
+  id: 112
+  meal_id: 37
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 113
+  meal_id: 38
+  person_id: 1
+  food: "Medium half mango half pineapple shaved ice with macademia nut ice cream"
+-
+  id: 114
+  meal_id: 38
+  person_id: 5
+  food: "Medium Sunset Beach shaved ice with macademia nut ice cream"
+-
+  id: 115
+  meal_id: 38
+  person_id: 2
+  food: "Large No Ka Oi shaved ice with macademia nut ice cream"
+-
+  id: 116
+  meal_id: 39
+  person_id: 1
+  food: "Water"
+-
+  id: 117
+  meal_id: 39
+  person_id: 3
+  food: "Water"
+-
+  id: 118
+  meal_id: 39
+  person_id: 4
+  food: "Water"
+-
+  id: 119
+  meal_id: 39
+  person_id: 5
+  food: "Coke"
+-
+  id: 120
+  meal_id: 39
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 121
+  meal_id: 39
+  person_id: null
+  food: "Focaccia"
+-
+  id: 122
+  meal_id: 39
+  person_id: null
+  food: "Local-Kine Pizza"
+-
+  id: 123
+  meal_id: 39
+  person_id: null
+  food: "Garlic Mushroom Pizza"
+-
+  id: 124
+  meal_id: 39
+  person_id: null
+  food: "Pepperoni, Red Onions, Pepperoncini Pizza"
+-
+  id: 125
+  meal_id: 40
+  person_id: 1
+  food: "One Scoop Chocolate Macademia Nut Ice Cream on a Waffle Cone"
+-
+  id: 126
+  meal_id: 40
+  person_id: 3
+  food: "One Scoop Coconute Ice Cream on a Waffle Cone"
+-
+  id: 127
+  meal_id: 40
+  person_id: 2
+  food: "One Scoop Vanilla Macademia Nut Ice Cream + One Scoop Coconut Ice Cream on a Waffle Cone"
+-
+  id: 128
+  meal_id: 41
+  person_id: 1
+  food: "Hawaiian Poke Duo"
+-
+  id: 129
+  meal_id: 41
+  person_id: 1
+  food: "Pan Seared Line Caught Mahi Mahi"
+-
+  id: 130
+  meal_id: 41
+  person_id: 1
+  food: "Chocolate Macademia Nut Tart"
+-
+  id: 131
+  meal_id: 41
+  person_id: 1
+  food: "Virgin Strawberry Daquiri"
+-
+  id: 132
+  meal_id: 41
+  person_id: 3
+  food: "Kona Keahole Lobster &amp; Tamimi Farm Tomatoes"
+-
+  id: 133
+  meal_id: 41
+  person_id: 3
+  food: "Pan Seared Line Caught Mahi Mahi"
+-
+  id: 134
+  meal_id: 41
+  person_id: 3
+  food: "Tahitian Vanilla Bean Crème Brulee"
+-
+  id: 135
+  meal_id: 41
+  person_id: 3
+  food: "White Wine"
+-
+  id: 136
+  meal_id: 41
+  person_id: 4
+  food: "Hawaiian Poke Duo"
+-
+  id: 137
+  meal_id: 41
+  person_id: 4
+  food: "Pan Seared Line Caught Mahi Mahi"
+-
+  id: 138
+  meal_id: 41
+  person_id: 4
+  food: "Chocolate Macademia Nut Tart"
+-
+  id: 139
+  meal_id: 41
+  person_id: 4
+  food: "Beer"
+-
+  id: 140
+  meal_id: 41
+  person_id: 5
+  food: "Kalua Pig Quesadilla"
+-
+  id: 141
+  meal_id: 41
+  person_id: 5
+  food: "Harissa Spiced Diver Scallops &amp; Wild Shrimp"
+-
+  id: 142
+  meal_id: 41
+  person_id: 5
+  food: "Chocolate Macademia Nut Tart"
+-
+  id: 143
+  meal_id: 41
+  person_id: 5
+  food: "Merriman's Mai Tai"
+-
+  id: 144
+  meal_id: 41
+  person_id: 2
+  food: "Hawaiian Poke Duo"
+-
+  id: 145
+  meal_id: 41
+  person_id: 2
+  food: "Pan Seared Line Caught Mahi Mahi"
+-
+  id: 146
+  meal_id: 41
+  person_id: 2
+  food: "Chocolate Macademia Nut Tart"
+-
+  id: 147
+  meal_id: 41
+  person_id: 2
+  food: "Merriman's Mai Tai"
+-
+  id: 148
+  meal_id: 41
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 149
+  meal_id: 42
+  person_id: 1
+  food: "Local Grown Green Salad"
+-
+  id: 150
+  meal_id: 42
+  person_id: 1
+  food: "Braised Beef"
+-
+  id: 151
+  meal_id: 42
+  person_id: 1
+  food: "I'a - Maui Style Fish"
+-
+  id: 152
+  meal_id: 42
+  person_id: 1
+  food: "Moa - Island Style Chicken"
+-
+  id: 153
+  meal_id: 42
+  person_id: 1
+  food: "Stir Fry Vegetables"
+-
+  id: 154
+  meal_id: 42
+  person_id: 1
+  food: "Sweet Potato Mash"
+-
+  id: 155
+  meal_id: 42
+  person_id: 1
+  food: "Haupio"
+-
+  id: 156
+  meal_id: 42
+  person_id: 1
+  food: "Kulolo"
+-
+  id: 157
+  meal_id: 42
+  person_id: 1
+  food: "Pineapple upside-down cake"
+-
+  id: 158
+  meal_id: 42
+  person_id: 3
+  food: "Local Grown Green Salad"
+-
+  id: 159
+  meal_id: 42
+  person_id: 3
+  food: "Braised Beef"
+-
+  id: 160
+  meal_id: 42
+  person_id: 3
+  food: "I'a - Maui Style Fish"
+-
+  id: 161
+  meal_id: 42
+  person_id: 3
+  food: "Moa - Island Style Chicken"
+-
+  id: 162
+  meal_id: 42
+  person_id: 3
+  food: "Stir Fry Vegetables"
+-
+  id: 163
+  meal_id: 42
+  person_id: 3
+  food: "Sweet Potato Mash"
+-
+  id: 164
+  meal_id: 42
+  person_id: 3
+  food: "Haupio"
+-
+  id: 165
+  meal_id: 42
+  person_id: 3
+  food: "Kulolo"
+-
+  id: 166
+  meal_id: 42
+  person_id: 3
+  food: "Pineapple upside-down cake"
+-
+  id: 167
+  meal_id: 42
+  person_id: 4
+  food: "Local Grown Green Salad"
+-
+  id: 168
+  meal_id: 42
+  person_id: 4
+  food: "Braised Beef"
+-
+  id: 169
+  meal_id: 42
+  person_id: 4
+  food: "I'a - Maui Style Fish"
+-
+  id: 170
+  meal_id: 42
+  person_id: 4
+  food: "Moa - Island Style Chicken"
+-
+  id: 171
+  meal_id: 42
+  person_id: 4
+  food: "Stir Fry Vegetables"
+-
+  id: 172
+  meal_id: 42
+  person_id: 4
+  food: "Sweet Potato Mash"
+-
+  id: 173
+  meal_id: 42
+  person_id: 4
+  food: "Haupio"
+-
+  id: 174
+  meal_id: 42
+  person_id: 4
+  food: "Kulolo"
+-
+  id: 175
+  meal_id: 42
+  person_id: 4
+  food: "Pineapple upside-down cake"
+-
+  id: 176
+  meal_id: 42
+  person_id: 5
+  food: "Local Grown Green Salad"
+-
+  id: 177
+  meal_id: 42
+  person_id: 5
+  food: "Braised Beef"
+-
+  id: 178
+  meal_id: 42
+  person_id: 5
+  food: "I'a - Maui Style Fish"
+-
+  id: 179
+  meal_id: 42
+  person_id: 5
+  food: "Moa - Island Style Chicken"
+-
+  id: 180
+  meal_id: 42
+  person_id: 5
+  food: "Stir Fry Vegetables"
+-
+  id: 181
+  meal_id: 42
+  person_id: 5
+  food: "Sweet Potato Mash"
+-
+  id: 182
+  meal_id: 42
+  person_id: 5
+  food: "Haupio"
+-
+  id: 183
+  meal_id: 42
+  person_id: 5
+  food: "Kulolo"
+-
+  id: 184
+  meal_id: 42
+  person_id: 5
+  food: "Pineapple upside-down cake"
+-
+  id: 185
+  meal_id: 42
+  person_id: 2
+  food: "Local Grown Green Salad"
+-
+  id: 186
+  meal_id: 42
+  person_id: 2
+  food: "Braised Beef"
+-
+  id: 187
+  meal_id: 42
+  person_id: 2
+  food: "I'a - Maui Style Fish"
+-
+  id: 188
+  meal_id: 42
+  person_id: 2
+  food: "Moa - Island Style Chicken"
+-
+  id: 189
+  meal_id: 42
+  person_id: 2
+  food: "Stir Fry Vegetables"
+-
+  id: 190
+  meal_id: 42
+  person_id: 2
+  food: "Sweet Potato Mash"
+-
+  id: 191
+  meal_id: 42
+  person_id: 2
+  food: "Haupio"
+-
+  id: 192
+  meal_id: 42
+  person_id: 2
+  food: "Kulolo"
+-
+  id: 193
+  meal_id: 42
+  person_id: 2
+  food: "Pineapple upside-down cake"
+-
+  id: 194
+  meal_id: 42
+  person_id: null
+  food: "Kalo and Sweet Potato Chips"
+-
+  id: 195
+  meal_id: 42
+  person_id: null
+  food: "Kalo Hummus"
+-
+  id: 196
+  meal_id: 42
+  person_id: null
+  food: "Hawaiian Sweet Rolls"
+-
+  id: 197
+  meal_id: 42
+  person_id: null
+  food: "Taro Rolls"
+-
+  id: 198
+  meal_id: 42
+  person_id: null
+  food: "Honey-Guava Butter"
+-
+  id: 199
+  meal_id: 42
+  person_id: null
+  food: "Pua'a Kālua"
+-
+  id: 200
+  meal_id: 42
+  person_id: null
+  food: "Laulau"
+-
+  id: 201
+  meal_id: 42
+  person_id: null
+  food: "Poke 'Ahi"
+-
+  id: 202
+  meal_id: 42
+  person_id: null
+  food: "Lomilomi Salmon"
+-
+  id: 203
+  meal_id: 42
+  person_id: null
+  food: "Pa'i'ai"
+-
+  id: 204
+  meal_id: 43
+  person_id: 1
+  food: "Seared Ahi Benedict"
+-
+  id: 205
+  meal_id: 43
+  person_id: 1
+  food: "Orange Juice"
+-
+  id: 206
+  meal_id: 43
+  person_id: 3
+  food: "Veggie Omlette"
+-
+  id: 207
+  meal_id: 43
+  person_id: 3
+  food: "Water"
+-
+  id: 208
+  meal_id: 43
+  person_id: 4
+  food: "Seared Ahi Benedict"
+-
+  id: 209
+  meal_id: 43
+  person_id: 4
+  food: "Water"
+-
+  id: 210
+  meal_id: 43
+  person_id: 5
+  food: "Portuguese Sausage, Bacon &amp; Cheddar Omlette"
+-
+  id: 211
+  meal_id: 43
+  person_id: 5
+  food: "Ice Tea"
+-
+  id: 212
+  meal_id: 43
+  person_id: 2
+  food: "Portuguese Sausage, Bacon &amp; Cheddar Omlette"
+-
+  id: 213
+  meal_id: 43
+  person_id: 2
+  food: "Seared Ahi Benedict"
+-
+  id: 214
+  meal_id: 43
+  person_id: 2
+  food: "Coffee"
+-
+  id: 215
+  meal_id: 43
+  person_id: 2
+  food: "Passion Orange Guava Juice"
+-
+  id: 216
+  meal_id: 44
+  person_id: 1
+  food: "Banana Bread French Toast"
+-
+  id: 217
+  meal_id: 44
+  person_id: 1
+  food: "Passion Orange Guava Juice"
+-
+  id: 218
+  meal_id: 44
+  person_id: 3
+  food: "Hawaiian Pancakes"
+-
+  id: 219
+  meal_id: 44
+  person_id: 3
+  food: "Water"
+-
+  id: 220
+  meal_id: 44
+  person_id: 4
+  food: "Grand Slap!"
+-
+  id: 221
+  meal_id: 44
+  person_id: 4
+  food: "Passion Orange Guava Juice"
+-
+  id: 222
+  meal_id: 44
+  person_id: 2
+  food: "Slappy Moco"
+-
+  id: 223
+  meal_id: 44
+  person_id: 2
+  food: "Passion Orange Guava Juice"
+-
+  id: 224
+  meal_id: 45
+  person_id: 1
+  food: "Kumu Famrs Half Papaya Salad"
+-
+  id: 225
+  meal_id: 45
+  person_id: 1
+  food: "Pineapple Ice Tea"
+-
+  id: 226
+  meal_id: 45
+  person_id: 3
+  food: "&ldquo;Local Style&rdquo; Portuguese Bean Soup"
+-
+  id: 227
+  meal_id: 45
+  person_id: 3
+  food: "Water"
+-
+  id: 228
+  meal_id: 45
+  person_id: 4
+  food: "Cafe O'lei Ceasar Salad"
+-
+  id: 229
+  meal_id: 45
+  person_id: 4
+  food: "Ice Tea"
+-
+  id: 230
+  meal_id: 45
+  person_id: 5
+  food: "Prime Rib Dip"
+-
+  id: 231
+  meal_id: 45
+  person_id: 5
+  food: "Ice Tea"
+-
+  id: 232
+  meal_id: 45
+  person_id: 2
+  food: "Mahimahi + Chips"
+-
+  id: 233
+  meal_id: 45
+  person_id: 2
+  food: "Lilokoi No Hito"
+-
+  id: 234
+  meal_id: 46
+  person_id: 1
+  food: "Kalua Pork Loco Moco"
+-
+  id: 235
+  meal_id: 46
+  person_id: 1
+  food: "Iced Coffee"
+-
+  id: 236
+  meal_id: 46
+  person_id: 2
+  food: "Kalua Pork Loco Moco"
+-
+  id: 237
+  meal_id: 46
+  person_id: 2
+  food: "Iced Coffee"
+-
+  id: 238
+  meal_id: 46
+  person_id: null
+  food: "Cinnamon Roll"
+-
+  id: 239
+  meal_id: 47
+  person_id: 1
+  food: "Medium Sunset Beach shaved ice with macademia nut ice cream"
+-
+  id: 240
+  meal_id: 47
+  person_id: 3
+  food: "Small Sunset Beach shaved ice with macademia nut ice cream"
+-
+  id: 241
+  meal_id: 47
+  person_id: 4
+  food: "Small Sunset Beach shaved ice with macademia nut ice cream"
+-
+  id: 242
+  meal_id: 47
+  person_id: 2
+  food: "Large Sunset Beach shaved ice with macademia nut ice cream"
+-
+  id: 243
+  meal_id: 48
+  person_id: 1
+  food: "Spicy Tuna Sandwich"
+-
+  id: 244
+  meal_id: 48
+  person_id: 1
+  food: "Olowalu Lime Pie"
+-
+  id: 245
+  meal_id: 48
+  person_id: 3
+  food: "Reuben Sandwich"
+-
+  id: 246
+  meal_id: 48
+  person_id: 3
+  food: "Coconut Cream Pie"
+-
+  id: 247
+  meal_id: 48
+  person_id: 4
+  food: "Fresh Tuna Salad Sandwich"
+-
+  id: 248
+  meal_id: 48
+  person_id: 4
+  food: "Chocolate Mac Nut Pie"
+-
+  id: 249
+  meal_id: 48
+  person_id: 2
+  food: "Seared Ahi Sandwich"
+-
+  id: 250
+  meal_id: 48
+  person_id: 2
+  food: "Pineapple Mac Nut Pie"
+-
+  id: 251
+  meal_id: 49
+  person_id: 1
+  food: "Pineapple Smoothie"
+-
+  id: 252
+  meal_id: 49
+  person_id: 2
+  food: "Coconut and Mango Smoothie"
+-
+  id: 253
+  meal_id: 50
+  person_id: 1
+  food: "Sesame Crusted Ahi Steak"
+-
+  id: 254
+  meal_id: 50
+  person_id: 1
+  food: "Tropical Smoothie"
+-
+  id: 255
+  meal_id: 50
+  person_id: 2
+  food: "Herb Roasted Monchong"
+-
+  id: 256
+  meal_id: 50
+  person_id: 2
+  food: "Ginger Hoku"
+-
+  id: 257
+  meal_id: 50
+  person_id: 2
+  food: "Hibiscus Paloma"
+-
+  id: 258
+  meal_id: 50
+  person_id: 2
+  food: "Local Cola"
+-
+  id: 259
+  meal_id: 50
+  person_id: null
+  food: "Coconut Shrimp"
+-
+  id: 260
+  meal_id: 50
+  person_id: null
+  food: "Kimo's Original Hula Pie"
+-
+  id: 261
+  meal_id: 51
+  person_id: 1
+  food: "Fire Grilled Ahi Steak"
+-
+  id: 262
+  meal_id: 51
+  person_id: 1
+  food: "Water"
+-
+  id: 263
+  meal_id: 51
+  person_id: 3
+  food: "Kiawe Roasted Chicken"
+-
+  id: 264
+  meal_id: 51
+  person_id: 3
+  food: "Lilikoi Mojito"
+-
+  id: 265
+  meal_id: 51
+  person_id: 4
+  food: "Crab Topped Macadamia Nut Crusted Mahi-mahi"
+-
+  id: 266
+  meal_id: 51
+  person_id: 4
+  food: "Barefoot Brew"
+-
+  id: 267
+  meal_id: 51
+  person_id: 2
+  food: "Crab Topped Macadamia Nut Crusted Mahi-mahi"
+-
+  id: 268
+  meal_id: 51
+  person_id: 2
+  food: "Diet Local Cola"
+-
+  id: 269
+  meal_id: 51
+  person_id: null
+  food: "Lobster, Shrimp &amp; Scallop Potstickers"
+-
+  id: 270
+  meal_id: 51
+  person_id: null
+  food: "Mango BBQ Ribs"
+-
+  id: 271
+  meal_id: 52
+  person_id: 1
+  food: "Sausage, Egg, and Cheese Bagel Sandwich"
+-
+  id: 272
+  meal_id: 52
+  person_id: 2
+  food: "Sausage, Egg, and Cheese Bagel Sandwich"
+-
+  id: 273
+  meal_id: 53
+  person_id: 1
+  food: "Steakhouse Burger"
+-
+  id: 274
+  meal_id: 53
+  person_id: 1
+  food: "Water"
+-
+  id: 275
+  meal_id: 53
+  person_id: 3
+  food: "Water"
+-
+  id: 276
+  meal_id: 53
+  person_id: 4
+  food: "Ice Tea"
+-
+  id: 277
+  meal_id: 53
+  person_id: 5
+  food: "Ice Tea"
+-
+  id: 278
+  meal_id: 53
+  person_id: 2
+  food: "Cheeseburger in Paradise"
+-
+  id: 279
+  meal_id: 53
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 280
+  meal_id: 53
+  person_id: 2
+  food: "Pina Colada"
+-
+  id: 281
+  meal_id: 54
+  person_id: 1
+  food: "Chicken Katsu Curry"
+-
+  id: 282
+  meal_id: 54
+  person_id: 1
+  food: "Water"
+-
+  id: 283
+  meal_id: 54
+  person_id: 3
+  food: "Island Cobb Salad"
+-
+  id: 284
+  meal_id: 54
+  person_id: 3
+  food: "Mojito"
+-
+  id: 285
+  meal_id: 54
+  person_id: 4
+  food: "Original Spinach Salad"
+-
+  id: 286
+  meal_id: 54
+  person_id: 4
+  food: "Longboard Island Lager"
+-
+  id: 287
+  meal_id: 54
+  person_id: 5
+  food: "Chicken Katsu Curry"
+-
+  id: 288
+  meal_id: 54
+  person_id: 5
+  food: "Ice Tea"
+-
+  id: 289
+  meal_id: 54
+  person_id: 2
+  food: "Kalua Pork Curry"
+-
+  id: 290
+  meal_id: 54
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 291
+  meal_id: 55
+  person_id: 1
+  food: "Chuns Breakfast Bomber"
+-
+  id: 292
+  meal_id: 55
+  person_id: 1
+  food: "Iced Vanilla Macadamia Nut Coffee"
+-
+  id: 293
+  meal_id: 55
+  person_id: 2
+  food: "Chuns Breakfast Bomber"
+-
+  id: 294
+  meal_id: 55
+  person_id: 2
+  food: "Iced Vanilla Macadamia Nut Coffee"
+-
+  id: 295
+  meal_id: 56
+  person_id: 1
+  food: "Chilled Shrimp Salad"
+-
+  id: 296
+  meal_id: 56
+  person_id: 1
+  food: "Ice Tea"
+-
+  id: 297
+  meal_id: 56
+  person_id: 3
+  food: "Crispy Chicken BLT"
+-
+  id: 298
+  meal_id: 56
+  person_id: 3
+  food: "Water"
+-
+  id: 299
+  meal_id: 56
+  person_id: 4
+  food: "Crispy Chicken BLT (minus chicken)"
+-
+  id: 300
+  meal_id: 56
+  person_id: 4
+  food: "Ice Tea"
+-
+  id: 301
+  meal_id: 56
+  person_id: 5
+  food: "Korean Steak Tacos"
+-
+  id: 302
+  meal_id: 56
+  person_id: 5
+  food: "Coke"
+-
+  id: 303
+  meal_id: 56
+  person_id: 2
+  food: "Coconut Shrimp &amp; Fries"
+-
+  id: 304
+  meal_id: 56
+  person_id: 2
+  food: "Local Diet Cola"
+-
+  id: 305
+  meal_id: 56
+  person_id: null
+  food: "Duke's Nachos"
+-
+  id: 306
+  meal_id: 56
+  person_id: null
+  food: "Kimo's Original Hula Pie"
+-
+  id: 307
+  meal_id: 57
+  person_id: 1
+  food: "Beef Udon"
+-
+  id: 308
+  meal_id: 57
+  person_id: 1
+  food: "Tempura Potato Croquette"
+-
+  id: 309
+  meal_id: 57
+  person_id: 1
+  food: "Tempura Shrimp"
+-
+  id: 310
+  meal_id: 57
+  person_id: 1
+  food: "Tempura Shrimp"
+-
+  id: 311
+  meal_id: 57
+  person_id: 1
+  food: "Tempura Mushroom"
+-
+  id: 312
+  meal_id: 57
+  person_id: 1
+  food: "Ito En Green Tea"
+-
+  id: 313
+  meal_id: 57
+  person_id: 2
+  food: "Curry Nikutama Udon"
+-
+  id: 314
+  meal_id: 57
+  person_id: 2
+  food: "Tempura Potato Croquette"
+-
+  id: 315
+  meal_id: 57
+  person_id: 2
+  food: "Tempura Shrimp"
+-
+  id: 316
+  meal_id: 57
+  person_id: 2
+  food: "Tempura Shrimp"
+-
+  id: 317
+  meal_id: 57
+  person_id: 2
+  food: "Tempura Tamagoyaki"
+-
+  id: 318
+  meal_id: 57
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 319
+  meal_id: 58
+  person_id: 1
+  food: "One Scoop Pineapple Orange Guava Sorbet in a Cup"
+-
+  id: 320
+  meal_id: 58
+  person_id: 2
+  food: "One Scoop Coconut Ice Cream + One Scoop White Chocolate Macademia Nut Ice Cream on a Waffle Cone"
+-
+  id: 321
+  meal_id: 59
+  person_id: 1
+  food: "Brudah Omelette"
+-
+  id: 322
+  meal_id: 59
+  person_id: 1
+  food: "Orange Juice"
+-
+  id: 323
+  meal_id: 60
+  person_id: 1
+  food: "Beer Battered Fish &amp; Chips"
+-
+  id: 324
+  meal_id: 60
+  person_id: 1
+  food: "Water"
+-
+  id: 325
+  meal_id: 60
+  person_id: 3
+  food: "Localicious Salad"
+-
+  id: 326
+  meal_id: 60
+  person_id: 3
+  food: "Pina Colada"
+-
+  id: 327
+  meal_id: 60
+  person_id: 4
+  food: "Beer Battered Fish &amp; Chips"
+-
+  id: 328
+  meal_id: 60
+  person_id: 4
+  food: "Kona Light Blond Ale"
+-
+  id: 329
+  meal_id: 60
+  person_id: 2
+  food: "Ono and Mahi Mahi"
+-
+  id: 330
+  meal_id: 60
+  person_id: 2
+  food: "Local Diet Cola"
+-
+  id: 331
+  meal_id: 61
+  person_id: 1
+  food: "Traditional Waffle"
+-
+  id: 332
+  meal_id: 61
+  person_id: 1
+  food: "Iced Latte"
+-
+  id: 333
+  meal_id: 61
+  person_id: 2
+  food: "Salted Caramel Waffle"
+-
+  id: 334
+  meal_id: 61
+  person_id: 2
+  food: "Iced Latte"
+-
+  id: 335
+  meal_id: 62
+  person_id: 1
+  food: "Black Tiger Shrimp"
+-
+  id: 336
+  meal_id: 62
+  person_id: 1
+  food: "Plantation Ice Tea"
+-
+  id: 337
+  meal_id: 62
+  person_id: 1
+  food: "Kona Coffee Gelato"
+-
+  id: 338
+  meal_id: 62
+  person_id: 3
+  food: "Black Tiger Shrimp"
+-
+  id: 339
+  meal_id: 62
+  person_id: 3
+  food: "Water"
+-
+  id: 340
+  meal_id: 62
+  person_id: 3
+  food: "Kona Coffee Gelato"
+-
+  id: 341
+  meal_id: 62
+  person_id: 4
+  food: "Crab Lobster Salad on Whole Wheat Croissant"
+-
+  id: 342
+  meal_id: 62
+  person_id: 4
+  food: "Plantation Ice Tea"
+-
+  id: 343
+  meal_id: 62
+  person_id: 4
+  food: "Halekulani's Signature Coconut Cake"
+-
+  id: 344
+  meal_id: 62
+  person_id: 5
+  food: "House Salad"
+-
+  id: 345
+  meal_id: 62
+  person_id: 5
+  food: "Maccheroni Bolognese"
+-
+  id: 346
+  meal_id: 62
+  person_id: 5
+  food: "Coke"
+-
+  id: 347
+  meal_id: 62
+  person_id: 2
+  food: "Beef Tartare, Piemonte Style"
+-
+  id: 348
+  meal_id: 62
+  person_id: 2
+  food: "Hapu'upu'u"
+-
+  id: 349
+  meal_id: 62
+  person_id: 2
+  food: "Guava Juice"
+-
+  id: 350
+  meal_id: 62
+  person_id: 2
+  food: "Plantation Ice Tea"
+-
+  id: 351
+  meal_id: 62
+  person_id: 2
+  food: "Halekulani's Signature Coconut Cake"
+-
+  id: 352
+  meal_id: 63
+  person_id: 1
+  food: "Water"
+-
+  id: 353
+  meal_id: 63
+  person_id: 2
+  food: "Sake"
+-
+  id: 354
+  meal_id: 63
+  person_id: 2
+  food: "Coke Zero"
+-
+  id: 355
+  meal_id: 63
+  person_id: null
+  food: "Lava Roll"
+-
+  id: 356
+  meal_id: 63
+  person_id: null
+  food: "Negi Toro Roll"
+-
+  id: 357
+  meal_id: 63
+  person_id: null
+  food: "Philly Roll"
+-
+  id: 358
+  meal_id: 63
+  person_id: null
+  food: "Creamy Spicy Shrimp Tempura"
+-
+  id: 359
+  meal_id: 63
+  person_id: null
+  food: "Chicken Karaage"
+-
+  id: 360
+  meal_id: 64
+  person_id: 1
+  food: "Ice Coffee"
+-
+  id: 361
+  meal_id: 64
+  person_id: 2
+  food: "Ice Coffee"
+-
+  id: 362
+  meal_id: 64
+  person_id: null
+  food: "Six Cinnamon Sugar Malasadas"
+-
+  id: 363
+  meal_id: 64
+  person_id: null
+  food: "Two Chcoclate Malasadas"
+-
+  id: 364
+  meal_id: 64
+  person_id: null
+  food: "Two Haupia Malasadas"
+-
+  id: 365
+  meal_id: 64
+  person_id: null
+  food: "Two Macadamia Nut Malasadas"
+-
+  id: 366
+  meal_id: 65
+  person_id: 1
+  food: "Teriyaki Shrimp Plate"
+-
+  id: 367
+  meal_id: 65
+  person_id: 1
+  food: "Aloha Ice Tea"
+-
+  id: 368
+  meal_id: 65
+  person_id: 2
+  food: "Hawaiian Poke Plate"
+-
+  id: 369
+  meal_id: 65
+  person_id: 2
+  food: "Passion Orange Hawaiian Sun"
+-
+  id: 370
+  meal_id: 66
+  person_id: 1
+  food: "Misoyaki Butterfish"
+-
+  id: 371
+  meal_id: 66
+  person_id: 1
+  food: "Water"
+-
+  id: 372
+  meal_id: 66
+  person_id: 1
+  food: "Roy's Signature Melting Hot Chocolate Soufflé"
+-
+  id: 373
+  meal_id: 66
+  person_id: 3
+  food: "Kauai Prawns"
+-
+  id: 374
+  meal_id: 66
+  person_id: 3
+  food: "Roy's Signature Melting Hot Chocolate Soufflé"
+-
+  id: 375
+  meal_id: 66
+  person_id: 4
+  food: "Blackened Island Ahi"
+-
+  id: 376
+  meal_id: 66
+  person_id: 4
+  food: "Roy's Waikiki Mai Tai"
+-
+  id: 377
+  meal_id: 66
+  person_id: 4
+  food: "Roy's Signature Melting Hot Chocolate Soufflé"
+-
+  id: 378
+  meal_id: 66
+  person_id: 5
+  food: "CBK Roll"
+-
+  id: 379
+  meal_id: 66
+  person_id: 5
+  food: "HK Crab Cakes"
+-
+  id: 380
+  meal_id: 66
+  person_id: 5
+  food: "Roy's Signature Melting Hot Chocolate Soufflé"
+-
+  id: 381
+  meal_id: 66
+  person_id: 2
+  food: "Blackened Island Ahi"
+-
+  id: 382
+  meal_id: 66
+  person_id: 2
+  food: "Paradise Ciders Passion Orange Guava"
+-
+  id: 383
+  meal_id: 66
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 384
+  meal_id: 66
+  person_id: 2
+  food: "Roy's Signature Melting Hot Chocolate Soufflé"
+-
+  id: 385
+  meal_id: 66
+  person_id: null
+  food: "Roy's Kiawe Smoked Szechuan Baby Back Ribs"
+-
+  id: 386
+  meal_id: 66
+  person_id: null
+  food: "Mau-Gyotaku Roll"
+-
+  id: 387
+  meal_id: 66
+  person_id: null
+  food: "HK Crab Cakes"
+-
+  id: 388
+  meal_id: 67
+  person_id: 1
+  food: "Egg Lust Sandwich"
+-
+  id: 389
+  meal_id: 67
+  person_id: 1
+  food: "Mango Smoothie"
+-
+  id: 390
+  meal_id: 67
+  person_id: 1
+  food: "Ice Coffee"
+-
+  id: 391
+  meal_id: 67
+  person_id: 2
+  food: "Royal Loco Moco"
+-
+  id: 392
+  meal_id: 67
+  person_id: 2
+  food: "Mango Smoothie"
+-
+  id: 393
+  meal_id: 67
+  person_id: 2
+  food: "Ice Coffee"
+-
+  id: 394
+  meal_id: 68
+  person_id: 1
+  food: "Ahi Poke Bowl"
+-
+  id: 395
+  meal_id: 68
+  person_id: 1
+  food: "Water"
+-
+  id: 396
+  meal_id: 68
+  person_id: 3
+  food: "Turkey Club"
+-
+  id: 397
+  meal_id: 68
+  person_id: 3
+  food: "Truffle Fries"
+-
+  id: 398
+  meal_id: 68
+  person_id: 3
+  food: "Water"
+-
+  id: 399
+  meal_id: 68
+  person_id: 4
+  food: "Burger"
+-
+  id: 400
+  meal_id: 68
+  person_id: 4
+  food: "Water"
+-
+  id: 401
+  meal_id: 68
+  person_id: 5
+  food: "Water"
+-
+  id: 402
+  meal_id: 68
+  person_id: 2
+  food: "Ahi Poke Bowl"
+-
+  id: 403
+  meal_id: 68
+  person_id: 2
+  food: "Pineapple Juice"
+-
+  id: 404
+  meal_id: 69
+  person_id: 1
+  food: "Seafood Combination"
+-
+  id: 405
+  meal_id: 69
+  person_id: 1
+  food: "Water"
+-
+  id: 406
+  meal_id: 69
+  person_id: 3
+  food: "Filet"
+-
+  id: 407
+  meal_id: 69
+  person_id: 3
+  food: "Pinot Noir"
+-
+  id: 408
+  meal_id: 69
+  person_id: 4
+  food: "Filet"
+-
+  id: 409
+  meal_id: 69
+  person_id: 4
+  food: "Scallops"
+-
+  id: 410
+  meal_id: 69
+  person_id: 4
+  food: "Coors Light"
+-
+  id: 411
+  meal_id: 69
+  person_id: 5
+  food: "Super Steak and Teriyaki Chicken"
+-
+  id: 412
+  meal_id: 69
+  person_id: 5
+  food: "Coke"
+-
+  id: 413
+  meal_id: 69
+  person_id: 2
+  food: "Daimyo"
+-
+  id: 414
+  meal_id: 69
+  person_id: 2
+  food: "Hakushika Yamadanishiki Junmai Sake"
+-
+  id: 415
+  meal_id: 69
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 416
+  meal_id: 70
+  person_id: 1
+  food: "Chuns Breakfast Bomber"
+-
+  id: 417
+  meal_id: 70
+  person_id: 1
+  food: "Iced Vanilla Macadamia Nut Coffee"
+-
+  id: 418
+  meal_id: 70
+  person_id: 5
+  food: "Chuns Breakfast Bomber"
+-
+  id: 419
+  meal_id: 70
+  person_id: 2
+  food: "Chuns Breakfast Bomber"
+-
+  id: 420
+  meal_id: 70
+  person_id: 2
+  food: "Iced Vanilla Macadamia Nut Coffee"
+-
+  id: 421
+  meal_id: 71
+  person_id: 1
+  food: "Chicken Fingers"
+-
+  id: 422
+  meal_id: 71
+  person_id: 1
+  food: "Water"
+-
+  id: 423
+  meal_id: 71
+  person_id: 3
+  food: "Pineapple Chicken Quesadilla"
+-
+  id: 424
+  meal_id: 71
+  person_id: 3
+  food: "Water"
+-
+  id: 425
+  meal_id: 71
+  person_id: 4
+  food: "Loco Moco"
+-
+  id: 426
+  meal_id: 71
+  person_id: 4
+  food: "Longboard Island Lager"
+-
+  id: 427
+  meal_id: 71
+  person_id: 5
+  food: "Chicken Fingers"
+-
+  id: 428
+  meal_id: 71
+  person_id: 5
+  food: "Water"
+-
+  id: 429
+  meal_id: 71
+  person_id: 2
+  food: "Loco Moco"
+-
+  id: 430
+  meal_id: 71
+  person_id: 2
+  food: "Diet Coke"
+-
+  id: 431
+  meal_id: 72
+  person_id: 3
+  food: "Eggs any Style (scrambled eggs, potatoes, toast, bacon)"
+-
+  id: 432
+  meal_id: 72
+  person_id: 3
+  food: "Kona Blend Coffee"
+-
+  id: 433
+  meal_id: 72
+  person_id: 4
+  food: "Eggs any Style (scrambled eggs, potatoes, toast, bacon)"
+-
+  id: 434
+  meal_id: 72
+  person_id: 4
+  food: "Tea"
+-
+  id: 435
+  meal_id: 73
+  person_id: 3
+  food: "The Caddy Master"
+-
+  id: 436
+  meal_id: 73
+  person_id: 4
+  food: "Longbeard Island Lager"
+-
+  id: 437
+  meal_id: 73
+  person_id: 5
+  food: "Longbeard Island Lager"
+-
+  id: 438
+  meal_id: 73
+  person_id: null
+  food: "BBQ Pork Pizza"
+-
+  id: 439
+  meal_id: 73
+  person_id: null
+  food: "The G.O.A.T. Pizza"
+-
+  id: 440
+  meal_id: 80
+  person_id: null
+  food: "Banana Muffins"
+-
+  id: 441
+  meal_id: 81
+  person_id: null
+  food: "Inu Burger"
+-
+  id: 442
+  meal_id: 82
+  person_id: 5
+  food: "McDouble"
+-
+  id: 443
+  meal_id: 82
+  person_id: 5
+  food: "Fries"
+-
+  id: 444
+  meal_id: 82
+  person_id: 5
+  food: "Coke"
+-
+  id: 445
+  meal_id: 83
+  person_id: 3
+  food: "The Royal Margarita"
+-
+  id: 446
+  meal_id: 83
+  person_id: 4
+  food: "Longboard Island Lager"
+-
+  id: 447
+  meal_id: 83
+  person_id: 5
+  food: "Water"
+-
+  id: 448
+  meal_id: 83
+  person_id: null
+  food: "Turkey Club"
+-
+  id: 449
+  meal_id: 83
+  person_id: null
+  food: "Truffle Fries"
