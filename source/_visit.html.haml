@@ -1,8 +1,8 @@
 - a = attraction(visit.attraction_id)
-%div.event.visit{ class: ['event', 'visit', a.priority, a.type].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => visit.id, 'eventable-type' => 'visit', 'visit-id' => visit.id } }
+%div.event.visit{ class: ['event', 'visit', a.priority, a.attraction_type].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => visit.id, 'eventable-type' => 'visit', 'visit-id' => visit.id } }
   .attraction{ data: { 'attraction-id' => a.id } }
     %h4.name= a.name
-    = partial('links', locals: { links: a.links })
+    = partial('links', locals: { links: links('attraction', a.id) })
     - if a.address
       .address= a.address
     - if a.phone

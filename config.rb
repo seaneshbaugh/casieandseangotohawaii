@@ -75,6 +75,10 @@ helpers do
     data.legs.select { |leg| leg.trip_id == trip_id }
   end
 
+  def links(linkable_type, linkable_id)
+    data.links.select { |link| link.linkable_type == linkable_type && link.linkable_id == linkable_id }
+  end
+
   def meal(meal_id)
     data.meal.select { |meal| meal.id == meal_id }.first
   end

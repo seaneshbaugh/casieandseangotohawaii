@@ -1,6 +1,6 @@
 .airport{ data: { 'airport-id' => airport.id } }
   %h6.name= "#{airport.name} (#{airport.code})"
-  = partial('links', locals: { links: airport.links })
+  = partial('links', locals: { links: links('airport', airport.id) })
   - if airport.address
     .address= airport.address
   - if airport.phone

@@ -2,19 +2,6 @@
   id: 1
   name: "Marugame Udon"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Marukame+Udon+Waikiki/@21.2796049,-157.8280206,17z/data=!3m2!4b1!5s0x7c0072761e2b0ac1:0x3fc1569539b1156b!4m5!3m4!1s0x7c0072761fe019ad:0xee85c5aed8448988!8m2!3d21.2795988!4d-157.8258372"
-    -
-      link_type: "website"
-      url: "https://www.marugameudon.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Marugame+Udon+Waikiki"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/marukame-udon-honolulu"
   address: "2310 Kuhio Avenue, Suite 124 Honolulu, HI 96815"
   phone: "+1 808-931-6000"
   hours: "7:00 AM - 10:00 PM"
@@ -25,19 +12,6 @@
   id: 2
   name: "Surf Lanai Restaurant"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Surf+Lanai/@21.2769939,-157.8305977,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00727593d8afcb:0xfa8ebecd754996a8!8m2!3d21.2769939!4d-157.828409"
-    -
-      link_type: "website"
-      url: "https://www.royal-hawaiian.com/dining/surflanai/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Surf+Lanai+Restaurant"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/surf-lanai-honolulu"
   address: "2259 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-921-4600"
   hours: "6:30 AM - 11:00 AM, 11:30 PM - 2:00 PM"
@@ -47,19 +21,6 @@
   id: 3
   name: "Uncle Clay's House of Pure Aloha"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Uncle+Clay%27s+House+of+Pure+Aloha/@21.2791319,-157.7560591,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0012ae5eef98c9:0xcef43b3b97dce5c3!8m2!3d21.2791319!4d-157.7538704"
-    -
-      link_type: "website"
-      url: "https://uncleclays.com/shave-ice/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Uncle+Clay%27s+House+of+Pure+Aloha"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/uncle-clays-house-of-pure-aloha-honolulu-2"
   address: "820 W Hind Dr #116, Honolulu, HI 96821"
   phone: "+1 808-373-5111"
   hours: "10:30 AM - 7:45 PM"
@@ -69,16 +30,6 @@
   id: 4
   name: "Ono Steaks & Shrimp Shack"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Ono+Steaks+and+Shrimp+Shack/@21.333408,-157.6994035,17z/data=!3m2!4b1!5s0x7c00139694383547:0xe7853a241b1a9f55!4m5!3m4!1s0x7c001396939d02e9:0xad0897f30220062d!8m2!3d21.3333702!4d-157.6972237"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Ono+Steaks+and+Shrimp+Shack"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/ono-steaks-and-shrimp-shack-waimanalo"
   address: "2310 Kuhio Avenue, Suite 124 Honolulu, HI 96815"
   phone: "+1 808-931-6000"
   hours: "7:00 AM - 10:00 PM"
@@ -89,19 +40,6 @@
   id: 5
   name: "Duke's Waikiki"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Duke%27s+Waikiki/@21.2769032,-157.8300774,17z/data=!3m2!4b1!5s0x7c007276e9c20fc1:0x1ea572c05adb9e7c!4m5!3m4!1s0x7c007275d5c243cb:0xfffee1e1a1e0c9f1!8m2!3d21.2769032!4d-157.8278887"
-    -
-      link_type: "website"
-      url: "http://www.dukeswaikiki.com/menus/dining-room"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Duke%27s+Waikiki"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/dukes-waikiki-honolulu-2"
   address: "2335 Kalakaua Ave, Ste 116, Honolulu, HI 96815"
   phone: "+1 808-922-2268"
   hours: "7:00 AM - 12: 00 AM"
@@ -111,19 +49,6 @@
   id: 6
   name: "Leonard's Bakery"
   priority: "omg"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Leonard's+Bakery/@21.2848821,-157.8155306,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0066002134d265:0xb9cb06fbe7f5980e!8m2!3d21.2849059!4d-157.8133473"
-    -
-      link_type: "website"
-      url: "https://www.leonardshawaii.com/home/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Leonard%27s+Bakery+Honolulu"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/leonards-bakery-honolulu"
   address: "933 Kapahulu Ave, Honolulu, HI 96816"
   phone: "+1 808-737-5591"
   hours: "5:30 AM - 10:00 AM"
@@ -133,19 +58,6 @@
   id: 7
   name: "Countryside Cafe"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Countryside+Cafe/@21.4275735,-158.1807487,17z/data=!3m2!4b1!5s0x7c008a2563c058ed:0x9d6e4dbeeb90f8f5!4m5!3m4!1s0x7c008a256f31c2d5:0x23f6b83adbebfcd9!8m2!3d21.4275735!4d-158.17856"
-    -
-      link_type: "website"
-      url: "http://www.countrysidecafe808.net/menu"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Countryside+Cafe+Waianae"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/countryside-cafe-waianae"
   address: "87-70 Farrington Hwy #104, Waianae, HI 96792"
   phone: "+1 808-888-5448"
   hours: "7:00 AM - 1:00 PM"
@@ -155,19 +67,6 @@
   id: 8
   name: "Jinroku Pacific"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Jinroku+Pacific/@21.276389,-157.8260837,17z/data=!3m1!4b1!4m5!3m4!1s0x7c007277aa0f11d5:0xe7cb531e651337ff!8m2!3d21.2763628!4d-157.8238696"
-    -
-      link_type: "website"
-      url: "http://www.jinrokupacific.com/menueng.html"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Jinroku+Pacific"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/jinroku-honolulu"
   address: "2427 Kuhio Ave, Honolulu, HI 96815"
   phone: "+1 808-926-8955"
   hours: "11:30 AM - 2:00 PM, 5:30 PM - 10:30 PM"
@@ -178,19 +77,6 @@
   id: 9
   name: "Kono's Northshore"
   priority: "major"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Kono's+Northshore+-+Honolulu/@21.2852889,-157.8155042,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006d83bbe574cb:0x177d2776fe6488f2!8m2!3d21.2853032!4d-157.8133441"
-    -
-      link_type: "website"
-      url: "http://www.konosnorthshore.com/menu/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kono%27s+Northshore+Kapahulu"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/konos-honolulu"
   address: "945 Kapahulu Ave, Honolulu, HI 96816"
   phone: "+1 808-892-1088"
   hours: "7:30 AM - 6:30 PM"
@@ -200,19 +86,6 @@
   id: 10
   name: "Tiki Tacos"
   priority: "minor"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Tiki+Tacos/@22.0657373,-159.3213007,17z/data=!4m5!3m4!1s0x7c06e03555e6cf0b:0x8873353600753606!8m2!3d22.0654678!4d-159.3196313"
-    -
-      link_type: "website"
-      url: "http://restaurantwebexpert.com/TikiTacos/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Tiki+Taco+Kauai"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/tiki-tacos-kapaa"
   address: "4-971 Kuhio Hwy, Kapaa, HI 96746"
   phone: "+1 808-823-8226"
   hours: "10:00 AM - 8:30 PM"
@@ -222,19 +95,6 @@
   id: 11
   name: "JO2 Restaurant"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/JO2+Restaurant/@22.0655535,-159.3218038,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e03555e66b3f:0x46308dbf055d7a7c!8m2!3d22.0655535!4d-159.3196151"
-    -
-      link_type: "website"
-      url: "http://www.jotwo.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=JO2+Restaurant"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/jo2-kapaa-4"
   address: "4-971 Kuhio Hwy, Kapaa, HI 96746"
   phone: "+1 808-212-1627"
   hours: "5:00 PM - 9:00 PM"
@@ -244,19 +104,6 @@
   id: 12
   name: "Kountry Kitchen"
   priority: "major"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Kountry+Kitchen/@22.0783953,-159.31796,17z/data=!3m2!4b1!5s0x7c06e0f246e21511:0x3dd25d4c5d9c1f7b!4m5!3m4!1s0x7c06e0597bd31ee5:0x1f6fd11200f059ee!8m2!3d22.078374!4d-159.3157622"
-    -
-      link_type: "website"
-      url: "http://www.kountrystylekitchen.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kountry+Kitchen+Kauai"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/kountry-style-kitchen-restaurant-kapaa"
   address: "4-1485 Kuhio Hwy, Kapaa, HI 96746"
   phone: "+1 808-822-3511"
   hours: "6:00 AM - 1:30 PM"
@@ -266,19 +113,6 @@
   id: 13
   name: "Kalypso Island Bar & Grill"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Kalypso+Island+Bar+%26+Grill/@22.2032416,-159.498042,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06fae99ba58e6f:0xd4ffc052d130723b!8m2!3d22.2031887!4d-159.4958349"
-    -
-      link_type: "website"
-      url: "https://kalypsokauai.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kalypso+Island+Bar+and+Grill"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/kalypso-island-bar-and-grill-hanalei"
   address: "5-5156 Kuhio Hwy, Ste G, Hanalei, HI 96714"
   phone: "+1 808-826-9700"
   hours: "11:00 AM - 9:00 PM"
@@ -288,19 +122,6 @@
   id: 14
   name: "Lemongrass Grill Seafood & Bar"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Lemongrass+Grill+-+Kauai/@22.0626575,-159.3223603,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e04aaa43f4cf:0xdfea803b0d1c671d!8m2!3d22.0626575!4d-159.3201716"
-    -
-      link_type: "website"
-      url: "http://www.lemongrasshawaii.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Lemongrass+Grill+Seafood+and+Bar"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/lemongrass-grill-seafood-and-bar-kapaa-2"
   address: "4-871 Kuhio Hwy, Kapaa, HI 96746"
   phone: "+1 808-821-2888"
   hours: "4:00 PM - 9:30 PM"
@@ -310,19 +131,6 @@
   id: 15
   name: "Hanalima Bakery"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Hanalima+Baking/@21.9666315,-159.3980448,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071c3d50f541ed:0xdd054eb7098cca9c!8m2!3d21.966395!4d-159.3957298"
-    -
-      link_type: "website"
-      url: "https://www.hanalimabaking.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Hanalima+Bakery"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/hanalima-bakery-lihue"
   address: "4495 Puhi Rd, Lihue, HI 96766"
   phone: "+1 808-246-8816"
   hours: "6:00 AM - 1:00 PM"
@@ -332,19 +140,6 @@
   id: 16
   name: "Puka Dog"
   priority: "major"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Puka+Dog+Hawaiian+Style+Hot+Dogs/@21.8738762,-159.4555777,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071abeef842db1:0xb98a8f7c14c5a20b!8m2!3d21.873951!4d-159.4533924"
-    -
-      link_type: "website"
-      url: "https://www.pukadog.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Puka+Dog"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/puka-dog-koloa-5"
   address: "2100 Hoone Rd, Poipu, HI 96756"
   phone: "+1 808-742-6044"
   hours: "10:00 AM - 7:30 PM"
@@ -354,19 +149,6 @@
   id: 17
   name: "Papalani Gelato"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Papalani+Gelato+Poipu+Shopping+Village/@21.8792649,-159.4607176,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071abf7c775ef1:0x29d9b7d2d47178f6!8m2!3d21.8792538!4d-159.4585323"
-    -
-      link_type: "website"
-      url: "https://papalanigelato.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Papalani+Gelato"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/papalani-gelato-koloa"
   address: "2360 Kiahuna Plantation Dr, Koloa, HI 96756"
   phone: "+1 808-742-2663"
   hours: "12:00 PM - 9:00 PM"
@@ -376,19 +158,6 @@
   id: 18
   name: "Sam's Ocean View"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Sam's+Ocean+View+Restaurant+Kapaa+Kauai/@22.0792972,-159.3164859,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e0f28888bd9b:0x545e8ecc44531482!8m2!3d22.079277!4d-159.3142737"
-    -
-      link_type: "website"
-      url: "https://www.samsoceanview.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Sam%27s+Ocean+View"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/sams-ocean-view-kapaa"
   address: "4-1546 Kuhio Hwy, Kapaʻa, HI 96746"
   phone: "+1 808-822-7887"
   hours: "4:00 PM - 9:00 PM"
@@ -398,13 +167,6 @@
   id: 19
   name: "Kalapaki Beach Hut"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Kalapaki+Beach+Hut/@21.9606803,-159.354051,17z/data=!4m5!3m4!1s0x7c071ee9fa7a3d9f:0xc22637219ab649bd!8m2!3d21.9609064!4d-159.3526725"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kalapaki+Beach+Hut"
   address: "3474 Rice St, Lihue, HI 96766"
   price_range: "$"
   genre: "Shaved Ice"
@@ -412,19 +174,6 @@
   id: 20
   name: "Kōkeʻe Lodge"
   priority: "minor"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Koke'e+Lodge/@22.1302106,-159.6602995,17z/data=!3m1!4b1!4m8!3m7!1s0x7c07aa47683bb7ed:0xe1b08fe5c1ba47f2!5m2!4m1!1i2!8m2!3d22.1301572!4d-159.6580425"
-    -
-      link_type: "website"
-      url: "http://www.kokeelodge.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kōkeʻe+Lodge"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/kokee-lodge-waimea"
   address: "3600 Kokee Rd, Waimea, HI 96716"
   phone: "+1 808-335-6061"
   hours: "9:00 AM - 4:00 PM"
@@ -434,19 +183,6 @@
   id: 21
   name: "JoJo's Shave Ice"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/JoJo's+Shave+Ice/@21.9559175,-159.6717052,17z/data=!3m1!5s0x7c07a9e008bf5c1f:0xf5582401920e2fa9!4m5!3m4!1s0x7c07a9e008eadf6f:0x858ce10544bc7cca!8m2!3d21.9559913!4d-159.6699754?shorturl=1"
-    -
-      link_type: "website"
-      url: "https://jojosshaveice.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Jojo's+Shave+Ice"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/jojos-shave-ice-waimea-2"
   address: "9734 Kaumualii Hwy, Waimea, HI 96796"
   phone: "+1 808-378-4712"
   hours: "11:00 AM - 6:00 PM"
@@ -456,19 +192,6 @@
   id: 22
   name: "Verde Restaurant"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Verde+Restaurant+Lihue/@21.969311,-159.3901004,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071c2122831f7f:0xdfc200507335b95!8m2!3d21.969311!4d-159.3879117"
-    -
-      link_type: "website"
-      url: "http://www.verdehawaii.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Verde+Restaurant+Kauai"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/verde-lihue-4"
   address: "4454 Nuhou St #501, Lihue, HI 96766"
   phone: "+1 808-320-7088"
   hours: "11:00 PM - 8:00 PM"
@@ -478,19 +201,6 @@
   id: 23
   name: "Nom Kauai"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/search/4-1101+Kuhio+Hwy.+A-4+Kapaa,+HI+96746/@22.0693733,-159.3228685,17z/data=!3m1!4b1"
-    -
-      link_type: "website"
-      url: "https://www.nomkauai.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Nom+Kauai"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/nom-kauai-kapaa"
   address: "4-1101 Kuhio Hwy A-4 Kapaa, HI 96746"
   phone: "+1 808-635-5903"
   hours: "8:00 AM - 1:00 PM"
@@ -500,19 +210,6 @@
   id: 24
   name: "Royal Scoop"
   priority: "low"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/The+Royal+Scoop/@20.9319941,-156.6946769,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b9e1339a13f:0x4a89e93553e473e2!8m2!3d20.9319999!4d-156.6924588"
-    -
-      link_type: "website"
-      url: "https://www.royallahaina.com/dining"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Royal+Scoop+Maui"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/the-royal-scoop-lahaina"
   address: "2780 Kekaa Dr, Lahaina, HI 96761"
   phone: "+1 808-661-3611"
   hours: "6:00 AM - 8:00 PM"
@@ -522,19 +219,6 @@
   id: 25
   name: "Lahaina Grill"
   priority: "omg"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Lahaina+Grill/@20.875552,-156.6817257,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bb9998e71bb:0x148ddc2231bf0fd2!8m2!3d20.8755519!4d-156.679537"
-    -
-      link_type: "website"
-      url: "https://lahainagrill.com/menu-2/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Lahaina+Grill"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/lahaina-grill-lahaina"
   address: "127 Lahainaluna Rd, Lahaina, HI 96761"
   phone: "+1 808-667-5117"
   hours: "5:00 PM - 9:00"
@@ -545,19 +229,6 @@
   id: 26
   name: "Sea House Restaurant"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Sea+House+Restaurant/@20.9966832,-156.6681115,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad44cb77bc469:0xbb9e570fc130b3a8!8m2!3d20.9966832!4d-156.6659175"
-    -
-      link_type: "website"
-      url: "https://www.napilikai.com/dining/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Sea+House+Restaurant"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/sea-house-restaurant-lahaina"
   address: "5900 Lower Honoapiilani Rd, Lahaina, HI 96761"
   phone: "+1 808-669-1500"
   hours: "7:00 AM - 9:00 PM"
@@ -567,16 +238,6 @@
   id: 27
   name: "Star Noodle"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Star+Noodle/@20.893183,-156.6790216,13.61z/data=!3m1!5s0x79552ba3bb45c589:0x32c4f2c8cd5c619c!4m12!1m6!3m5!1s0x79552baf0fe028ed:0x5a7e9aa1faee3a70!2sStar+Noodle!8m2!3d20.8865269!4d-156.6852585!3m4!1s0x79552baf0fe028ed:0x5a7e9aa1faee3a70!8m2!3d20.8865269!4d-156.6852585"
-    -
-      link_type: "wesbite"
-      url: "https://www.starnoodle.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Star+Noodle+Maui"
   address: "1285 Front St, Lahaina, HI 96761"
   phone: "+1 808-667-5400"
   hours: "10:30 AM - 10:00 PM"
@@ -586,16 +247,6 @@
   id: 28
   name: "Ululani's Hawaiian Shave Ice"
   priority: "major"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kihei/@20.7817454,-156.4646442,17z/data=!4m12!1m6!3m5!1s0x7954d1b021100c3b:0x4245bc9926607de8!2sUlulani's+Hawaiian+Shave+Ice+-+Kihei!8m2!3d20.7817454!4d-156.4624555!3m4!1s0x7954d1b021100c3b:0x4245bc9926607de8!8m2!3d20.7817454!4d-156.4624555"
-    -
-      link_type: "website"
-      url: "https://www.ululanishawaiianshaveice.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Ululanis+Kihei+Maui"
   address: "61 S Kihei Rd, Kihei, HI 96753"
   phone: "+1 808-877-3700"
   hours: "10:30 AM - 6:00 PM"
@@ -605,19 +256,6 @@
   id: 29
   name: "Miso Phat Sushi"
   priority: "omg"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Miso+Phat+Sushi/@20.7492267,-156.4569426,17z/data=!3m1!4b1!4m5!3m4!1s0x7954d041c24b482b:0xea3041c5edd9039e!8m2!3d20.7492267!4d-156.4547539"
-    -
-      link_type: "website"
-      url: "https://misophat.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Miso+Phat+Sushi"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/miso-phat-sushi-kihei-2"
   address: "1279 S Kihei Rd #108, Kihei, HI 96753"
   phone: "+1 808-891-6476"
   hours: "11:30 AM - 8:30 PM"
@@ -627,16 +265,6 @@
   id: 30
   name: "Leoda's Kitchen and Pie Shop"
   priority: "major"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Leoda's+Kitchen+and+Pie+Shop/@20.8113271,-156.6242033,17z/data=!4m5!3m4!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!8m2!3d20.8113193!4d-156.6220193"
-    -
-      link_type: "website"
-      url: "https://www.leodas.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Leoda%27s+Kitchen+Pie+Shop"
   address: "820 Olowalu Village Rd, Lahaina, HI 96761"
   phone: "+1 808-662-3600"
   hours: "10:00 AM - 6:00 PM"
@@ -646,38 +274,12 @@
   id: 31
   name: "Barefoot Cafe, Bakery &amp; Catering"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Barefoot+Cafe,+Bakery+%26+Catering/@20.754977,-155.9859633,17z/data=!3m1!4b1!4m5!3m4!1s0x7954adad25c9925b:0x760621908779fbfc!8m2!3d20.7549811!4d-155.9837743"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Barefoot+Cafe+Maui"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/barefoot-cafe-bakery-and-catering-h%C4%81na"
   address: "1630 Keawa Pl, Hana, HI 96713"
   phone: "+1 808-446-5519"
-  hours: ""
-  price_range: ""
-  genre: ""
 -
   id: 32
   name: "Merriman's"
   priority: "omg"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Merriman's+Kapalua/@20.9984073,-156.6693332,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad44b62d8196b:0xe2817ef1b6cae084!8m2!3d20.9984073!4d-156.6671445"
-    -
-      link_type: "website"
-      url: "https://www.merrimanshawaii.com/kapalua/dinner-menu/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Merriman%27s+Kapalua"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/merrimans-kapalua-lahaina-2"
   address: "1 Bay Club Pl, Lahaina, HI 96761"
   phone: "+1 808-669-6400"
   hours: "3:00 PM - 9:00 PM"
@@ -688,19 +290,6 @@
   id: 33
   name: "Royal Ocean Terrace Restaurant"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Royal+Ocean+Terrace+Restaurant/@20.9322677,-156.6943089,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b49a0ede727:0xdc80148e6c88bb42!8m2!3d20.9322677!4d-156.6921202"
-    -
-      link_type: "website"
-      url: "https://www.royallahaina.com/dining"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Royal+Ocean+Terrace+Restaurant"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/royal-ocean-terrace-restaurant-and-lounge-lahaina-2"
   address: "2780 Kekaa Dr, Lahaina, HI 96761"
   phone: "+1 808-661-3611"
   hours: "7:00 AM - 9:00 PM"
@@ -710,19 +299,6 @@
   id: 34
   name: "Mama's Fish House"
   priority: "omg"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Mama's+Fish+House/@20.9289879,-156.3692153,17z/data=!3m1!4b1!4m5!3m4!1s0x7eab330f83403f83:0x9033ebc2c3901d45!8m2!3d20.9290928!4d-156.3668766"
-    -
-      link_type: "website"
-      url: "https://www.mamasfishhouse.com/menus/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Mama%27s+Fish+House+Maui"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/mamas-fish-house-paia-9"
   address: "799 Poho Pl, Paia, HI 96779"
   phone: "+1 808-579-8488"
   hours: "11:00 AM - 9:00 PM"
@@ -733,16 +309,6 @@
   id: 35
   name: "Food Truck Park"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Food+Truck+Park/@20.8879998,-156.4523373,17z/data=!4m5!3m4!1s0x7954d312ab8b98d1:0xd2016486f0210de1!8m2!3d20.8880739!4d-156.4507027"
-    -
-      link_type: "website"
-      url: "https://www.mauihunter.com/check-out-the-food-truck-court-at-520-keolani-place-kahului-96732/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=520+Keolani+Pl+food+truck+park"
   address: "520 Keolani Pl, Kahului, HI 96732"
   price_range: "$"
   genre: "Hawaiian, seafood, street food"
@@ -750,16 +316,6 @@
   id: 36
   name: "Duke's Beach House Maui"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Duke's+Beach+House+Maui/@20.9445009,-156.6935463,17z/data=!3m1!5s0x7eaad4b5c3fbc96d:0x2d802cbba4983bba!4m5!3m4!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!8m2!3d20.9444909!4d-156.6915936"
-    -
-      link_type: "website"
-      url: "https://www.dukesmaui.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Duke's+Beach+House+Maui"
   address: "130 Kai Malina Pkwy, Lahaina, HI 96761"
   phone: "+1 808-662-2900"
   hours: "8:00 AM - 9:00 PM"
@@ -769,16 +325,6 @@
   id: 37
   name: "Tinroof"
   priority: "low"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Tin+Roof+Maui/@20.8850704,-156.4550552,17z/data=!4m5!3m4!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!8m2!3d20.8849863!4d-156.4537026"
-    -
-      link_type: "website"
-      url: "https://www.tinroofmaui.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Tinroof+Maui"
   address: "360 Papa Pl St #116, Kahului, HI, 96732"
   phone: "+1 808-868-0753"
   genre: "Hawaiian"
@@ -786,16 +332,6 @@
   id: 38
   name: "Kapena's Wood Fired Kitchen"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Kapena's+Wood+Fired+Kitchen/@20.8679043,-156.6773435,17z/data=!4m5!3m4!1s0x79552b986b6cc451:0xd3cd87711184fcc8!8m2!3d20.8682752!4d-156.6754123"
-    -
-      link_type: "website"
-      url: "https://kapenaskitchen.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kapena's+Wood+Fired+Kitchen"
   address: "505 Front St #101, Lahaina, HI 96761"
   phone: "+1 808-727-2727"
   genre: "Pizza"
@@ -803,16 +339,6 @@
   id: 39
   name: "BanyanTreats"
   priority: "major"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/BanyanTreats/@20.8724317,-156.6798924,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bb823f236eb:0x7b082dcca780e768!8m2!3d20.8724317!4d-156.6777037"
-    -
-      link_type: "website"
-      url: "https://banyantreats.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=BanyanTreats"
   address: "658 Wharf St #9, Lahaina, HI 96761"
   phone: "+1 808-661-5854"
   genre: "Ice cream"
@@ -820,16 +346,6 @@
   id: 40
   name: "Old Lāhainā Lūʻau"
   priority: "major"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Old+Lahaina+Luau/@20.8859312,-156.6872611,17z/data=!3m1!4b1!4m8!3m7!1s0x79552ba3a8192b47:0x3e29ebcbc1c54e6a!5m2!4m1!1i2!8m2!3d20.8859312!4d-156.6850724"
-    -
-      link_type: "website"
-      url: "https://oldlahainaluau.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Old+Lahaina+Lu'au"
   address: "1251 Front St, Lahaina, HI 96761"
   phone: "+1 808-667-1998"
   price_range: "$$$$"
@@ -838,16 +354,6 @@
   id: 41
   name: "The Plantation House"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/The+Plantation+House/@21.0070938,-156.6420015,17z/data=!3m1!5s0x7eaad5e9c14b2fd9:0xfa6921b8b8d928b0!4m5!3m4!1s0x7eaad5e9bff3cb9b:0xbbd201faca55a651!8m2!3d21.0070838!4d-156.6403278"
-    -
-      link_type: "website"
-      url: "https://www.cohnrestaurants.com/theplantationhouse"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=The+Plantation+House+Maui"
   address: "2000 Plantation Club Dr, Lahaina, HI 96761"
   phone: "+1 808-669-6299"
   hours: "8:00 AM - 8:00 PM"
@@ -857,16 +363,6 @@
   id: 42
   name: "Slappy Cakes"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Slappy+Cakes/@20.9466167,-156.6900915,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad4c9c7afdf63:0xcf6acecc6be9e159!8m2!3d20.9466814!4d-156.6880541"
-    -
-      link_type: "website"
-      url: "https://www.slappycakesmaui.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Slappy+Cakes++Maui"
   address: "3350 Lower Honoapiilani Rd #701, Lahaina, HI 96761"
   phone: "+1 808-419-6600"
   hours: "7:00 AM - 12:00 PM"
@@ -876,16 +372,6 @@
   id: 43
   name: "Cafe O'Lei at the Mill House"
   priority: "minor"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Cafe+O'Lei+at+the+Mill+House/@20.8489129,-156.5089402,17z/data=!3m1!5s0x7954d393a80dcf79:0x485f76f4563243cd!4m5!3m4!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!8m2!3d20.8490854!4d-156.5070341"
-    -
-      link_type: "website"
-      url: "https://www.cafeoleirestaurants.com/#/cafe-olei-at-the-mill-house/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Cafe+O'lei+at+the+Mill+House"
   address: "1670 Honoapiilani Hwy, Wailuku, HI 96793"
   phone: "+1 808-500-0553"
   hours: "11:00 AM - 8:00 PM"
@@ -895,19 +381,6 @@
   id: 44
   name: "Roy's Waikiki"
   priority: "omg"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Roy's+Waikiki/@21.278664,-157.8337968,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0072757ba6dcc7:0x75b398de47b129bd!8m2!3d21.2787242!4d-157.8316861"
-    -
-      link_type: "website"
-      url: "https://www.royyamaguchi.com/roys-waikiki-oahu"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Roy%27s+Waikiki"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/roys-waikiki-honolulu"
   address: "226 Lewers St, Honolulu, HI 96815"
   phone: "+1 808-923-7697"
   hours: "4:30 PM - 9:00 PM"
@@ -917,16 +390,6 @@
   id: 45
   name: "Kihei Caffe"
   priority: "minor"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Kihei+Caffe+Lahaina/@20.8853753,-156.6842098,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bfe522ba9a9:0x43b02d727b7e0fc7!8m2!3d20.8853771!4d-156.6820163"
-    -
-      link_type: "website"
-      url: "https://kiheicaffe.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Kihei+Caffe"
   address: "1945 S Kihei Rd, Kihei, HI 96753"
   phone: "+1 808-879-2230"
   hours: "6:00 AM - 2:00 PM"
@@ -936,16 +399,6 @@
   id: 46
   name: "Ululani's Hawaiian Shave Ice"
   priority: "omg"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kahului/@20.883035,-156.4566031,17z/data=!4m12!1m6!3m5!1s0x7954d2ea794ab09b:0xd1a7ead5f55cad3!2sUlulani's+Hawaiian+Shave+Ice+-+Kahului!8m2!3d20.8830541!4d-156.4544353!3m4!1s0x7954d2ea794ab09b:0xd1a7ead5f55cad3!8m2!3d20.8830541!4d-156.4544353"
-    -
-      link_type: "website"
-      url: "https://www.ululanishawaiianshaveice.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Ululanis+Kahului+Maui"
   address: "333 Dairy Rd, Kahului, HI 96732"
   phone: "+1 808-280-8104"
   hours: "10:30 AM - 6:00 PM"
@@ -955,13 +408,6 @@
   id: 47
   name: "Olowalu Juice Stand"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Olowalu+Juice+Stand/@20.8113271,-156.6242033,17z/data=!3m1!5s0x795529d938635af7:0x8d9f774ddbc34204!4m12!1m6!3m5!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!2sLeoda's+Kitchen+and+Pie+Shop!8m2!3d20.8113193!4d-156.6220193!3m4!1s0x795529d950119e4f:0x93afedcf65969224!8m2!3d20.8118996!4d-156.6231123"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Olowalu+Juice+Stand"
   address: "737 HI-30, Lahaina, HI 96761"
   hours: "9:00 AM - 5:00 PM"
   price_range: "$"
@@ -970,16 +416,6 @@
   id: 48
   name: "Leilani's on the Beach"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Leilani's+on+the+Beach/@20.9211776,-156.6977742,17z/data=!3m1!5s0x79552b43d412d3b1:0x725118268589a922!4m12!1m6!3m5!1s0x79552b417b74eae9:0x26350e83ee6b037c!2sLeilani's+on+the+Beach!8m2!3d20.9211776!4d-156.6955855!3m4!1s0x79552b417b74eae9:0x26350e83ee6b037c!8m2!3d20.9211776!4d-156.6955855"
-    -
-      link_type: "website"
-      url: "https://www.leilanis.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Leilani's+on+the+Beach"
   address: "2435 Kaanapali Pkwy, Lahaina, HI 96761"
   phone: "+1 808-661-4495"
   hours: "11:00 AM - 9:00 PM"
@@ -989,16 +425,6 @@
   id: 49
   name: "Hula Grill Kaanapali"
   priority: "high"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Hula+Grill+Kaanapali/@20.9217917,-156.6975637,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b417b74eae9:0x48a630c5dc42e9ac!8m2!3d20.9217763!4d-156.6952446"
-    -
-      link_type: "website"
-      url: "https://www.hulagrillkaanapali.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Hula+Grill+Kanapali"
   address: "2435 Kaanapali Pkwy, Lahaina, HI 96761"
   phone: "+1 808-667-6636"
   hours: "11:00 AM - 8:45 PM"
@@ -1008,7 +434,6 @@
   id: 50
   name: "‘Āina Gourmet Market"
   priority: "normal"
-  links: []
   address: "130 Kai Malina Pkwy Suite 1, Lahaina, HI 96761"
   phone: "+1 808-662-2832"
   hours: "6:30 AM - 9:30 PM"
@@ -1018,7 +443,6 @@
   id: 51
   name: "Cheeseburger In Paradise"
   priority: "low"
-  links: []
   address: "811 Front St, Lahaina, HI 96761"
   phone: "+1 808-661-4855"
   hours: "10:30 AM - 9:30 PM"
@@ -1028,7 +452,6 @@
   id: 52
   name: "Aloha Table"
   priority: "normal"
-  links: []
   address: "2238 Lauula St #2, Honolulu, HI 96815"
   phone: "+1 808-922-2221"
   hours: "11:30 AM - 2:00 PM, 4:00 PM - 11:00 PM"
@@ -1038,10 +461,6 @@
   id: 53
   name: "Kono's Northshore"
   priority: "high"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.konosnorthshore.com/"
   address: "2310 Kuhio Avenue #1-A, Honolulu, HI 96815"
   phone: "+1 808-888-8833"
   hours: "7:00 AM - 9:00 PM"
@@ -1051,7 +470,6 @@
   id: 54
   name: "Café Glacé"
   priority: "normal"
-  links: []
   address: "227 Lewers St #115, Honolulu, HI 96815"
   phone: "+1 808-927-2645"
   hours: "8:00 AM - 9:30 PM"
@@ -1061,10 +479,6 @@
   id: 55
   name: "Ken's House of Pancakes"
   priority: "high"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.kenshouseofpancakes.com/"
   address: "1730 Kamehameha Ave, Hilo, HI 96720"
   phone: "+1 808-935-8711"
   hours: "6:00 AM - 9:00 PM"
@@ -1074,10 +488,6 @@
   id: 56
   name: "Hula Grill Waikiki"
   priority: "high"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.hulagrillwaikiki.com/"
   address: "2335 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-923-4852"
   hours: "7:00 AM - 10:00 PM"
@@ -1087,10 +497,6 @@
   id: 57
   name: "Hawaiian Aroma Caffe At Beachcomber Waikiki"
   priority: "major"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.hawaiianaromacaffe.com/"
   address: "2300 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-256-2602"
   hours: "6:00 AM - 10:00 PM"
@@ -1100,10 +506,6 @@
   id: 58
   name: "Orchids"
   priority: "omg"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.halekulani.com/dining/orchids/"
   address: "2199 Kālia Rd, Honolulu, HI 96815"
   phone: "+1 808-923-2311"
   hours: "7:00 AM - 10:30 AM, 11:30 AM - 1:30 PM, 5:30 PM - 8:30 PM"
@@ -1113,10 +515,6 @@
   id: 59
   name: "TsuruTonTan"
   priority: "normal"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.tsurutontan.com/hawaii"
   address: "2233 Kalakaua Ave B310, Honolulu, HI 96815"
   phone: "+1 808-888-8559"
   hours: "11:00 AM - 2:00 PM, 4:30 PM - 9:00 PM"
@@ -1125,10 +523,6 @@
   id: 60
   name: "Aji Limo Truck"
   priority: "normal"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.facebook.com/ajilimotruck/"
   address: "57-512 Kamehameha Hwy, Haleiwa, HI 96712"
   phone: "+1 808-372-2306"
   hours: "11:00 AM - 8:30 PM"
@@ -1138,13 +532,6 @@
   id: 61
   name: "Barefoot Beach Cafe"
   priority: "normal"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Barefoot+Beach+Cafe+@+Queen's+Surf+Beach/@21.2679099,-157.8246587,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00726ff958afd7:0x283d722b912d17d2!8m2!3d21.2679099!4d-157.82247"
-    -
-      link_type: "website"
-      url: "https://www.barefootbeachcafe.com/"
   address: "2699 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-924-2233"
   hours: "8:00 AM - 8:30 PM"
@@ -1154,10 +541,6 @@
   id: 62
   name: "Mai Tai Bar"
   priority: "normal"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.royal-hawaiian.com/dining-overview/mai-tai-bar/"
   address: "2259 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-923-7311"
   hours: "11:00 AM - 9:30 PM"
@@ -1167,10 +550,6 @@
   id: 63
   name: "Tanaka of Tokyo Central"
   priority: "major"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.tanakaoftokyo.com/en/central"
   address: "2250 Kalakaua Ave 3rd Fl, Honolulu, HI 96815"
   phone: "+1 808-922-4702"
   hours: "5:00 PM - 9:00 PM"
@@ -1180,10 +559,6 @@
   id: 64
   name: "The Local @HNL"
   priority: "minor"
-  links:
-    -
-      link_type: "website"
-      url: "https://airports.hawaii.gov/hnl/shop-dine/shops-restaurants/"
   address: "300 Rodgers Blvd, Honolulu, HI 96819"
   phone: "+1 808-824-3955"
   hours: "6:00 AM - 10:00 PM"
@@ -1193,10 +568,6 @@
   id: 65
   name: "Surf Lanai"
   priority: "normal"
-  links:
-    -
-      link_type: "website"
-      url: "https://www.royal-hawaiian.com/dining-overview/surf-lanai/"
   address: "2259 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-921-4600"
   hours: "6:30 AM - 10:30 AM"
@@ -1206,19 +577,6 @@
   id: 66
   name: "Skybox Taphouse"
   priority: "minor"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Skybox+Taphouse/@21.2783472,-157.8287884,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00732e5801ad71:0x364f92d0f799519e!8m2!3d21.2783472!4d-157.8265997"
-    -
-      link_type: "website"
-      url: "https://www.skyboxtaphouse.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Skybox+Taphouse+Honolulu"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/skybox-taphouse-honolulu"
   address: "2330 Kalakaua Ave Suite 302, Honolulu, HI 96815"
   phone: "+1 808-378-8542"
   hours: "11:00 AM - 10:00 PM"
@@ -1228,19 +586,6 @@
   id: 67
   name: "Inu Pool Bar"
   priority: "minor"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/Inu+Pool+Bar/@20.9424691,-156.6935312,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad4b507dd161f:0xf3326801b13096e0!8m2!3d20.9424691!4d-156.6913425"
-    -
-      link_type: "website"
-      url: "https://www.marriott.com/en-us/hotels/jhmwi-the-westin-nanea-ocean-villas-kaanapali/dining/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=Inu+Pool+Bar"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/inu-pool-bar-lahaina"
   address: "45 Kai Malina Pkwy, Lahaina, HI 96761"
   phone: "+1 808-662-6300"
   hours: "11:00 AM - 8:00 PM"
@@ -1250,19 +595,6 @@
   id: 68
   name: "McDonald's"
   priority: "minor"
-  links:
-    -
-      link_type: "map"
-      url: "https://www.google.com/maps/place/McDonald's/@20.8829897,-156.4555119,17z/data=!4m5!3m4!1s0x7954d2ea8140a9ab:0x6a0c93c557b9167c!8m2!3d20.8830562!4d-156.4537401"
-    -
-      link_type: "website"
-      url: "https://www.mcdonalds.com/"
-    -
-      link_type: "images"
-      url: "https://www.google.com/search?tbm=isch&q=McDonald%27s+Dairy+Rd+Maui"
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/mcdonalds-kahului-5"
   address: "340 Dairy Rd, Kahului, HI 96732"
   phone: "+1 808-877-6498"
   hours: "Open 24 Hours"
@@ -1272,11 +604,7 @@
   id: 69
   name: "Richie's Huli BBQ"
   priority: "normal"
-  links:
-    -
-      link_type: "reviews"
-      url: "https://www.yelp.com/biz/richies-huli-bbq-lihue"
-  address: ""
+  address: "Food truck"
   phone: "+1 808-652-2229"
   hours: "10:00 AM - 5:00 PM"
   price_range: "$"

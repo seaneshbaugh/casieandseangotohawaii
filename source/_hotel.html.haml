@@ -1,6 +1,6 @@
 .hotel{ data: { 'hotel-id' => hotel.id } }
   %h3.name= hotel.name
-  = partial('links', locals: { links: hotel.links })
+  = partial('links', locals: { links: links('hotel', hotel.id) })
   - if hotel.address
     .address= hotel.address
   - if hotel.phone

@@ -4,7 +4,7 @@
   - if r
     .restaurant{ data: { 'restaurant-id' => r.id } }
       %h5.name= r.name
-      = partial('links', locals: { links: r.links })
+      = partial('links', locals: { links: links('restaurant', r.id) })
       - if r.address
         .address= r.address
       - if r.phone
