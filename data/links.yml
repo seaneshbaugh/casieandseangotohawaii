@@ -2493,7 +2493,7 @@
   linkable_id: 62
   linkable_type: "attraction"
   link_type: "map"
-  url: ""
+  url: "https://www.google.com/maps/place/Ahihi-Kinau+Natural+Area+Reserve,+Wailea,+HI+96753/@20.6061338,-156.4494529,14z/data=!4m15!1m8!3m7!1s0x7954dcb43b2c4571:0xa24e6b6dec318bca!2sAhihi-Kinau+Natural+Area+Reserve,+Wailea,+HI+96753!3b1!8m2!3d20.6060995!4d-156.433102!16s%2Fm%2F0bs8cl1!3m5!1s0x7954dcb43b2c4571:0xa24e6b6dec318bca!8m2!3d20.6060995!4d-156.433102!16s%2Fm%2F0bs8cl1?entry=ttu"
 -
   id: 417
   linkable_id: 62
@@ -2565,13 +2565,13 @@
   linkable_id: 66
   linkable_type: "attraction"
   link_type: "map"
-  url: ""
+  url: "https://www.google.com/maps/place/Ukumehame+Beach+Park/@20.7946464,-156.5920857,15z/data=!3m1!4b1!4m6!3m5!1s0x79552bb6e6a99a3b:0xe3297bedea214fb4!8m2!3d20.794627!4d-156.581786!16s%2Fg%2F1vhq3xpb?entry=ttu"
 -
   id: 429
   linkable_id: 66
   linkable_type: "attraction"
   link_type: "website"
-  url: ""
+  url: "https://www.to-hawaii.com/maui/beaches/ukumehamebeachpark.php"
 -
   id: 430
   linkable_id: 66
