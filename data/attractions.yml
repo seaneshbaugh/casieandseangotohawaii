@@ -8,7 +8,7 @@
 -
   id: 2
   name: "Duke Kahanamoku Statue"
-  attraction_type: ""
+  attraction_type: "point-of-interest"
   priority: "minor"
   address: "Kalakaua Ave, Honolulu, HI 96815"
 -
@@ -185,7 +185,7 @@
 -
   id: 27
   name: "Maniniholo Dry Cave"
-  attraction_type: ""
+  attraction_type: "cave"
   priority: "major"
   address: "5-7878 Kuhio Hwy, Kilauea, HI 96754"
 -
@@ -206,7 +206,7 @@
 -
   id: 30
   name: "Makauwahi Cave"
-  attraction_type: "point-of-interest"
+  attraction_type: "cave"
   priority: "omg"
   address: "Koloa, HI 96756"
   phone: "+1 808-634-0605"
@@ -267,7 +267,7 @@
 -
   id: 38
   name: "Pu'u O Kila Lookout"
-  attraction_type: ""
+  attraction_type: "scenic-view"
   priority: "omg"
   address: "Pihea Trail, Kapaa, HI 96746"
   notes: "&ldquo;The most impressive view.&rdquo;"
@@ -310,6 +310,7 @@
   name: "The Road to Hana"
   attraction_type: "point-of-interest"
   priority: "normal"
+  address: "Hawaii Routes 36 and 360"
   frommers_guide_book_page: "313"
 -
   id: 45
