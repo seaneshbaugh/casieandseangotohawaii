@@ -7,6 +7,7 @@
   hours: "7:00 AM - 10:00 PM"
   price_range: "$"
   genre: "Japanese"
+  notes: null
   frommers_guide_book_page: "143"
 -
   id: 2
@@ -17,6 +18,8 @@
   hours: "6:30 AM - 11:00 AM, 11:30 PM - 2:00 PM"
   price_range: "$$"
   genre: "Breakfast and Brunch, American"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 3
   name: "Uncle Clay's House of Pure Aloha"
@@ -26,6 +29,8 @@
   hours: "10:30 AM - 7:45 PM"
   price_range: "$"
   genre: "Shaved Ice"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 4
   name: "Ono Steaks & Shrimp Shack"
@@ -35,6 +40,7 @@
   hours: "7:00 AM - 10:00 PM"
   price_range: "$"
   genre: "Hawaiian, Japanese"
+  notes: null
   frommers_guide_book_page: "143"
 -
   id: 5
@@ -45,6 +51,8 @@
   hours: "7:00 AM - 12: 00 AM"
   price_range: "$$$"
   genre: "Hawaiian, Seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 6
   name: "Leonard's Bakery"
@@ -54,6 +62,8 @@
   hours: "5:30 AM - 10:00 AM"
   price_range: "$"
   genre: "Bakery"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 7
   name: "Countryside Cafe"
@@ -63,6 +73,8 @@
   hours: "7:00 AM - 1:00 PM"
   price_range: "$$"
   genre: "Breakfast and Brunch"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 8
   name: "Jinroku Pacific"
@@ -72,6 +84,7 @@
   hours: "11:30 AM - 2:00 PM, 5:30 PM - 10:30 PM"
   price_range: "$$"
   genre: "Japanese, Seafood"
+  notes: null
   frommers_guide_book_page: "142"
 -
   id: 9
@@ -82,6 +95,8 @@
   hours: "7:30 AM - 6:30 PM"
   price_range: "$"
   genre: "breakfast and brunch, Hawaiian, sandwiches"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 10
   name: "Tiki Tacos"
@@ -91,6 +106,8 @@
   hours: "10:00 AM - 8:30 PM"
   price_range: "$"
   genre: "Mexican"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 11
   name: "JO2 Restaurant"
@@ -100,6 +117,8 @@
   hours: "5:00 PM - 9:00 PM"
   price_range: "$$"
   genre: "Asian fusion"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 12
   name: "Kountry Kitchen"
@@ -109,6 +128,8 @@
   hours: "6:00 AM - 1:30 PM"
   price_range: "$"
   genre: "American, Breakfast and Brunch, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 13
   name: "Kalypso Island Bar & Grill"
@@ -118,6 +139,8 @@
   hours: "11:00 AM - 9:00 PM"
   price_range: "$$"
   genre: "American, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 14
   name: "Lemongrass Grill Seafood & Bar"
@@ -127,6 +150,8 @@
   hours: "4:00 PM - 9:30 PM"
   price_range: "$$"
   genre: "Asian Fusion, Seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 15
   name: "Hanalima Bakery"
@@ -136,6 +161,8 @@
   hours: "6:00 AM - 1:00 PM"
   price_range: "$"
   genre: "Bakery"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 16
   name: "Puka Dog"
@@ -145,6 +172,8 @@
   hours: "10:00 AM - 7:30 PM"
   price_range: "$"
   genre: "Hot Dogs, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 17
   name: "Papalani Gelato"
@@ -154,6 +183,8 @@
   hours: "12:00 PM - 9:00 PM"
   price_range: "$"
   genre: "Ice Cream"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 18
   name: "Sam's Ocean View"
@@ -163,13 +194,19 @@
   hours: "4:00 PM - 9:00 PM"
   price_range: "$$"
   genre: "New American, Seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 19
   name: "Kalapaki Beach Hut"
   priority: "normal"
   address: "3474 Rice St, Lihue, HI 96766"
+  phone: null
+  hours: null
   price_range: "$"
   genre: "Shaved Ice"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 20
   name: "Kōkeʻe Lodge"
@@ -179,6 +216,8 @@
   hours: "9:00 AM - 4:00 PM"
   price_range: "$$"
   genre: "American"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 21
   name: "JoJo's Shave Ice"
@@ -188,6 +227,8 @@
   hours: "11:00 AM - 6:00 PM"
   price_range: "$"
   genre: "Shaved Ice"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 22
   name: "Verde Restaurant"
@@ -197,6 +238,8 @@
   hours: "11:00 PM - 8:00 PM"
   price_range: "$$"
   genre: "Mexican"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 23
   name: "Nom Kauai"
@@ -206,6 +249,8 @@
   hours: "8:00 AM - 1:00 PM"
   price_range: "$$"
   genre: "Breakfast, Burgers"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 24
   name: "Royal Scoop"
@@ -215,6 +260,8 @@
   hours: "6:00 AM - 8:00 PM"
   price_range: "$"
   genre: "Ice Cream"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 25
   name: "Lahaina Grill"
@@ -224,6 +271,7 @@
   hours: "5:00 PM - 9:00"
   price_range: "$$$"
   genre: "American, seafood"
+  notes: null
   frommers_guide_book_page: "391"
 -
   id: 26
@@ -234,6 +282,8 @@
   hours: "7:00 AM - 9:00 PM"
   price_range: "$$"
   genre: "Seafood, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 27
   name: "Star Noodle"
@@ -243,6 +293,8 @@
   hours: "10:30 AM - 10:00 PM"
   price_range: "$"
   genre: "Thai"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 28
   name: "Ululani's Hawaiian Shave Ice"
@@ -252,6 +304,8 @@
   hours: "10:30 AM - 6:00 PM"
   price_range: "$"
   genre: "Shaved ice, Ice cream"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 29
   name: "Miso Phat Sushi"
@@ -261,6 +315,8 @@
   hours: "11:30 AM - 8:30 PM"
   price_range: "$$"
   genre: "Sushi"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 30
   name: "Leoda's Kitchen and Pie Shop"
@@ -270,12 +326,19 @@
   hours: "10:00 AM - 6:00 PM"
   price_range: "$$"
   genre: "Sandwiches, Pies"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 31
   name: "Barefoot Cafe, Bakery &amp; Catering"
   priority: "normal"
   address: "1630 Keawa Pl, Hana, HI 96713"
   phone: "+1 808-446-5519"
+  hours: null
+  price_range: null
+  genre: null
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 32
   name: "Merriman's"
@@ -285,6 +348,7 @@
   hours: "3:00 PM - 9:00 PM"
   price_range: "$$$"
   genre: "American, Seafood"
+  notes: null
   frommers_guide_book_page: "402"
 -
   id: 33
@@ -295,6 +359,8 @@
   hours: "7:00 AM - 9:00 PM"
   price_range: "$$"
   genre: "Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 34
   name: "Mama's Fish House"
@@ -304,14 +370,19 @@
   hours: "11:00 AM - 9:00 PM"
   price_range: "$$$"
   genre: "Hawaiian, seafood"
+  notes: null
   frommers_guide_book_page: "415"
 -
   id: 35
   name: "Food Truck Park"
   priority: "high"
   address: "520 Keolani Pl, Kahului, HI 96732"
+  phone: null
+  hours: null
   price_range: "$"
   genre: "Hawaiian, seafood, street food"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 36
   name: "Duke's Beach House Maui"
@@ -321,35 +392,52 @@
   hours: "8:00 AM - 9:00 PM"
   price_range: "$$"
   genre: "Hawaiian, seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 37
   name: "Tinroof"
   priority: "low"
   address: "360 Papa Pl St #116, Kahului, HI, 96732"
   phone: "+1 808-868-0753"
+  hours: null
+  price_range: null
   genre: "Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 38
   name: "Kapena's Wood Fired Kitchen"
   priority: "high"
   address: "505 Front St #101, Lahaina, HI 96761"
   phone: "+1 808-727-2727"
+  hours: null
+  price_range: null
   genre: "Pizza"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 39
   name: "BanyanTreats"
   priority: "major"
   address: "658 Wharf St #9, Lahaina, HI 96761"
   phone: "+1 808-661-5854"
+  hours: null
+  price_range: null
   genre: "Ice cream"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 40
   name: "Old Lāhainā Lūʻau"
   priority: "major"
   address: "1251 Front St, Lahaina, HI 96761"
   phone: "+1 808-667-1998"
+  hours: null
   price_range: "$$$$"
   genre: "Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 41
   name: "The Plantation House"
@@ -359,6 +447,8 @@
   hours: "8:00 AM - 8:00 PM"
   price_range: "$$$"
   genre: "Hawaiian-Mediterranean"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 42
   name: "Slappy Cakes"
@@ -368,6 +458,8 @@
   hours: "7:00 AM - 12:00 PM"
   price_range: "$$"
   genre: "Breakfast"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 43
   name: "Cafe O'Lei at the Mill House"
@@ -377,6 +469,8 @@
   hours: "11:00 AM - 8:00 PM"
   price_range: "$$"
   genre: "Hawaiian, Seafood, American"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 44
   name: "Roy's Waikiki"
@@ -386,6 +480,8 @@
   hours: "4:30 PM - 9:00 PM"
   price_range: "$$$"
   genre: "Hawaiian, Seafood, Asian Fusion"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 45
   name: "Kihei Caffe"
@@ -395,6 +491,8 @@
   hours: "6:00 AM - 2:00 PM"
   price_range: "$$"
   genre: "Breakfast, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 46
   name: "Ululani's Hawaiian Shave Ice"
@@ -404,14 +502,19 @@
   hours: "10:30 AM - 6:00 PM"
   price_range: "$"
   genre: "Shaved ice, Ice cream"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 47
   name: "Olowalu Juice Stand"
   priority: "normal"
   address: "737 HI-30, Lahaina, HI 96761"
+  phone: null
   hours: "9:00 AM - 5:00 PM"
   price_range: "$"
   genre: "Smoothies"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 48
   name: "Leilani's on the Beach"
@@ -421,6 +524,8 @@
   hours: "11:00 AM - 9:00 PM"
   price_range: "$$$"
   genre: "Hawaiian, Seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 49
   name: "Hula Grill Kaanapali"
@@ -430,6 +535,8 @@
   hours: "11:00 AM - 8:45 PM"
   price_range: "$$$"
   genre: "Hawaiian, Seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 50
   name: "‘Āina Gourmet Market"
@@ -439,6 +546,8 @@
   hours: "6:30 AM - 9:30 PM"
   price_range: "$"
   genre: "Breakfast"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 51
   name: "Cheeseburger In Paradise"
@@ -448,6 +557,8 @@
   hours: "10:30 AM - 9:30 PM"
   price_range: "$$"
   genre: "Hamburgers, American"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 52
   name: "Aloha Table"
@@ -457,6 +568,8 @@
   hours: "11:30 AM - 2:00 PM, 4:00 PM - 11:00 PM"
   price_range: "$$"
   genre: "Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 53
   name: "Kono's Northshore"
@@ -466,6 +579,8 @@
   hours: "7:00 AM - 9:00 PM"
   price_range: "$"
   genre: "Breakfast, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 54
   name: "Café Glacé"
@@ -475,6 +590,8 @@
   hours: "8:00 AM - 9:30 PM"
   price_range: "$"
   genre: "Ice Cream"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 55
   name: "Ken's House of Pancakes"
@@ -484,6 +601,8 @@
   hours: "6:00 AM - 9:00 PM"
   price_range: "$"
   genre: "Breakfast"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 56
   name: "Hula Grill Waikiki"
@@ -493,6 +612,8 @@
   hours: "7:00 AM - 10:00 PM"
   price_range: "$$"
   genre: "Hawaiian, Seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 57
   name: "Hawaiian Aroma Caffe At Beachcomber Waikiki"
@@ -502,6 +623,8 @@
   hours: "6:00 AM - 10:00 PM"
   price_range: "$"
   genre: "Breakfast"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 58
   name: "Orchids"
@@ -511,6 +634,8 @@
   hours: "7:00 AM - 10:30 AM, 11:30 AM - 1:30 PM, 5:30 PM - 8:30 PM"
   price_range: "$$$$"
   genre: "Italian, Seafood"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 59
   name: "TsuruTonTan"
@@ -518,7 +643,10 @@
   address: "2233 Kalakaua Ave B310, Honolulu, HI 96815"
   phone: "+1 808-888-8559"
   hours: "11:00 AM - 2:00 PM, 4:30 PM - 9:00 PM"
+  price_range: null
   genre: "Japanese"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 60
   name: "Aji Limo Truck"
@@ -528,6 +656,8 @@
   hours: "11:00 AM - 8:30 PM"
   price_range: "$"
   genre: "Hawaiian, Japanese, Peruvian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 61
   name: "Barefoot Beach Cafe"
@@ -537,6 +667,8 @@
   hours: "8:00 AM - 8:30 PM"
   price_range: "$"
   genre: "Breakfast"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 62
   name: "Mai Tai Bar"
@@ -546,6 +678,8 @@
   hours: "11:00 AM - 9:30 PM"
   price_range: "$$"
   genre: "Hawaiian, New American"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 63
   name: "Tanaka of Tokyo Central"
@@ -555,6 +689,8 @@
   hours: "5:00 PM - 9:00 PM"
   price_range: "$$$"
   genre: "Japanese"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 64
   name: "The Local @HNL"
@@ -564,6 +700,8 @@
   hours: "6:00 AM - 10:00 PM"
   price_range: "$"
   genre: "American, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 65
   name: "Surf Lanai"
@@ -573,6 +711,8 @@
   hours: "6:30 AM - 10:30 AM"
   price_range: "$$$"
   genre: "Breakfast"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 66
   name: "Skybox Taphouse"
@@ -582,6 +722,8 @@
   hours: "11:00 AM - 10:00 PM"
   price_range: "$$"
   genre: "Sports Bar, Pizza, Italian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 67
   name: "Inu Pool Bar"
@@ -591,6 +733,8 @@
   hours: "11:00 AM - 8:00 PM"
   price_range: "$$"
   genre: "American, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 68
   name: "McDonald's"
@@ -600,6 +744,8 @@
   hours: "Open 24 Hours"
   price_range: "$"
   genre: "Burgers"
+  notes: null
+  frommers_guide_book_page: null
 -
   id: 69
   name: "Richie's Huli BBQ"
@@ -609,3 +755,5 @@
   hours: "10:00 AM - 5:00 PM"
   price_range: "$"
   genre: "BBQ"
+  notes: null
+  frommers_guide_book_page: null

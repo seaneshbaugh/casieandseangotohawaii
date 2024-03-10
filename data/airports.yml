@@ -4,6 +4,7 @@
   code: "DFW"
   address: "2400 Aviation Dr, DFW Airport, TX 75261"
   phone: "+1 972-973-3112"
+  frommers_guide_book_page: null
 -
   id: 2
   name: "Daniel K. Inouye International Airport"
@@ -31,6 +32,7 @@
   code: "PHX"
   address: "3400 E Sky Harbor Blvd, Phoenix, AZ 85034"
   phone: "+1 602-273-330"
+  frommers_guide_book_page: null
 -
   id: 6
   name: "Hilo International Airport"
@@ -44,3 +46,4 @@
   code: "LAX"
   address: "1 World Way, Los Angeles, CA 90045"
   phone: "+1 855-463-5252"
+  frommers_guide_book_page: null

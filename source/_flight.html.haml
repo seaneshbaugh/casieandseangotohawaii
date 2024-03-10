@@ -5,7 +5,7 @@
     .departure-location
       = partial('airport', locals: { airport: airport(flight.departure_airport_id) })
     .flight-number= flight.flight_number
-    .departure-time= flight.departure_time
+    .departure-time= Time.strptime(flight.departure_time, '%Y-%m-%dT%H:%M:%S%Z').strftime('%l:%M %p')
     .duration= flight.duration
   - if connections(flight.id).present?
     = partial('connections', locals: { flight: flight })
@@ -13,7 +13,7 @@
     %h5.name Arrival
     .arrival-location
       = partial('airport', locals: { airport: airport(flight.arrival_airport_id) })
-    .arrival-time= flight.arrival_time
+    .arrival-time= Time.strptime(flight.arrival_time, '%Y-%m-%dT%H:%M:%S%Z').strftime('%l:%M %p')
   - if flight.connections
     .total-duration= flight.total_duration
   - if flight.price

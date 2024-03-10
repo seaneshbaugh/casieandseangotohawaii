@@ -1,395 +1,650 @@
 -
   id: 1
   attraction_id: 1
+  notes: null
+  notes_danger: null
 -
   id: 2
   attraction_id: 2
+  notes: null
+  notes_danger: null
 -
   id: 3
   attraction_id: 3
+  notes: null
+  notes_danger: null
 -
   id: 4
   attraction_id: 4
+  notes: null
+  notes_danger: null
 -
   id: 5
   attraction_id: 5
+  notes: null
+  notes_danger: null
 -
   id: 6
   attraction_id: 6
+  notes: null
+  notes_danger: null
 -
   id: 7
   attraction_id: 7
+  notes: null
+  notes_danger: null
 -
   id: 8
   attraction_id: 8
+  notes: null
+  notes_danger: null
 -
   id: 9
   attraction_id: 9
+  notes: null
+  notes_danger: null
 -
   id: 10
   attraction_id: 10
+  notes: null
+  notes_danger: null
 -
   id: 11
   attraction_id: 11
+  notes: null
+  notes_danger: null
 -
   id: 12
   attraction_id: 12
+  notes: null
+  notes_danger: null
 -
   id: 13
   attraction_id: 13
+  notes: null
+  notes_danger: null
 -
   id: 14
   attraction_id: 14
+  notes: null
+  notes_danger: null
 -
   id: 15
   attraction_id: 15
+  notes: null
+  notes_danger: null
 -
   id: 16
   attraction_id: 16
+  notes: null
+  notes_danger: null
 -
   id: 17
   attraction_id: 18
+  notes: null
+  notes_danger: null
 -
   id: 18
   attraction_id: 19
+  notes: null
+  notes_danger: null
 -
   id: 19
   attraction_id: 20
+  notes: null
+  notes_danger: null
 -
   id: 20
   attraction_id: 21
+  notes: null
+  notes_danger: null
 -
   id: 21
   attraction_id: 22
+  notes: null
+  notes_danger: null
 -
   id: 22
   attraction_id: 23
+  notes: null
+  notes_danger: null
 -
   id: 23
   attraction_id: 24
+  notes: null
+  notes_danger: null
 -
   id: 24
   attraction_id: 25
+  notes: null
+  notes_danger: null
 -
   id: 25
   attraction_id: 26
+  notes: null
+  notes_danger: null
 -
   id: 26
   attraction_id: 27
+  notes: null
+  notes_danger: null
 -
   id: 27
   attraction_id: 28
+  notes: null
+  notes_danger: null
 -
   id: 28
   attraction_id: 29
+  notes: null
+  notes_danger: null
 -
   id: 29
   attraction_id: 30
+  notes: null
+  notes_danger: null
 -
   id: 30
   attraction_id: 31
+  notes: null
+  notes_danger: null
 -
   id: 31
   attraction_id: 32
+  notes: null
+  notes_danger: null
 -
   id: 32
   attraction_id: 33
+  notes: null
+  notes_danger: null
 -
   id: 33
   attraction_id: 34
+  notes: null
+  notes_danger: null
 -
   id: 34
   attraction_id: 35
+  notes: null
+  notes_danger: null
 -
   id: 35
   attraction_id: 36
+  notes: null
+  notes_danger: null
 -
   id: 36
   attraction_id: 37
+  notes: null
+  notes_danger: null
 -
   id: 37
   attraction_id: 38
+  notes: null
+  notes_danger: null
 -
   id: 38
   attraction_id: 32
   notes: "So good we went back for the sunset."
+  notes_danger: null
 -
   id: 39
   attraction_id: 39
+  notes: null
+  notes_danger: null
 -
   id: 40
   attraction_id: 40
+  notes: null
+  notes_danger: null
 -
   id: 41
   attraction_id: 41
+  notes: null
+  notes_danger: null
 -
   id: 42
   attraction_id: 42
+  notes: null
   notes_danger: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
 -
   id: 43
   attraction_id: 43
+  notes: null
+  notes_danger: null
 -
   id: 44
   attraction_id: 44
+  notes: null
+  notes_danger: null
 -
   id: 45
   attraction_id: 45
+  notes: null
+  notes_danger: null
 -
   id: 46
   attraction_id: 46
+  notes: null
+  notes_danger: null
 -
   id: 47
   attraction_id: 47
+  notes: null
+  notes_danger: null
 -
   id: 48
   attraction_id: 48
+  notes: null
+  notes_danger: null
 -
   id: 49
   attraction_id: 49
+  notes: null
+  notes_danger: null
 -
   id: 50
   attraction_id: 47
+  notes: null
+  notes_danger: null
 -
   id: 51
   attraction_id: 50
+  notes: null
+  notes_danger: null
 -
   id: 52
   attraction_id: 50
+  notes: null
+  notes_danger: null
 -
   id: 53
   attraction_id: 51
+  notes: null
+  notes_danger: null
 -
   id: 54
   attraction_id: 52
+  notes: null
+  notes_danger: null
 -
   id: 55
   attraction_id: 49
+  notes: null
+  notes_danger: null
 -
   id: 56
   attraction_id: 53
+  notes: null
+  notes_danger: null
 -
   id: 57
   attraction_id: 54
+  notes: null
+  notes_danger: null
 -
   id: 58
   attraction_id: 56
+  notes: null
+  notes_danger: null
 -
   id: 59
   attraction_id: 57
+  notes: null
+  notes_danger: null
 -
   id: 60
   attraction_id: 55
+  notes: null
+  notes_danger: null
 -
   id: 61
   attraction_id: 49
+  notes: null
+  notes_danger: null
 -
   id: 62
   attraction_id: 49
+  notes: null
+  notes_danger: null
 -
   id: 63
   attraction_id: 59
+  notes: null
+  notes_danger: null
 -
   id: 64
   attraction_id: 60
+  notes: null
+  notes_danger: null
 -
   id: 65
   attraction_id: 61
+  notes: null
+  notes_danger: null
 -
   id: 66
   attraction_id: 62
+  notes: null
+  notes_danger: null
 -
   id: 67
   attraction_id: 63
+  notes: null
+  notes_danger: null
 -
   id: 68
   attraction_id: 64
+  notes: null
+  notes_danger: null
 -
   id: 69
   attraction_id: 65
+  notes: null
+  notes_danger: null
 -
   id: 70
   attraction_id: 40
+  notes: null
+  notes_danger: null
 -
   id: 71
   attraction_id: 41
+  notes: null
+  notes_danger: null
 -
   id: 72
   attraction_id: 42
+  notes: null
   notes_danger: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
 -
   id: 73
   attraction_id: 66
   notes: "This beach is just a strip of sand on the side of HI 30. It is totally worth the stop, especially if coming from Lahaina."
+  notes_danger: null
 -
   id: 74
   attraction_id: 1
+  notes: null
+  notes_danger: null
 -
   id: 75
   attraction_id: 2
+  notes: null
+  notes_danger: null
 -
   id: 76
   attraction_id: 1
+  notes: null
+  notes_danger: null
 -
   id: 77
   attraction_id: 67
+  notes: null
+  notes_danger: null
 -
   id: 78
   attraction_id: 68
+  notes: null
+  notes_danger: null
 -
   id: 79
   attraction_id: 69
+  notes: null
+  notes_danger: null
 -
   id: 80
   attraction_id: 70
+  notes: null
+  notes_danger: null
 -
   id: 81
   attraction_id: 71
+  notes: null
+  notes_danger: null
 -
   id: 82
   attraction_id: 72
+  notes: null
+  notes_danger: null
 -
   id: 83
   attraction_id: 73
+  notes: null
+  notes_danger: null
 -
   id: 84
   attraction_id: 74
+  notes: null
+  notes_danger: null
 -
   id: 85
   attraction_id: 75
+  notes: null
+  notes_danger: null
 -
   id: 86
   attraction_id: 69
+  notes: null
+  notes_danger: null
 -
   id: 87
   attraction_id: 67
+  notes: null
+  notes_danger: null
 -
   id: 88
   attraction_id: 1
+  notes: null
+  notes_danger: null
 -
   id: 89
   attraction_id: 76
+  notes: null
+  notes_danger: null
 -
   id: 90
   attraction_id: 77
+  notes: null
+  notes_danger: null
 -
   id: 91
   attraction_id: 78
+  notes: null
+  notes_danger: null
 -
   id: 92
   attraction_id: 79
+  notes: null
+  notes_danger: null
 -
   id: 93
   attraction_id: 80
+  notes: null
+  notes_danger: null
 -
   id: 94
   attraction_id: 81
+  notes: null
+  notes_danger: null
 -
   id: 95
   attraction_id: 82
+  notes: null
+  notes_danger: null
 -
   id: 96
   attraction_id: 83
+  notes: null
+  notes_danger: null
 -
   id: 97
   attraction_id: 84
+  notes: null
+  notes_danger: null
 -
   id: 98
   attraction_id: 67
+  notes: null
+  notes_danger: null
 -
   id: 99
   attraction_id: 86
+  notes: null
+  notes_danger: null
 -
   id: 100
   attraction_id: 68
+  notes: null
+  notes_danger: null
 -
   id: 101
   attraction_id: 69
+  notes: null
+  notes_danger: null
 -
   id: 102
   attraction_id: 70
+  notes: null
+  notes_danger: null
 -
   id: 103
   attraction_id: 75
+  notes: null
+  notes_danger: null
 -
   id: 104
   attraction_id: 85
+  notes: null
+  notes_danger: null
 -
   id: 105
   attraction_id: 69
+  notes: null
+  notes_danger: null
 -
   id: 106
   attraction_id: 67
+  notes: null
+  notes_danger: null
 -
   id: 107
   attraction_id: 87
+  notes: null
   notes_danger: "Pay heed to warning signs for man o' war."
 -
   id: 108
   attraction_id: 88
+  notes: null
+  notes_danger: null
 -
   id: 109
   attraction_id: 1
+  notes: null
+  notes_danger: null
 -
   id: 110
   attraction_id: 89
+  notes: null
+  notes_danger: null
 -
   id: 111
   attraction_id: 19
+  notes: null
+  notes_danger: null
 -
   id: 112
   attraction_id: 90
+  notes: null
+  notes_danger: null
 -
   id: 113
   attraction_id: 91
+  notes: null
+  notes_danger: null
 -
   id: 114
   attraction_id: 92
+  notes: null
+  notes_danger: null
 -
   id: 115
   attraction_id: 93
+  notes: null
+  notes_danger: null
 -
   id: 116
   attraction_id: 94
+  notes: null
+  notes_danger: null
 -
   id: 117
   attraction_id: 67
+  notes: null
+  notes_danger: null
 -
   id: 118
   attraction_id: 69
+  notes: null
+  notes_danger: null
 -
   id: 119
   attraction_id: 69
+  notes: null
+  notes_danger: null
 -
   id: 120
   attraction_id: 67
+  notes: null
+  notes_danger: null
 -
   id: 121
   attraction_id: 10
+  notes: null
+  notes_danger: null
 -
   id: 122
   attraction_id: 11
+  notes: null
+  notes_danger: null
 -
   id: 123
   attraction_id: 3
+  notes: null
+  notes_danger: null
 -
   id: 124
   attraction_id: 95
+  notes: null
+  notes_danger: null
 -
   id: 125
   attraction_id: 96
+  notes: null
+  notes_danger: null
 -
   id: 126
   attraction_id: 97
+  notes: null
+  notes_danger: null
 -
   id: 127
   attraction_id: 98
+  notes: null
+  notes_danger: null
 -
   id: 128
   attraction_id: 23
+  notes: null
+  notes_danger: null
 -
   id: 129
   attraction_id: 27
+  notes: null
+  notes_danger: null
 -
   id: 130
   attraction_id: 28
+  notes: null
+  notes_danger: null

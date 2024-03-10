@@ -4,6 +4,10 @@
   attraction_type: "beach"
   priority: "normal"
   address: "Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "102"
 -
   id: 2
@@ -11,6 +15,11 @@
   attraction_type: "point-of-interest"
   priority: "minor"
   address: "Kalakaua Ave, Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 3
   name: "Diamond Head State Monument"
@@ -18,6 +27,9 @@
   priority: "major"
   address: "4191 Diamond Head Rd, Honolulu, HI 96816"
   phone: "+1 808-587-0300"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "114"
 -
   id: 4
@@ -26,6 +38,9 @@
   priority: "normal"
   address: "100 Hanauma Bay Rd, Honolulu, HI 96825"
   phone: "+1 808-396-4229"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "104"
 -
   id: 5
@@ -33,12 +48,22 @@
   attraction_type: "scenic-view"
   priority: "normal"
   address: "7949-7967 Kalanianaole Hwy, Honolulu, HI 96825"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 6
   name: "Wawamalu Beach Park"
   attraction_type: "beach"
   priority: "minor"
   address: "8549 Kalanianaole Hwy, Honolulu, HI 96825"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 7
   name: "Makapu'u Lookout"
@@ -46,6 +71,9 @@
   priority: "minor"
   address: "Kalanianaole Hwy, Honolulu, HI 96825"
   phone: "+1 808-464-0840"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "116"
 -
   id: 8
@@ -54,6 +82,9 @@
   priority: "major"
   address: "526 Kawailoa Rd, Kailua, HI 96734"
   phone: "+1 808-266-7652"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "106"
 -
   id: 9
@@ -62,7 +93,9 @@
   priority: "omg"
   address: "Kailua, HI 96734"
   phone: "+1 808-261-2727"
+  hours: null
   notes: "desktop.png"
+  notes_danger: null
   frommers_guide_book_page: "106"
 -
   id: 10
@@ -71,18 +104,32 @@
   priority: "normal"
   address: "89-269 Farrington Hwy, Waianae, HI 96792"
   phone: "+1 808-668-1137"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 11
   name: "Mermaid's Secret Cave"
   attraction_type: "beach"
   priority: "omg"
   address: "416 Keaulana Ave Ste 89, Waianae, HI 96792"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 12
   name: "Maipalaoa Beach Park"
   attraction_type: "beach"
   priority: "minor"
   address: "Maipalaoa Rd, Waianae, HI 96792"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 13
   name: "Ma'ili Beach Park"
@@ -90,12 +137,21 @@
   priority: "normal"
   address: "87-21 Farrington Hwy, Waianae, HI 96792"
   phone: "+1 808-768-3003"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 14
   name: "Kaneana Cave"
   attraction_type: "point-of-interest"
   priority: "minor"
   address: "Farrington Hwy, Waianae, HI 96792"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 15
   name: "Keawaula Beach"
@@ -103,6 +159,9 @@
   priority: "normal"
   address: "Farrington Hwy, Waialua, HI 96791"
   phone: "+1 808-587-0300"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "108"
 -
   id: 16
@@ -110,6 +169,10 @@
   attraction_type: "hike"
   priority: "normal"
   address: "Waialua, HI 96791"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "117"
 -
   id: 17
@@ -117,6 +180,11 @@
   attraction_type: "beach"
   priority: "optional"
   address: "Waianae, HI 96792"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 18
   name: "Laniakea Beach"
@@ -124,12 +192,20 @@
   priority: "normal"
   address: "574, 61-574 Pohaku Loa Way, Haleiwa, HI 96712"
   phone: "+1 808-464-0840"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 19
   name: "Waimea Bay Beach Park"
   attraction_type: "beach"
   priority: "major"
   address: "61-31 Kamehameha Hwy, Haleiwa, HI 96712"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "108"
 -
   id: 20
@@ -138,7 +214,9 @@
   priority: "normal"
   address: "180 N Vineyard Blvd, Honolulu, HI 96817"
   phone: "+1 808-522-7060"
+  hours: null
   notes: "$5.00 for adults."
+  notes_danger: null
   frommers_guide_book_page: "81"
 -
   id: 21
@@ -146,6 +224,10 @@
   attraction_type: "beach"
   priority: "minor"
   address: "Makanani St, Kealia, HI 96751"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "527"
 -
   id: 22
@@ -153,6 +235,10 @@
   attraction_type: "beach"
   priority: "normal"
   address: "Anahola Rd, Mile Marker 13, Anahola, HI 96703"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "526"
 -
   id: 23
@@ -161,13 +247,20 @@
   priority: "normal"
   address: "3500 Kilauea Rd, Kilauea, HI 96754"
   phone: "+1 808-828-0384"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 24
   name: "Queen's Bath"
   attraction_type: "beach"
   priority: "normal"
   address: "Kapiolani Rd, Princeville, HI 96722"
+  phone: null
+  hours: null
   notes: "Dangerous waves can occur without warning."
+  notes_danger: null
   frommers_guide_book_page: "527"
 -
   id: 25
@@ -175,6 +268,10 @@
   attraction_type: "beach"
   priority: "normal"
   address: "Hanalei, HI 96714"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "529"
 -
   id: 26
@@ -182,12 +279,22 @@
   attraction_type: "beach"
   priority: "normal"
   address: "7640 Kuhio Hwy, Hanalei, HI 96714"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 27
   name: "Maniniholo Dry Cave"
   attraction_type: "cave"
   priority: "major"
   address: "5-7878 Kuhio Hwy, Kilauea, HI 96754"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 28
   name: "Ke'e Beach"
@@ -195,6 +302,9 @@
   priority: "major"
   address: "State Hwy 56, Ha'ena, HI 96714"
   phone: "+1 808-241-6670"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "530"
 -
   id: 29
@@ -203,6 +313,10 @@
   priority: "major"
   address: "Koloa, HI 96756"
   phone: "+1 808-634-0605"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 30
   name: "Makauwahi Cave"
@@ -210,7 +324,9 @@
   priority: "omg"
   address: "Koloa, HI 96756"
   phone: "+1 808-634-0605"
+  hours: null
   notes: "Tours are led from 10:00 AM to 2:00 PM. This cave is the subject of the book &ldquo;Back to the Future in the Caves of Kaua'i: A Scientist's Adventures in the Dark&rdquo; by David A. Burney."
+  notes_danger: null
   frommers_guide_book_page: "516"
 -
   id: 31
@@ -218,6 +334,10 @@
   attraction_type: "hike"
   priority: "normal"
   address: "Maha'ulepu Heritage Trail, Koloa, HI 96756"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "554"
 -
   id: 32
@@ -226,7 +346,9 @@
   priority: "omg"
   address: "Hoona Rd, Po'ipu, HI 96756"
   phone: "+1 808-742-7444"
+  hours: null
   notes: "Literally the best beach in the United States."
+  notes_danger: null
   frommers_guide_book_page: "532"
 -
   id: 33
@@ -235,13 +357,20 @@
   priority: "normal"
   address: "Po'ipu, HI"
   phone: "+1 808-742-7444"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 34
   name: "Shipwreck Beach"
   attraction_type: "beach"
   priority: "normal"
   address: "Ainako Rd, Eastern End, Po'ipu, HI 96756"
+  phone: null
+  hours: null
   notes: "The shipwreck was destroyed entirely by hurricane 'Iwa in 1982."
+  notes_danger: null
   frommers_guide_book_page: "533"
 -
   id: 35
@@ -249,6 +378,10 @@
   attraction_type: "scenic-view"
   priority: "major"
   address: "Waimea, HI 96796"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "522"
 -
   id: 36
@@ -257,12 +390,20 @@
   priority: "normal"
   address: "3600 Kokee Rd, Kekaha, HI 96752"
   phone: "+1 808-335-9975"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 37
   name: "Kalalau Lookout"
   attraction_type: "scenic-view"
   priority: "major"
   address: "Kokee Rd, Kapaa, HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "519"
 -
   id: 38
@@ -270,7 +411,10 @@
   attraction_type: "scenic-view"
   priority: "omg"
   address: "Pihea Trail, Kapaa, HI 96746"
+  phone: null
+  hours: null
   notes: "&ldquo;The most impressive view.&rdquo;"
+  notes_danger: null
   frommers_guide_book_page: "519"
 -
   id: 39
@@ -278,25 +422,44 @@
   attraction_type: "beach"
   priority: "normal"
   address: "65 Kai Ala Dr, Lahaina, HI 96761"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 40
   name: "Makaluapuna Point"
   attraction_type: "point-of-interest"
   priority: "omg"
   address: "4946 Lower Honoapiilani Rd, Lahaina, HI 96761"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 41
   name: "Honolua Bay"
   attraction_type: "beach"
   priority: "normal"
   address: "HI 96761"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 42
   name: "Nakalele Blowhole"
   attraction_type: "point-of-interest"
   priority: "high"
   address: "Mile Marker 38, North of Lahaina on Hwy 30, Lahaina, HI"
+  phone: null
+  hours: null
   notes: "Requires a 15 minute walk from Kahekili Hwy. Dangerous waves can occur without warning."
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 43
   name: "Wailea Beach"
@@ -304,6 +467,9 @@
   priority: "normal"
   address: "Wailea Alanui Dr, Wailea, HI 96753"
   phone: "+1 808-879-4364"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "327"
 -
   id: 44
@@ -311,6 +477,10 @@
   attraction_type: "point-of-interest"
   priority: "normal"
   address: "Hawaii Routes 36 and 360"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "313"
 -
   id: 45
@@ -319,6 +489,10 @@
   priority: "normal"
   address: "5165 Hana Hwy, Hana, HI 96713"
   phone: "+1 808-248-8231"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 46
   name: "Wai'anapanapa State Park"
@@ -326,6 +500,9 @@
   priority: "major"
   address: "Hana Hwy near mile marker 32, Hana, HI 96713"
   phone: "+1 808-984-8109"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "330"
 -
   id: 47
@@ -334,6 +511,9 @@
   priority: "omg"
   address: "Kula, HI 96790"
   phone: "+1 808-572-4400"
+  hours: null
+  notes: null
+  notes_danger: null
   frommers_guide_book_page: "310"
 -
   id: 48
@@ -341,18 +521,33 @@
   attraction_type: "scenic-view"
   priority: "minor"
   address: "HI 96793"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 49
   name: "Ka'anapali Beach"
   attraction_type: "beach"
   priority: "normal"
   address: "Unnamed Road, Lahaina, HI 96761"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 50
   name: "Kenolio Park"
   attraction_type: "beach"
   priority: "normal"
   address: "Kihei, HI 96753"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 51
   name: "Lāhainā Banyan Court Park"
@@ -360,42 +555,76 @@
   priority: "high"
   address: "671 Front St, Lahaina, HI 96761"
   phone: "+1 808-661-4685"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 52
   name: "ʻĪao Valley State Monument"
   attraction_type: "scenic-view"
   priority: "high"
   address: "54 S High St, Wailuku, HI 96793"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 53
   name: "Ho'okipa Beach Lookout"
   attraction_type: "scenic-view"
   priority: "high"
   address: "Paia, HI 96779"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 54
   name: "Ho'okipa Beach Park"
   attraction_type: "beach"
   priority: "high"
   address: "179 Hana Hwy, Paia, HI 96779"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 55
   name: "Olowalu Petroglyphs"
   attraction_type: "point-of-interest"
   priority: "minor"
   address: "361 Luawai St, Lahaina, HI 96761"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 56
   name: "Lower Pāʻia Beach Park"
   attraction_type: "beach"
   priority: "normal"
   address: "19 Hana Hwy, Paia, HI 96779"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 57
   name: "Pāʻia Secret Beach"
   attraction_type: "beach"
   priority: "high"
   address: "Puna Rd, Paia, HI 96779"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 58
   name: "King Kamehameha Golf Course Clubhouse"
@@ -404,19 +633,31 @@
   address: "2500 Honoapiilani Hwy, Wailuku, HI 96793"
   phone: "+1 808-249-0033"
   hours: "8:00 AM - 5:00 PM"
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 59
   name: "Mai Poina Beach Park"
   attraction_type: "beach"
   priority: "high"
   address: "353 S Kihei Rd, Kihei, HI 96753"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 60
   name: "Maluaka Beach"
   attraction_type: "beach"
   priority: "normal"
   address: "5400 Makena Alanui, Kihei, HI 96753"
+  phone: null
   hours: "7:30 AM - 7:30 PM"
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 61
   name: "Makena Beach"
@@ -424,24 +665,43 @@
   priority: "omg"
   address: "6600 Makena Alanui, Kihei, HI 96753"
   phone: "+1 800-464-2924"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 62
   name: "Ahihi-Kinau Natural Area Reserve"
   attraction_type: "point-of-interest"
   priority: "normal"
   address: "Wailea, HI 96753"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 63
   name: "La Perouse Memorial"
   attraction_type: "point-of-interest"
   priority: "minor"
   address: "Kihei, HI 96753"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 64
   name: "Lava Fields"
   attraction_type: "point-of-interest"
   priority: "normal"
   address: "8650 Must Hold Block Boundary, Kihei, HI 96753"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 65
   name: "Hāna Bay Beach Park"
@@ -449,6 +709,10 @@
   priority: "high"
   address: "150 Keawa Pl, Hana, HI 96713"
   phone: "+1 808-248-7022"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 66
   name: "Ukumehame Beach Park"
@@ -456,6 +720,10 @@
   priority: "omg"
   address: "615 Honoapiilani Hwy, Lahaina, HI 96761"
   phone: "+1 808-661-4685"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 67
   name: "Kūhiō Beach Park"
@@ -463,6 +731,10 @@
   priority: "normal"
   address: "453 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-768-3003"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 68
   name: "Waikiki Wall"
@@ -470,12 +742,21 @@
   priority: "low"
   address: "204 Kapahulu Ave, Honolulu, HI 96815"
   phone: "+1 808-497-9731"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 69
   name: "Queen's Beach"
   attraction_type: "beach"
   priority: "normal"
   address: "Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 70
   name: "War Memorial Natatorium"
@@ -483,90 +764,164 @@
   priority: "minor"
   address: "2815 Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-254-1828"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 71
   name: "Kaimana Beach"
   attraction_type: "beach"
   priority: "minor"
   address: "Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 72
   name: "Outrigger Canoe Club Beach"
   attraction_type: "beach"
   priority: "minor"
   address: "Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 73
   name: "Tonggs Beach"
   attraction_type: "beach"
   priority: "minor"
   address: "Kalakaua Ave, Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 74
   name: "Mākālei Beach Park"
   attraction_type: "beach"
   priority: "normal"
   address: "3111 Diamond Head Rd, Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 75
   name: "Sans Souci State Recreational Park"
   attraction_type: "park"
   priority: "normal"
   address: "Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 76
   name: "Steam Vents"
   attraction_type: "scenic-view"
   priority: "normal"
   address: "1 Crater Rim Drive, Pāhoa, HI 96778"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 77
   name: "Kilauea Overlook"
   attraction_type: "scenic-view"
   priority: "high"
   address: "Pāhoa, HI 96778"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 78
   name: "Nahuku - Thurston Lava Tube"
   attraction_type: "point-of-interest"
   priority: "high"
   address: "Hawaii Volcanoes National Park, HI 96718"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 79
   name: "Devastation Trail"
   attraction_type: "hike"
   priority: "high"
   address: "Crater Rim Drive, Volcano, HI 96785"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 80
   name: "Hale Ma'uma'u Volcano Crater"
   attraction_type: "scenic-view"
   priority: "omg"
   address: "Halema'uma'u Trail, Pāhoa, HI 96778"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 81
   name: "Luamanu Crater"
   attraction_type: "point-of-interest"
   priority: "normal"
   address: "HI 96778"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 82
   name: "Kōko‘Olau Crater"
   attraction_type: "point-of-interest"
   priority: "low"
   address: "HI 96778"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 83
   name: "Hi'iaka Crater"
   attraction_type: "point-of-interest"
   priority: "low"
   address: "HI 96778"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 84
   name: "Pauahi Crater"
   attraction_type: "point-of-interest"
   priority: "normal"
   address: "HI 96778"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 85
   name: "Kapiʻolani Regional Park"
@@ -574,6 +929,10 @@
   priority: "normal"
   address: "3840 Paki Ave, Honolulu, HI 96815"
   phone: "+1 808-768-4623"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 86
   name: "Prince Jonah Kūhiō Kalanianaʻole Statue"
@@ -581,6 +940,10 @@
   priority: "low"
   address: "2537-2501, Kalakaua Ave, Honolulu, HI 96815"
   phone: "+1 808-768-3003"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 87
   name: "Waimānalo Beach Park"
@@ -588,6 +951,10 @@
   priority: "normal"
   address: "41-741 Kalanianaʻole Hwy, Waimānalo, HI 96795"
   phone: "+1 808-259-9106"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 88
   name: "Maunalua Bay Beach Park"
@@ -595,6 +962,10 @@
   priority: "low"
   address: "Honolulu, HI 96825"
   phone: "+1 808-768-3003"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 89
   name: "North Shore Macadamia Nut Company"
@@ -603,12 +974,20 @@
   address: "62330 Kamehameha Hwy, Haleiwa, HI 96712"
   phone: "+1 808-375-0698"
   hours: "10:00 AM - 5:00 PM"
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 90
   name: "Queen Kapi'olani Statue"
   attraction_type: "point-of-interest"
   priority: "low"
   address: "2686 Kalakaua Ave, Honolulu, HI 96815"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 91
   name: "Shark's Cove"
@@ -616,12 +995,21 @@
   priority: "normal"
   address: "Haleiwa, HI 96712"
   phone: "+1 808-462-8290"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 92
   name: "Kawela Bay Beach Park"
   attraction_type: "beach"
   priority: "low"
   address: "57 Kamehameha Hwy, Kahuku, HI 96731"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 93
   name: "Ahupuaʻa ʻO Kahana State Park"
@@ -629,6 +1017,10 @@
   priority: "low"
   address: "52-222 Kamehameha Hwy, Kaaawa, HI 96730"
   phone: "+1 808-237-7766"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 94
   name: "Kahana Bay Beach Park"
@@ -636,6 +1028,10 @@
   priority: "normal"
   address: "52-222 Kamehameha Hwy, Hauula, HI 96717"
   phone: "+1 808-587-0300"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 95
   name: "Diamond Head Beach Park"
@@ -643,6 +1039,10 @@
   priority: "normal"
   address: "3300 Diamond Head Rd, Honolulu, HI 96815"
   phone: "+1 808-768-3003"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 96
   name: "Pearl Harbor National Memorial"
@@ -650,6 +1050,10 @@
   priority: "normal"
   address: "1 Arizona Memorial Pl, Honolulu, HI 96818"
   phone: "+1 808-422-3399"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 97
   name: "Kaua`i Museum"
@@ -657,9 +1061,18 @@
   priority: "normal"
   address: "4428 Rice St, Lihue, HI 96766"
   phone: "+1 808-245-6931"
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
 -
   id: 98
   name: "Hanakapi'ai Beach"
   attraction_type: "beach"
   priority: "major"
   address: "HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null

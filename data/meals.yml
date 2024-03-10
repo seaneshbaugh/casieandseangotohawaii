@@ -2,278 +2,167 @@
   id: 1
   name: "Dinner"
   restaurant_id: 1
-  food:
-    Casie:
-      - "Niku Udon"
-      - "Shrimp Tempura"
-      - "Mushroom Tempura"
-      - "Coke"
-    Sean:
-      - "Nikitama Udon"
-      - "Shrimp Tempura"
-      - "Calamari Tempura"
-      - "Potato Croquette"
-      - "Diet Coke"
-    Shared:
-      - "Asparagus Tempura"
+  notes: null
 -
   id: 2
   name: "Breakfast"
   restaurant_id: 2
-  food:
-    Casie:
-      - "‘The Royal Bake Shop’ Banana Bread French Toast"
-      - "Royal Kona Coffee"
-    Sean:
-      - "‘The Works’ Omelet"
-      - "Royal Kona Coffee"
+  notes: null
 -
   id: 3
   name: "Snack"
   restaurant_id: 3
-  food:
-    Casie:
-      - "Classic Rainbow"
-    Sean:
-      - "Pina Colada"
+  notes: null
 -
   id: 4
   name: "Lunch"
   restaurant_id: 4
-  food:
-    Casie:
-      - "Shrimp and Steak Plate"
-      - "Potato Macaroni Salad"
-      - "White Rice"
-      - "Soda"
-    Sean:
-      - "Kaiwe Slow Smoked Pork with Onions"
-      - "Potato Macaroni Salad"
-      - "White Rice"
-      - "Soda"
+  notes: null
 -
   id: 5
   name: "Dinner"
   restaurant_id: 5
-  food:
-    Casie:
-      - "Seven Spice Ahi"
-    Sean:
-      - "Sautéed Mac Nut and Herb Crusted Mahi-mahi"
-    Shared:
-      - "Panko Fried Calamari"
+  notes: null
 -
   id: 6
   name: "Breakfast"
   restaurant_id: 6
-  food:
-    Casie:
-      - "Coffee"
-    Sean:
-      - "Iced Mocha Macademia Nut Latte"
-    Shared:
-      - "3 × Dobash Malasadas"
-      - "3 × Custard Malasadas"
-      - "2 × Haupia Malasadas"
-      - "4 x Macadamia Malasadas"
-      - "Macadamia Nut Cookies"
   notes: "Food was fantastic, service was friendly but ultimately awful."
 -
   id: 7
   name: "Lunch"
   restaurant_id: 7
+  notes: null
 -
   id: 8
   name: "Dinner"
   restaurant_id: 8
-  food:
-    Casie:
-      - "Iced Tea"
-    Sean:
-      - "Soda"
-    Shared:
-      - "Geen Asparagus Salad"
-      - "Dote-yaki"
-      - "Steak, Shrimp, Scallop, and Vegetable Teppanyaki"
-      - "Takoyaki"
-      - "Pork/Squid/Shrimp Tama"
-      - "Cream Kuromitsu Milk Pudding"
+  notes: null
 -
   id: 9
   name: "Breakfast"
   restaurant_id: 9
-  food:
-    Casie:
-      - "Waimea Chun"
-      - "Iced Coffee"
-    Sean:
-      - "Haleiwa Chun"
-      - "Iced Coffee"
+  notes: null
 -
   id: 10
   name: "Lunch"
   restaurant_id: 10
-  food:
-    Casie:
-      - "The Best Fish Taco"
-      - "Shrimp Taco"
-      - "Pineapple Jarritos"
-    Sean:
-      - "Spicy Kahuna Fish Taco"
-      - "Roasted Pork Taco"
-      - "Mango Jarritos"
+  notes: null
 -
   id: 11
   name: "Dinner"
   restaurant_id: 11
-  food:
-    Casie:
-      - "Potato Crusted Opakapaka"
-    Sean:
-      - "Seared Ahi and Scallops with a Port Kauai Vanilla Sauce"
-      - "Soda"
-    Shared:
-      - "Valrhona Chocolate Cream Brûlée"
+  notes: null
 -
   id: 12
   name: "Breakfast"
   restaurant_id: 12
-  food:
-    Casie:
-      - "Traditional Loco Moco"
-      - "Iced Coffee"
-    Sean:
-      - "Kauai Benedict"
-      - "Iced Coffee"
+  notes: null
 -
   id: 13
   name: "Lunch"
   restaurant_id: 13
+  notes: null
 -
   id: 14
   name: "Dinner"
   restaurant_id: 14
-  food:
-    Casie:
-      - "Pacific Coast Coconut Shrimp"
-    Sean:
-      - "Mixed Seafood Red Thai Curry"
+  notes: null
 -
   id: 15
   name: "Breakfast"
   restaurant_id: 15
+  notes: null
 -
   id: 16
   name: "Lunch"
   restaurant_id: 16
+  notes: null
 -
   id: 17
   name: "Snack"
   restaurant_id: 17
+  notes: null
 -
   id: 18
   name: "Dinner"
   restaurant_id: 18
-  food:
-    Casie:
-      - "Panzanella"
-      - "Root Beer"
-    Sean:
-      - "Fish Curry"
-      - "Coke"
-    Shared:
-      - "Smoked Salmon"
-      - "Flourless Chocolate Cake"
+  notes: null
 -
   id: 19
   name: "Breakfast"
   restaurant_id: 19
+  notes: null
 -
   id: 20
   name: "Lunch"
   restaurant_id: 20
-  food:
-    Casie:
-      - "Grilled Cheese"
-      - "Chips"
-      - "Hawaiian Sun"
-    Sean:
-      - "Burger"
-      - "Chips"
-      - "Hawaiian Sun"
+  notes: null
 -
   id: 21
   name: "Snack"
   restaurant_id: 21
+  notes: null
 -
   id: 22
   name: "Dinner"
   restaurant_id: 22
+  notes: null
 -
   id: 23
   name: "Breakfast"
   restaurant_id: 23
+  notes: null
 -
   id: 24
   name: "Snack"
   restaurant_id: 24
-  food:
-    Casie:
-      - "One Scoop Mudpie Ice Cream"
-    Sean:
-      - "One Scoop Vanilla Ice Cream"
+  notes: null
 -
   id: 25
   name: "Dinner"
   restaurant_id: 25
+  notes: null
 -
   id: 26
   name: "Breakfast"
   restaurant_id: 26
+  notes: null
 -
   id: 27
   name: "Lunch"
   restaurant_id: 27
+  notes: null
 -
   id: 28
   name: "Snack"
   restaurant_id: 28
+  notes: null
 -
   id: 29
   name: "Dinner"
   restaurant_id: 29
+  notes: null
 -
   id: 30
   name: "Breakfast"
   restaurant_id: 30
-  food:
-    Casie:
-      - "Bacon and Egg Sandwich"
-      - "Pineapple Mac Nut Pie"
-      - "Cold Brew Coffee"
-    Sean:
-      - "Seared Ahi Sandwich"
-      - "Olowalu Lime Pie"
-      - "Cold Brew Coffee"
+  notes: null
 -
   id: 31
   name: "Lunch"
   restaurant_id: 31
+  notes: null
 -
   id: 32
   name: "Dinner"
   restaurant_id: 32
+  notes: null
 -
   id: 33
   name: "Breakfast"
   restaurant_id: 33
-  food:
-    Casie:
-      - "Belgian Waffle"
-      - "Coffee"
-    Sean:
-      - "Royal Loco Moco"
-      - "Coffee"
+  notes: null
 -
   id: 34
   name: "Dinner"
@@ -283,873 +172,354 @@
   id: 35
   name: "Lunch"
   restaurant_id: 35
-  food:
-    Casie:
-      - "Shoyu Poke"
-      - "Water"
-    Cathie:
-      - "Avocado and Papaya Shrimp Salad"
-      - "Water"
-    Dwayne:
-      - "Shrimp with Walnut"
-      - "Water"
-    Kyle:
-      - "Sweet and Spicy Shrimp"
-      - "Water"
-    Sean:
-      - "Pele Poke"
-      - "Passion Orange Aloha"
+  notes: null
 -
   id: 36
   name: "Dinner"
   restaurant_id: 36
-  food:
-    Casie:
-      - "Sautéed Mac Nut &amp; Herb Crusted Fresh Nairagi"
-      - "Water"
-    Cathie:
-      - "Farm to Fork"
-      - "Molokai Margarita"
-    Dwayne:
-      - "Fish Tacos (nairagi)"
-      - "Duke's Blonde Ale"
-    Kyle:
-      - "Duke's Cheeseburger"
-      - "Fries"
-      - "Duke's Mai Tai"
-    Sean:
-      - "Sautéed Mac Nut &amp; Herb Crusted Fresh Nairagi"
-      - "Diet Coke"
-    Shared:
-      - "Kimo's Original Hula Pie"
+  notes: null
 -
   id: 37
   name: "Lunch"
   restaurant_id: 37
-  food:
-    Casie:
-      - "Orange Marlin Sandwich"
-    Kyle:
-      - "Spicy Chicken Sandwich"
-    Sean:
-      - "Chop Steak Kau Kau Tin"
-      - "Diet Coke"
+  notes: null
 -
   id: 38
   name: "Snack"
   restaurant_id: 28
-  food:
-    Casie:
-      - "Medium half mango half pineapple shaved ice with macademia nut ice cream"
-    Kyle:
-      - "Medium Sunset Beach shaved ice with macademia nut ice cream"
-    Sean:
-      - "Large No Ka Oi shaved ice with macademia nut ice cream"
+  notes: null
 -
   id: 39
   name: "Dinner"
   restaurant_id: 38
-  food:
-    Casie:
-      - "Water"
-    Cathie:
-      - "Water"
-    Dwayne:
-      - "Water"
-    Kyle:
-      - "Coke"
-    Sean:
-      - "Diet Coke"
-    Shared:
-      - "Focaccia"
-      - "Local-Kine Pizza"
-      - "Garlic Mushroom Pizza"
-      - "Pepperoni, Red Onions, Pepperoncini Pizza"
+  notes: null
 -
   id: 40
   name: "Snack"
   restaurant_id: 39
-  food:
-    Casie:
-      - "One Scoop Chocolate Macademia Nut Ice Cream on a Waffle Cone"
-    Cathie:
-      - "One Scoop Coconute Ice Cream on a Waffle Cone"
-    Sean:
-      - "One Scoop Vanilla Macademia Nut Ice Cream + One Scoop Coconut Ice Cream on a Waffle Cone"
+  notes: null
 -
   id: 41
   name: "Dinner"
   restaurant_id: 32
-  food:
-    Casie:
-      - "Hawaiian Poke Duo"
-      - "Pan Seared Line Caught Mahi Mahi"
-      - "Chocolate Macademia Nut Tart"
-      - "Virgin Strawberry Daquiri"
-    Cathie:
-      - "Kona Keahole Lobster &amp; Tamimi Farm Tomatoes"
-      - "Pan Seared Line Caught Mahi Mahi"
-      - "Tahitian Vanilla Bean Crème Brulee"
-      - "White Wine"
-    Dwayne:
-      - "Hawaiian Poke Duo"
-      - "Pan Seared Line Caught Mahi Mahi"
-      - "Chocolate Macademia Nut Tart"
-      - "Beer"
-    Kyle:
-      - "Kalua Pig Quesadilla"
-      - "Harissa Spiced Diver Scallops &amp; Wild Shrimp"
-      - "Chocolate Macademia Nut Tart"
-      - "Merriman's Mai Tai"
-    Sean:
-      - "Hawaiian Poke Duo"
-      - "Pan Seared Line Caught Mahi Mahi"
-      - "Chocolate Macademia Nut Tart"
-      - "Merriman's Mai Tai"
-      - "Diet Coke"
+  notes: null
 -
   id: 42
   name: "Dinner"
   restaurant_id: 40
-  food:
-    Casie:
-      - "Local Grown Green Salad"
-      - "Braised Beef"
-      - "I'a - Maui Style Fish"
-      - "Moa - Island Style Chicken"
-      - "Stir Fry Vegetables"
-      - "Sweet Potato Mash"
-      - "Haupio"
-      - "Kulolo"
-      - "Pineapple upside-down cake"
-    Cathie:
-      - "Local Grown Green Salad"
-      - "Braised Beef"
-      - "I'a - Maui Style Fish"
-      - "Moa - Island Style Chicken"
-      - "Stir Fry Vegetables"
-      - "Sweet Potato Mash"
-      - "Haupio"
-      - "Kulolo"
-      - "Pineapple upside-down cake"
-    Dwayne:
-      - "Local Grown Green Salad"
-      - "Braised Beef"
-      - "I'a - Maui Style Fish"
-      - "Moa - Island Style Chicken"
-      - "Stir Fry Vegetables"
-      - "Sweet Potato Mash"
-      - "Haupio"
-      - "Kulolo"
-      - "Pineapple upside-down cake"
-    Kyle:
-      - "Local Grown Green Salad"
-      - "Braised Beef"
-      - "I'a - Maui Style Fish"
-      - "Moa - Island Style Chicken"
-      - "Stir Fry Vegetables"
-      - "Sweet Potato Mash"
-      - "Haupio"
-      - "Kulolo"
-      - "Pineapple upside-down cake"
-    Sean:
-      - "Local Grown Green Salad"
-      - "Braised Beef"
-      - "I'a - Maui Style Fish"
-      - "Moa - Island Style Chicken"
-      - "Stir Fry Vegetables"
-      - "Sweet Potato Mash"
-      - "Haupio"
-      - "Kulolo"
-      - "Pineapple upside-down cake"
-    Shared:
-      - "Kalo and Sweet Potato Chips"
-      - "Kalo Hummus"
-      - "Hawaiian Sweet Rolls"
-      - "Taro Rolls"
-      - "Honey-Guava Butter"
-      - "Pua'a Kālua"
-      - "Laulau"
-      - "Poke 'Ahi"
-      - "Lomilomi Salmon"
-      - "Pa'i'ai"
+  notes: null
 -
   id: 43
   name: "Brunch"
   restaurant_id: 41
-  food:
-    Casie:
-      - "Seared Ahi Benedict"
-      - "Orange Juice"
-    Cathie:
-      - "Veggie Omlette"
-      - "Water"
-    Dwayne:
-      - "Seared Ahi Benedict"
-      - "Water"
-    Kyle:
-      - "Portuguese Sausage, Bacon &amp; Cheddar Omlette"
-      - "Ice Tea"
-    Sean:
-      - "Portuguese Sausage, Bacon &amp; Cheddar Omlette"
-      - "Seared Ahi Benedict"
-      - "Coffee"
-      - "Passion Orange Guava Juice"
+  notes: null
 -
   id: 44
   name: "Breakfast"
   restaurant_id: 42
-  food:
-    Casie:
-      - "Banana Bread French Toast"
-      - "Passion Orange Guava Juice"
-    Cathie:
-      - "Hawaiian Pancakes"
-      - "Water"
-    Dwayne:
-      - "Grand Slap!"
-      - "Passion Orange Guava Juice"
-    Sean:
-      - "Slappy Moco"
-      - "Passion Orange Guava Juice"
+  notes: null
 -
   id: 45
   name: "Lunch"
   restaurant_id: 43
-  food:
-    Casie:
-      - "Kumu Famrs Half Papaya Salad"
-      - "Pineapple Ice Tea"
-    Cathie:
-      - "&ldquo;Local Style&rdquo; Portuguese Bean Soup"
-      - "Water"
-    Dwayne:
-      - "Cafe O'lei Ceasar Salad"
-      - "Ice Tea"
-    Kyle:
-      - "Prime Rib Dip"
-      - "Ice Tea"
-    Sean:
-      - "Mahimahi + Chips"
-      - "Lilokoi No Hito"
+  notes: null
 -
   id: 46
   name: "Breakfast"
   restaurant_id: 45
-  food:
-    Casie:
-      - "Kalua Pork Loco Moco"
-      - "Iced Coffee"
-    Sean:
-      - "Kalua Pork Loco Moco"
-      - "Iced Coffee"
-    Shared:
-      - "Cinnamon Roll"
+  notes: null
 -
   id: 47
   name: "Snack"
   restaurant_id: 46
-  food:
-    Casie:
-      - "Medium Sunset Beach shaved ice with macademia nut ice cream"
-    Cathie:
-      - "Small Sunset Beach shaved ice with macademia nut ice cream"
-    Dwayne:
-      - "Small Sunset Beach shaved ice with macademia nut ice cream"
-    Sean:
-      - "Large Sunset Beach shaved ice with macademia nut ice cream"
+  notes: null
 -
   id: 48
   name: "Lunch"
   restaurant_id: 30
-  food:
-    Casie:
-      - "Spicy Tuna Sandwich"
-      - "Olowalu Lime Pie"
-    Cathie:
-      - "Reuben Sandwich"
-      - "Coconut Cream Pie"
-    Dwayne:
-      - "Fresh Tuna Salad Sandwich"
-      - "Chocolate Mac Nut Pie"
-    Sean:
-      - "Seared Ahi Sandwich"
-      - "Pineapple Mac Nut Pie"
+  notes: null
 -
   id: 49
   name: "Snack"
   restaurant_id: 47
-  food:
-    Casie:
-      - "Pineapple Smoothie"
-    Sean:
-      - "Coconut and Mango Smoothie"
+  notes: null
 -
   id: 50
   name: "Dinner"
   restaurant_id: 48
-  food:
-    Casie:
-      - "Sesame Crusted Ahi Steak"
-      - "Tropical Smoothie"
-    Sean:
-      - "Herb Roasted Monchong"
-      - "Ginger Hoku"
-      - "Hibiscus Paloma"
-      - "Local Cola"
-    Shared:
-      - "Coconut Shrimp"
-      - "Kimo's Original Hula Pie"
+  notes: null
 -
   id: 51
   name: "Dinner"
   restaurant_id: 49
-  food:
-    Casie:
-      - "Fire Grilled Ahi Steak"
-      - "Water"
-    Cathie:
-      - "Kiawe Roasted Chicken"
-      - "Lilikoi Mojito"
-    Dwayne:
-      - "Crab Topped Macadamia Nut Crusted Mahi-mahi"
-      - "Barefoot Brew"
-    Sean:
-      - "Crab Topped Macadamia Nut Crusted Mahi-mahi"
-      - "Diet Local Cola"
-    Shared:
-      - "Lobster, Shrimp &amp; Scallop Potstickers"
-      - "Mango BBQ Ribs"
+  notes: null
 -
   id: 52
   name: "Breakfast"
   restaurant_id: 50
-  food:
-    Casie:
-      - "Sausage, Egg, and Cheese Bagel Sandwich"
-    Sean:
-      - "Sausage, Egg, and Cheese Bagel Sandwich"
+  notes: null
 -
   id: 53
   name: "Lunch"
   restaurant_id: 51
-  food:
-    Casie:
-      - "Steakhouse Burger"
-      - "Water"
-    Cathie:
-      - "Water"
-    Dwayne:
-      - "Ice Tea"
-    Kyle:
-      - "Ice Tea"
-    Sean:
-      - "Cheeseburger in Paradise"
-      - "Diet Coke"
-      - "Pina Colada"
+  notes: null
 -
   id: 54
   name: "Dinner"
   restaurant_id: 52
-  food:
-    Casie:
-      - "Chicken Katsu Curry"
-      - "Water"
-    Cathie:
-      - "Island Cobb Salad"
-      - "Mojito"
-    Dwayne:
-      - "Original Spinach Salad"
-      - "Longboard Island Lager"
-    Kyle:
-      - "Chicken Katsu Curry"
-      - "Ice Tea"
-    Sean:
-      - "Kalua Pork Curry"
-      - "Diet Coke"
+  notes: null
 -
   id: 55
   name: "Breakfast"
   restaurant_id: 53
-  food:
-    Casie:
-      - "Chuns Breakfast Bomber"
-      - "Iced Vanilla Macadamia Nut Coffee"
-    Sean:
-      - "Chuns Breakfast Bomber"
-      - "Iced Vanilla Macadamia Nut Coffee"
+  notes: null
 -
   id: 56
   name: "Lunch"
   restaurant_id: 5
-  food:
-    Casie:
-      - "Chilled Shrimp Salad"
-      - "Ice Tea"
-    Cathie:
-      - "Crispy Chicken BLT"
-      - "Water"
-    Dwayne:
-      - "Crispy Chicken BLT (minus chicken)"
-      - "Ice Tea"
-    Kyle:
-      - "Korean Steak Tacos"
-      - "Coke"
-    Sean:
-      - "Coconut Shrimp &amp; Fries"
-      - "Local Diet Cola"
-    Shared:
-      - "Duke's Nachos"
-      - "Kimo's Original Hula Pie"
+  notes: null
 -
   id: 57
   name: "Dinner"
   restaurant_id: 1
-  food:
-    Casie:
-      - "Beef Udon"
-      - "Tempura Potato Croquette"
-      - "Tempura Shrimp"
-      - "Tempura Shrimp"
-      - "Tempura Mushroom"
-      - "Ito En Green Tea"
-    Sean:
-      - "Curry Nikutama Udon"
-      - "Tempura Potato Croquette"
-      - "Tempura Shrimp"
-      - "Tempura Shrimp"
-      - "Tempura Tamagoyaki"
-      - "Diet Coke"
+  notes: null
 -
   id: 58
   name: "Snack"
   restaurant_id: 54
-  food:
-    Casie:
-      - "One Scoop Pineapple Orange Guava Sorbet in a Cup"
-    Sean:
-      - "One Scoop Coconut Ice Cream + One Scoop White Chocolate Macademia Nut Ice Cream on a Waffle Cone"
+  notes: null
 -
   id: 59
   name: "Breakfast"
   restaurant_id: 55
-  food:
-    Casie:
-      - "Brudah Omelette"
-      - "Orange Juice"
+  notes: null
 -
   id: 60
   name: "Dinner"
   restaurant_id: 56
-  food:
-    Casie:
-      - "Beer Battered Fish &amp; Chips"
-      - "Water"
-    Cathie:
-      - "Localicious Salad"
-      - "Pina Colada"
-    Dwayne:
-      - "Beer Battered Fish &amp; Chips"
-      - "Kona Light Blond Ale"
-    Sean:
-      - "Ono and Mahi Mahi"
-      - "Local Diet Cola"
+  notes: null
 -
   id: 61
   name: "Breakfast"
   restaurant_id: 57
-  food:
-    Casie:
-      - "Traditional Waffle"
-      - "Iced Latte"
-    Sean:
-      - "Salted Caramel Waffle"
-      - "Iced Latte"
+  notes: null
 -
   id: 62
   name: "Lunch"
   restaurant_id: 58
-  food:
-    Casie:
-      - "Black Tiger Shrimp"
-      - "Plantation Ice Tea"
-      - "Kona Coffee Gelato"
-    Cathie:
-      - "Black Tiger Shrimp"
-      - "Water"
-      - "Kona Coffee Gelato"
-    Dwayne:
-      - "Crab Lobster Salad on Whole Wheat Croissant"
-      - "Plantation Ice Tea"
-      - "Halekulani's Signature Coconut Cake"
-    Kyle:
-      - "House Salad"
-      - "Maccheroni Bolognese"
-      - "Coke"
-    Sean:
-      - "Beef Tartare, Piemonte Style"
-      - "Hapu'upu'u"
-      - "Guava Juice"
-      - "Plantation Ice Tea"
-      - "Halekulani's Signature Coconut Cake"
+  notes: null
 -
   id: 63
   name: "Dinner"
   restaurant_id: 59
-  food:
-    Casie:
-      - "Water"
-    Sean:
-      - "Sake"
-      - "Coke Zero"
-    Shared:
-      - "Lava Roll"
-      - "Negi Toro Roll"
-      - "Philly Roll"
-      - "Creamy Spicy Shrimp Tempura"
-      - "Chicken Karaage"
+  notes: null
 -
   id: 64
   name: "Breakfast"
   restaurant_id: 6
-  food:
-    Casie:
-      - "Ice Coffee"
-    Sean:
-      - "Ice Coffee"
-    Shared:
-      - "Six Cinnamon Sugar Malasadas"
-      - "Two Chcoclate Malasadas"
-      - "Two Haupia Malasadas"
-      - "Two Macadamia Nut Malasadas"
+  notes: null
 -
   id: 65
   name: "Lunch"
   restaurant_id: 60
-  food:
-    Casie:
-      - "Teriyaki Shrimp Plate"
-      - "Aloha Ice Tea"
-    Sean:
-      - "Hawaiian Poke Plate"
-      - "Passion Orange Hawaiian Sun"
+  notes: null
 -
   id: 66
   name: "Dinner"
   restaurant_id: 44
-  food:
-    Casie:
-      - "Misoyaki Butterfish"
-      - "Water"
-      - "Roy's Signature Melting Hot Chocolate Soufflé"
-    Cathie:
-      - "Kauai Prawns"
-      - "Roy's Signature Melting Hot Chocolate Soufflé"
-    Dwayne:
-      - "Blackened Island Ahi"
-      - "Roy's Waikiki Mai Tai"
-      - "Roy's Signature Melting Hot Chocolate Soufflé"
-    Kyle:
-      - "CBK Roll"
-      - "HK Crab Cakes"
-      - "Roy's Signature Melting Hot Chocolate Soufflé"
-    Sean:
-      - "Blackened Island Ahi"
-      - "Paradise Ciders Passion Orange Guava"
-      - "Diet Coke"
-      - "Roy's Signature Melting Hot Chocolate Soufflé"
-    Shared:
-      - "Roy's Kiawe Smoked Szechuan Baby Back Ribs"
-      - "Mau-Gyotaku Roll"
-      - "HK Crab Cakes"
+  notes: null
 -
   id: 67
   name: "Breakfast"
   restaurant_id: 61
-  food:
-    Casie:
-      - "Egg Lust Sandwich"
-      - "Mango Smoothie"
-      - "Ice Coffee"
-    Sean:
-      - "Royal Loco Moco"
-      - "Mango Smoothie"
-      - "Ice Coffee"
+  notes: null
 -
   id: 68
   name: "Lunch"
   restaurant_id: 62
-  food:
-    Casie:
-      - "Ahi Poke Bowl"
-      - "Water"
-    Cathie:
-      - "Turkey Club"
-      - "Truffle Fries"
-      - "Water"
-    Dwayne:
-      - "Burger"
-      - "Water"
-    Kyle:
-      - "Water"
-    Sean:
-      - "Ahi Poke Bowl"
-      - "Pineapple Juice"
+  notes: null
 -
   id: 69
   name: "Dinner"
   restaurant_id: 63
-  food:
-    Casie:
-      - "Seafood Combination"
-      - "Water"
-    Cathie:
-      - "Filet"
-      - "Pinot Noir"
-    Dwayne:
-      - "Filet"
-      - "Scallops"
-      - "Coors Light"
-    Kyle:
-      - "Super Steak and Teriyaki Chicken"
-      - "Coke"
-    Sean:
-      - "Daimyo"
-      - "Hakushika Yamadanishiki Junmai Sake"
-      - "Diet Coke"
   notes: "The chef's vibes were immaculate."
 -
   id: 70
   name: "Breakfast"
   restaurant_id: 9
-  food:
-    Casie:
-      - "Chuns Breakfast Bomber"
-      - "Iced Vanilla Macadamia Nut Coffee"
-    Kyle:
-      - "Chuns Breakfast Bomber"
-    Sean:
-      - "Chuns Breakfast Bomber"
-      - "Iced Vanilla Macadamia Nut Coffee"
+  notes: null
 -
   id: 71
   name: "Dinner"
   restaurant_id: 64
-  food:
-    Casie:
-      - "Chicken Fingers"
-      - "Water"
-    Cathie:
-      - "Pineapple Chicken Quesadilla"
-      - "Water"
-    Dwayne:
-      - "Loco Moco"
-      - "Longboard Island Lager"
-    Kyle:
-      - "Chicken Fingers"
-      - "Water"
-    Sean:
-      - "Loco Moco"
-      - "Diet Coke"
+  notes: null
 -
   id: 72
   name: "Breakfast"
   restaurant_id: 65
-  food:
-    Cathie:
-      - "Eggs any Style (scrambled eggs, potatoes, toast, bacon)"
-      - "Kona Blend Coffee"
-    Dwayne:
-      - "Eggs any Style (scrambled eggs, potatoes, toast, bacon)"
-      - "Tea"
+  notes: null
 -
   id: 73
   name: "Dinner"
   restaurant_id: 66
-  food:
-    Cathie:
-      - "The Caddy Master"
-    Dwayne:
-      - "Longbeard Island Lager"
-    Kyle:
-      - "Longbeard Island Lager"
-    Shared:
-      - "BBQ Pork Pizza"
-      - "The G.O.A.T. Pizza"
+  notes: null
 -
   id: 80
   name: "Breakfast"
   restaurant_id: 50
-  food:
-    Shared:
-      - "Banana Muffins"
+  notes: null
 -
   id: 81
   name: "Lunch"
   restaurant_id: 67
-  food:
-    Shared:
-      - "Inu Burger"
+  notes: null
 -
   id: 82
   name: "Lunch"
   restaurant_id: 68
-  food:
-    Kyle:
-      - "McDouble"
-      - "Fries"
-      - "Coke"
+  notes: null
 -
   id: 83
   name: "Dinner"
   restaurant_id: 62
-  food:
-    Cathie:
-      - "The Royal Margarita"
-    Dwayne:
-      - "Longboard Island Lager"
-    Kyle:
-      - "Water"
-    Shared:
-      - "Turkey Club"
-      - "Truffle Fries"
+  notes: null
 -
   id: 84
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 85
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 86
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 87
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 88
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 89
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 90
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 91
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 92
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 93
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 94
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 95
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 96
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 97
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 98
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 99
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 100
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 101
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 102
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 103
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 104
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 105
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 106
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 107
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 108
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 109
   name: "Breakfast"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 110
   name: "Lunch"
   restaurant_id: null
-  food:
+  notes: null
 -
   id: 111
   name: "Dinner"
   restaurant_id: null
-  food:
+  notes: null

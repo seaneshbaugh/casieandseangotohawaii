@@ -1,0 +1,22 @@
+AllCops:
+  Exclude:
+    - admin/db/schema.rb
+  NewCops: enable
+
+Layout/LineLength:
+  Max: 200
+
+Metrics/AbcSize:
+  Max: 32
+
+Metrics/BlockLength:
+  Max: 128
+
+Metrics/MethodLength:
+  Max: 128
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false

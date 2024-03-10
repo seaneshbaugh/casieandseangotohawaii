@@ -5,7 +5,7 @@
       .connection-location
         = partial('airport', locals: { airport: airport(connection.connection_airport_id) })
       .flight-number= connection.flight_number
-      .connection-arrival-time= connection.connection_arrival_time
-      .connection-departure-time= connection.connection_departure_time
+      .connection-arrival-time= Time.strptime(connection.connection_arrival_time, '%Y-%m-%dT%H:%M:%S%Z').strftime('%l:%M %p')
+      .connection-departure-time= Time.strptime(connection.connection_departure_time, '%Y-%m-%dT%H:%M:%S%Z').strftime('%l:%M %p')
       .connection-layover-duration= connection.connection_layover_duration
       .connection-duration= connection.connection_duration

@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH.unshift(File.expand_path(File.join('..', 'admin'), __dir__))
+
+require 'commands/resetdb'
+
+exit Admin::Commands::ResetDB.run!

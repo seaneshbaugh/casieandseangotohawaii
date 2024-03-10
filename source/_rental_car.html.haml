@@ -7,9 +7,9 @@
     %h4.name Pickup
     .location= "#{airport(rental_car.pickup_location_airport_id).name} (#{airport(rental_car.pickup_location_airport_id).code})"
     .date= DateTime.parse(rental_car.pickup_datetime).strftime('%Y-%m-%d')
-    .time= DateTime.parse(rental_car.pickup_datetime).strftime('%I:%M %p')
+    .time= DateTime.parse(rental_car.pickup_datetime).strftime('%l:%M %p')
   .dropoff
     %h4.name Dropoff
     .location= "#{airport(rental_car.dropoff_location_airport_id).name} (#{airport(rental_car.dropoff_location_airport_id).code})"
     .date= DateTime.parse(rental_car.dropoff_datetime).strftime('%Y-%m-%d')
-    .time= DateTime.parse(rental_car.dropoff_datetime).strftime('%I:%M %p')
+    .time= DateTime.parse(rental_car.dropoff_datetime).strftime('%l:%M %p')

@@ -2,91 +2,98 @@
   id: 1
   flight_number: "AA 761"
   departure_airport_id: 1
-  departure_time: "7:10 AM"
+  departure_time: "2017-10-27T07:10:00-06:00"
   duration: "2h 35m"
   arrival_airport_id: 2
-  arrival_time: "2:13 PM"
+  arrival_time: "2017-10-27T14:13:00-10:00"
   total_duration: "12h 3m"
 -
   id: 2
   flight_number: "HA 153"
   departure_airport_id: 2
-  departure_time: "1:15 PM"
+  departure_time: "2017-10-30T13:15:00-10:00"
   duration: "43m"
   arrival_airport_id: 3
-  arrival_time: "1:58 PM"
+  arrival_time: "2017-10-30T13:58:00-10:00"
+  total_duration: null
 -
   id: 3
   flight_number: "HA 244"
   departure_airport_id: 3
-  departure_time: "12:28 PM"
+  departure_time: "2017-11-03T12:28:00-10:00"
   duration: "49m"
   arrival_airport_id: 4
-  arrival_time: "1:17 PM"
+  arrival_time: "2017-11-03T12:17:00-10:00"
+  total_duration: null
 -
   id: 4
   flight_number: "AA 645"
   departure_airport_id: 4
-  departure_time: "11:20 PM"
+  departure_time: "2017-11-06T23:20:00-10:00"
   duration: "5h 43m"
   arrival_airport_id: 1
-  arrival_time: "3:13 PM"
+  arrival_time: "2017-11-07T15:13:00-06:00"
   total_duration: "11h 53m"
 -
   id: 5
   flight_number: "AA 7"
   departure_airport_id: 1
-  departure_time: "9:20 AM"
+  departure_time: "2021-12-01T09:20:00-06:00"
   duration: "6h 45m"
   arrival_airport_id: 4
-  arrival_time: "1:41 PM"
+  arrival_time: "2021-12-01T13:41:00-10:00"
+  total_duration: null
 -
   id: 6
   flight_number: "HA 353"
   departure_airport_id: 4
-  departure_time: "4:10 PM"
+  departure_time: "2021-12-07T16:10:00-10:00"
   duration: "40m"
   arrival_airport_id: 2
-  arrival_time: "4:50 PM"
+  arrival_time: "2021-12-07T16:50:00-10:00"
+  total_duration: null
 -
   id: 7
   flight_number: "HA 182"
   departure_airport_id: 2
-  departure_time: "8:40 AM"
+  departure_time: "2021-12-09T08:40:00-10:00"
   duration: "56m"
   arrival_airport_id: 6
-  arrival_time: "9:36 AM"
+  arrival_time: "2021-12-09T09:36:00-10:00"
+  total_duration: null
 -
   id: 8
   flight_number: "HA 511"
   departure_airport_id: 6
-  departure_time: "7:15 PM"
+  departure_time: "2021-12-09T19:15:00-10:00"
   duration: "52m"
   arrival_airport_id: 2
-  arrival_time: "8:07 PM"
+  arrival_time: "2021-12-09T20:07:00-10:00"
+  total_duration: null
 -
   id: 9
   flight_number: "AA 8"
   departure_airport_id: 2
-  departure_time: "7:45 PM"
-  duration: ""
+  departure_time: "2021-12-13T19:45:00-10:00"
+  duration: "7h 26m"
   arrival_airport_id: 1
-  arrival_time: "7:11 AM"
+  arrival_time: "2021-12-14T07:11:00-06:00"
+  total_duration: null
 -
   id: 10
   flight_number: "AA 1540"
   departure_airport_id: 1
-  departure_time: "12:20 PM"
+  departure_time: "2024-04-30T12:20:00-06:00"
   duration: ""
   arrival_airport_id: 3
-  arrival_time: "6:01 PM"
-  total_duration: ""
+  arrival_time: "2024-04-30T18:01:00-10:00"
+  total_duration: "9h 41m"
 -
   id: 11
   flight_number: "AA 286"
   departure_airport_id: 3
-  departure_time: "10:00 PM"
+  departure_time: "2024-05-09T22:00:00-10:00"
   duration: ""
   arrival_airport_id: 1
-  arrival_time: "1:09 PM"
-  total_duration: ""
+  arrival_time: "2024-05-10T13:09:00-06:00"
+  total_duration: "11h 9m"

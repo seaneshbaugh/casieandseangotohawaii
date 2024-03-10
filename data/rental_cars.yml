@@ -4,60 +4,60 @@
   car_make_model: "Mazda 3"
   price: "$126.07"
   pickup_location_airport_id: 2
-  pickup_datetime: "2017-10-27t15:00:00.00-10:00"
+  pickup_datetime: "2017-10-27T15:00:00.00-10:00"
   dropoff_location_airport_id: 2
-  dropoff_datetime: "2017-10-30t13:00:00.00-10:00"
+  dropoff_datetime: "2017-10-30T13:00:00.00-10:00"
 -
   id: 2
   company: "Alamo"
   car_make_model: "Hyundai Santa Fe"
   price: "$174.73"
   pickup_location_airport_id: 3
-  pickup_datetime: "2017-10-30t14:30:00.00-10:00"
+  pickup_datetime: "2017-10-30T14:30:00.00-10:00"
   dropoff_location_airport_id: 3
-  dropoff_datetime: "2017-11-17t12:30:00.00-10:00"
+  dropoff_datetime: "2017-11-17T12:30:00.00-10:00"
 -
   id: 3
   company: "Budget"
   car_make_model: "Jeep Wrangler"
   price: "$132.90"
   pickup_location_airport_id: 4
-  pickup_datetime: "2017-11-03t14:00:00.00-10:00"
+  pickup_datetime: "2017-11-03T14:00:00.00-10:00"
   dropoff_location_airport_id: 4
-  dropoff_datetime: "2017-11-06t22:00:00.00-10:00"
+  dropoff_datetime: "2017-11-06T22:00:00.00-10:00"
 -
   id: 4
   company: "Avis"
   car_make_model: "Chrysler Pacifica"
   price: "$698.65"
   pickup_location_airport_id: 4
-  pickup_datetime: "2021-12-01t13:30:00.00-10:00"
+  pickup_datetime: "2021-12-01T13:30:00.00-10:00"
   dropoff_location_airport_id: 4
-  dropoff_datetime: "2021-12-07t15:00:00.00-10:00"
+  dropoff_datetime: "2021-12-07T15:00:00.00-10:00"
 -
   id: 5
   company: "Avis"
   car_make_model: "Ford Edge"
   price: "$416.59"
   pickup_location_airport_id: 2
-  pickup_datetime: "2021-12-07t17:00:00.00-10:00"
+  pickup_datetime: "2021-12-07T17:00:00.00-10:00"
   dropoff_location_airport_id: 2
-  dropoff_datetime: "2021-12-13t20:00:00.00-10:00"
+  dropoff_datetime: "2021-12-13T20:00:00.00-10:00"
 -
   id: 6
   company: "Alamo"
   car_make_model: "Chevrolet Equinox"
   price: "$96.79"
   pickup_location_airport_id: 6
-  pickup_datetime: "2021-12-09t09:30:00.00-10:00"
+  pickup_datetime: "2021-12-09T09:30:00.00-10:00"
   dropoff_location_airport_id: 6
-  dropoff_datetime: "2021-12-09t18:30:00.00-10:00"
+  dropoff_datetime: "2021-12-09T18:30:00.00-10:00"
 -
   id: 7
-  company: "TBD"
-  car_make_model: "TBD (Jeep?)"
-  price: "TBD"
+  company: "Avis"
+  car_make_model: "Intermediate SUV"
+  price: "$826.61"
   pickup_location_airport_id: 3
-  pickup_datetime: "2024-04-30t18:00:00.00-10:00"
+  pickup_datetime: "2024-04-30T19:00:00.00-10:00"
   dropoff_location_airport_id: 3
-  dropoff_datetime: "2024-05-09t18:00:00.00-10:00"
+  dropoff_datetime: "2024-05-09T20:00:00.00-10:00"
