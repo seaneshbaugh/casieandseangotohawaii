@@ -386,22 +386,22 @@
 -
   id: 84
   name: "Dinner"
-  restaurant_id: null
+  restaurant_id: 69
   notes: null
 -
   id: 85
   name: "Breakfast"
-  restaurant_id: null
+  restaurant_id: 70
   notes: null
 -
   id: 86
   name: "Lunch"
-  restaurant_id: null
+  restaurant_id: 71
   notes: null
 -
   id: 87
   name: "Dinner"
-  restaurant_id: null
+  restaurant_id: 72
   notes: null
 -
   id: 88

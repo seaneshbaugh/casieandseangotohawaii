@@ -2764,3 +2764,75 @@
   linkable_id: 98
   link_type: "images"
   url: "https://www.google.com/search?tbm=isch&q=Hanakapiai+Beach"
+-
+  id: 462
+  linkable_type: "restaurant"
+  linkable_id: 71
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Kenji+Burger+Koloa/@21.904053,-159.4676554,17z/data=!4m14!1m7!3m6!1s0x7c071bfeaebf4243:0x7dc9685ed2da1b08!2sKenji+Burger+Koloa!8m2!3d21.904048!4d-159.4650805!16s%2Fg%2F11sg_0d01l!3m5!1s0x7c071bfeaebf4243:0x7dc9685ed2da1b08!8m2!3d21.904048!4d-159.4650805!16s%2Fg%2F11sg_0d01l?entry=ttu"
+-
+  id: 463
+  linkable_type: "restaurant"
+  linkable_id: 71
+  link_type: "website"
+  url: "http://www.kenjiburger.com/"
+-
+  id: 464
+  linkable_type: "restaurant"
+  linkable_id: 71
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Kenji+Burger+Koloa"
+-
+  id: 465
+  linkable_type: "restaurant"
+  linkable_id: 70
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Kalaheo+Cafe+%26+Coffee+Company/@21.924865,-159.5263599,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0704f82514357f:0x46903b78ad0edef7!8m2!3d21.92486!4d-159.523785!16s%2Fg%2F1tdbr27y?entry=ttu"
+-
+  id: 466
+  linkable_type: "restaurant"
+  linkable_id: 70
+  link_type: "website"
+  url: "https://kalaheo.com/"
+-
+  id: 467
+  linkable_type: "restaurant"
+  linkable_id: 70
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Kalaheo+Cafe+Coffee+Company"
+-
+  id: 468
+  linkable_type: "restaurant"
+  linkable_id: 71
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/kenji-burger-koloa-koloa"
+-
+  id: 469
+  linkable_type: "restaurant"
+  linkable_id: 70
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/kalaheo-cafe-and-coffee-kalaheo"
+-
+  id: 470
+  linkable_type: "restaurant"
+  linkable_id: 72
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Merriman's+Kauai/@21.8835948,-159.4721837,17z/data=!3m2!4b1!5s0x7c071ab7cd2b392f:0xd8135cd0991cbdc9!4m6!3m5!1s0x7c071ab62bf57983:0xfa31c6735fcc99ad!8m2!3d21.8835898!4d-159.4696088!16s%2Fg%2F11cjk4plpk?entry=ttu"
+-
+  id: 471
+  linkable_type: "restaurant"
+  linkable_id: 72
+  link_type: "website"
+  url: "https://www.merrimanshawaii.com/poipu/"
+-
+  id: 472
+  linkable_type: "restaurant"
+  linkable_id: 72
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Merimans+Poipu"
+-
+  id: 473
+  linkable_type: "restaurant"
+  linkable_id: 72
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/merrimans-kauai-koloa-2"

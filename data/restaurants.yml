@@ -757,3 +757,36 @@
   genre: "BBQ"
   notes: null
   frommers_guide_book_page: null
+-
+  id: 70
+  name: "Kalaheo Café & Coffee Company "
+  priority: "normal"
+  address: "2-2560 Kaumualii Hwy, Kalaheo, HI 96741"
+  phone: "+1 808-332-5858"
+  hours: "7:00 AM - 2:00 PM, 5:00 PM - 8:00 PM"
+  price_range: "$"
+  genre: "Breakfast,American"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 71
+  name: "Kenji Burger"
+  priority: "normal"
+  address: "5404 Koloa Rd, Koloa, HI 96756"
+  phone: "+1 808-431-4770"
+  hours: "11:00 AM - 9:00 PM"
+  price_range: "$"
+  genre: "Burgers,Japanese"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 72
+  name: "Meriman's"
+  priority: "normal"
+  address: "2829 Ala Kalanikaumaka St, Koloa, HI 96756"
+  phone: "+1 808-742-8385"
+  hours: "4:30 PM - 8:30 PM"
+  price_range: "$$$"
+  genre: "Hawaiian,Seafood"
+  notes: null
+  frommers_guide_book_page: null
