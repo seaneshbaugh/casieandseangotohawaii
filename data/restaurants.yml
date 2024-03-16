@@ -782,11 +782,44 @@
 -
   id: 72
   name: "Meriman's"
-  priority: "normal"
+  priority: "high"
   address: "2829 Ala Kalanikaumaka St, Koloa, HI 96756"
   phone: "+1 808-742-8385"
   hours: "4:30 PM - 8:30 PM"
   price_range: "$$$"
   genre: "Hawaiian,Seafood"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 73
+  name: "Wake Up Delicious"
+  priority: "normal"
+  address: "5-5144 Kuhio Hwy, Hanalei,  HI 96714"
+  phone: "+1 808-826-5551"
+  hours: "7:00 AM - 1:00 PM\n\t"
+  price_range: "$"
+  genre: "Breakfast,Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 74
+  name: "Ama"
+  priority: "high"
+  address: "55161 Kuhio Hwy Hanalei, HI 96714"
+  phone: "+1 808-826-9452"
+  hours: "5:00 PM - 9:00 PM"
+  price_range: "$$"
+  genre: "Cocktail Bars, Asian Fusion, Ramen"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 75
+  name: "Passion Bakery Cafe"
+  priority: "normal"
+  address: "4-356 Kuhio Hwy Ste 121 Kapaa, HI 96746"
+  phone: "+1 808-821-0060"
+  hours: "7:00 AM - 12:00 PM"
+  price_range: "$$"
+  genre: "Bakeries, Sandwiches, Breakfast & Brunch"
   notes: null
   frommers_guide_book_page: null

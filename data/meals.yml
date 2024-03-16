@@ -406,17 +406,17 @@
 -
   id: 88
   name: "Breakfast"
-  restaurant_id: null
+  restaurant_id: 75
   notes: null
 -
   id: 89
   name: "Lunch"
-  restaurant_id: null
+  restaurant_id: 73
   notes: null
 -
   id: 90
   name: "Dinner"
-  restaurant_id: null
+  restaurant_id: 74
   notes: null
 -
   id: 91

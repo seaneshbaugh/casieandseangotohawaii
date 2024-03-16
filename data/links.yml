@@ -2836,3 +2836,75 @@
   linkable_id: 72
   link_type: "reviews"
   url: "https://www.yelp.com/biz/merrimans-kauai-koloa-2"
+-
+  id: 474
+  linkable_type: "restaurant"
+  linkable_id: 73
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Wake+Up+Delicious+(Home+Of+Trucking+Delicious)/@22.2033125,-159.4973672,17z/data=!4m6!3m5!1s0x7c06fac71b082371:0xd37de67bfd64a2a0!8m2!3d22.2033374!4d-159.4954896!16s%2Fg%2F11cn8s3q1s?entry=ttu"
+-
+  id: 475
+  linkable_type: "restaurant"
+  linkable_id: 73
+  link_type: "website"
+  url: "https://truckingdeliciouskauai.com/"
+-
+  id: 476
+  linkable_type: "restaurant"
+  linkable_id: 73
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Trucking+Delicious+Kauai"
+-
+  id: 477
+  linkable_type: "restaurant"
+  linkable_id: 73
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/wake-up-delicious-hanalei"
+-
+  id: 478
+  linkable_type: "restaurant"
+  linkable_id: 74
+  link_type: "map"
+  url: "https://www.google.com/maps/place/AMA+Restaurant/@22.2023271,-159.4992557,17z/data=!3m2!4b1!5s0x7c06fac14b0ca209:0xea05657810546c1c!4m6!3m5!1s0x7c06fac13429beeb:0x2b54eebebfec19fe!8m2!3d22.2023222!4d-159.4966808!16s%2Fg%2F11fzsy94xt?entry=ttu"
+-
+  id: 479
+  linkable_type: "restaurant"
+  linkable_id: 74
+  link_type: "website"
+  url: "https://www.amahanalei.com/"
+-
+  id: 480
+  linkable_type: "restaurant"
+  linkable_id: 74
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Ama+Kauai"
+-
+  id: 481
+  linkable_type: "restaurant"
+  linkable_id: 74
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/ama-hanalei-3"
+-
+  id: 482
+  linkable_type: "restaurant"
+  linkable_id: 75
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Passion+Bakery+Cafe/@22.0516564,-159.3358436,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06e04b0535eb5d:0xaf8001c84844ffb6!8m2!3d22.0516514!4d-159.3332687!16s%2Fg%2F1tfvt4wn?entry=ttu"
+-
+  id: 483
+  linkable_type: "restaurant"
+  linkable_id: 75
+  link_type: "website"
+  url: "https://www.passionbakeries.com/"
+-
+  id: 484
+  linkable_type: "restaurant"
+  linkable_id: 75
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Passion+Bakery+Cafe+Kauai"
+-
+  id: 485
+  linkable_type: "restaurant"
+  linkable_id: 75
+  link_type: "reviews"
+  url: "https://www.yelp.com/map/passion-bakery-cafe-kapaa-2"
