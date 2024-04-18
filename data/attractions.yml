@@ -1061,7 +1061,7 @@
   priority: "normal"
   address: "4428 Rice St, Lihue, HI 96766"
   phone: "+1 808-245-6931"
-  hours: null
+  hours: "9:00 AM - 4:00 AM"
   notes: null
   notes_danger: null
   frommers_guide_book_page: null

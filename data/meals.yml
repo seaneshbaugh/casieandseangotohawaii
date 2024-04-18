@@ -421,22 +421,22 @@
 -
   id: 91
   name: "Breakfast"
-  restaurant_id: null
+  restaurant_id: 15
   notes: null
 -
   id: 92
   name: "Lunch"
-  restaurant_id: null
+  restaurant_id: 76
   notes: null
 -
   id: 93
   name: "Dinner"
-  restaurant_id: null
+  restaurant_id: 11
   notes: null
 -
   id: 94
   name: "Breakfast"
-  restaurant_id: null
+  restaurant_id: 77
   notes: null
 -
   id: 95
@@ -496,7 +496,7 @@
 -
   id: 106
   name: "Breakfast"
-  restaurant_id: null
+  restaurant_id: 78
   notes: null
 -
   id: 107

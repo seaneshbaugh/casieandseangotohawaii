@@ -2908,3 +2908,75 @@
   linkable_id: 75
   link_type: "reviews"
   url: "https://www.yelp.com/map/passion-bakery-cafe-kapaa-2"
+-
+  id: 486
+  linkable_type: "restaurant"
+  linkable_id: 76
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Konohiki+Seafoods/@21.995717,-159.3559281,17z/data=!4m6!3m5!1s0x7c071e434aa7d5e9:0xd74c1a64be640b76!8m2!3d21.9958215!4d-159.3537501!16s%2Fg%2F1tf9ymvf?entry=ttu"
+-
+  id: 487
+  linkable_type: "restaurant"
+  linkable_id: 76
+  link_type: "website"
+  url: "https://konohikiseafood.site/"
+-
+  id: 488
+  linkable_type: "restaurant"
+  linkable_id: 76
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Konohiki+Seafood+Kauai"
+-
+  id: 489
+  linkable_type: "restaurant"
+  linkable_id: 76
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/konohiki-seafoods-lihue-4"
+-
+  id: 490
+  linkable_type: "restaurant"
+  linkable_id: 77
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Unkos+Kitchen/@21.9094209,-159.5918139,17z/data=!3m1!4b1!4m6!3m5!1s0x7c070669242767f9:0x54f863602abb070a!8m2!3d21.9094209!4d-159.589239!16s%2Fg%2F1261fzqt1?entry=ttu"
+-
+  id: 491
+  linkable_type: "restaurant"
+  linkable_id: 77
+  link_type: "website"
+  url: "https://www.unkoskitchen.com/"
+-
+  id: 492
+  linkable_type: "restaurant"
+  linkable_id: 77
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Unko's+Kitchen+Kauai"
+-
+  id: 493
+  linkable_type: "restaurant"
+  linkable_id: 77
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/unkos-kitchen-hanapepe-3"
+-
+  id: 494
+  linkable_type: "restaurant"
+  linkable_id: 78
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Midnight+Bear+Breads/@21.9111614,-159.5899257,17z/data=!3m1!4b1!4m6!3m5!1s0x7c07066560453feb:0xeaa55b1becb39f25!8m2!3d21.9111614!4d-159.5873508!16s%2Fg%2F11b6_pd_9y?entry=ttu"
+-
+  id: 495
+  linkable_type: "restaurant"
+  linkable_id: 78
+  link_type: "website"
+  url: "http://www.midnightbearbreads.com/"
+-
+  id: 496
+  linkable_type: "restaurant"
+  linkable_id: 78
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Midnight+Bear+Breads+Kauai"
+-
+  id: 497
+  linkable_type: "restaurant"
+  linkable_id: 78
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/midnight-bear-breads-hanapepe"

@@ -823,3 +823,36 @@
   genre: "Bakeries, Sandwiches, Breakfast & Brunch"
   notes: null
   frommers_guide_book_page: null
+-
+  id: 76
+  name: "Konohiki Seafoods"
+  priority: "high"
+  address: "3-4301 Kuhio Hwy Ste 102, Lihue, HI 96766"
+  phone: "+1 808-245-1707"
+  hours: "6:00 AM - 5:00 PM"
+  price_range: "$$"
+  genre: "Seafood, Hawaiian, Desserts"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 77
+  name: "Unko's Kitchen"
+  priority: "normal"
+  address: "1-3749 Kaumualii Hwy, Hanapepe, HI 96716"
+  phone: "+1 808-335-5235"
+  hours: "7:00 AM - 1:00 PM"
+  price_range: "$"
+  genre: "Breakfast and Brunch, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 78
+  name: "Midnight Bear Breads"
+  priority: "high"
+  address: "3830 Hanapepe Rd, Hanapepe, HI 96716"
+  phone: "+1 808-335-2893"
+  hours: "8:00 AM - 2:00 PM"
+  price_range: "$$"
+  genre: "Bakeries, Cafes, Sandwiches"
+  notes: null
+  frommers_guide_book_page: null

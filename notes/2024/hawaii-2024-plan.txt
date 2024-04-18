@@ -42,7 +42,7 @@ saturday may 4 (WAIMEA CANYON)
 
 sunday may 5 (WEST SIDE)
 - sunrise 6:05am
-- breakfast at midnight bear breads [4.6 $$ bakery] 8am (south side)
+- breakfast 8am
 - polihale beach 10am (west side)
 - lunch 12pm
 - dinner at tidepools [4.2 $$$$ hawaiian/seafood/steakhouse] 7pm (south side)
@@ -67,7 +67,7 @@ tuesday may 7 (EAST SIDE)
 
 wednesday may 8 (SOUTH SIDE)
 - sunrise 6:03am
-- breakfast 8am
+- breakfast at midnight bear breads [4.6 $$ bakery] 8am (south side)
 - po'ipu beach at 10am (south side)
 - lunch 12pm
 - kauai sushi station [4.9 $$ japanese/sushi] 7pm (east side)
@@ -94,5 +94,5 @@ trails:
 - alaka'i swamp trail [7.0mi 3h17min moderate] (waimea canyon)
 
 
-notes: 
-- no public trails or roads for ha'upa mountain. appears to be privately owned
+notes:
+--no public trails or roads for ha'upa mountain. appears to be privately owned
