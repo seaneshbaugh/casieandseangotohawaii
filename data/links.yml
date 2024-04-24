@@ -2907,7 +2907,7 @@
   linkable_type: "restaurant"
   linkable_id: 75
   link_type: "reviews"
-  url: "https://www.yelp.com/map/passion-bakery-cafe-kapaa-2"
+  url: "https://www.yelp.com/biz/passion-bakery-cafe-kapaa-2"
 -
   id: 486
   linkable_type: "restaurant"
@@ -2980,3 +2980,219 @@
   linkable_id: 78
   link_type: "reviews"
   url: "https://www.yelp.com/biz/midnight-bear-breads-hanapepe"
+-
+  id: 498
+  linkable_type: "restaurant"
+  linkable_id: 79
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Kaua%CA%BBi+Sushi+Station/@21.9681643,-159.3884005,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071dd29ecee689:0xdaced1f5f99445fd!8m2!3d21.9681644!4d-159.3835296!16s%2Fg%2F11lgxkps_k?entry=ttu"
+-
+  id: 499
+  linkable_type: "restaurant"
+  linkable_id: 79
+  link_type: "website"
+  url: "https://www.kauaisushistation.com/"
+-
+  id: 500
+  linkable_type: "restaurant"
+  linkable_id: 79
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Kauai+Sushi+Station"
+-
+  id: 501
+  linkable_type: "restaurant"
+  linkable_id: 79
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/kauai-sushi-station-lihue"
+-
+  id: 502
+  linkable_type: "restaurant"
+  linkable_id: 80
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Hukilau+Lanai/@22.054567,-159.3296723,16z/data=!3m1!4b1!4m6!3m5!1s0x7c06e04eda90a20f:0x593754bc13fd71f3!8m2!3d22.054567!4d-159.3270974!16s%2Fg%2F1hc31q015?entry=ttu"
+-
+  id: 503
+  linkable_type: "restaurant"
+  linkable_id: 80
+  link_type: "website"
+  url: "https://www.hukilaukauai.com/"
+-
+  id: 504
+  linkable_type: "restaurant"
+  linkable_id: 80
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Hukilau+Lanai"
+-
+  id: 505
+  linkable_type: "restaurant"
+  linkable_id: 80
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/hukilau-lanai-kapaa"
+-
+  id: 506
+  linkable_type: "restaurant"
+  linkable_id: 81
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Tidepools/@21.8755456,-159.441462,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071a8dcd26026d:0x8d6c0b3378ae146!8m2!3d21.8755456!4d-159.4388871!16s%2Fg%2F11bbw_98nr?entry=ttu"
+-
+  id: 507
+  linkable_type: "restaurant"
+  linkable_id: 81
+  link_type: "website"
+  url: "https://www.hyatt.com/grand-hyatt/en-US/kauai-grand-hyatt-kauai-resort-and-spa/dining"
+-
+  id: 508
+  linkable_type: "restaurant"
+  linkable_id: 81
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Tidepools+Kauai"
+-
+  id: 509
+  linkable_type: "restaurant"
+  linkable_id: 81
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/tidepools-poipu-4"
+-
+  id: 510
+  linkable_type: "restaurant"
+  linkable_id: 82
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Eating+House+1849+Koloa/@21.8840215,-159.4746815,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071ab7cc70a037:0x7ed36524c546f0ef!8m2!3d21.8840216!4d-159.4698106!16s%2Fg%2F11b7f_j_d2?entry=ttu"
+-
+  id: 511
+  linkable_type: "restaurant"
+  linkable_id: 82
+  link_type: "website"
+  url: "https://www.royyamaguchi.com/eating-house-koloa"
+-
+  id: 512
+  linkable_type: "restaurant"
+  linkable_id: 82
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Eating+House+1849+Koloa"
+-
+  id: 513
+  linkable_type: "restaurant"
+  linkable_id: 82
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/eating-house-1849-koloa-koloa-2"
+-
+  id: 514
+  linkable_type: "restaurant"
+  linkable_id: 83
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Table+At+Poipu/@21.8836873,-159.471951,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071b3f31ed83ef:0x68e06bf0db01e4e!8m2!3d21.8836873!4d-159.4693761!16s%2Fg%2F11s0yywxx7?entry=ttu"
+-
+  id: 515
+  linkable_type: "restaurant"
+  linkable_id: 83
+  link_type: "website"
+  url: "https://tableatpoipu.com/"
+-
+  id: 516
+  linkable_type: "restaurant"
+  linkable_id: 83
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Table+at+Poipu"
+-
+  id: 517
+  linkable_type: "restaurant"
+  linkable_id: 83
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/table-at-poipu-koloa"
+-
+  id: 518
+  linkable_type: "restaurant"
+  linkable_id: 84
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Koloa+Pizza+Kitchen+%2B+Bar/@21.9042915,-159.4675396,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071bdd1add1ad1:0xf27f2322eb474f56!8m2!3d21.9042915!4d-159.4649647!16s%2Fg%2F11rc__p_g0?entry=ttu"
+-
+  id: 519
+  linkable_type: "restaurant"
+  linkable_id: 84
+  link_type: "website"
+  url: "https://koloapizzakitchen.com/"
+-
+  id: 520
+  linkable_type: "restaurant"
+  linkable_id: 84
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Koloa+Pizza+Kitchen+Bar"
+-
+  id: 521
+  linkable_type: "restaurant"
+  linkable_id: 84
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/koloa-pizza-kitchen-bar-koloa-2"
+-
+  id: 522
+  linkable_type: "restaurant"
+  linkable_id: 85
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Anuenue+Cafe/@21.8794786,-159.4614257,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071abeef52cb85:0x9e4f73e6a3382b55!8m2!3d21.8794786!4d-159.4588508!16s%2Fg%2F11ckqsxcv3?entry=ttu"
+-
+  id: 523
+  linkable_type: "restaurant"
+  linkable_id: 85
+  link_type: "website"
+  url: "https://poipushoppingvillage.com/anuenue-cafe/"
+-
+  id: 524
+  linkable_type: "restaurant"
+  linkable_id: 85
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Anuenue+Cafe+Kauai"
+-
+  id: 525
+  linkable_type: "restaurant"
+  linkable_id: 85
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/anuenue-cafe-koloa-3"
+-
+  id: 526
+  linkable_type: "restaurant"
+  linkable_id: 86
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Break+%2B+Feast/@21.9046426,-159.4691171,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071bed465b2659:0xbc5afad60789c726!8m2!3d21.9046427!4d-159.4642462!16s%2Fg%2F11vk8wdb8r?entry=ttu"
+-
+  id: 527
+  linkable_type: "restaurant"
+  linkable_id: 86
+  link_type: "website"
+  url: "https://www.breakandfeast.com/"
+-
+  id: 528
+  linkable_type: "restaurant"
+  linkable_id: 86
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Break+Feast+Kauai"
+-
+  id: 529
+  linkable_type: "restaurant"
+  linkable_id: 86
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/break-feast-koloa"
+-
+  id: 530
+  linkable_type: "restaurant"
+  linkable_id: 87
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Hualani's/@21.9580078,-159.3471784,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071e889fc6c50d:0x618a86d391bb9105!8m2!3d21.9580078!4d-159.3446035!16s%2Fg%2F11g1pp79y5?entry=ttu"
+-
+  id: 531
+  linkable_type: "restaurant"
+  linkable_id: 87
+  link_type: "website"
+  url: "https://www.timberskauai.com/eat-drink/hualanis/"
+-
+  id: 532
+  linkable_type: "restaurant"
+  linkable_id: 87
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Hualanis+Kauai"
+-
+  id: 533
+  linkable_type: "restaurant"
+  linkable_id: 87
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/hualanis-lihue-2"

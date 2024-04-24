@@ -215,7 +215,7 @@
   phone: "+1 808-335-6061"
   hours: "9:00 AM - 4:00 PM"
   price_range: "$$"
-  genre: "American"
+  genre: "Cocktail Bars, Portuguese, Cafes"
   notes: null
   frommers_guide_book_page: null
 -
@@ -268,7 +268,7 @@
   priority: "omg"
   address: "127 Lahainaluna Rd, Lahaina, HI 96761"
   phone: "+1 808-667-5117"
-  hours: "5:00 PM - 9:00"
+  hours: "5:00 PM - 9:00 PM"
   price_range: "$$$"
   genre: "American, seafood"
   notes: null
@@ -781,7 +781,7 @@
   frommers_guide_book_page: null
 -
   id: 72
-  name: "Meriman's"
+  name: "Merriman's"
   priority: "high"
   address: "2829 Ala Kalanikaumaka St, Koloa, HI 96756"
   phone: "+1 808-742-8385"
@@ -854,5 +854,104 @@
   hours: "8:00 AM - 2:00 PM"
   price_range: "$$"
   genre: "Bakeries, Cafes, Sandwiches"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 79
+  name: "Kauai Sushi Station"
+  priority: "omg"
+  address: "2403 Ulu Maika St, Lihue, HI 96766"
+  phone: "+1 808-320-0220"
+  hours: "10:30 AM - 3:00 PM, 3:30 PM - 8:00 PM"
+  price_range: "$$"
+  genre: "Japanese, Sushi Bars, Vegetarian"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 80
+  name: "Hukilau Lanai"
+  priority: "high"
+  address: "520 Aleka Lp Kauai Coast Resort, Kapaa, HI 96746"
+  phone: "+1 808-822-0600"
+  hours: "5:00 PM - 9:00 PM"
+  price_range: "$$$"
+  genre: "Seafood, New American"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 81
+  name: "Tidepools"
+  priority: "high"
+  address: "1571 Poipu Rd, Poipu, HI 96756"
+  phone: "+1 808-240-6456"
+  hours: "5:00 PM - 9:00 PM"
+  price_range: "$$$$"
+  genre: "Hawaiian, Seafood, Steak Houses"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 82
+  name: "Eating House 1849 Koloa"
+  priority: "high"
+  address: "2829 Ala Kalanikaumaka Rd Ste A-201, Koloa, HI 96756"
+  phone: "+1 808-742-5000"
+  hours: "5:00 PM - 9:00 PM"
+  price_range: "$$$"
+  genre: "Hawaiian, Seafood, Asian Fusion"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 83
+  name: "Table at Poipu"
+  priority: "normal"
+  address: "2829 Ala Kalanikaumaka St Ste F207A, Koloa, HI 96756"
+  phone: "+1 808-742-7037"
+  hours: "3:30 PM - 8:00 PM"
+  price_range: "$$$"
+  genre: "New American, Seafood"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 84
+  name: "Koloa Pizza Kitchen + Bar"
+  priority: "normal"
+  address: "5408 Koloa Rd Ste 4-01, Koloa, HI 96756"
+  phone: "+1 808-378-2239"
+  hours: "11:00 AM - 9:00 PM"
+  price_range: "$$"
+  genre: "Pizza, Bars"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 85
+  name: "Anuenue Cafe"
+  priority: "high"
+  address: "2360 Kiahuna Plantation Dr, Koloa, HI 96756"
+  phone: "+1 808-469-7000"
+  hours: "8:00 AM - 12:00 PM"
+  price_range: "$$"
+  genre: "Cafes, American, Breakfast & Brunch"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 86
+  name: "Break + Feast"
+  priority: "normal"
+  address: "5460 Koloa Rd Ste A201, Koloa, HI 96756"
+  phone: "+1 808-755-2508"
+  hours: "8:00 AM - 1:00 PM"
+  price_range: "$$"
+  genre: "Breakfast and Brunch"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 87
+  name: "Hualani's"
+  priority: "normal"
+  address: "3770 Ala'oli Way Ste 2, Lihue, HI 96766"
+  phone: "+1 808-320-7399"
+  hours: "8:00 AM - 10:00 AM, 11:00 AM - 8:00 PM"
+  price_range: "$$$"
+  genre: "Hawaiian, Bars"
   notes: null
   frommers_guide_book_page: null
