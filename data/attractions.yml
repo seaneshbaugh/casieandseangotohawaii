@@ -1076,3 +1076,25 @@
   notes: null
   notes_danger: null
   frommers_guide_book_page: null
+-
+  id: 99
+  name: "Papa'a Bay Beach"
+  attraction_type: "beach"
+  priority: "major"
+  address: "5456 Kalalea View Dr, Anahola, HI 96703"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 100
+  name: "Lydgate Beach Park"
+  attraction_type: "beach"
+  priority: "normal"
+  address: "Leho Dr, Lihue, HI 96766"
+  phone: "+1 808-241-4463"
+  hours: "7:00 AM - 6:00 PM"
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null

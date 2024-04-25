@@ -1551,14 +1551,14 @@
   day_id: 33
   eventable_type: "meal"
   eventable_id: 92
-  order: 2
+  order: 3
 -
   id: 223
   leg_id: 8
   day_id: 33
   eventable_type: "meal"
   eventable_id: 93
-  order: 3
+  order: 5
 -
   id: 224
   leg_id: 8
@@ -1733,4 +1733,18 @@
   day_id: 31
   eventable_type: "visit"
   eventable_id: 132
+  order: 4
+-
+  id: 249
+  leg_id: 8
+  day_id: 33
+  eventable_type: "visit"
+  eventable_id: 133
+  order: 2
+-
+  id: 250
+  leg_id: 8
+  day_id: 33
+  eventable_type: "visit"
+  eventable_id: 134
   order: 4
