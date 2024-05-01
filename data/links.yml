@@ -3196,3 +3196,27 @@
   linkable_id: 87
   link_type: "reviews"
   url: "https://www.yelp.com/biz/hualanis-lihue-2"
+-
+  id: 534
+  linkable_type: "restaurant"
+  linkable_id: 88
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Smiley's+Local+Grinds/@21.9697334,-159.3635505,995m/data=!3m2!1e3!4b1!4m6!3m5!1s0x7c071e92dfd2ff6f:0x545040133c236d43!8m2!3d21.9697284!4d-159.3609756!16s%2Fg%2F1tgxj87y?entry=ttu"
+-
+  id: 535
+  linkable_type: "restaurant"
+  linkable_id: 88
+  link_type: "website"
+  url: "https://www.smileyslocalgrinds.com/"
+-
+  id: 536
+  linkable_type: "restaurant"
+  linkable_id: 88
+  link_type: "images"
+  url: "https://www.google.com/search?tbm=isch&q=Smileys+Local+Grinds+Kauai"
+-
+  id: 537
+  linkable_type: "restaurant"
+  linkable_id: 88
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/smileys-local-grinds-lihue"

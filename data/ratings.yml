@@ -868,3 +868,13 @@
   meal_id: 83
   person_id: 5
   rating: 4
+-
+  id: 175
+  meal_id: 84
+  person_id: 1
+  rating: 4.5
+-
+  id: 176
+  meal_id: 84
+  person_id: 2
+  rating: 4.5

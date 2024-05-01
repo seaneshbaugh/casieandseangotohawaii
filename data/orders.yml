@@ -2243,3 +2243,28 @@
   meal_id: 83
   person_id: null
   name: "Truffle Fries"
+-
+  id: 450
+  meal_id: 84
+  person_id: 1
+  name: "Garlic Butter Shrimp Plate"
+-
+  id: 451
+  meal_id: 84
+  person_id: 1
+  name: "Guava Hawaiian Sun"
+-
+  id: 452
+  meal_id: 84
+  person_id: 2
+  name: "Garlic Butter Shrimp + Smiley's Chicken Plate"
+-
+  id: 453
+  meal_id: 84
+  person_id: 2
+  name: "Passion Orange Hawaiian Sun"
+-
+  id: 454
+  meal_id: 84
+  person_id: null
+  name: "Kalbi Ribs"
