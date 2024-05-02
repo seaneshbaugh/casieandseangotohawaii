@@ -966,3 +966,14 @@
   genre: "Hawaiian, Seafood, Burgers"
   notes: null
   frommers_guide_book_page: null
+-
+  id: 89
+  name: "Koloa Mill Ice Cream & Coffee"
+  priority: "normal"
+  address: "5424 Koloa Rd Tao Building, Koloa, HI 96756"
+  phone: "+1 808-482-6487"
+  hours: "7:00 AM - 9:00 PM"
+  price_range: "$$"
+  genre: "Coffee & Tea, Ice Cream & Frozen Yogurt, Breakfast & Brunch"
+  notes: null
+  frommers_guide_book_page: null

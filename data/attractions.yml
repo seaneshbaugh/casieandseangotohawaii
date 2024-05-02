@@ -1098,3 +1098,25 @@
   notes: null
   notes_danger: null
   frommers_guide_book_page: null
+-
+  id: 101
+  name: "Kalapaki Beach"
+  attraction_type: "beach"
+  priority: "low"
+  address: "Rice Rd, Lihue, HI 96766"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 102
+  name: "Lawa'i Beach"
+  attraction_type: "beach"
+  priority: "normal"
+  address: "5022 Lawai Rd Koloa, HI 96756"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null

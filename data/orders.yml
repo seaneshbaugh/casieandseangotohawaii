@@ -2192,7 +2192,7 @@
   id: 439
   meal_id: 73
   person_id: null
-  name: "The G.O.A.T. Pizza"
+  name: "The G.O.A.T.  Pizza"
 -
   id: 440
   meal_id: 80
@@ -2268,3 +2268,108 @@
   meal_id: 84
   person_id: null
   name: "Kalbi Ribs"
+-
+  id: 455
+  meal_id: 85
+  person_id: 1
+  name: "Kalua Pork Benny Double"
+-
+  id: 456
+  meal_id: 85
+  person_id: 1
+  name: "Iced Cold Brew"
+-
+  id: 457
+  meal_id: 85
+  person_id: 2
+  name: "Kalua Pork Benny Double"
+-
+  id: 458
+  meal_id: 85
+  person_id: 2
+  name: "Iced Cold Brew"
+-
+  id: 459
+  meal_id: 85
+  person_id: null
+  name: "Cinnamon Roll"
+-
+  id: 460
+  meal_id: 86
+  person_id: 1
+  name: "Rainbow Burrito"
+-
+  id: 461
+  meal_id: 86
+  person_id: 1
+  name: "Water"
+-
+  id: 462
+  meal_id: 86
+  person_id: 2
+  name: "Kenji Burger"
+-
+  id: 463
+  meal_id: 86
+  person_id: 2
+  name: "French Fries"
+-
+  id: 464
+  meal_id: 86
+  person_id: 2
+  name: "Diet Coke"
+-
+  id: 465
+  meal_id: 86
+  person_id: null
+  name: "Kenji Mini Taco Trio"
+-
+  id: 466
+  meal_id: 112
+  person_id: 1
+  name: "Half scoop Macadamia Nut / Half scoop Kona Mud Pie"
+-
+  id: 467
+  meal_id: 112
+  person_id: 2
+  name: "Half scoop Macadamia Nut / Half scoop Pineapple Coconut"
+-
+  id: 468
+  meal_id: 87
+  person_id: 1
+  name: "Soup of the Day (Butterkin Curry with Coconut Milk Cream Base)"
+-
+  id: 469
+  meal_id: 87
+  person_id: 1
+  name: "Ma Kai (4 ounce medium rare Pono filet with Purple Sweet Potato Ravioli)"
+-
+  id: 470
+  meal_id: 87
+  person_id: 1
+  name: "Pineapple Crush"
+-
+  id: 471
+  meal_id: 87
+  person_id: 2
+  name: "Soup of the Day (Butterkin Curry with Coconut Milk Cream Base)"
+-
+  id: 472
+  meal_id: 87
+  person_id: 2
+  name: "Ma Kai (4 ounce medium rare Pono filet with Purple Sweet Potato Ravioli)"
+-
+  id: 473
+  meal_id: 87
+  person_id: null
+  name: "Hawaiian Style Ahi Poke"
+-
+  id: 474
+  meal_id: 87
+  person_id: null
+  name: "Hawaiian Chocolate Purse"
+-
+  id: 475
+  meal_id: 87
+  person_id: 2
+  name: "Diet Coke"

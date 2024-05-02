@@ -878,3 +878,43 @@
   meal_id: 84
   person_id: 2
   rating: 4.5
+-
+  id: 177
+  meal_id: 85
+  person_id: 1
+  rating: 4
+-
+  id: 178
+  meal_id: 85
+  person_id: 2
+  rating: 4
+-
+  id: 179
+  meal_id: 86
+  person_id: 1
+  rating: 3.5
+-
+  id: 180
+  meal_id: 86
+  person_id: 2
+  rating: 3.75
+-
+  id: 181
+  meal_id: 112
+  person_id: 1
+  rating: 5
+-
+  id: 182
+  meal_id: 112
+  person_id: 2
+  rating: 5
+-
+  id: 183
+  meal_id: 87
+  person_id: 1
+  rating: 5
+-
+  id: 184
+  meal_id: 87
+  person_id: 2
+  rating: 5

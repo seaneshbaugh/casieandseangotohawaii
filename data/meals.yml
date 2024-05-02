@@ -523,3 +523,8 @@
   name: "Dinner"
   restaurant_id: 79
   notes: null
+-
+  id: 112
+  name: "Snack"
+  restaurant_id: 89
+  notes: null
