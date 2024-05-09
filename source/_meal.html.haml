@@ -1,5 +1,5 @@
 - r = restaurant(meal.restaurant_id)
-%div{ class: ['event', 'meal', meal.name.downcase, r&.priority].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => meal.id, 'eventable-type' => 'meal', 'meal-id' => meal.id } }
+%div{ class: ['event', 'meal', meal.name.downcase, r&.priority].compact.join(' '), data: { 'event-id' => event.id, 'eventable-id' => meal.id, 'eventable-type' => 'meal', 'meal-id' => meal.id, 'order' => event.order } }
   %h4.name= meal.name
   - if r
     .restaurant{ data: { 'restaurant-id' => r.id } }
