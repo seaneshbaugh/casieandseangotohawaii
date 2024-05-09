@@ -1120,3 +1120,58 @@
   notes: null
   notes_danger: null
   frommers_guide_book_page: null
+-
+  id: 103
+  name: "Kalalau Trail"
+  attraction_type: "hike"
+  priority: "high"
+  address: "Kuhio Hwy, Hanalei, HI 96714"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 104
+  name: "Ainini Beach park"
+  attraction_type: "beach"
+  priority: "high"
+  address: "Anini Rd, Uninc, HI 96752"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 105
+  name: "Pu'u Ka Pele Lookout"
+  attraction_type: "scenic-view"
+  priority: "high"
+  address: "Waimea, HI 96796"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 106
+  name: "Pihea Trail"
+  attraction_type: "hike"
+  priority: "omg"
+  address: "Waimea, HI 96796"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 107
+  name: "Polihale State Park"
+  attraction_type: "beach"
+  priority: "omg"
+  address: "Lower Saki Mana Rd, Waimea, HI 96796"
+  phone: null
+  hours: "5:30 AM - 7:45 PM"
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null

@@ -918,3 +918,53 @@
   meal_id: 87
   person_id: 2
   rating: 5
+-
+  id: 185
+  meal_id: 88
+  person_id: 1
+  rating: 2.5
+-
+  id: 186
+  meal_id: 88
+  person_id: 2
+  rating: 3
+-
+  id: 187
+  meal_id: 113
+  person_id: 1
+  rating: 4
+-
+  id: 188
+  meal_id: 113
+  person_id: 2
+  rating: 4
+-
+  id: 189
+  meal_id: 89
+  person_id: 1
+  rating: 4
+-
+  id: 190
+  meal_id: 89
+  person_id: 2
+  rating: 4.25
+-
+  id: 191
+  meal_id: 90
+  person_id: 1
+  rating: 4.75
+-
+  id: 192
+  meal_id: 90
+  person_id: 2
+  rating: 4.5
+-
+  id: 193
+  meal_id: 114
+  person_id: 1
+  rating: 4
+-
+  id: 194
+  meal_id: 114
+  person_id: 2
+  rating: 4.5

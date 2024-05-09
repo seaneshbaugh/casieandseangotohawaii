@@ -2373,3 +2373,188 @@
   meal_id: 87
   person_id: 2
   name: "Diet Coke"
+-
+  id: 476
+  meal_id: 88
+  person_id: 1
+  name: "Bacon,  Egg, Cheese, and Onion Sandwich"
+-
+  id: 477
+  meal_id: 88
+  person_id: 1
+  name: "Iced House Coffee"
+-
+  id: 478
+  meal_id: 88
+  person_id: 2
+  name: "Loco Moco"
+-
+  id: 479
+  meal_id: 88
+  person_id: 2
+  name: "Iced House Coffee"
+-
+  id: 480
+  meal_id: 88
+  person_id: null
+  name: "Lilokoi Cheesecake Pastry"
+-
+  id: 481
+  meal_id: 88
+  person_id: null
+  name: "Chai Apple Turnover"
+-
+  id: 482
+  meal_id: 88
+  person_id: null
+  name: "Sugar Coated Mango Malasada"
+-
+  id: 483
+  meal_id: 88
+  person_id: null
+  name: "Sugar Coated Passion Orange Guava Malasada"
+-
+  id: 484
+  meal_id: 113
+  person_id: 1
+  name: "Cherry Turnover"
+-
+  id: 485
+  meal_id: 113
+  person_id: 1
+  name: "Crab Roll"
+-
+  id: 486
+  meal_id: 113
+  person_id: 2
+  name: "Coconut Turnover"
+-
+  id: 487
+  meal_id: 113
+  person_id: 2
+  name: "Spicy Crab Roll"
+-
+  id: 488
+  meal_id: 89
+  person_id: 1
+  name: "Kealia Poke"
+-
+  id: 489
+  meal_id: 89
+  person_id: 1
+  name: "Water"
+-
+  id: 490
+  meal_id: 89
+  person_id: 2
+  name: "Hanalei Special Poke"
+-
+  id: 491
+  meal_id: 89
+  person_id: 2
+  name: "Passion Orange Aloha"
+-
+  id: 492
+  meal_id: 114
+  person_id: 1
+  name: "One scoop Kona Mud Pie on a Waffle Cone"
+-
+  id: 493
+  meal_id: 114
+  person_id: 2
+  name: "One Scoop Haupia / One Scoop Hanalei Sunrise on a Waffle Cone"
+-
+  id: 494
+  meal_id: 90
+  person_id: 1
+  name: "Lobster Curry Bisque"
+-
+  id: 495
+  meal_id: 90
+  person_id: 1
+  name: "Ono"
+-
+  id: 496
+  meal_id: 90
+  person_id: 1
+  name: "Water"
+-
+  id: 497
+  meal_id: 90
+  person_id: 2
+  name: "Lobster Curry Bisque"
+-
+  id: 498
+  meal_id: 90
+  person_id: 2
+  name: "Three Local Fish"
+-
+  id: 499
+  meal_id: 90
+  person_id: 2
+  name: "Diet Coke"
+-
+  id: 500
+  meal_id: 90
+  person_id: null
+  name: "Candied Ahi"
+-
+  id: 501
+  meal_id: 90
+  person_id: null
+  name: "Coconut Cheesecake"
+-
+  id: 502
+  meal_id: 91
+  person_id: 1
+  name: "Breakfast Burrito"
+-
+  id: 503
+  meal_id: 91
+  person_id: 1
+  name: "Macadamia Nut Coffee"
+-
+  id: 504
+  meal_id: 91
+  person_id: 2
+  name: "Breakfast Burrito"
+-
+  id: 505
+  meal_id: 91
+  person_id: 2
+  name: "Macadamia Nut Coffee"
+-
+  id: 506
+  meal_id: 116
+  person_id: 1
+  name: "Apple Turnover"
+-
+  id: 507
+  meal_id: 116
+  person_id: 2
+  name: "Portuguese Sausage Roll"
+-
+  id: 508
+  meal_id: 116
+  person_id: null
+  name: "Malasadas"
+-
+  id: 509
+  meal_id: 92
+  person_id: 1
+  name: "Fishermen's Breakfast"
+-
+  id: 510
+  meal_id: 92
+  person_id: 1
+  name: "Passion Orange Guava Juice"
+-
+  id: 511
+  meal_id: 92
+  person_id: 2
+  name: "Churro French Toast"
+-
+  id: 512
+  meal_id: 92
+  person_id: 2
+  name: "Passion Orange Guava Juice"

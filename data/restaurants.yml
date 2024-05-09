@@ -977,3 +977,58 @@
   genre: "Coffee & Tea, Ice Cream & Frozen Yogurt, Breakfast & Brunch"
   notes: null
   frommers_guide_book_page: null
+-
+  id: 90
+  name: "Hanalei Poke"
+  priority: "high"
+  address: "5-5190 Kuhio Hwy, Hanalei, HI 96714"
+  phone: "+1 808=855-5574"
+  hours: "11:30 AM - 5:00 PM"
+  price_range: "$$"
+  genre: "Food Trucks, Salad, Poke"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 91
+  name: "Pink's Creamery"
+  priority: "high"
+  address: "4489 Aku Rd, Hanalei, HI 96714"
+  phone: "+1 808-212-9749"
+  hours: "11:00 AM - 8:00 PM"
+  price_range: "$"
+  genre: "Juice Bars & Smoothies, Ice Cream & Frozen Yogurt, Sandwiches"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 92
+  name: "Noka Grill"
+  priority: "normal"
+  address: "3474 Rice St, Lihue, HI 96766"
+  phone: "+1 808-431-4003"
+  hours: "6:00 AM - 5:00 PM"
+  price_range: "$$"
+  genre: "Breakfast & Brunch, New American"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 93
+  name: "JoJo's Shave Ice"
+  priority: "high"
+  address: "5190 Kuhio Hwy, Hanalei, HI 96714"
+  phone: "+1 808-378-4612"
+  hours: "11:00 AM - 8:00 PM"
+  price_range: "$$"
+  genre: "Shaved Ice, Ice Cream & Frozen Yogurt"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 94
+  name: "Island Taco"
+  priority: "normal"
+  address: "9643 Kaumualii Hwy, Waimea, HI 96796"
+  phone: "+1 808-338-9895"
+  hours: "10:00 AM - 4:00 PM"
+  price_range: "$$"
+  genre: "Hawaiian, Tacos"
+  notes: null
+  frommers_guide_book_page: null

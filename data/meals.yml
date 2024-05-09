@@ -411,7 +411,7 @@
 -
   id: 89
   name: "Lunch"
-  restaurant_id: 73
+  restaurant_id: 90
   notes: null
 -
   id: 90
@@ -421,12 +421,12 @@
 -
   id: 91
   name: "Breakfast"
-  restaurant_id: 15
+  restaurant_id: 92
   notes: null
 -
   id: 92
   name: "Lunch"
-  restaurant_id: 76
+  restaurant_id: 73
   notes: null
 -
   id: 93
@@ -486,7 +486,7 @@
 -
   id: 104
   name: "Lunch"
-  restaurant_id: null
+  restaurant_id: 94
   notes: null
 -
   id: 105
@@ -527,4 +527,29 @@
   id: 112
   name: "Snack"
   restaurant_id: 89
+  notes: null
+-
+  id: 113
+  name: "Snack"
+  restaurant_id: 15
+  notes: null
+-
+  id: 114
+  name: "Snack"
+  restaurant_id: 91
+  notes: null
+-
+  id: 115
+  name: "Snack"
+  restaurant_id: 93
+  notes: null
+-
+  id: 116
+  name: "Snack"
+  restaurant_id: 15
+  notes: null
+-
+  id: 117
+  name: "Snack"
+  restaurant_id: 21
   notes: null
