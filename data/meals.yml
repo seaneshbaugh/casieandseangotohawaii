@@ -436,7 +436,7 @@
 -
   id: 94
   name: "Breakfast"
-  restaurant_id: 77
+  restaurant_id: 78
   notes: null
 -
   id: 95
@@ -456,7 +456,7 @@
 -
   id: 98
   name: "Lunch"
-  restaurant_id: null
+  restaurant_id: 94
   notes: null
 -
   id: 99
@@ -471,22 +471,22 @@
 -
   id: 101
   name: "Lunch"
-  restaurant_id: null
-  notes: null
+  restaurant_id: 96
+  notes: "The shrimp was absolutely delicious but the accompanying rice was bland and probably old.  Shrimp are head on. Not a huge fan of that but it's not a big deal to tear them off with the rest of the shell."
 -
   id: 102
   name: "Dinner"
-  restaurant_id: 84
+  restaurant_id: 97
   notes: null
 -
   id: 103
   name: "Breakfast"
-  restaurant_id: 12
+  restaurant_id: 98
   notes: null
 -
   id: 104
   name: "Lunch"
-  restaurant_id: 94
+  restaurant_id: 76
   notes: null
 -
   id: 105
@@ -496,12 +496,12 @@
 -
   id: 106
   name: "Breakfast"
-  restaurant_id: 78
+  restaurant_id: 70
   notes: null
 -
   id: 107
   name: "Lunch"
-  restaurant_id: 16
+  restaurant_id: 99
   notes: null
 -
   id: 108
@@ -511,17 +511,17 @@
 -
   id: 109
   name: "Breakfast"
-  restaurant_id: null
+  restaurant_id: 12
   notes: null
 -
   id: 110
-  name: "Lunch"
-  restaurant_id: null
+  name: "Snack"
+  restaurant_id: 100
   notes: null
 -
   id: 111
   name: "Dinner"
-  restaurant_id: 79
+  restaurant_id: 101
   notes: null
 -
   id: 112
@@ -552,4 +552,24 @@
   id: 117
   name: "Snack"
   restaurant_id: 21
+  notes: null
+-
+  id: 118
+  name: "Snack"
+  restaurant_id: 95
+  notes: null
+-
+  id: 119
+  name: "Snack"
+  restaurant_id: 95
+  notes: null
+-
+  id: 120
+  name: "Snack"
+  restaurant_id: 102
+  notes: null
+-
+  id: 121
+  name: "Snack"
+  restaurant_id: 16
   notes: null

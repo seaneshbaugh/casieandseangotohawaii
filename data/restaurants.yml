@@ -126,8 +126,8 @@
   address: "4-1485 Kuhio Hwy, Kapaa, HI 96746"
   phone: "+1 808-822-3511"
   hours: "6:00 AM - 1:30 PM"
-  price_range: "$"
-  genre: "American, Breakfast and Brunch, Hawaiian"
+  price_range: "$$"
+  genre: "American, Breakfast & Brunch, Coffee & Tea"
   notes: null
   frommers_guide_book_page: null
 -
@@ -798,7 +798,7 @@
   phone: "+1 808-826-5551"
   hours: "7:00 AM - 1:00 PM\n\t"
   price_range: "$"
-  genre: "Breakfast,Hawaiian"
+  genre: "Breakfast, Hawaiian"
   notes: null
   frommers_guide_book_page: null
 -
@@ -1030,5 +1030,93 @@
   hours: "10:00 AM - 4:00 PM"
   price_range: "$$"
   genre: "Hawaiian, Tacos"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 95
+  name: "Coconut Corner"
+  priority: "normal"
+  address: "9640 Kaumualii Hwy, Waimea, HI 96796"
+  phone: "+1 808-338-0444"
+  hours: "10:30 AM - 4:30 PM"
+  price_range: "$"
+  genre: "Thai, Farmers Market"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 96
+  name: "The Shrimp Station"
+  priority: "normal"
+  address: "9652 Kaumualii Hwy, Waimea, HI 96796"
+  phone: "+1 808-338-1242"
+  hours: "11:00 AM - 5:00 PM"
+  price_range: "$$"
+  genre: "Seafood"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 97
+  name: "Kimama Ramen"
+  priority: "normal"
+  address: "5460 Koloa Rd, Koloa, HI 96756"
+  phone: "+1 808-742-9869"
+  hours: "12:00 PM - 2:30 PM, 5:30 PM - 8:30 PM"
+  price_range: "$$"
+  genre: "Ramen"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 98
+  name: "Puakea Grill"
+  priority: "normal"
+  address: "4150 Nuhou St, Lihue, HI 96766"
+  phone: "+1 808-977-3777"
+  hours: "7:00 AM - 6:00 PM"
+  price_range: "$$"
+  genre: "American, Hawaiian, Asian Fusion"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 99
+  name: "Poipu Poke Shack"
+  priority: "omg"
+  address: "2827 Poipu Rd, Koloa, HI 96756"
+  phone: "+1 808-742-1601"
+  hours: "11:00 AM - 6:00 PM"
+  price_range: "$$"
+  genre: "Poke, Sushi Bars"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 100
+  name: "Wailua Shave Ice"
+  priority: "major"
+  address: "04-831 Kuhio Hwy, Kapaa, HI 96746"
+  phone: "+1 808-634-7183"
+  hours: "12:00 PM - 9:00 PM"
+  price_range: "$$"
+  genre: "Shaved Ice, Acai Bowls"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 101
+  name: "Wailua Drive In"
+  priority: "high"
+  address: "4-733 Kuhio Hwy Ste 103, Kapaʻa, HI 96746"
+  phone: null
+  hours: "3:00 PM - 9:00 PM"
+  price_range: "$$"
+  genre: "Hawaiian, Burgers, Comfort Food"
+  notes: null
+  frommers_guide_book_page: null
+-
+  id: 102
+  name: "Kauai Coffee Company"
+  priority: "high"
+  address: "870 Halewili Rd, Kalaheo, HI 96741"
+  phone: "+1 808-335-0813"
+  hours: "9:00 AM - 5:00 PM"
+  price_range: "$$"
+  genre: "Coffee & Tea"
   notes: null
   frommers_guide_book_page: null

@@ -2558,3 +2558,463 @@
   meal_id: 92
   person_id: 2
   name: "Passion Orange Guava Juice"
+-
+  id: 513
+  meal_id: 115
+  person_id: 1
+  name: "Fruity Special"
+-
+  id: 514
+  meal_id: 115
+  person_id: 2
+  name: "South Shore"
+-
+  id: 515
+  meal_id: 93
+  person_id: 1
+  name: "Hokkaido Scallop Risotto"
+-
+  id: 516
+  meal_id: 93
+  person_id: 1
+  name: "Passion Fruit Punch"
+-
+  id: 517
+  meal_id: 93
+  person_id: 2
+  name: "Slow Braised Beef Cheek"
+-
+  id: 518
+  meal_id: 93
+  person_id: 2
+  name: "Passion Fruit Punch"
+-
+  id: 519
+  meal_id: 93
+  person_id: null
+  name: "JO2 Crispy Chicken Skin Chicharron"
+-
+  id: 520
+  meal_id: 93
+  person_id: null
+  name: "Yuzu Cheesecake"
+-
+  id: 521
+  meal_id: 94
+  person_id: 1
+  name: "Smoked Salmon Croissant"
+-
+  id: 522
+  meal_id: 94
+  person_id: 1
+  name: "Iced Coffee"
+-
+  id: 523
+  meal_id: 94
+  person_id: 2
+  name: "Smoked Salmon Croissant"
+-
+  id: 524
+  meal_id: 94
+  person_id: 2
+  name: "Iced Coffee"
+-
+  id: 525
+  meal_id: 95
+  person_id: 1
+  name: "Kalua Plate"
+-
+  id: 526
+  meal_id: 95
+  person_id: 1
+  name: "Maui Brewing Co. Island Root Beer"
+-
+  id: 527
+  meal_id: 95
+  person_id: 2
+  name: "Kalua Plate"
+-
+  id: 528
+  meal_id: 95
+  person_id: 2
+  name: "Maui Brewing Co. Island Root Beer"
+-
+  id: 529
+  meal_id: 117
+  person_id: 1
+  name: "Fruity Special"
+-
+  id: 530
+  meal_id: 117
+  person_id: 2
+  name: "Haupia Special"
+-
+  id: 531
+  meal_id: 96
+  person_id: 1
+  name: "Plantation Paella"
+-
+  id: 532
+  meal_id: 96
+  person_id: 1
+  name: "Water"
+-
+  id: 533
+  meal_id: 96
+  person_id: 2
+  name: "EH 1849 Spicy Ramen Bowl"
+-
+  id: 534
+  meal_id: 96
+  person_id: 2
+  name: "Diet Coke"
+-
+  id: 535
+  meal_id: 96
+  person_id: null
+  name: "Blue Crab & Sweet Corn Fritters"
+-
+  id: 536
+  meal_id: 96
+  person_id: null
+  name: "Roy's Signature Melting Hot Dark Chocolate \"Souffle\""
+-
+  id: 537
+  meal_id: 97
+  person_id: 1
+  name: "Pulled Pork Eggs Benedict"
+-
+  id: 538
+  meal_id: 97
+  person_id: 2
+  name: "Green Chile Skillet"
+-
+  id: 539
+  meal_id: 97
+  person_id: null
+  name: "French Press Coffee"
+-
+  id: 540
+  meal_id: 98
+  person_id: 1
+  name: "Seared Cajun Ahi Chimichanga"
+-
+  id: 541
+  meal_id: 98
+  person_id: 1
+  name: "Sprite"
+-
+  id: 542
+  meal_id: 98
+  person_id: 2
+  name: "Mahi Mahi Chimichanga"
+-
+  id: 543
+  meal_id: 98
+  person_id: 2
+  name: "Passion Orange Aloha"
+-
+  id: 544
+  meal_id: 98
+  person_id: null
+  name: "Chips and Salsa"
+-
+  id: 545
+  meal_id: 118
+  person_id: null
+  name: "Fresh Cut Pineapple"
+-
+  id: 546
+  meal_id: 99
+  person_id: 1
+  name: "Lychee Smoked Ribs"
+-
+  id: 547
+  meal_id: 99
+  person_id: 1
+  name: "Sprite"
+-
+  id: 548
+  meal_id: 99
+  person_id: 2
+  name: "Forbidden Island Treasure"
+-
+  id: 549
+  meal_id: 99
+  person_id: 2
+  name: "Diet Coke"
+-
+  id: 550
+  meal_id: 99
+  person_id: null
+  name: "Coconut Shrimp"
+-
+  id: 551
+  meal_id: 99
+  person_id: null
+  name: "Tiramisu"
+-
+  id: 552
+  meal_id: 100
+  person_id: 1
+  name: "Tube Ride French Toast"
+-
+  id: 553
+  meal_id: 100
+  person_id: 1
+  name: "Iced Coffee"
+-
+  id: 554
+  meal_id: 100
+  person_id: 2
+  name: "Tow-In French Toast"
+-
+  id: 555
+  meal_id: 100
+  person_id: 2
+  name: "Iced Coffee"
+-
+  id: 556
+  meal_id: 101
+  person_id: null
+  name: "Got Garlic Shrimp"
+-
+  id: 557
+  meal_id: 119
+  person_id: 1
+  name: "Pineapple Mango Guava Smoothie"
+-
+  id: 558
+  meal_id: 119
+  person_id: 2
+  name: "Pinapple Mango Coconut Smoothie"
+-
+  id: 559
+  meal_id: 102
+  person_id: 1
+  name: "Yaki Udon"
+-
+  id: 560
+  meal_id: 102
+  person_id: 1
+  name: "Water"
+-
+  id: 561
+  meal_id: 102
+  person_id: 2
+  name: "Katsudon Donburi"
+-
+  id: 562
+  meal_id: 102
+  person_id: 2
+  name: "Diet Coke"
+-
+  id: 563
+  meal_id: 103
+  person_id: 1
+  name: "Stuffed French Toast"
+-
+  id: 564
+  meal_id: 103
+  person_id: 1
+  name: "Kaua'i Roastery Iced Coffee"
+-
+  id: 565
+  meal_id: 103
+  person_id: 2
+  name: "Kalua Pork Loco Moco"
+-
+  id: 566
+  meal_id: 103
+  person_id: 2
+  name: "Kaua'i Roastery Iced Coffee"
+-
+  id: 567
+  meal_id: 104
+  person_id: 1
+  name: "Spicy Ahi Poke Bowl"
+-
+  id: 568
+  meal_id: 104
+  person_id: 2
+  name: "Half Ahi Limukohu / Half Spicy Ahi Pole Bowl"
+-
+  id: 569
+  meal_id: 104
+  person_id: null
+  name: "Popping Shrimp and Crab Inari"
+-
+  id: 570
+  meal_id: 105
+  person_id: 1
+  name: "Hawaiian Catch"
+-
+  id: 571
+  meal_id: 105
+  person_id: 1
+  name: "Virgin Lava Flow"
+-
+  id: 572
+  meal_id: 105
+  person_id: 2
+  name: "Shutome"
+-
+  id: 573
+  meal_id: 105
+  person_id: 2
+  name: "Lava Flow"
+-
+  id: 574
+  meal_id: 105
+  person_id: null
+  name: "Coconut Crusted Scallops"
+-
+  id: 575
+  meal_id: 105
+  person_id: null
+  name: "Macadamia Nut Creme Brulee"
+-
+  id: 576
+  meal_id: 106
+  person_id: 1
+  name: "Smoked Salmon Benny Double"
+-
+  id: 577
+  meal_id: 106
+  person_id: 1
+  name: "Iced Cold Brew"
+-
+  id: 578
+  meal_id: 106
+  person_id: 2
+  name: "Smoked Salmon Benny Double"
+-
+  id: 579
+  meal_id: 106
+  person_id: 2
+  name: "Iced Cold Brew"
+-
+  id: 580
+  meal_id: 106
+  person_id: null
+  name: "Cinnamon Roll"
+-
+  id: 581
+  meal_id: 107
+  person_id: 1
+  name: "Half Shoyu / Half Spicy Ahi Poke Bowl"
+-
+  id: 582
+  meal_id: 107
+  person_id: 2
+  name: "Hawaiian Style Poke Bowl"
+-
+  id: 583
+  meal_id: 107
+  person_id: null
+  name: "Black Mountain Roll"
+-
+  id: 584
+  meal_id: 108
+  person_id: 1
+  name: "Blackened Ono"
+-
+  id: 585
+  meal_id: 108
+  person_id: 1
+  name: "Keiki Delight"
+-
+  id: 586
+  meal_id: 108
+  person_id: 2
+  name: "MacNutt Basil Crema Baked Ono"
+-
+  id: 587
+  meal_id: 108
+  person_id: 2
+  name: "Keiki Delight"
+-
+  id: 588
+  meal_id: 108
+  person_id: null
+  name: "Mushroom Risotto Goat Cheese Croquettes"
+-
+  id: 589
+  meal_id: 108
+  person_id: null
+  name: "Mint Chocolate Chip Ice Cream Pie"
+-
+  id: 590
+  meal_id: 121
+  person_id: 1
+  name: "Polish Hotdog with Spicy Aoili, Mango Relish, and Lilokoi Mustard"
+-
+  id: 591
+  meal_id: 121
+  person_id: 1
+  name: "Lemonade"
+-
+  id: 592
+  meal_id: 121
+  person_id: 2
+  name: "Polish Hotdog with Spicy Aoili, Mango Relish, and Lilokoi Mustard"
+-
+  id: 593
+  meal_id: 121
+  person_id: 2
+  name: "Lemonade"
+-
+  id: 594
+  meal_id: 109
+  person_id: 1
+  name: "Sampler Special with Macadamia Nut French Toast, Bacon, Scrambled Eggs, and Papaya"
+-
+  id: 595
+  meal_id: 109
+  person_id: 1
+  name: "Kaua'i Roastery Iced Coffee"
+-
+  id: 596
+  meal_id: 109
+  person_id: 1
+  name: "Watermelon Juice"
+-
+  id: 597
+  meal_id: 109
+  person_id: 2
+  name: "Traditional Loco Moco"
+-
+  id: 598
+  meal_id: 109
+  person_id: 2
+  name: "Kaua'i Roastery Iced Coffee"
+-
+  id: 599
+  meal_id: 110
+  person_id: 1
+  name: "Cookies and Cream Shaved Ice"
+-
+  id: 600
+  meal_id: 110
+  person_id: 2
+  name: "Triple Coconut Shaved Ice"
+-
+  id: 601
+  meal_id: 111
+  person_id: 1
+  name: "Ahi Katsu"
+-
+  id: 602
+  meal_id: 111
+  person_id: 1
+  name: "Water"
+-
+  id: 603
+  meal_id: 111
+  person_id: 2
+  name: "Ahi Katsu"
+-
+  id: 604
+  meal_id: 111
+  person_id: 2
+  name: "Diamond Head Strawberry Soda"
