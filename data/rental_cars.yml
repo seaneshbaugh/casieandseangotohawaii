@@ -55,7 +55,7 @@
 -
   id: 7
   company: "Avis"
-  car_make_model: "Intermediate SUV"
+  car_make_model: "Jeep Gladiator"
   price: "$826.61"
   pickup_location_airport_id: 3
   pickup_datetime: "2024-04-30T19:00:00.00-10:00"
