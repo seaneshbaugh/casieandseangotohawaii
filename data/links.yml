@@ -3220,3 +3220,27 @@
   linkable_id: 88
   link_type: "reviews"
   url: "https://www.yelp.com/biz/smileys-local-grinds-lihue"
+-
+  id: 538
+  linkable_type: "attraction"
+  linkable_id: 110
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Brennecke's+Beach/@21.8730657,-159.4539207,995m/data=!3m2!1e3!4b1!4m6!3m5!1s0x7c071a9706bee6f3:0x7af4d5cafa037335!8m2!3d21.873128!4d-159.4512917!16s%2Fg%2F11cncck7tw?entry=ttu"
+-
+  id: 539
+  linkable_type: "attraction"
+  linkable_id: 110
+  link_type: "website"
+  url: "https://www.to-hawaii.com/kauai/beaches/brenneckebeach.php"
+-
+  id: 540
+  linkable_type: "attraction"
+  linkable_id: 110
+  link_type: "images"
+  url: "https://www.google.com/search?q=Brennecke%27s+Beach+Kauai&udm=2"
+-
+  id: 541
+  linkable_type: "attraction"
+  linkable_id: 110
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/brenneckes-beach-uninc-kauai"

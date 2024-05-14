@@ -1895,3 +1895,122 @@
   eventable_type: "meal"
   eventable_id: 121
   order: 7
+-
+  id: 272
+  leg_id: 8
+  day_id: 35
+  eventable_type: "visit"
+  eventable_id: 146
+  order: 5
+-
+  id: 273
+  leg_id: 8
+  day_id: 35
+  eventable_type: "visit"
+  eventable_id: 147
+  order: 6
+-
+  id: 274
+  leg_id: 8
+  day_id: 35
+  eventable_type: "visit"
+  eventable_id: 148
+  order: 7
+-
+  id: 275
+  leg_id: 8
+  day_id: 35
+  eventable_type: "visit"
+  eventable_id: 149
+  order: 8
+-
+  id: 276
+  leg_id: 8
+  day_id: 35
+  eventable_type: "visit"
+  eventable_id: 150
+  order: 9
+-
+  id: 277
+  leg_id: 8
+  day_id: 36
+  eventable_type: "visit"
+  eventable_id: 151
+  order: 2
+-
+  id: 278
+  leg_id: 8
+  day_id: 36
+  eventable_type: "visit"
+  eventable_id: 152
+  order: 3
+-
+  id: 279
+  leg_id: 8
+  day_id: 36
+  eventable_type: "visit"
+  eventable_id: 153
+  order: 4
+-
+  id: 280
+  leg_id: 8
+  day_id: 36
+  eventable_type: "visit"
+  eventable_id: 154
+  order: 5
+-
+  id: 281
+  leg_id: 8
+  day_id: 36
+  eventable_type: "visit"
+  eventable_id: 155
+  order: 9
+-
+  id: 282
+  leg_id: 8
+  day_id: 37
+  eventable_type: "visit"
+  eventable_id: 156
+  order: 2
+-
+  id: 283
+  leg_id: 8
+  day_id: 37
+  eventable_type: "visit"
+  eventable_id: 157
+  order: 3
+-
+  id: 284
+  leg_id: 8
+  day_id: 37
+  eventable_type: "visit"
+  eventable_id: 158
+  order: 4
+-
+  id: 285
+  leg_id: 8
+  day_id: 37
+  eventable_type: "visit"
+  eventable_id: 159
+  order: 6
+-
+  id: 286
+  leg_id: 8
+  day_id: 37
+  eventable_type: "visit"
+  eventable_id: 160
+  order: 8
+-
+  id: 287
+  leg_id: 8
+  day_id: 37
+  eventable_type: "visit"
+  eventable_id: 161
+  order: 9
+-
+  id: 288
+  leg_id: 8
+  day_id: 37
+  eventable_type: "visit"
+  eventable_id: 162
+  order: 10

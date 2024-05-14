@@ -200,7 +200,7 @@
   id: 19
   name: "Waimea Bay Beach Park"
   attraction_type: "beach"
-  priority: "major"
+  priority: "normal"
   address: "61-31 Kamehameha Hwy, Haleiwa, HI 96712"
   phone: null
   hours: null
@@ -1172,6 +1172,94 @@
   address: "Lower Saki Mana Rd, Waimea, HI 96796"
   phone: null
   hours: "5:30 AM - 7:45 PM"
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 108
+  name: "Salt Pond Beach Park"
+  attraction_type: "beach"
+  priority: "high"
+  address: "Lokokai Rd, Hanapepe, HI 96716"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 109
+  name: "Salt Pond Salt Ponds"
+  attraction_type: "point-of-interest"
+  priority: "normal"
+  address: "Lokokai Rd, Hanapepe, HI 96716"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 110
+  name: "Brennecke's Beach"
+  attraction_type: "beach"
+  priority: "high"
+  address: "Koloa, HI 96756"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 111
+  name: "Alakaʻi Swamp"
+  attraction_type: "hike"
+  priority: "high"
+  address: "Waimea, HI 96796"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 112
+  name: "Poli'ahu Heiau"
+  attraction_type: "point-of-interest"
+  priority: "high"
+  address: "5574 Kuamoo Rd, Kapaa, HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 113
+  name: "Holo Holo Ku Heiau"
+  attraction_type: "point-of-interest"
+  priority: "normal"
+  address: "4617 Kuamoo Rd Kapaa, HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 114
+  name: "Kealia Beach"
+  attraction_type: "beach"
+  priority: "minor"
+  address: "Kuhio Hwy, Kapaa, HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 115
+  name: "Hanamaulu Beach Park"
+  attraction_type: "beach"
+  priority: "low"
+  address: "Hehi Rd, Hanamaulu, HI 96766"
+  phone: null
+  hours: null
   notes: null
   notes_danger: null
   frommers_guide_book_page: null
