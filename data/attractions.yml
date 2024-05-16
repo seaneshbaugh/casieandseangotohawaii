@@ -1263,3 +1263,47 @@
   notes: null
   notes_danger: null
   frommers_guide_book_page: null
+-
+  id: 116
+  name: "Kukui'ula Harbor Beach"
+  attraction_type: "beach"
+  priority: "normal"
+  address: "Koloa, HI 96756"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 117
+  name: "Kukui Heiau"
+  attraction_type: "point-of-interest"
+  priority: "normal"
+  address: "410 Papala Rd, Kapaa, HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 118
+  name: "Hikinaakalä Heiau"
+  attraction_type: "point-of-interest"
+  priority: "normal"
+  address: "Nalu Rd, Kapaʻa, HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 119
+  name: "Kāneiʻolouma Heiau"
+  attraction_type: "point-of-interest"
+  priority: "high"
+  address: "2000 Poipu Rd, Koloa, HI 96756"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null

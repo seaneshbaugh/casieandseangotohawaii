@@ -1488,7 +1488,7 @@
   day_id: 39
   eventable_type: "flight"
   eventable_id: 11
-  order: 5
+  order: 12
 -
   id: 214
   leg_id: 8
@@ -1656,42 +1656,42 @@
   day_id: 38
   eventable_type: "meal"
   eventable_id: 107
-  order: 2
+  order: 5
 -
   id: 238
   leg_id: 8
   day_id: 38
   eventable_type: "meal"
   eventable_id: 108
-  order: 3
+  order: 8
 -
   id: 239
   leg_id: 8
   day_id: 39
   eventable_type: "meal"
   eventable_id: 109
-  order: 1
+  order: 4
 -
   id: 240
   leg_id: 8
   day_id: 39
   eventable_type: "meal"
   eventable_id: 110
-  order: 3
+  order: 7
 -
   id: 241
   leg_id: 8
   day_id: 39
   eventable_type: "meal"
   eventable_id: 111
-  order: 4
+  order: 10
 -
   id: 242
   leg_id: 8
   day_id: 39
   eventable_type: "visit"
   eventable_id: 126
-  order: 2
+  order: 5
 -
   id: 243
   leg_id: 8
@@ -2014,3 +2014,94 @@
   eventable_type: "visit"
   eventable_id: 162
   order: 10
+-
+  id: 289
+  leg_id: null
+  day_id: null
+  eventable_type: null
+  eventable_id: null
+  order: 0
+-
+  id: 290
+  leg_id: 8
+  day_id: 38
+  eventable_type: "visit"
+  eventable_id: 163
+  order: 2
+-
+  id: 291
+  leg_id: 8
+  day_id: 38
+  eventable_type: "visit"
+  eventable_id: 164
+  order: 3
+-
+  id: 292
+  leg_id: 8
+  day_id: 38
+  eventable_type: "visit"
+  eventable_id: 165
+  order: 4
+-
+  id: 293
+  leg_id: 8
+  day_id: 38
+  eventable_type: "visit"
+  eventable_id: 166
+  order: 6
+-
+  id: 294
+  leg_id: 8
+  day_id: 38
+  eventable_type: "visit"
+  eventable_id: 167
+  order: 7
+-
+  id: 295
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 168
+  order: 1
+-
+  id: 296
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 169
+  order: 2
+-
+  id: 297
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 170
+  order: 9
+-
+  id: 298
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 171
+  order: 6
+-
+  id: 299
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 172
+  order: 8
+-
+  id: 300
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 173
+  order: 3
+-
+  id: 301
+  leg_id: 8
+  day_id: 39
+  eventable_type: "visit"
+  eventable_id: 174
+  order: 11
