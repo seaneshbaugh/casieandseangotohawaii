@@ -1120,3 +1120,14 @@
   genre: "Coffee & Tea"
   notes: null
   frommers_guide_book_page: null
+-
+  id: 103
+  name: "Puka Dog"
+  priority: "major"
+  address: "2360 Kiahuna Plantation Dr, Koloa, HI 96756"
+  phone: "+1 808-742-6044"
+  hours: "10:00 AM - 7:30 PM"
+  price_range: "$"
+  genre: "Hot Dogs, Hawaiian"
+  notes: null
+  frommers_guide_book_page: null

@@ -270,35 +270,35 @@
   day_id: 6
   eventable_type: "visit"
   eventable_id: 24
-  order: 5
+  order: 6
 -
   id: 40
   leg_id: 2
   day_id: 6
   eventable_type: "visit"
   eventable_id: 25
-  order: 6
+  order: 7
 -
   id: 41
   leg_id: 2
   day_id: 6
   eventable_type: "visit"
   eventable_id: 26
-  order: 7
+  order: 8
 -
   id: 42
   leg_id: 2
   day_id: 6
   eventable_type: "visit"
   eventable_id: 27
-  order: 8
+  order: 9
 -
   id: 43
   leg_id: 2
   day_id: 6
   eventable_type: "meal"
   eventable_id: 14
-  order: 9
+  order: 10
 -
   id: 44
   leg_id: 2
@@ -2105,3 +2105,10 @@
   eventable_type: "visit"
   eventable_id: 174
   order: 11
+-
+  id: 302
+  leg_id: 2
+  day_id: 6
+  eventable_type: "meal"
+  eventable_id: 122
+  order: 5
