@@ -3,7 +3,7 @@
   linkable_type: "airport"
   linkable_id: 1
   link_type: "map"
-  url: "https://www.google.com/maps/place/Dallas%2FFort+Worth+International+Airport/@32.8998091,-97.0753541,13z/data=!4m5!3m4!1s0x864c2a660d222aa7:0x73323f5e067d201c!8m2!3d32.8998091!4d-97.0403352"
+  url: "https://www.google.com/maps/place/Dallas+Fort+Worth+International+Airport/@32.8990479,-97.0361514,17z/data=!3m1!4b1!4m6!3m5!1s0x864c2a660d222aa7:0x73323f5e067d201c!8m2!3d32.8990434!4d-97.0335765!16zL20vMDFreWcz?entry=ttu"
 -
   id: 2
   linkable_type: "airport"
@@ -15,13 +15,13 @@
   linkable_type: "airport"
   linkable_id: 1
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Dallas+Fort+Worth+International+Airport"
+  url: "https://www.google.com/search?q=Dallas+Fort+Worth+International+Airport&udm=2"
 -
   id: 4
   linkable_type: "airport"
   linkable_id: 2
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.33285196785694%2C-157.93720178943943&z=13"
+  url: "https://www.google.com/maps/place/Daniel+K.+Inouye+International+Airport/@21.3186235,-157.928013,17z/data=!3m1!4b1!4m6!3m5!1s0x7c006f943168f55f:0x7ed111b1cbf331df!8m2!3d21.3186185!4d-157.9254381!16zL20vMDFuNWZ3?entry=ttu"
 -
   id: 5
   linkable_type: "airport"
@@ -33,13 +33,13 @@
   linkable_type: "airport"
   linkable_id: 2
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Honolulu+International+Airport"
+  url: "https://www.google.com/search?q=Daniel+K.+Inouye+International+Airport&udm=2"
 -
   id: 7
   linkable_type: "airport"
   linkable_id: 3
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.98722376037447%2C-159.35138284917304&z=13"
+  url: "https://www.google.com/maps/place/Lihue+Airport/@21.9788539,-159.3463334,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071ef73e6eeffb:0x42589a16936480fb!8m2!3d21.9788489!4d-159.3437585!16zL20vMF9ycTI?entry=ttu"
 -
   id: 8
   linkable_type: "airport"
@@ -51,13 +51,13 @@
   linkable_type: "airport"
   linkable_id: 3
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lihue+Airport"
+  url: "https://www.google.com/search?q=Lihue+Airport&udm=2"
 -
   id: 10
   linkable_type: "airport"
   linkable_id: 4
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.913948416418336%2C-156.454111709421&z=12"
+  url: "https://www.google.com/maps/place/Kahului+Airport/@20.894603,-156.4386493,17z/data=!3m2!4b1!5s0x7954d2afb78b239d:0x64dca853544e2530!4m6!3m5!1s0x7954d2b01b8e0419:0xc35ea962dd1a9041!8m2!3d20.894598!4d-156.4360744!16zL20vMDFyM2wy?entry=ttu"
 -
   id: 11
   linkable_type: "airport"
@@ -69,13 +69,13 @@
   linkable_type: "airport"
   linkable_id: 4
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kahului+Airport"
+  url: "https://www.google.com/search?q=Kahului+Airport&udm=2"
 -
   id: 13
   linkable_type: "airport"
   linkable_id: 5
   link_type: "map"
-  url: "https://www.google.com/maps/place/Phoenix+Sky+Harbor+International+Airport/@33.4312378,-112.0283201,13z/data=!4m5!3m4!1s0x872b0e5c330370a5:0x82f535d5e256ee42!8m2!3d33.435249!4d-112.010124"
+  url: "https://www.google.com/maps/place/Phoenix+Sky+Harbor+International+Airport/@33.4352535,-112.0126989,17z/data=!3m1!4b1!4m6!3m5!1s0x872b0e5c330370a5:0x82f535d5e256ee42!8m2!3d33.435249!4d-112.010124!16zL20vMHN5dm0?entry=ttu"
 -
   id: 14
   linkable_type: "airport"
@@ -87,13 +87,13 @@
   linkable_type: "airport"
   linkable_id: 5
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Phoenix+Sky+Harbor+International+Airport"
+  url: "https://www.google.com/search?q=Phoenix+Sky+Harbor+International+Airport&udm=2"
 -
   id: 16
   linkable_type: "airport"
   linkable_id: 6
   link_type: "map"
-  url: "https://www.google.com/maps/place/Hilo+International+Airport/@19.7188342,-155.0767055,13z/data=!4m5!3m4!1s0x79524c78af8cfe03:0x2e9bfe4565716c7f!8m2!3d19.7188342!4d-155.0416866?hl=en"
+  url: "https://www.google.com/maps/place/Hilo+International+Airport/@19.7207737,-155.0468541,17z/data=!3m2!4b1!5s0x79524b7fcb7d8d37:0x64dca853c21af9b0!4m6!3m5!1s0x79524c78af8cfe03:0x2e9bfe4565716c7f!8m2!3d19.7207687!4d-155.0442792!16zL20vMDM5OHNi?entry=ttu"
 -
   id: 17
   linkable_type: "airport"
@@ -105,13 +105,13 @@
   linkable_type: "airport"
   linkable_id: 6
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hilo+International+Airport"
+  url: "https://www.google.com/search?q=Hilo+International+Airport&udm=2"
 -
   id: 19
   linkable_type: "airport"
   linkable_id: 7
   link_type: "map"
-  url: "https://www.google.com/maps/place/Los+Angeles+International+Airport/@33.9435093,-118.4112155,17z/data=!4m6!3m5!1s0x80c2b0d213b24fb5:0x77a87b57698badf1!8m2!3d33.9434381!4d-118.409295!16zL20vMDRseWs?hl=en"
+  url: "https://www.google.com/maps/place/Los+Angeles+International+Airport/@33.9421574,-118.4061801,17z/data=!3m1!4b1!4m6!3m5!1s0x80c2b0d213b24fb5:0x77a87b57698badf1!8m2!3d33.942153!4d-118.4036052!16zL20vMDRseWs?entry=ttu"
 -
   id: 20
   linkable_type: "airport"
@@ -123,13 +123,13 @@
   linkable_type: "airport"
   linkable_id: 7
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Los+Angeles+International+Airport"
+  url: "https://www.google.com/search?q=Los+Angeles+International+Airport&udm=2"
 -
   id: 22
   linkable_type: "restaurant"
   linkable_id: 1
   link_type: "map"
-  url: "https://www.google.com/maps/place/Marukame+Udon+Waikiki/@21.2796049,-157.8280206,17z/data=!3m2!4b1!5s0x7c0072761e2b0ac1:0x3fc1569539b1156b!4m5!3m4!1s0x7c0072761fe019ad:0xee85c5aed8448988!8m2!3d21.2795988!4d-157.8258372"
+  url: "https://www.google.com/maps/place/Marugame+Udon/@21.2796578,-157.8284193,17z/data=!3m2!4b1!5s0x7c0072761e2b0ac1:0x3fc1569539b1156b!4m6!3m5!1s0x7c0072761fe019ad:0xee85c5aed8448988!8m2!3d21.2796528!4d-157.8258444!16s%2Fg%2F1tcx76vk?entry=ttu"
 -
   id: 23
   linkable_type: "restaurant"
@@ -141,7 +141,7 @@
   linkable_type: "restaurant"
   linkable_id: 1
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Marugame+Udon+Waikiki"
+  url: "https://www.google.com/search?q=Marugame+Udon+Honolulu&udm=2"
 -
   id: 25
   linkable_type: "restaurant"
@@ -153,19 +153,19 @@
   linkable_type: "restaurant"
   linkable_id: 2
   link_type: "map"
-  url: "https://www.google.com/maps/place/Surf+Lanai/@21.2769939,-157.8305977,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00727593d8afcb:0xfa8ebecd754996a8!8m2!3d21.2769939!4d-157.828409"
+  url: "https://www.google.com/maps/place/Surf+Lanai/@21.2769245,-157.8313229,17z/data=!3m2!4b1!5s0x7c007275b124859b:0x7b0f610a50c2315e!4m6!3m5!1s0x7c00727593d8afcb:0xfa8ebecd754996a8!8m2!3d21.2769195!4d-157.828748!16s%2Fg%2F1v9408jz?entry=ttu"
 -
   id: 27
   linkable_type: "restaurant"
   linkable_id: 2
   link_type: "website"
-  url: "https://www.royal-hawaiian.com/dining/surflanai/"
+  url: "https://www.royal-hawaiian.com/dining-overview/surf-lanai/"
 -
   id: 28
   linkable_type: "restaurant"
   linkable_id: 2
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Surf+Lanai+Restaurant"
+  url: "https://www.google.com/search?q=Surf+Lanai+Honolulu&udm=2"
 -
   id: 29
   linkable_type: "restaurant"
@@ -177,19 +177,19 @@
   linkable_type: "restaurant"
   linkable_id: 3
   link_type: "map"
-  url: "https://www.google.com/maps/place/Uncle+Clay%27s+House+of+Pure+Aloha/@21.2791319,-157.7560591,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0012ae5eef98c9:0xcef43b3b97dce5c3!8m2!3d21.2791319!4d-157.7538704"
+  url: "https://www.google.com/maps/place/Uncle+Clay's+House+of+Pure+Aloha/@21.2791369,-157.7564453,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0012ae5eef98c9:0xcef43b3b97dce5c3!8m2!3d21.2791319!4d-157.7538704!16s%2Fg%2F1w04k9st?entry=ttu"
 -
   id: 31
   linkable_type: "restaurant"
   linkable_id: 3
   link_type: "website"
-  url: "https://uncleclays.com/shave-ice/"
+  url: "https://houseofpurealoha.com/"
 -
   id: 32
   linkable_type: "restaurant"
   linkable_id: 3
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Uncle+Clay%27s+House+of+Pure+Aloha"
+  url: "https://www.google.com/search?q=Uncle+Clay%27s+House+of+Pure+Aloha&udm=2"
 -
   id: 33
   linkable_type: "restaurant"
@@ -201,13 +201,13 @@
   linkable_type: "restaurant"
   linkable_id: 4
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ono+Steaks+and+Shrimp+Shack/@21.333408,-157.6994035,17z/data=!3m2!4b1!5s0x7c00139694383547:0xe7853a241b1a9f55!4m5!3m4!1s0x7c001396939d02e9:0xad0897f30220062d!8m2!3d21.3333702!4d-157.6972237"
+  url: "https://www.google.com/maps/place/Ono+Steaks+and+Shrimp+Shack/@21.333413,-157.6997897,17z/data=!3m1!4b1!4m6!3m5!1s0x7c001396939d02e9:0xad0897f30220062d!8m2!3d21.333408!4d-157.6972148!16s%2Fg%2F1ydk8jphz?entry=ttu"
 -
   id: 35
   linkable_type: "restaurant"
   linkable_id: 4
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ono+Steaks+and+Shrimp+Shack"
+  url: "https://www.google.com/search?q=Ono+Steaks+and+Shrimp+Shack&udm=2"
 -
   id: 36
   linkable_type: "restaurant"
@@ -219,19 +219,19 @@
   linkable_type: "restaurant"
   linkable_id: 5
   link_type: "map"
-  url: "https://www.google.com/maps/place/Duke%27s+Waikiki/@21.2769032,-157.8300774,17z/data=!3m2!4b1!5s0x7c007276e9c20fc1:0x1ea572c05adb9e7c!4m5!3m4!1s0x7c007275d5c243cb:0xfffee1e1a1e0c9f1!8m2!3d21.2769032!4d-157.8278887"
+  url: "https://www.google.com/maps/place/Duke's+Waikiki/@21.2769082,-157.8304636,17z/data=!3m2!4b1!5s0x7c007276e9c20fc1:0x1ea572c05adb9e7c!4m6!3m5!1s0x7c007275d5c243cb:0xfffee1e1a1e0c9f1!8m2!3d21.2769032!4d-157.8278887!16s%2Fg%2F1tdwf48w?entry=ttu"
 -
   id: 38
   linkable_type: "restaurant"
   linkable_id: 5
   link_type: "website"
-  url: "http://www.dukeswaikiki.com/menus/dining-room"
+  url: "https://www.dukeswaikiki.com/"
 -
   id: 39
   linkable_type: "restaurant"
   linkable_id: 5
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Duke%27s+Waikiki"
+  url: "https://www.google.com/search?q=Duke%27s+Waikiki&udm=2"
 -
   id: 40
   linkable_type: "restaurant"
@@ -243,19 +243,19 @@
   linkable_type: "restaurant"
   linkable_id: 6
   link_type: "map"
-  url: "https://www.google.com/maps/place/Leonard's+Bakery/@21.2848821,-157.8155306,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0066002134d265:0xb9cb06fbe7f5980e!8m2!3d21.2849059!4d-157.8133473"
+  url: "https://www.google.com/maps/place/Leonard's+Bakery/@21.2848795,-157.8182147,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0066002134d265:0xb9cb06fbe7f5980e!8m2!3d21.2848746!4d-157.8133438!16s%2Fm%2F0130cv6x?entry=ttu"
 -
   id: 42
   linkable_type: "restaurant"
   linkable_id: 6
   link_type: "website"
-  url: "https://www.leonardshawaii.com/home/"
+  url: "https://leonardshawaii.com/home/"
 -
   id: 43
   linkable_type: "restaurant"
   linkable_id: 6
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Leonard%27s+Bakery+Honolulu"
+  url: "https://www.google.com/search?q=Leonard%27s+Bakery&udm=2"
 -
   id: 44
   linkable_type: "restaurant"
@@ -267,19 +267,19 @@
   linkable_type: "restaurant"
   linkable_id: 7
   link_type: "map"
-  url: "https://www.google.com/maps/place/Countryside+Cafe/@21.4275735,-158.1807487,17z/data=!3m2!4b1!5s0x7c008a2563c058ed:0x9d6e4dbeeb90f8f5!4m5!3m4!1s0x7c008a256f31c2d5:0x23f6b83adbebfcd9!8m2!3d21.4275735!4d-158.17856"
+  url: "https://www.google.com/maps/place/Countryside+Cafe+(Wai'anae+Location)/@21.4275785,-158.1811349,17z/data=!3m2!4b1!5s0x7c008a2563c058ed:0x9d6e4dbeeb90f8f5!4m6!3m5!1s0x7c008a256f31c2d5:0x23f6b83adbebfcd9!8m2!3d21.4275735!4d-158.17856!16s%2Fg%2F11cn14hftb?entry=ttu"
 -
   id: 46
   linkable_type: "restaurant"
   linkable_id: 7
   link_type: "website"
-  url: "http://www.countrysidecafe808.net/menu"
+  url: "https://www.countrysidecafe808.net/"
 -
   id: 47
   linkable_type: "restaurant"
   linkable_id: 7
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Countryside+Cafe+Waianae"
+  url: "https://www.google.com/search?q=Countryside+Cafe+Waianae&udm=2"
 -
   id: 48
   linkable_type: "restaurant"
@@ -291,7 +291,7 @@
   linkable_type: "restaurant"
   linkable_id: 8
   link_type: "map"
-  url: "https://www.google.com/maps/place/Jinroku+Pacific/@21.276389,-157.8260837,17z/data=!3m1!4b1!4m5!3m4!1s0x7c007277aa0f11d5:0xe7cb531e651337ff!8m2!3d21.2763628!4d-157.8238696"
+  url: "https://www.google.com/maps/place/Jinroku+Pacific/@21.2763314,-157.8263834,17z/data=!4m6!3m5!1s0x7c007277aa0f11d5:0xe7cb531e651337ff!8m2!3d21.2763865!4d-157.8239265!16s%2Fg%2F1tf24938?entry=ttu"
 -
   id: 50
   linkable_type: "restaurant"
@@ -303,7 +303,7 @@
   linkable_type: "restaurant"
   linkable_id: 8
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Jinroku+Pacific"
+  url: "https://www.google.com/search?q=Jinroku+Pacific&udm=2"
 -
   id: 52
   linkable_type: "restaurant"
@@ -315,19 +315,19 @@
   linkable_type: "restaurant"
   linkable_id: 9
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kono's+Northshore+-+Honolulu/@21.2852889,-157.8155042,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006d83bbe574cb:0x177d2776fe6488f2!8m2!3d21.2853032!4d-157.8133441"
+  url: "https://www.google.com/maps/place/Kono's+Northshore+-+Honolulu/@21.2852912,-157.8159122,17z/data=!3m1!4b1!4m6!3m5!1s0x7c006d83bbe574cb:0x177d2776fe6488f2!8m2!3d21.2852862!4d-157.8133373!16s%2Fg%2F11c20dgthv?entry=ttu"
 -
   id: 54
   linkable_type: "restaurant"
   linkable_id: 9
   link_type: "website"
-  url: "http://www.konosnorthshore.com/menu/"
+  url: "https://www.konosnorthshore.com/"
 -
   id: 55
   linkable_type: "restaurant"
   linkable_id: 9
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kono%27s+Northshore+Kapahulu"
+  url: "https://www.google.com/search?q=Kono%27s+Northshore+Kapahulu&udm=2"
 -
   id: 56
   linkable_type: "restaurant"
@@ -339,19 +339,19 @@
   linkable_type: "restaurant"
   linkable_id: 10
   link_type: "map"
-  url: "https://www.google.com/maps/place/Tiki+Tacos/@22.0657373,-159.3213007,17z/data=!4m5!3m4!1s0x7c06e03555e6cf0b:0x8873353600753606!8m2!3d22.0654678!4d-159.3196313"
+  url: "https://www.google.com/maps/place/Tiki+Tacos/@22.0654709,-159.322246,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06e03555e6cf0b:0x8873353600753606!8m2!3d22.0654659!4d-159.3196711!16s%2Fg%2F119t9k54m?entry=ttu"
 -
   id: 58
   linkable_type: "restaurant"
   linkable_id: 10
   link_type: "website"
-  url: "http://restaurantwebexpert.com/TikiTacos/"
+  url: "https://restaurantwebexpert.com/TikiTacos/"
 -
   id: 59
   linkable_type: "restaurant"
   linkable_id: 10
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Tiki+Taco+Kauai"
+  url: "https://www.google.com/search?q=Tiki+Taco+Kapaa&udm=2"
 -
   id: 60
   linkable_type: "restaurant"
@@ -363,19 +363,19 @@
   linkable_type: "restaurant"
   linkable_id: 11
   link_type: "map"
-  url: "https://www.google.com/maps/place/JO2+Restaurant/@22.0655535,-159.3218038,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e03555e66b3f:0x46308dbf055d7a7c!8m2!3d22.0655535!4d-159.3196151"
+  url: "https://www.google.com/maps/place/JO2+Natural+Cuisine/@22.0655585,-159.32219,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06e03555e66b3f:0x46308dbf055d7a7c!8m2!3d22.0655535!4d-159.3196151!16s%2Fg%2F11byp80kb4?entry=ttu"
 -
   id: 62
   linkable_type: "restaurant"
   linkable_id: 11
   link_type: "website"
-  url: "http://www.jotwo.com/"
+  url: "https://jotwo.com/"
 -
   id: 63
   linkable_type: "restaurant"
   linkable_id: 11
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=JO2+Restaurant"
+  url: "https://www.google.com/search?q=JO2+Restaurant&udm=2"
 -
   id: 64
   linkable_type: "restaurant"
@@ -387,19 +387,19 @@
   linkable_type: "restaurant"
   linkable_id: 12
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kountry+Kitchen/@22.0783953,-159.31796,17z/data=!3m2!4b1!5s0x7c06e0f246e21511:0x3dd25d4c5d9c1f7b!4m5!3m4!1s0x7c06e0597bd31ee5:0x1f6fd11200f059ee!8m2!3d22.078374!4d-159.3157622"
+  url: "https://www.google.com/maps/place/Kountry+Kitchen/@22.0784003,-159.3183462,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06e0597bd31ee5:0x1f6fd11200f059ee!8m2!3d22.0783953!4d-159.3157713!16s%2Fg%2F1tx1tdl1?entry=ttu"
 -
   id: 66
   linkable_type: "restaurant"
   linkable_id: 12
   link_type: "website"
-  url: "http://www.kountrystylekitchen.com/"
+  url: "https://www.kountrystylekitchen.com/"
 -
   id: 67
   linkable_type: "restaurant"
   linkable_id: 12
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kountry+Kitchen+Kauai"
+  url: "https://www.google.com/search?q=Kountry+Kitchen+Kapaa&udm=2"
 -
   id: 68
   linkable_type: "restaurant"
@@ -411,19 +411,19 @@
   linkable_type: "restaurant"
   linkable_id: 13
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kalypso+Island+Bar+%26+Grill/@22.2032416,-159.498042,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06fae99ba58e6f:0xd4ffc052d130723b!8m2!3d22.2031887!4d-159.4958349"
+  url: "https://www.google.com/maps/place/Kalypso+Island+Bar+%26+Grill/@22.2032187,-159.4983708,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06fae99ba58e6f:0xd4ffc052d130723b!8m2!3d22.2032138!4d-159.4957959!16s%2Fg%2F1260r2m0r?entry=ttu"
 -
   id: 70
   linkable_type: "restaurant"
   linkable_id: 13
   link_type: "website"
-  url: "https://kalypsokauai.com/"
+  url: "http://www.kalypsokauai.com/"
 -
   id: 71
   linkable_type: "restaurant"
   linkable_id: 13
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kalypso+Island+Bar+and+Grill"
+  url: "https://www.google.com/search?q=Kalypso+Island+Bar+%26+Grill&udm=2"
 -
   id: 72
   linkable_type: "restaurant"
@@ -435,19 +435,19 @@
   linkable_type: "restaurant"
   linkable_id: 14
   link_type: "map"
-  url: "https://www.google.com/maps/place/Lemongrass+Grill+-+Kauai/@22.0626575,-159.3223603,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e04aaa43f4cf:0xdfea803b0d1c671d!8m2!3d22.0626575!4d-159.3201716"
+  url: "https://www.google.com/maps/place/Lemongrass+Grill+-+Kauai/@22.0626625,-159.3227465,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06e04aaa43f4cf:0xdfea803b0d1c671d!8m2!3d22.0626575!4d-159.3201716!16s%2Fg%2F1tp1z0jt?entry=ttu"
 -
   id: 74
   linkable_type: "restaurant"
   linkable_id: 14
   link_type: "website"
-  url: "http://www.lemongrasshawaii.com/"
+  url: "https://www.lemongrasshawaii.com/"
 -
   id: 75
   linkable_type: "restaurant"
   linkable_id: 14
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lemongrass+Grill+Seafood+and+Bar"
+  url: "https://www.google.com/search?q=Lemongrass+Grill+Seafood+%26+Bar&udm=2"
 -
   id: 76
   linkable_type: "restaurant"
@@ -459,7 +459,7 @@
   linkable_type: "restaurant"
   linkable_id: 15
   link_type: "map"
-  url: "https://www.google.com/maps/place/Hanalima+Baking/@21.9666315,-159.3980448,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071c3d50f541ed:0xdd054eb7098cca9c!8m2!3d21.966395!4d-159.3957298"
+  url: "https://www.google.com/maps/place/Hanalima+Bakery/@21.9665804,-159.3984457,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071c3d50f541ed:0xdd054eb7098cca9c!8m2!3d21.9665754!4d-159.3958708!16s%2Fg%2F1vg6tz3y?entry=ttu"
 -
   id: 78
   linkable_type: "restaurant"
@@ -471,7 +471,7 @@
   linkable_type: "restaurant"
   linkable_id: 15
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hanalima+Bakery"
+  url: "https://www.google.com/search?q=Hanalima+Bakery&udm=2"
 -
   id: 80
   linkable_type: "restaurant"
@@ -483,7 +483,7 @@
   linkable_type: "restaurant"
   linkable_id: 16
   link_type: "map"
-  url: "https://www.google.com/maps/place/Puka+Dog+Hawaiian+Style+Hot+Dogs/@21.8738762,-159.4555777,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071abeef842db1:0xb98a8f7c14c5a20b!8m2!3d21.873951!4d-159.4533924"
+  url: "https://www.google.com/maps/place/Puka+Dog+Hawaiian+Style+Hot+Dogs/@21.8737269,-159.4550734,17z/data=!4m6!3m5!1s0x7c071abeef842db1:0xb98a8f7c14c5a20b!8m2!3d21.8738762!4d-159.453389!16s%2Fg%2F119w2zzd_?entry=ttu"
 -
   id: 82
   linkable_type: "restaurant"
@@ -495,7 +495,7 @@
   linkable_type: "restaurant"
   linkable_id: 16
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Puka+Dog"
+  url: "https://www.google.com/search?q=Puka+Dog&udm=2"
 -
   id: 84
   linkable_type: "restaurant"
@@ -507,7 +507,7 @@
   linkable_type: "restaurant"
   linkable_id: 17
   link_type: "map"
-  url: "https://www.google.com/maps/place/Papalani+Gelato+Poipu+Shopping+Village/@21.8792649,-159.4607176,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071abf7c775ef1:0x29d9b7d2d47178f6!8m2!3d21.8792538!4d-159.4585323"
+  url: "https://www.google.com/maps/place/Papalani+Gelato+Poipu+Shopping+Village/@21.8792798,-159.4606318,17z/data=!4m6!3m5!1s0x7c071abf7c775ef1:0x29d9b7d2d47178f6!8m2!3d21.8792649!4d-159.4585289!16s%2Fg%2F1tj73tk5?entry=ttu"
 -
   id: 86
   linkable_type: "restaurant"
@@ -519,7 +519,7 @@
   linkable_type: "restaurant"
   linkable_id: 17
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Papalani+Gelato"
+  url: "https://www.google.com/search?q=Papalani+Gelato&udm=2"
 -
   id: 88
   linkable_type: "restaurant"
@@ -531,7 +531,7 @@
   linkable_type: "restaurant"
   linkable_id: 18
   link_type: "map"
-  url: "https://www.google.com/maps/place/Sam's+Ocean+View+Restaurant+Kapaa+Kauai/@22.0792972,-159.3164859,17z/data=!3m1!4b1!4m5!3m4!1s0x7c06e0f28888bd9b:0x545e8ecc44531482!8m2!3d22.079277!4d-159.3142737"
+  url: "https://www.google.com/maps/place/Sam's+Ocean+View+Restaurant+Kapaa+Kauai/@22.0793022,-159.3168721,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06e0f28888bd9b:0x545e8ecc44531482!8m2!3d22.0792972!4d-159.3142972!16s%2Fg%2F11bxb4sm_x?entry=ttu"
 -
   id: 90
   linkable_type: "restaurant"
@@ -543,7 +543,7 @@
   linkable_type: "restaurant"
   linkable_id: 18
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Sam%27s+Ocean+View"
+  url: "https://www.google.com/search?q=Sam%27s+Ocean+View&udm=2"
 -
   id: 92
   linkable_type: "restaurant"
@@ -555,31 +555,31 @@
   linkable_type: "restaurant"
   linkable_id: 19
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kalapaki+Beach+Hut/@21.9606803,-159.354051,17z/data=!4m5!3m4!1s0x7c071ee9fa7a3d9f:0xc22637219ab649bd!8m2!3d21.9609064!4d-159.3526725"
+  url: "https://www.google.com/maps/place/Kalapaki+Beach+Hut/@21.9608218,-159.3536864,18z/data=!4m6!3m5!1s0x7c071ee9fa7a3d9f:0xc22637219ab649bd!8m2!3d21.9609064!4d-159.3526725!16s%2Fg%2F1tdgq0w1?entry=ttu"
 -
   id: 94
   linkable_type: "restaurant"
   linkable_id: 19
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kalapaki+Beach+Hut"
+  url: "https://www.google.com/search?q=Kalapaki+Beach+Hut&udm=2"
 -
   id: 95
   linkable_type: "restaurant"
   linkable_id: 20
   link_type: "map"
-  url: "https://www.google.com/maps/place/Koke'e+Lodge/@22.1302106,-159.6602995,17z/data=!3m1!4b1!4m8!3m7!1s0x7c07aa47683bb7ed:0xe1b08fe5c1ba47f2!5m2!4m1!1i2!8m2!3d22.1301572!4d-159.6580425"
+  url: "https://www.google.com/maps/place/K%C5%8Dke%CA%BBe+Lodge/@22.1302155,-159.6606857,17z/data=!3m1!4b1!4m9!3m8!1s0x7c07aa47683bb7ed:0xe1b08fe5c1ba47f2!5m2!4m1!1i2!8m2!3d22.1302106!4d-159.6581108!16s%2Fg%2F1tg50n1x?entry=ttu"
 -
   id: 96
   linkable_type: "restaurant"
   linkable_id: 20
   link_type: "website"
-  url: "http://www.kokeelodge.com/"
+  url: "https://www.kokeelodge.com/"
 -
   id: 97
   linkable_type: "restaurant"
   linkable_id: 20
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kōkeʻe+Lodge"
+  url: "https://www.google.com/search?q=K%C5%8Dke%27e+Lodge&udm=2"
 -
   id: 98
   linkable_type: "restaurant"
@@ -591,7 +591,7 @@
   linkable_type: "restaurant"
   linkable_id: 21
   link_type: "map"
-  url: "https://www.google.com/maps/place/JoJo's+Shave+Ice/@21.9559175,-159.6717052,17z/data=!3m1!5s0x7c07a9e008bf5c1f:0xf5582401920e2fa9!4m5!3m4!1s0x7c07a9e008eadf6f:0x858ce10544bc7cca!8m2!3d21.9559913!4d-159.6699754?shorturl=1"
+  url: "https://www.google.com/maps/place/JoJo's+Shave+Ice/@21.9559963,-159.6725503,16z/data=!3m1!4b1!4m6!3m5!1s0x7c07a9e008eadf6f:0x858ce10544bc7cca!8m2!3d21.9559913!4d-159.6699754!16s%2Fg%2F1262tsd9x?entry=ttu"
 -
   id: 100
   linkable_type: "restaurant"
@@ -603,7 +603,7 @@
   linkable_type: "restaurant"
   linkable_id: 21
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Jojo's+Shave+Ice"
+  url: "https://www.google.com/search?q=Jojo%27s+Shave+Ice+Waimea&udm=2"
 -
   id: 102
   linkable_type: "restaurant"
@@ -615,19 +615,19 @@
   linkable_type: "restaurant"
   linkable_id: 22
   link_type: "map"
-  url: "https://www.google.com/maps/place/Verde+Restaurant+Lihue/@21.969311,-159.3901004,17z/data=!3m1!4b1!4m5!3m4!1s0x7c071c2122831f7f:0xdfc200507335b95!8m2!3d21.969311!4d-159.3879117"
+  url: "https://www.google.com/maps/place/Verde/@21.9693388,-159.3898819,17z/data=!4m6!3m5!1s0x7c071c2122831f7f:0xdfc200507335b95!8m2!3d21.9692642!4d-159.387661!16s%2Fg%2F11g9q3nrvn?entry=ttu"
 -
   id: 104
   linkable_type: "restaurant"
   linkable_id: 22
   link_type: "website"
-  url: "http://www.verdehawaii.com/"
+  url: "https://www.verdehawaii.com/"
 -
   id: 105
   linkable_type: "restaurant"
   linkable_id: 22
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Verde+Restaurant+Kauai"
+  url: "https://www.google.com/search?q=Verde+Restaurant+Lihue&udm=2"
 -
   id: 106
   linkable_type: "restaurant"
@@ -651,7 +651,7 @@
   linkable_type: "restaurant"
   linkable_id: 23
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Nom+Kauai"
+  url: "https://www.google.com/search?q=NOM+Kauai&udm=2"
 -
   id: 110
   linkable_type: "restaurant"
@@ -663,19 +663,19 @@
   linkable_type: "restaurant"
   linkable_id: 24
   link_type: "map"
-  url: "https://www.google.com/maps/place/The+Royal+Scoop/@20.9319941,-156.6946769,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b9e1339a13f:0x4a89e93553e473e2!8m2!3d20.9319999!4d-156.6924588"
+  url: "https://www.google.com/maps/place/Royal+Scoop/@20.931979,-156.6946554,17z/data=!4m6!3m5!1s0x79552b9e1339a13f:0x4a89e93553e473e2!8m2!3d20.9319941!4d-156.6924882!16s%2Fg%2F11fmrjyxv1?entry=ttu"
 -
   id: 112
   linkable_type: "restaurant"
   linkable_id: 24
   link_type: "website"
-  url: "https://www.royallahaina.com/dining"
+  url: "https://www.royallahaina.com/dine/"
 -
   id: 113
   linkable_type: "restaurant"
   linkable_id: 24
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Royal+Scoop+Maui"
+  url: "https://www.google.com/search?q=The+Royal+Scoop+Lahaina&udm=2"
 -
   id: 114
   linkable_type: "restaurant"
@@ -693,13 +693,13 @@
   linkable_type: "restaurant"
   linkable_id: 25
   link_type: "website"
-  url: "https://lahainagrill.com/menu-2/"
+  url: "https://lahainagrill.com/"
 -
   id: 117
   linkable_type: "restaurant"
   linkable_id: 25
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lahaina+Grill"
+  url: "https://www.google.com/search?q=Lahaina+Grill&udm=2"
 -
   id: 118
   linkable_type: "restaurant"
@@ -711,7 +711,7 @@
   linkable_type: "restaurant"
   linkable_id: 26
   link_type: "map"
-  url: "https://www.google.com/maps/place/Sea+House+Restaurant/@20.9966832,-156.6681115,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad44cb77bc469:0xbb9e570fc130b3a8!8m2!3d20.9966832!4d-156.6659175"
+  url: "https://www.google.com/maps/place/Sea+House+Restaurant/@20.9967163,-156.6684224,17z/data=!4m6!3m5!1s0x7eaad44cb77bc469:0xbb9e570fc130b3a8!8m2!3d20.9967013!4d-156.6659333!16s%2Fg%2F1tdz0543?entry=ttu"
 -
   id: 120
   linkable_type: "restaurant"
@@ -723,7 +723,7 @@
   linkable_type: "restaurant"
   linkable_id: 26
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Sea+House+Restaurant"
+  url: "https://www.google.com/search?q=Sea+House+Restaurant&udm=2"
 -
   id: 122
   linkable_type: "restaurant"
@@ -735,7 +735,7 @@
   linkable_type: "restaurant"
   linkable_id: 27
   link_type: "map"
-  url: "https://www.google.com/maps/place/Star+Noodle/@20.893183,-156.6790216,13.61z/data=!3m1!5s0x79552ba3bb45c589:0x32c4f2c8cd5c619c!4m12!1m6!3m5!1s0x79552baf0fe028ed:0x5a7e9aa1faee3a70!2sStar+Noodle!8m2!3d20.8865269!4d-156.6852585!3m4!1s0x79552baf0fe028ed:0x5a7e9aa1faee3a70!8m2!3d20.8865269!4d-156.6852585"
+  url: "https://www.google.com/maps/place/Star+Noodle/@20.8868672,-156.687309,17z/data=!4m6!3m5!1s0x79552baf0fe028ed:0x5a7e9aa1faee3a70!8m2!3d20.8868823!4d-156.685013!16s%2Fg%2F1tg_9ptw?entry=ttu"
 -
   id: 124
   linkable_type: "restaurant"
@@ -747,13 +747,13 @@
   linkable_type: "restaurant"
   linkable_id: 27
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Star+Noodle+Maui"
+  url: "https://www.google.com/search?q=Star+Noodle&udm=2"
 -
   id: 126
   linkable_type: "restaurant"
   linkable_id: 28
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kihei/@20.7817454,-156.4646442,17z/data=!4m12!1m6!3m5!1s0x7954d1b021100c3b:0x4245bc9926607de8!2sUlulani's+Hawaiian+Shave+Ice+-+Kihei!8m2!3d20.7817454!4d-156.4624555!3m4!1s0x7954d1b021100c3b:0x4245bc9926607de8!8m2!3d20.7817454!4d-156.4624555"
+  url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kihei/@20.7816652,-156.4646442,17z/data=!4m14!1m7!3m6!1s0x7954d1b021100c3b:0x4245bc9926607de8!2sUlulani's+Hawaiian+Shave+Ice+-+Kihei!8m2!3d20.7817454!4d-156.4624555!16s%2Fg%2F11h0pp71z!3m5!1s0x7954d1b021100c3b:0x4245bc9926607de8!8m2!3d20.7817454!4d-156.4624555!16s%2Fg%2F11h0pp71z?entry=ttu"
 -
   id: 127
   linkable_type: "restaurant"
@@ -765,13 +765,13 @@
   linkable_type: "restaurant"
   linkable_id: 28
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ululanis+Kihei+Maui"
+  url: "https://www.google.com/search?q=Ululanis+Kihei&udm=2"
 -
   id: 129
   linkable_type: "restaurant"
   linkable_id: 29
   link_type: "map"
-  url: "https://www.google.com/maps/place/Miso+Phat+Sushi/@20.7492267,-156.4569426,17z/data=!3m1!4b1!4m5!3m4!1s0x7954d041c24b482b:0xea3041c5edd9039e!8m2!3d20.7492267!4d-156.4547539"
+  url: "https://www.google.com/maps/place/Miso+Phat+Sushi/@20.9705357,-156.680697,17z/data=!3m1!4b1!4m6!3m5!1s0x7eaad4efec3b480d:0x2ada74847a3fd700!8m2!3d20.9705307!4d-156.6781221!16s%2Fg%2F1ptxd46_8?entry=ttu"
 -
   id: 130
   linkable_type: "restaurant"
@@ -783,7 +783,7 @@
   linkable_type: "restaurant"
   linkable_id: 29
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Miso+Phat+Sushi"
+  url: "https://www.google.com/search?q=Miso+Phat+Sushi&udm=2"
 -
   id: 132
   linkable_type: "restaurant"
@@ -795,7 +795,7 @@
   linkable_type: "restaurant"
   linkable_id: 30
   link_type: "map"
-  url: "https://www.google.com/maps/place/Leoda's+Kitchen+and+Pie+Shop/@20.8113271,-156.6242033,17z/data=!4m5!3m4!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!8m2!3d20.8113193!4d-156.6220193"
+  url: "https://www.google.com/maps/place/Leoda's+Kitchen+and+Pie+Shop/@20.8112318,-156.6243106,17z/data=!4m6!3m5!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!8m2!3d20.8113271!4d-156.6220146!16s%2Fg%2F1hg4v0hqr?entry=ttu"
 -
   id: 134
   linkable_type: "restaurant"
@@ -807,19 +807,19 @@
   linkable_type: "restaurant"
   linkable_id: 30
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Leoda%27s+Kitchen+Pie+Shop"
+  url: "https://www.google.com/search?q=Leoda%27s+Kitchen+and+Pie+Shop&udm=2"
 -
   id: 136
   linkable_type: "restaurant"
   linkable_id: 31
   link_type: "map"
-  url: "https://www.google.com/maps/place/Barefoot+Cafe,+Bakery+%26+Catering/@20.754977,-155.9859633,17z/data=!3m1!4b1!4m5!3m4!1s0x7954adad25c9925b:0x760621908779fbfc!8m2!3d20.7549811!4d-155.9837743"
+  url: "https://www.google.com/maps/place/Barefoot+Cafe,+Bakery+%26+Catering/@20.7548854,-155.9859121,17z/data=!4m6!3m5!1s0x7954adad25c9925b:0x760621908779fbfc!8m2!3d20.7550259!4d-155.9837663!16s%2Fg%2F11f4kq6pq8?entry=ttu"
 -
   id: 137
   linkable_type: "restaurant"
   linkable_id: 31
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Barefoot+Cafe+Maui"
+  url: "https://www.google.com/search?q=Barefoot+Cafe,+Bakery+%26+Catering+Hana&udm=2"
 -
   id: 138
   linkable_type: "restaurant"
@@ -831,19 +831,19 @@
   linkable_type: "restaurant"
   linkable_id: 32
   link_type: "map"
-  url: "https://www.google.com/maps/place/Merriman's+Kapalua/@20.9984073,-156.6693332,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad44b62d8196b:0xe2817ef1b6cae084!8m2!3d20.9984073!4d-156.6671445"
+  url: "https://www.google.com/maps/place/Merriman's+Kapalua/@20.9984083,-156.6697218,17z/data=!3m1!4b1!4m6!3m5!1s0x7eaad44b62d8196b:0xe2817ef1b6cae084!8m2!3d20.9984033!4d-156.6671469!16s%2Fg%2F1tjwhzgl?entry=ttu"
 -
   id: 140
   linkable_type: "restaurant"
   linkable_id: 32
   link_type: "website"
-  url: "https://www.merrimanshawaii.com/kapalua/dinner-menu/"
+  url: "https://www.merrimanshawaii.com/kapalua/"
 -
   id: 141
   linkable_type: "restaurant"
   linkable_id: 32
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Merriman%27s+Kapalua"
+  url: "https://www.google.com/search?q=Merriman%27s+Kapalua&udm=2"
 -
   id: 142
   linkable_type: "restaurant"
@@ -855,19 +855,19 @@
   linkable_type: "restaurant"
   linkable_id: 33
   link_type: "map"
-  url: "https://www.google.com/maps/place/Royal+Ocean+Terrace+Restaurant/@20.9322677,-156.6943089,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b49a0ede727:0xdc80148e6c88bb42!8m2!3d20.9322677!4d-156.6921202"
+  url: "https://www.google.com/maps/place/Royal+Ocean+Terrace+Restaurant/@20.9317127,-156.6950117,17z/data=!4m6!3m5!1s0x79552b49a0ede727:0xdc80148e6c88bb42!8m2!3d20.9316977!4d-156.6926621!16s%2Fg%2F11xbc1b9y?entry=ttu"
 -
   id: 144
   linkable_type: "restaurant"
   linkable_id: 33
   link_type: "website"
-  url: "https://www.royallahaina.com/dining"
+  url: "https://www.royallahaina.com/dine/"
 -
   id: 145
   linkable_type: "restaurant"
   linkable_id: 33
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Royal+Ocean+Terrace+Restaurant"
+  url: "https://www.google.com/search?q=Royal+Ocean+Terrace+Restaurant&udm=2"
 -
   id: 146
   linkable_type: "restaurant"
@@ -885,13 +885,13 @@
   linkable_type: "restaurant"
   linkable_id: 34
   link_type: "website"
-  url: "https://www.mamasfishhouse.com/menus/"
+  url: "https://mamasfishhouse.com/"
 -
   id: 149
   linkable_type: "restaurant"
   linkable_id: 34
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Mama%27s+Fish+House+Maui"
+  url: "https://www.google.com/search?q=Mama%27s+Fish+House&udm=2"
 -
   id: 150
   linkable_type: "restaurant"
@@ -903,7 +903,7 @@
   linkable_type: "restaurant"
   linkable_id: 35
   link_type: "map"
-  url: "https://www.google.com/maps/place/Food+Truck+Park/@20.8879998,-156.4523373,17z/data=!4m5!3m4!1s0x7954d312ab8b98d1:0xd2016486f0210de1!8m2!3d20.8880739!4d-156.4507027"
+  url: "https://www.google.com/maps/place/Food+Truck+Park/@20.8879798,-156.4528201,17z/data=!4m6!3m5!1s0x7954d312ab8b98d1:0xd2016486f0210de1!8m2!3d20.88802!4d-156.4506253!16s%2Fg%2F11p0_746dy?entry=ttu"
 -
   id: 152
   linkable_type: "restaurant"
@@ -915,13 +915,13 @@
   linkable_type: "restaurant"
   linkable_id: 35
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=520+Keolani+Pl+food+truck+park"
+  url: "https://www.google.com/search?q=520+Keolani+Pl+food+truck+park&udm=2"
 -
   id: 154
   linkable_type: "restaurant"
   linkable_id: 36
   link_type: "map"
-  url: "https://www.google.com/maps/place/Duke's+Beach+House+Maui/@20.9445009,-156.6935463,17z/data=!3m1!5s0x7eaad4b5c3fbc96d:0x2d802cbba4983bba!4m5!3m4!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!8m2!3d20.9444909!4d-156.6915936"
+  url: "https://www.google.com/maps/place/Duke's+Beach+House+Maui/@20.944556,-156.6940076,17z/data=!4m6!3m5!1s0x7eaad4b60aa1611f:0x6c139cb827668f79!8m2!3d20.9444909!4d-156.6915936!16s%2Fg%2F1vxz9vhn?entry=ttu"
 -
   id: 155
   linkable_type: "restaurant"
@@ -933,13 +933,13 @@
   linkable_type: "restaurant"
   linkable_id: 36
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Duke's+Beach+House+Maui"
+  url: "https://www.google.com/search?q=Duke%27s+Beach+House&udm=2"
 -
   id: 157
   linkable_type: "restaurant"
   linkable_id: 37
   link_type: "map"
-  url: "https://www.google.com/maps/place/Tin+Roof+Maui/@20.8850704,-156.4550552,17z/data=!4m5!3m4!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!8m2!3d20.8849863!4d-156.4537026"
+  url: "https://www.google.com/maps/place/Tin+Roof+Maui/@20.8850854,-156.4558169,17z/data=!3m1!5s0x7954d2c04d2408ff:0x4a55a79650f9fcd2!4m6!3m5!1s0x7954d2c04c7cc9a9:0x1c4fbd8b739cd8b3!8m2!3d20.8849802!4d-156.4536926!16s%2Fg%2F11cn0tlqmz?entry=ttu"
 -
   id: 158
   linkable_type: "restaurant"
@@ -951,7 +951,7 @@
   linkable_type: "restaurant"
   linkable_id: 37
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Tinroof+Maui"
+  url: "https://www.google.com/search?q=Tinroof+Kahului&udm=2"
 -
   id: 160
   linkable_type: "restaurant"
@@ -969,13 +969,13 @@
   linkable_type: "restaurant"
   linkable_id: 38
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kapena's+Wood+Fired+Kitchen"
+  url: "https://www.google.com/search?q=Kapena%27s+Wood+Fired+Kitchen&udm=2"
 -
   id: 163
   linkable_type: "restaurant"
   linkable_id: 39
   link_type: "map"
-  url: "https://www.google.com/maps/place/BanyanTreats/@20.8724317,-156.6798924,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bb823f236eb:0x7b082dcca780e768!8m2!3d20.8724317!4d-156.6777037"
+  url: "https://www.google.com/maps/place/BanyanTreats/@20.8722713,-156.680064,17z/data=!4m6!3m5!1s0x79552bb823f236eb:0x7b082dcca780e768!8m2!3d20.8724317!4d-156.6777037!16s%2Fg%2F1pp2x8yhq?entry=ttu"
 -
   id: 164
   linkable_type: "restaurant"
@@ -987,13 +987,13 @@
   linkable_type: "restaurant"
   linkable_id: 39
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=BanyanTreats"
+  url: "https://www.google.com/search?q=BanyanTreats&udm=2"
 -
   id: 166
   linkable_type: "restaurant"
   linkable_id: 40
   link_type: "map"
-  url: "https://www.google.com/maps/place/Old+Lahaina+Luau/@20.8859312,-156.6872611,17z/data=!3m1!4b1!4m8!3m7!1s0x79552ba3a8192b47:0x3e29ebcbc1c54e6a!5m2!4m1!1i2!8m2!3d20.8859312!4d-156.6850724"
+  url: "https://www.google.com/maps/place/Old+Lahaina+Luau/@20.885831,-156.6872611,17z/data=!4m6!3m5!1s0x79552ba3a8192b47:0x3e29ebcbc1c54e6a!8m2!3d20.8859312!4d-156.6850724!16s%2Fg%2F1tdkmfd5?entry=ttu"
 -
   id: 167
   linkable_type: "restaurant"
@@ -1005,31 +1005,31 @@
   linkable_type: "restaurant"
   linkable_id: 40
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Old+Lahaina+Lu'au"
+  url: "https://www.google.com/search?q=Old+Lahaina+Luau&udm=2"
 -
   id: 169
   linkable_type: "restaurant"
   linkable_id: 41
   link_type: "map"
-  url: "https://www.google.com/maps/place/The+Plantation+House/@21.0070938,-156.6420015,17z/data=!3m1!5s0x7eaad5e9c14b2fd9:0xfa6921b8b8d928b0!4m5!3m4!1s0x7eaad5e9bff3cb9b:0xbbd201faca55a651!8m2!3d21.0070838!4d-156.6403278"
+  url: "https://www.google.com/maps/place/The+Plantation+House/@21.0070938,-156.6424521,17z/data=!3m1!5s0x7eaad5e9c14b2fd9:0xfa6921b8b8d928b0!4m6!3m5!1s0x7eaad5e9bff3cb9b:0xbbd201faca55a651!8m2!3d21.0070838!4d-156.6403278!16s%2Fg%2F1tdw88h9?entry=ttu"
 -
   id: 170
   linkable_type: "restaurant"
   linkable_id: 41
   link_type: "website"
-  url: "https://www.cohnrestaurants.com/theplantationhouse"
+  url: "https://www.theplantationhouse.com/"
 -
   id: 171
   linkable_type: "restaurant"
   linkable_id: 41
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=The+Plantation+House+Maui"
+  url: "https://www.google.com/search?q=The+Plantation+House+Kapalua&udm=2"
 -
   id: 172
   linkable_type: "restaurant"
   linkable_id: 42
   link_type: "map"
-  url: "https://www.google.com/maps/place/Slappy+Cakes/@20.9466167,-156.6900915,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad4c9c7afdf63:0xcf6acecc6be9e159!8m2!3d20.9466814!4d-156.6880541"
+  url: "https://www.google.com/maps/place/Slappy+Cakes/@20.9466217,-156.6904777,17z/data=!3m1!4b1!4m6!3m5!1s0x7eaad4c9c7afdf63:0xcf6acecc6be9e159!8m2!3d20.9466167!4d-156.6879028!16s%2Fg%2F12hld0tdl?entry=ttu"
 -
   id: 173
   linkable_type: "restaurant"
@@ -1041,31 +1041,31 @@
   linkable_type: "restaurant"
   linkable_id: 42
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Slappy+Cakes++Maui"
+  url: "https://www.google.com/search?q=Slappy+Cakes+Maui&udm=2"
 -
   id: 175
   linkable_type: "restaurant"
   linkable_id: 43
   link_type: "map"
-  url: "https://www.google.com/maps/place/Cafe+O'Lei+at+the+Mill+House/@20.8489129,-156.5089402,17z/data=!3m1!5s0x7954d393a80dcf79:0x485f76f4563243cd!4m5!3m4!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!8m2!3d20.8490854!4d-156.5070341"
+  url: "https://www.google.com/maps/place/Cafe+O'Lei+at+the+Plantation/@20.8491184,-156.509777,17z/data=!3m1!4b1!4m6!3m5!1s0x7954d33b0dcd0037:0xcfd7ee9873b5acc9!8m2!3d20.8491134!4d-156.5072021!16s%2Fg%2F11qqydglq0?entry=ttu"
 -
   id: 176
   linkable_type: "restaurant"
   linkable_id: 43
   link_type: "website"
-  url: "https://www.cafeoleirestaurants.com/#/cafe-olei-at-the-mill-house/"
+  url: "https://www.cafeoleirestaurants.com/#/cafe-olei-plantation/"
 -
   id: 177
   linkable_type: "restaurant"
   linkable_id: 43
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Cafe+O'lei+at+the+Mill+House"
+  url: "https://www.google.com/search?q=Cafe+O%27lei+at+the+Mill+House&udm=2"
 -
   id: 178
   linkable_type: "restaurant"
   linkable_id: 44
   link_type: "map"
-  url: "https://www.google.com/maps/place/Roy's+Waikiki/@21.278664,-157.8337968,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0072757ba6dcc7:0x75b398de47b129bd!8m2!3d21.2787242!4d-157.8316861"
+  url: "https://www.google.com/maps/place/Roy's+Waikiki/@21.278509,-157.8339255,17z/data=!4m6!3m5!1s0x7c0072757ba6dcc7:0x75b398de47b129bd!8m2!3d21.278664!4d-157.8316081!16s%2Fg%2F1td3g74y?entry=ttu"
 -
   id: 179
   linkable_type: "restaurant"
@@ -1077,7 +1077,7 @@
   linkable_type: "restaurant"
   linkable_id: 44
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Roy%27s+Waikiki"
+  url: "https://www.google.com/search?q=Roy%27s+Waikiki&udm=2"
 -
   id: 181
   linkable_type: "restaurant"
@@ -1089,7 +1089,7 @@
   linkable_type: "restaurant"
   linkable_id: 45
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kihei+Caffe+Lahaina/@20.8853753,-156.6842098,17z/data=!3m1!4b1!4m5!3m4!1s0x79552bfe522ba9a9:0x43b02d727b7e0fc7!8m2!3d20.8853771!4d-156.6820163"
+  url: "https://www.google.com/maps/place/Kihei+Caffe+Lahaina/@20.885306,-156.6844139,17z/data=!3m1!4b1!4m6!3m5!1s0x79552bfe522ba9a9:0x43b02d727b7e0fc7!8m2!3d20.885301!4d-156.681839!16s%2Fg%2F11q2zb0qvk?entry=ttu"
 -
   id: 183
   linkable_type: "restaurant"
@@ -1101,13 +1101,13 @@
   linkable_type: "restaurant"
   linkable_id: 45
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kihei+Caffe"
+  url: "https://www.google.com/search?q=Kihei+Caffe&udm=2"
 -
   id: 185
   linkable_type: "restaurant"
   linkable_id: 46
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kahului/@20.883035,-156.4566031,17z/data=!4m12!1m6!3m5!1s0x7954d2ea794ab09b:0xd1a7ead5f55cad3!2sUlulani's+Hawaiian+Shave+Ice+-+Kahului!8m2!3d20.8830541!4d-156.4544353!3m4!1s0x7954d2ea794ab09b:0xd1a7ead5f55cad3!8m2!3d20.8830541!4d-156.4544353"
+  url: "https://www.google.com/maps/place/Ululani's+Hawaiian+Shave+Ice+-+Kahului/@20.8829564,-156.4564739,17z/data=!4m6!3m5!1s0x7954d2ea794ab09b:0xd1a7ead5f55cad3!8m2!3d20.8830917!4d-156.4545534!16s%2Fg%2F11h1nyc26?entry=ttu"
 -
   id: 186
   linkable_type: "restaurant"
@@ -1119,25 +1119,25 @@
   linkable_type: "restaurant"
   linkable_id: 46
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ululanis+Kahului+Maui"
+  url: "https://www.google.com/search?q=Ululanis+Kahului&udm=2"
 -
   id: 188
   linkable_type: "restaurant"
   linkable_id: 47
   link_type: "map"
-  url: "https://www.google.com/maps/place/Olowalu+Juice+Stand/@20.8113271,-156.6242033,17z/data=!3m1!5s0x795529d938635af7:0x8d9f774ddbc34204!4m12!1m6!3m5!1s0x795529d93897d3cf:0x78bcbc29174ce0fd!2sLeoda's+Kitchen+and+Pie+Shop!8m2!3d20.8113193!4d-156.6220193!3m4!1s0x795529d950119e4f:0x93afedcf65969224!8m2!3d20.8118996!4d-156.6231123"
+  url: "https://www.google.com/maps/place/Olowalu+Juice+Stand/@20.8119046,-156.6256872,17z/data=!3m1!4b1!4m6!3m5!1s0x795529d950119e4f:0x93afedcf65969224!8m2!3d20.8118996!4d-156.6231123!16s%2Fg%2F11c4_gj0yj?entry=ttu"
 -
   id: 189
   linkable_type: "restaurant"
   linkable_id: 47
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Olowalu+Juice+Stand"
+  url: "https://www.google.com/search?q=Olowalu+Juice+Stand&udm=2"
 -
   id: 190
   linkable_type: "restaurant"
   linkable_id: 48
   link_type: "map"
-  url: "https://www.google.com/maps/place/Leilani's+on+the+Beach/@20.9211776,-156.6977742,17z/data=!3m1!5s0x79552b43d412d3b1:0x725118268589a922!4m12!1m6!3m5!1s0x79552b417b74eae9:0x26350e83ee6b037c!2sLeilani's+on+the+Beach!8m2!3d20.9211776!4d-156.6955855!3m4!1s0x79552b417b74eae9:0x26350e83ee6b037c!8m2!3d20.9211776!4d-156.6955855"
+  url: "https://www.google.com/maps/place/Leilani's+on+the+Beach/@20.9212913,-156.6979712,17z/data=!4m6!3m5!1s0x79552b417b74eae9:0x26350e83ee6b037c!8m2!3d20.9212763!4d-156.6955787!16s%2Fg%2F1tgwb2_5?entry=ttu"
 -
   id: 191
   linkable_type: "restaurant"
@@ -1149,13 +1149,13 @@
   linkable_type: "restaurant"
   linkable_id: 48
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Leilani's+on+the+Beach"
+  url: "https://www.google.com/search?q=Leilani%27s+on+the+Beach&udm=2"
 -
   id: 193
   linkable_type: "restaurant"
   linkable_id: 49
   link_type: "map"
-  url: "https://www.google.com/maps/place/Hula+Grill+Kaanapali/@20.9217917,-156.6975637,17z/data=!3m1!4b1!4m5!3m4!1s0x79552b417b74eae9:0x48a630c5dc42e9ac!8m2!3d20.9217763!4d-156.6952446"
+  url: "https://www.google.com/maps/place/Hula+Grill+Kaanapali/@20.9217967,-156.6979499,17z/data=!3m1!4b1!4m6!3m5!1s0x79552b417b74eae9:0x48a630c5dc42e9ac!8m2!3d20.9217917!4d-156.695375!16s%2Fg%2F1tkmmry6?entry=ttu"
 -
   id: 194
   linkable_type: "restaurant"
@@ -1215,7 +1215,7 @@
   linkable_type: "restaurant"
   linkable_id: 61
   link_type: "map"
-  url: "https://www.google.com/maps/place/Barefoot+Beach+Cafe+@+Queen's+Surf+Beach/@21.2679099,-157.8246587,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00726ff958afd7:0x283d722b912d17d2!8m2!3d21.2679099!4d-157.82247"
+  url: "https://www.google.com/maps/place/Barefoot+Beach+Cafe+@+Queen's+Surf+Beach/@21.2679149,-157.8250449,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00726ff958afd7:0x283d722b912d17d2!8m2!3d21.2679099!4d-157.82247!16s%2Fg%2F12hkjwp1p?entry=ttu"
 -
   id: 204
   linkable_type: "restaurant"
@@ -1251,7 +1251,7 @@
   linkable_type: "restaurant"
   linkable_id: 66
   link_type: "map"
-  url: "https://www.google.com/maps/place/Skybox+Taphouse/@21.2783472,-157.8287884,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00732e5801ad71:0x364f92d0f799519e!8m2!3d21.2783472!4d-157.8265997"
+  url: "https://www.google.com/maps/place/Skybox+Taphouse/@21.2780014,-157.8293696,17z/data=!4m6!3m5!1s0x7c00732e5801ad71:0x364f92d0f799519e!8m2!3d21.2780564!4d-157.8269127!16s%2Fg%2F11ny46xtyx?entry=ttu"
 -
   id: 210
   linkable_type: "restaurant"
@@ -1263,7 +1263,7 @@
   linkable_type: "restaurant"
   linkable_id: 66
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Skybox+Taphouse+Honolulu"
+  url: "https://www.google.com/search?q=Skybox+Taphouse+Honolulu&udm=2"
 -
   id: 212
   linkable_type: "restaurant"
@@ -1275,19 +1275,19 @@
   linkable_type: "restaurant"
   linkable_id: 67
   link_type: "map"
-  url: "https://www.google.com/maps/place/Inu+Pool+Bar/@20.9424691,-156.6935312,17z/data=!3m1!4b1!4m5!3m4!1s0x7eaad4b507dd161f:0xf3326801b13096e0!8m2!3d20.9424691!4d-156.6913425"
+  url: "https://www.google.com/maps/place/Inu+Pool+Bar/@20.9424741,-156.6939174,17z/data=!3m1!4b1!4m6!3m5!1s0x7eaad4b507dd161f:0xf3326801b13096e0!8m2!3d20.9424691!4d-156.6913425!16s%2Fg%2F11gdyqgvlm?entry=ttu"
 -
   id: 214
   linkable_type: "restaurant"
   linkable_id: 67
   link_type: "website"
-  url: "https://www.marriott.com/en-us/hotels/jhmwi-the-westin-nanea-ocean-villas-kaanapali/dining/"
+  url: "https://www.marriott.com/en-us/hotels/oggwo-the-westin-nanea-ocean-villas-kaanapali/dining/"
 -
   id: 215
   linkable_type: "restaurant"
   linkable_id: 67
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Inu+Pool+Bar"
+  url: "https://www.google.com/search?q=Inu+Pool+Bar&udm=2"
 -
   id: 216
   linkable_type: "restaurant"
@@ -1299,7 +1299,7 @@
   linkable_type: "restaurant"
   linkable_id: 68
   link_type: "map"
-  url: "https://www.google.com/maps/place/McDonald's/@20.8829897,-156.4555119,17z/data=!4m5!3m4!1s0x7954d2ea8140a9ab:0x6a0c93c557b9167c!8m2!3d20.8830562!4d-156.4537401"
+  url: "https://www.google.com/maps/place/McDonald's/@20.8829897,-156.4555119,17z/data=!4m6!3m5!1s0x7954d2ea8140a9ab:0x6a0c93c557b9167c!8m2!3d20.8830562!4d-156.4537401!16s%2Fg%2F1tgpn6_c?entry=ttu"
 -
   id: 218
   linkable_type: "restaurant"
@@ -1311,7 +1311,7 @@
   linkable_type: "restaurant"
   linkable_id: 68
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=McDonald%27s+Dairy+Rd+Maui"
+  url: "https://www.google.com/search?q=McDonald%27s+Dairy+Rd+Maui&udm=2"
 -
   id: 220
   linkable_type: "restaurant"
@@ -1341,7 +1341,7 @@
   linkable_type: "hotel"
   linkable_id: 1
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=The+Royal+Hawaiian"
+  url: "https://www.google.com/search?q=The+Royal+Hawaiian&udm=2"
 -
   id: 225
   linkable_type: "hotel"
@@ -1353,13 +1353,13 @@
   linkable_type: "hotel"
   linkable_id: 2
   link_type: "website"
-  url: "https://www.marriott.com/hotels/travel/lihsk-sheraton-kauai-coconut-beach-resort/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
+  url: "https://www.marriott.com/en-us/hotels/lihsk-sheraton-kauai-coconut-beach-resort/overview/"
 -
   id: 227
   linkable_type: "hotel"
   linkable_id: 2
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Courtyard+by+Marriott+Kaua%27i+at+Coconut+Beach"
+  url: "https://www.google.com/search?q=Courtyard+by+Marriott+Kaua%27i+at+Coconut+Beach&udm=2"
 -
   id: 228
   linkable_type: "hotel"
@@ -1377,7 +1377,7 @@
   linkable_type: "hotel"
   linkable_id: 3
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Royal+Lāhainā+Resort"
+  url: "https://www.google.com/search?q=Royal+L%C4%81hain%C4%81+Resort&udm=2"
 -
   id: 231
   linkable_type: "hotel"
@@ -1395,13 +1395,13 @@
   linkable_type: "hotel"
   linkable_id: 4
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Honua+Kai+Resort+%26+Spa"
+  url: "https://www.google.com/search?q=Honua+Kai+Resort+%26+Spa&udm=2"
 -
   id: 234
   linkable_type: "attraction"
   linkable_id: 1
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.276629942039932%2C-157.82878119167935&z=15"
+  url: "https://www.google.com/maps/place/Waik%C4%ABk%C4%AB+Beach/@21.275722,-157.8287137,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00727436e6a8ad:0x6afcce337172ca06!8m2!3d21.2762181!4d-157.8270914!16s%2Fg%2F1hhwrxrfx?entry=ttu"
 -
   id: 235
   linkable_type: "attraction"
@@ -1413,13 +1413,13 @@
   linkable_type: "attraction"
   linkable_id: 1
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Waikiki+Beach"
+  url: "https://www.google.com/search?q=Waikiki+Beach&udm=2"
 -
   id: 237
   linkable_type: "attraction"
   linkable_id: 2
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.276778496112843%2C-157.827089003595&z=15"
+  url: "https://www.google.com/maps/place/Duke+Paoa+Kahanamoku+Statue/@21.2755245,-157.8278987,17z/data=!3m1!4b1!4m6!3m5!1s0x7c007276ebe11ae1:0x8c1b0bb567c94087!8m2!3d21.2755195!4d-157.8253238!16s%2Fg%2F11b6t5w52p?entry=ttu"
 -
   id: 238
   linkable_type: "attraction"
@@ -1431,49 +1431,49 @@
   linkable_type: "attraction"
   linkable_id: 2
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Duke+Kahanamoku+Statue"
+  url: "https://www.google.com/search?q=Duke+Kahanamoku+Statue&udm=2"
 -
   id: 240
   linkable_type: "attraction"
   linkable_id: 3
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.285845996799853%2C-157.81406118349605&z=16"
+  url: "https://www.google.com/maps/place/Diamond+Head+State+Monument/@21.2638034,-157.8066692,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00728901172099:0x429e0b513230e252!8m2!3d21.2637984!4d-157.8040943!16s%2Fm%2F0bq6zxg?entry=ttu"
 -
   id: 241
   linkable_type: "attraction"
   linkable_id: 3
   link_type: "website"
-  url: "http://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/"
+  url: "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/"
 -
   id: 242
   linkable_type: "attraction"
   linkable_id: 3
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Diamond+Head+State+Monument"
+  url: "https://www.google.com/search?q=Diamond+Head+State+Monument&udm=2"
 -
   id: 243
   linkable_type: "attraction"
   linkable_id: 4
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.27441396226611%2C-157.6980041640411&z=14"
+  url: "https://www.google.com/maps/place/Hanauma+Bay+Nature+Preserve/@21.2688377,-157.695739,17z/data=!3m1!4b1!4m6!3m5!1s0x7c001271836a596b:0x88c38ae980a53537!8m2!3d21.2688327!4d-157.6931641!16s%2Fg%2F1tdprwpy?entry=ttu"
 -
   id: 244
   linkable_type: "attraction"
   linkable_id: 4
   link_type: "website"
-  url: "https://www.honolulu.gov/cms-dpr-menu/site-dpr-sitearticles/1716-hanauma-bay-home.html"
+  url: "https://www.honolulu.gov/parks-hbay/home.html"
 -
   id: 245
   linkable_type: "attraction"
   linkable_id: 4
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hanauma+Bay+Nature+Preserve"
+  url: "https://www.google.com/search?q=Hanauma+Bay+Nature+Preserve&udm=2"
 -
   id: 246
   linkable_type: "attraction"
   linkable_id: 5
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.276097765431473%2C-157.686989392932&z=16"
+  url: "https://www.google.com/maps/place/L%C4%81na%CA%BBi+Lookout/@21.2764815,-157.6881863,17z/data=!3m1!4b1!4m6!3m5!1s0x7c001213ec213a81:0xfbb3aa8175e138e1!8m2!3d21.2764765!4d-157.6856114!16s%2Fg%2F1tk6_qgr?entry=ttu"
 -
   id: 247
   linkable_type: "attraction"
@@ -1485,13 +1485,13 @@
   linkable_type: "attraction"
   linkable_id: 5
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lanai+Lookout+Oahu"
+  url: "https://www.google.com/search?q=Lanai+Lookout+Oahu&udm=2"
 -
   id: 249
   linkable_type: "attraction"
   linkable_id: 6
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.287438729508644%2C-157.66992662605742&z=16"
+  url: "https://www.google.com/maps/place/Wawamalu+Beach+Park/@21.287242,-157.6724039,17z/data=!3m1!4b1!4m6!3m5!1s0x7c001226c044ba33:0xec80ba7ae569fed!8m2!3d21.287237!4d-157.669829!16s%2Fg%2F1tdn8wzk?entry=ttu"
 -
   id: 250
   linkable_type: "attraction"
@@ -1503,13 +1503,13 @@
   linkable_type: "attraction"
   linkable_id: 6
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Wawamalu+Beach+Park"
+  url: "https://www.google.com/search?q=Wawamalu+Beach+Park&udm=2"
 -
   id: 252
   linkable_type: "attraction"
   linkable_id: 7
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.31149381502788%2C-157.6585403412979&z=15"
+  url: "https://www.google.com/maps/place/Makapu%CA%BBu+Lookout/@21.3094962,-157.6592321,17z/data=!4m6!3m5!1s0x7c00117a56befc3b:0xb05cbc8c4a131471!8m2!3d21.3094013!4d-157.6568288!16s%2Fg%2F1hc6p6lxl?entry=ttu"
 -
   id: 253
   linkable_type: "attraction"
@@ -1521,13 +1521,13 @@
   linkable_type: "attraction"
   linkable_id: 7
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Makapu%27u+Lookout"
+  url: "https://www.google.com/search?q=Makapu%27u+Lookout&udm=2"
 -
   id: 255
   linkable_type: "attraction"
   linkable_id: 8
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.39779089765779%2C-157.7315457032105&z=13"
+  url: "https://www.google.com/maps/place/Kailua+Beach+Park/@21.397401,-157.7297928,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0014fcc76127dd:0x376e262edd16fce0!8m2!3d21.397396!4d-157.7272179!16s%2Fg%2F1tf2491p?entry=ttu"
 -
   id: 256
   linkable_type: "attraction"
@@ -1539,13 +1539,13 @@
   linkable_type: "attraction"
   linkable_id: 8
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kailua+Beach+Park"
+  url: "https://www.google.com/search?q=Kailua+Beach+Park&udm=2"
 -
   id: 258
   linkable_type: "attraction"
   linkable_id: 9
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.40142002794666%2C-157.72734781523747&z=13"
+  url: "https://www.google.com/maps/place/Lanikai+Beach/@21.3918273,-157.7177262,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0014f892682f7f:0xec50e2c96a16e2b1!8m2!3d21.3925378!4d-157.7151208!16s%2Fm%2F02qs9cy?entry=ttu"
 -
   id: 259
   linkable_type: "attraction"
@@ -1557,13 +1557,13 @@
   linkable_type: "attraction"
   linkable_id: 9
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lanikai+Beach"
+  url: "https://www.google.com/search?q=Lanikai+Beach&udm=2"
 -
   id: 261
   linkable_type: "attraction"
   linkable_id: 10
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.38552291121506%2C-158.14377594683538&z=13"
+  url: "https://www.google.com/maps/place/N%C4%81n%C4%81kuli+Beach+Park/@21.376204,-158.1432384,18z/data=!3m1!4b1!4m6!3m5!1s0x7c0062788bbe9a61:0x16af0a75de1f6acb!8m2!3d21.3761645!4d-158.1417441!16s%2Fg%2F11c74y2phh?entry=ttu"
 -
   id: 262
   linkable_type: "attraction"
@@ -1575,13 +1575,13 @@
   linkable_type: "attraction"
   linkable_id: 10
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kalaniana%27ole+Beach+Park"
+  url: "https://www.google.com/search?q=Kalaniana%27ole+Beach+Park&udm=2"
 -
   id: 264
   linkable_type: "attraction"
   linkable_id: 11
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.38222340689748%2C-158.15794916923835&z=12"
+  url: "https://www.google.com/maps/place/Mermaids+Cave/@21.3733428,-158.1433627,17z/data=!4m6!3m5!1s0x7c00630023767f1b:0x6c243366fe1e37a5!8m2!3d21.3732679!4d-158.1413671!16s%2Fg%2F11vrx07xqf?entry=ttu"
 -
   id: 265
   linkable_type: "attraction"
@@ -1593,31 +1593,31 @@
   linkable_type: "attraction"
   linkable_id: 11
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Mermaid%27s+Secret+Cave"
+  url: "https://www.google.com/search?q=Mermaid%27s+Secret+Cave&udm=2"
 -
   id: 267
   linkable_type: "attraction"
   linkable_id: 12
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.403686296090882%2C-158.18155965878293&z=13"
+  url: "https://www.google.com/maps/place/Surfer%E2%80%99s+Beach+Park/@21.4084627,-158.1789775,17z/data=!4m14!1m7!3m6!1s0x7c0089e9e7f57dd7:0x132fe6ccf920ed63!2sUlehawa+Beach+Park!8m2!3d21.3938292!4d-158.1593506!16s%2Fg%2F1tgq6w5g!3m5!1s0x7c008949fedf4db1:0x6eb14a9805d83974!8m2!3d21.4084109!4d-158.1775917!16s%2Fg%2F11gj75njtr?entry=ttu"
 -
   id: 268
   linkable_type: "attraction"
   linkable_id: 12
   link_type: "website"
-  url: "https://lookintohawaii.com/hawaii/45036/maipalaoa-beach-park-beaches-oahu-waianae-hi"
+  url: "https://www.to-hawaii.com/oahu/beaches/ulehawabeachpark.php"
 -
   id: 269
   linkable_type: "attraction"
   linkable_id: 12
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Maipalaoa+Beach+Park"
+  url: "https://www.google.com/search?q=Ulehawa+Beach+Park&udm=2"
 -
   id: 270
   linkable_type: "attraction"
   linkable_id: 13
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.421239592004945%2C-158.17878388913272&z=13"
+  url: "https://www.google.com/maps/place/M%C4%81%CA%BBili+Beach+Park/@21.4191838,-158.1802082,17z/data=!4m6!3m5!1s0x7c008a2627add527:0xd9748455938938d5!8m2!3d21.4191739!4d-158.1778478!16s%2Fg%2F1tkl3jnz?entry=ttu"
 -
   id: 271
   linkable_type: "attraction"
@@ -1629,13 +1629,13 @@
   linkable_type: "attraction"
   linkable_id: 13
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ma%27ili+Beach+Park"
+  url: "https://www.google.com/search?q=Ma%27ili+Beach+Park&udm=2"
 -
   id: 273
   linkable_type: "attraction"
   linkable_id: 14
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.520049986749058%2C-158.22776205000002&z=13"
+  url: "https://www.google.com/maps/place/Kaneana+Cave+(Makua+Cave)/@21.519777,-158.2301395,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00f4adec860521:0x6d620e6e827c5321!8m2!3d21.519772!4d-158.2275646!16s%2Fg%2F1tdz9m__?entry=ttu"
 -
   id: 274
   linkable_type: "attraction"
@@ -1647,13 +1647,13 @@
   linkable_type: "attraction"
   linkable_id: 14
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kaneana+Cave"
+  url: "https://www.google.com/search?q=Kaneana+Cave&udm=2"
 -
   id: 276
   linkable_type: "attraction"
   linkable_id: 15
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.549057870981894%2C-158.24188860000004&z=13"
+  url: "https://www.google.com/maps/place/Keawaula+Beach/@21.5487546,-158.2500636,15z/data=!4m6!3m5!1s0x7c00f36302d0703f:0x4571df832da82575!8m2!3d21.5487753!4d-158.2420384!16s%2Fg%2F11cfh3_xf?entry=ttu"
 -
   id: 277
   linkable_type: "attraction"
@@ -1665,31 +1665,31 @@
   linkable_type: "attraction"
   linkable_id: 15
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Keawaula+Beach"
+  url: "https://www.google.com/search?q=Keawaula+Beach&udm=2"
 -
   id: 279
   linkable_type: "attraction"
   linkable_id: 16
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.5794864142986%2C-158.2866086915314&z=13"
+  url: "https://www.google.com/maps/place/Ka%E2%80%98Ena+Point+Natural+Area+Reserve/@21.5750023,-158.2765218,17z/data=!4m6!3m5!1s0x7c00f3879712f5c7:0xbafa6f4c02b969f3!8m2!3d21.5748078!4d-158.2746871!16s%2Fg%2F11j436j0rx?entry=ttu"
 -
   id: 280
   linkable_type: "attraction"
   linkable_id: 16
   link_type: "website"
-  url: "http://dlnr.hawaii.gov/dsp/hiking/oahu/kaena-point-trail/"
+  url: "https://dlnr.hawaii.gov/dsp/hiking/oahu/kaena-point-trail/"
 -
   id: 281
   linkable_type: "attraction"
   linkable_id: 16
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kaena+Point+State+Park"
+  url: "https://www.google.com/search?q=Ka%27ena+Point+State+Park&udm=2"
 -
   id: 282
   linkable_type: "attraction"
   linkable_id: 17
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.53367620920656%2C-158.23023799999999&z=14"
+  url: "https://www.google.com/maps/place/M%C4%81kua+Beach/@21.5319041,-158.2319795,17z/data=!4m14!1m7!3m6!1s0x7c00f588dc6f3711:0xc17d26dbdffb9f49!2smakua+beach!8m2!3d21.527651!4d-158.2290628!16s%2Fg%2F11vj2l6nv3!3m5!1s0x7c00f4a47d7e8d99:0x268cbe20d28bb155!8m2!3d21.5319042!4d-158.2294045!16s%2Fg%2F11b62kfvrt?entry=ttu"
 -
   id: 283
   linkable_type: "attraction"
@@ -1701,13 +1701,13 @@
   linkable_type: "attraction"
   linkable_id: 17
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q="
+  url: "https://www.google.com/search?q=Makua+Beach&udm=2"
 -
   id: 285
   linkable_type: "attraction"
   linkable_id: 18
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.622340251706397%2C-158.0938447545227&z=13"
+  url: "https://www.google.com/maps/place/Laniakea+Beach/@21.6187746,-158.0880062,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00591ab416363f:0x20d3ed1090114444!8m2!3d21.6187696!4d-158.0854313!16s%2Fg%2F11b76gmql3?entry=ttu"
 -
   id: 286
   linkable_type: "attraction"
@@ -1719,13 +1719,13 @@
   linkable_type: "attraction"
   linkable_id: 18
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Laniakea+Beach"
+  url: "https://www.google.com/search?q=Laniakea+Beach&udm=2"
 -
   id: 288
   linkable_type: "attraction"
   linkable_id: 19
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.640322940435652%2C-158.06500564319458&z=13"
+  url: "https://www.google.com/maps/place/Waimea+Bay+Beach+Park/@21.6398323,-158.0659343,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00599082b2115b:0x39f7c2ce689f8022!8m2!3d21.6398273!4d-158.0633594!16s%2Fg%2F1hhl10hr_?entry=ttu"
 -
   id: 289
   linkable_type: "attraction"
@@ -1737,13 +1737,13 @@
   linkable_type: "attraction"
   linkable_id: 19
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Waimea+Bay+Beach+Park"
+  url: "https://www.google.com/search?q=Waimea+Bay+Beach+Park&udm=2"
 -
   id: 291
   linkable_type: "attraction"
   linkable_id: 20
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.314762153467743%2C-157.87943979521793&z=13"
+  url: "https://www.google.com/maps/place/Foster+Botanical+Garden/@21.3168189,-157.8616063,17z/data=!3m1!4b1!4m6!3m5!1s0x7c006e77c0ef6907:0xe5887e7638b6976a!8m2!3d21.3168139!4d-157.8590314!16s%2Fm%2F06_8ty6?entry=ttu"
 -
   id: 292
   linkable_type: "attraction"
@@ -1755,13 +1755,13 @@
   linkable_type: "attraction"
   linkable_id: 20
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Foster+Botanical+Garden"
+  url: "https://www.google.com/search?q=Foster+Botanical+Garden&udm=2"
 -
   id: 294
   linkable_type: "attraction"
   linkable_id: 21
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.119166590075096%2C-159.30567975678412&z=12"
+  url: "https://www.google.com/maps/place/Donkey+Beach/@22.1171326,-159.3017082,17z/data=!4m14!1m7!3m6!1s0x7c06e752090d76b7:0x8a4783ce619fbd0b!2sDonkey+Beach!8m2!3d22.1169444!4d-159.2994444!16s%2Fg%2F1tdjrb_0!3m5!1s0x7c06e752090d76b7:0x8a4783ce619fbd0b!8m2!3d22.1169444!4d-159.2994444!16s%2Fg%2F1tdjrb_0?entry=ttu"
 -
   id: 295
   linkable_type: "attraction"
@@ -1773,13 +1773,13 @@
   linkable_type: "attraction"
   linkable_id: 21
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Donkey+Beach+Kauai"
+  url: "https://www.google.com/search?q=Donkey+Beach&udm=2"
 -
   id: 297
   linkable_type: "attraction"
   linkable_id: 22
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.16280581097035%2C-159.30567975678412&z=12"
+  url: "https://www.google.com/maps/place/Anahola+Beach+Park/@22.1457405,-159.3027089,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06e76ff873b261:0x6453188b7009dd70!8m2!3d22.1457356!4d-159.300134!16s%2Fg%2F1ptyvzn2n?entry=ttu"
 -
   id: 298
   linkable_type: "attraction"
@@ -1791,31 +1791,31 @@
   linkable_type: "attraction"
   linkable_id: 22
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Anahola+Beach+Park"
+  url: "https://www.google.com/search?q=Anahola+Beach+Park&udm=2"
 -
   id: 300
   linkable_type: "attraction"
   linkable_id: 23
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.232210290185%2C-159.40202470459906&z=13"
+  url: "https://www.google.com/maps/place/K%C4%ABlauea+Lighthouse/@22.2316995,-159.4045347,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06ef5ccefd7cbd:0xa0bd623c5475a7d4!8m2!3d22.2316946!4d-159.4019598!16zL20vMGczOHEx?entry=ttu"
 -
   id: 301
   linkable_type: "attraction"
   linkable_id: 23
   link_type: "website"
-  url: "https://www.to-hawaii.com/kauai/attractions/kilauea-lighthouse.php"
+  url: "https://www.fws.gov/refuge/kilauea-point"
 -
   id: 302
   linkable_type: "attraction"
   linkable_id: 23
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=K%C4%ABlauea+Lighthouse"
+  url: "https://www.google.com/search?q=K%C4%ABlauea+Lighthouse&udm=2"
 -
   id: 303
   linkable_type: "attraction"
   linkable_id: 24
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.230850836157842%2C-159.50604180541086&z=13"
+  url: "https://www.google.com/maps/place/Queen%E2%80%99s+Bath/@22.2292364,-159.4900116,17z/data=!3m1!4b1!4m6!3m5!1s0x795476a11876130b:0x7f6f89de06cda6de!8m2!3d22.2292315!4d-159.4874367!16s%2Fm%2F03nskg8?entry=ttu"
 -
   id: 304
   linkable_type: "attraction"
@@ -1827,13 +1827,13 @@
   linkable_type: "attraction"
   linkable_id: 24
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Queen%27s+Bath"
+  url: "https://www.google.com/search?q=Queen%27s+Bath&udm=2"
 -
   id: 306
   linkable_type: "attraction"
   linkable_id: 25
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.217668733857423%2C-159.5029519006257&z=13"
+  url: "https://www.google.com/maps/place/Hanalei+Pavilion+Beach+Park/@22.207049,-159.5005813,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06fabed0d9663d:0x3cf95af9bfe6da74!8m2!3d22.2070441!4d-159.4980064!16s%2Fg%2F1hc0v48p4?entry=ttu"
 -
   id: 307
   linkable_type: "attraction"
@@ -1845,13 +1845,13 @@
   linkable_type: "attraction"
   linkable_id: 25
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hanalei+Beach+Park"
+  url: "https://www.google.com/search?q=Hanalei+Beach+Park&udm=2"
 -
   id: 309
   linkable_type: "attraction"
   linkable_id: 26
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.222565215344957%2C-159.57298232929531&z=14"
+  url: "https://www.google.com/maps/place/Ha'ena+Beach+Park/@22.2199287,-159.5687388,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06fa1968290bb7:0xe1570592add2f838!8m2!3d22.2199238!4d-159.5661639!16s%2Fg%2F12hm2y726?entry=ttu"
 -
   id: 310
   linkable_type: "attraction"
@@ -1863,13 +1863,13 @@
   linkable_type: "attraction"
   linkable_id: 26
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Haena+Beach+Park"
+  url: "https://www.google.com/search?q=Ha%27ena+Beach+Park&udm=2"
 -
   id: 312
   linkable_type: "attraction"
   linkable_id: 27
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.220988566086376%2C-159.58431939330148&z=13"
+  url: "https://www.google.com/maps/place/Maniniholo+Dry+Cave/@22.2192187,-159.5680985,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06fa196d2065a7:0x4be89b892bd65d4d!8m2!3d22.2192138!4d-159.5655236!16s%2Fg%2F11bw20zzbm?entry=ttu"
 -
   id: 313
   linkable_type: "attraction"
@@ -1881,13 +1881,13 @@
   linkable_type: "attraction"
   linkable_id: 27
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Maniniholo+Dry+Cave"
+  url: "https://www.google.com/search?q=Maniniholo+Dry+Cave&udm=2"
 -
   id: 315
   linkable_type: "attraction"
   linkable_id: 28
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.220777701845094%2C-159.58449105467844&z=13"
+  url: "https://www.google.com/maps/place/Ke'e+Beach/@22.2234772,-159.5827943,17z/data=!4m6!3m5!1s0x7c06f9f3c4e6f35b:0xc24870f1c7a2009d!8m2!3d22.2235082!4d-159.5798426!16s%2Fg%2F1260lhtsp?entry=ttu"
 -
   id: 316
   linkable_type: "attraction"
@@ -1899,13 +1899,13 @@
   linkable_type: "attraction"
   linkable_id: 28
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ke%27e+Beach"
+  url: "https://www.google.com/search?q=Ke%27e+Beach&udm=2"
 -
   id: 318
   linkable_type: "attraction"
   linkable_id: 29
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.887870323992416%2C-159.4247812349028&z=13"
+  url: "https://www.google.com/maps/place/Makauwahi+Cave+Trail/@21.8876469,-159.4209012,17z/data=!4m6!3m5!1s0x7c071a5acba7de1d:0xdf276a130bf06a7e!8m2!3d21.8875524!4d-159.4190558!16s%2Fg%2F11c3_9hj2q?entry=ttu"
 -
   id: 319
   linkable_type: "attraction"
@@ -1923,7 +1923,7 @@
   linkable_type: "attraction"
   linkable_id: 30
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.88845525264154%2C-159.41886248876648&z=16"
+  url: "https://www.google.com/maps/place/Makauwahi+Cave+Reserve/@21.8882612,-159.4212578,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071a5ab2a9c64d:0xac9814a781b3042!8m2!3d21.8882562!4d-159.4186829!16s%2Fm%2F0bbxqxs?entry=ttu"
 -
   id: 322
   linkable_type: "attraction"
@@ -1935,31 +1935,31 @@
   linkable_type: "attraction"
   linkable_id: 30
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Makauwahi+Cave"
+  url: "https://www.google.com/search?q=Makauwahi+Cave&udm=2"
 -
   id: 324
   linkable_type: "attraction"
   linkable_id: 31
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.87991822080648%2C-159.43096104447312&z=13"
+  url: "https://www.google.com/maps/place/Maha'ulepu+(Heritage+Trail)/@21.8867479,-159.4218265,17z/data=!4m14!1m7!3m6!1s0x7c071a8bd0558d83:0x63d2ebb561a28f7d!2sMaha'ulepu+Heritage+Trail!8m2!3d21.8749647!4d-159.4369076!16s%2Fg%2F11ddwhqp2h!3m5!1s0x7c071ba23a3af739:0x13dc4bbce9d2b0bd!8m2!3d21.8867753!4d-159.4199591!16s%2Fg%2F11s8jy7gv8?entry=ttu"
 -
   id: 325
   linkable_type: "attraction"
   linkable_id: 31
   link_type: "website"
-  url: "http://www.hikemahaulepu.org/"
+  url: "https://www.alltrails.com/trail/hawaii/kaua-i--2/maha-ulepu-heritage-trail-shipwreck-beach-to-punahoa-point"
 -
   id: 326
   linkable_type: "attraction"
   linkable_id: 31
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Maha%27ulepu+Heritage+Trail"
+  url: "https://www.google.com/search?q=Maha%27ulepu+Heritage+Trail&udm=2"
 -
   id: 327
   linkable_type: "attraction"
   linkable_id: 32
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.88165359176226%2C-159.4592851716704&z=13"
+  url: "https://www.google.com/maps/place/Poipu+Beach+Park/@21.8736282,-159.455441,19z/data=!3m1!4b1!4m6!3m5!1s0x7c071bb44567b429:0x47c95a1ae0dbdc5a!8m2!3d21.873627!4d-159.4547973!16s%2Fm%2F0b6fh0l?entry=ttu"
 -
   id: 328
   linkable_type: "attraction"
@@ -1971,13 +1971,13 @@
   linkable_type: "attraction"
   linkable_id: 32
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Po%27ipu+Beach+Park"
+  url: "https://www.google.com/search?q=Po%27ipu+Beach+Park&udm=2"
 -
   id: 330
   linkable_type: "attraction"
   linkable_id: 33
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.884483563633854%2C-159.49761178229681&z=13"
+  url: "https://www.google.com/maps/place/Spouting+Horn+Park/@21.8850128,-159.4961874,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0705470124c939:0x246d2b84c71c62b4!8m2!3d21.8850078!4d-159.4936125!16s%2Fg%2F1hdzgzblc?entry=ttu"
 -
   id: 331
   linkable_type: "attraction"
@@ -1995,7 +1995,7 @@
   linkable_type: "attraction"
   linkable_id: 34
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.875108563042097%2C-159.44160404984422&z=13"
+  url: "https://www.google.com/maps/place/Shipwreck+Beach/@21.8748505,-159.438757,17z/data=!4m6!3m5!1s0x7c071a8ea32fb447:0x1440d9b2a8ed1ecf!8m2!3d21.8747911!4d-159.4369036!16s%2Fg%2F11g_zmyht?entry=ttu"
 -
   id: 334
   linkable_type: "attraction"
@@ -2007,13 +2007,13 @@
   linkable_type: "attraction"
   linkable_id: 34
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Shipwreck+Beach+Kauai"
+  url: "https://www.google.com/search?q=Shipwreck+Beach+Kauai&udm=2"
 -
   id: 336
   linkable_type: "attraction"
   linkable_id: 35
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.076939618817597%2C-159.6728780105925&z=13"
+  url: "https://www.google.com/maps/place/Waimea+Canyon+Lookout/@22.0718109,-159.6641807,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06fffc49c4488b:0xc9d7684e1fb15b94!8m2!3d22.0718059!4d-159.6616058!16s%2Fg%2F1q5bsszsr?entry=ttu"
 -
   id: 337
   linkable_type: "attraction"
@@ -2025,31 +2025,31 @@
   linkable_type: "attraction"
   linkable_id: 35
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Waimea+Canyon+Lookout"
+  url: "https://www.google.com/search?q=Waimea+Canyon+Lookout&udm=2"
 -
   id: 339
   linkable_type: "attraction"
   linkable_id: 36
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.134898920452788%2C-159.67149171022652&z=13"
+  url: "https://www.google.com/maps/place/Koke'e+Natural+History+Museum/@22.1303271,-159.6601737,17z/data=!3m1!4b1!4m6!3m5!1s0x7c07a9e051c47669:0xee33f9cc508e25f0!8m2!3d22.1303222!4d-159.6575988!16s%2Fg%2F1tmy582z?entry=ttu"
 -
   id: 340
   linkable_type: "attraction"
   linkable_id: 36
   link_type: "website"
-  url: "http://www.kokee.org/"
+  url: "https://www.kokee.org/"
 -
   id: 341
   linkable_type: "attraction"
   linkable_id: 36
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kokee+Natural+History+Museum"
+  url: "https://www.google.com/search?q=Kokee+Natural+History+Museum&udm=2"
 -
   id: 342
   linkable_type: "attraction"
   linkable_id: 37
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.154671025211968%2C-159.66436224242835&z=13"
+  url: "https://www.google.com/maps/place/Kalalau+Lookout/@22.1511346,-159.6485342,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06ff49c4cda1e7:0xeac3caed4a3d5668!8m2!3d22.1511297!4d-159.6459593!16s%2Fg%2F1hc22xlz5?entry=ttu"
 -
   id: 343
   linkable_type: "attraction"
@@ -2061,13 +2061,13 @@
   linkable_type: "attraction"
   linkable_id: 37
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kalalau+Lookout"
+  url: "https://www.google.com/search?q=Kalalau+Lookout&udm=2"
 -
   id: 345
   linkable_type: "attraction"
   linkable_id: 38
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=22.151809222892375%2C-159.6557791735807&z=13"
+  url: "https://www.google.com/maps/place/Pu%E2%80%99u+O+Kila+Lookout/@22.147858,-159.633476,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06ff2e4f1c106b:0x607e23590381a3de!8m2!3d22.1478531!4d-159.6309011!16s%2Fg%2F11bbx0w_rx?entry=ttu"
 -
   id: 346
   linkable_type: "attraction"
@@ -2079,13 +2079,13 @@
   linkable_type: "attraction"
   linkable_id: 38
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Pu%27u+O+Kila+Lookout"
+  url: "https://www.google.com/search?q=Pu%27u+O+Kila+Lookout&udm=2"
 -
   id: 348
   linkable_type: "attraction"
   linkable_id: 39
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.94498776873017%2C-156.70276010092448&z=13"
+  url: "https://www.google.com/maps/place/Kahekili+Beach+Park/@20.9365961,-156.703007,15z/data=!3m1!4b1!4m6!3m5!1s0x79552b4bba11c74b:0x58238fbdad82f737!8m2!3d20.9365768!4d-156.6927073!16s%2Fg%2F1tj2j2v_?entry=ttu"
 -
   id: 349
   linkable_type: "attraction"
@@ -2097,13 +2097,13 @@
   linkable_type: "attraction"
   linkable_id: 39
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kahekili+Beach+Park"
+  url: "https://www.google.com/search?q=Kahekili+Beach+Park&udm=2"
 -
   id: 351
   linkable_type: "attraction"
   linkable_id: 40
   link_type: "map"
-  url: "https://www.google.com/maps/place/Makaluapuna+Point/@21.0065206,-156.6575188,17z/data=!4m12!1m6!3m5!1s0x7eaad5c8c3fb8ac3:0x6fd25cb731695ade!2sMakaluapuna+Point!8m2!3d21.0065206!4d-156.6553301!3m4!1s0x7eaad5c8c3fb8ac3:0x6fd25cb731695ade!8m2!3d21.0065206!4d-156.6553301"
+  url: "https://www.google.com/maps/place/Makaluapuna+Point/@21.0066658,-156.6577012,17z/data=!4m6!3m5!1s0x7eaad5c8c3fb8ac3:0x6fd25cb731695ade!8m2!3d21.0065206!4d-156.6553301!16s%2Fg%2F1tfdz1vr?entry=ttu"
 -
   id: 352
   linkable_type: "attraction"
@@ -2115,13 +2115,13 @@
   linkable_type: "attraction"
   linkable_id: 40
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Makaluapuna+Point"
+  url: "https://www.google.com/search?q=Makaluapuna+Point&udm=2"
 -
   id: 354
   linkable_type: "attraction"
   linkable_id: 41
   link_type: "map"
-  url: "https://www.google.com/maps/place/Honolua+Bay/@21.0140222,-156.6392238,17z/data=!4m5!3m4!1s0x7eaad5ddf5c7a1b9:0xc1719ce7fb631da6!8m2!3d21.0139474!4d-156.638533"
+  url: "https://www.google.com/maps/place/Honolua+Bay/@21.0139621,-156.6407473,17z/data=!4m6!3m5!1s0x7eaad5ddf5c7a1b9:0xc1719ce7fb631da6!8m2!3d21.0139474!4d-156.638533!16s%2Fm%2F04grpg4?entry=ttu"
 -
   id: 355
   linkable_type: "attraction"
@@ -2133,13 +2133,13 @@
   linkable_type: "attraction"
   linkable_id: 41
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Honolua+Bay"
+  url: "https://www.google.com/search?q=Honolua+Bay&udm=2"
 -
   id: 357
   linkable_type: "attraction"
   linkable_id: 42
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=21.025146822484018%2C-156.58997857626628&z=15"
+  url: "https://www.google.com/maps/place/Nakalele+Blowhole/@21.0271447,-156.5911318,17z/data=!3m1!4b1!4m6!3m5!1s0x7eab299218324df7:0xfcac81f56ba48b2d!8m2!3d21.0271397!4d-156.5885569!16s%2Fm%2F027bk6c?entry=ttu"
 -
   id: 358
   linkable_type: "attraction"
@@ -2151,13 +2151,13 @@
   linkable_type: "attraction"
   linkable_id: 42
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Nakalele+Blowhole"
+  url: "https://www.google.com/search?q=Nakalele+Blowhole&udm=2"
 -
   id: 360
   linkable_type: "attraction"
   linkable_id: 43
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.71841594168609%2C-156.454111709421&z=12"
+  url: "https://www.google.com/maps/place/Wailea+Beach/@20.682843,-156.445224,17z/data=!4m6!3m5!1s0x7954dad8e3a90459:0xa84090593ab21065!8m2!3d20.682848!4d-156.4429602!16s%2Fg%2F1td_5cvm?entry=ttu"
 -
   id: 361
   linkable_type: "attraction"
@@ -2169,49 +2169,49 @@
   linkable_type: "attraction"
   linkable_id: 43
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Wailea+Beach"
+  url: "https://www.google.com/search?q=Wailea+Beach&udm=2"
 -
   id: 363
   linkable_type: "attraction"
   linkable_id: 44
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.85789885591582%2C-156.17716825373236&z=11"
+  url: "https://www.google.com/maps/place/Hana+Hwy,+Hawaii/@20.8547243,-156.1717825,17z/data=!4m6!3m5!1s0x7954b5fcb35d9b41:0x4467d025ea9061a8!8m2!3d20.8546661!4d-156.1694682!16zL20vMDRsemho?entry=ttu"
 -
   id: 364
   linkable_type: "attraction"
   linkable_id: 44
   link_type: "website"
-  url: "http://roadtohana.com/"
+  url: "https://roadtohana.com/"
 -
   id: 365
   linkable_type: "attraction"
   linkable_id: 44
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=The+Road+to+Hana"
+  url: "https://www.google.com/search?q=The+Road+to+Hana&udm=2"
 -
   id: 366
   linkable_type: "attraction"
   linkable_id: 45
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.78644091285426%2C-156.0032296813256&z=18"
+  url: "https://www.google.com/maps/place/JESUS+IS+KING/@20.7506022,-155.9891388,17z/data=!3m1!4b1!4m6!3m5!1s0x7954ac27d80220bb:0x712fc67d370347f!8m2!3d20.7505972!4d-155.9865639!16s%2Fg%2F1tfhzszk?entry=ttu"
 -
   id: 367
   linkable_type: "attraction"
   linkable_id: 45
   link_type: "website"
-  url: "http://www.hanamaui.com/the-hasegawa-general-store-and-uniquely-hana-items/"
+  url: "https://hanamaui.com/hasegawa/"
 -
   id: 368
   linkable_type: "attraction"
   linkable_id: 45
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hasegawa+General+Store"
+  url: "https://www.google.com/search?q=Hasegawa+General+Store&udm=2"
 -
   id: 369
   linkable_type: "attraction"
   linkable_id: 46
   link_type: "map"
-  url: "https://www.google.com/maps/d/u/0/edit?mid=1STSEArZFhxUzkvjDVSELTVNaWQs&ll=20.793118190665805%2C-156.01252523695962&z=13"
+  url: "https://www.google.com/maps/place/Wai%CA%BB%C4%81napanapa+State+Park/@20.7840716,-156.0002681,16.83z/data=!4m6!3m5!1s0x7954ac52bd0b2d53:0x233079fa168faa55!8m2!3d20.7834865!4d-155.997711!16s%2Fm%2F04ld5tj?entry=ttu"
 -
   id: 370
   linkable_type: "attraction"
@@ -2223,13 +2223,13 @@
   linkable_type: "attraction"
   linkable_id: 46
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Wai%27anapanapa+State+Park"
+  url: "https://www.google.com/search?q=Wai%27anapanapa+State+Park&udm=2"
 -
   id: 372
   linkable_type: "attraction"
   linkable_id: 47
   link_type: "map"
-  url: "https://www.google.com/maps/place/Haleakal%C4%81+National+Park/@20.7167597,-156.1789995,13z/data=!4m5!3m4!1s0x7954b73425a04bd1:0x9c23fd88e8f5f4ca!8m2!3d20.7203826!4d-156.1551524"
+  url: "https://www.google.com/maps/place/Haleakal%C4%81+National+Park/@20.7036573,-156.2318743,12z/data=!3m1!4b1!4m6!3m5!1s0x7954b73425a04bd1:0x9c23fd88e8f5f4ca!8m2!3d20.7203826!4d-156.1551524!16zL20vMDM4d244?entry=ttu"
 -
   id: 373
   linkable_type: "attraction"
@@ -2241,13 +2241,13 @@
   linkable_type: "attraction"
   linkable_id: 47
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Haleakalā+National+Park"
+  url: "https://www.google.com/search?q=Haleakal%C4%81+National+Park&udm=2"
 -
   id: 375
   linkable_type: "attraction"
   linkable_id: 48
   link_type: "map"
-  url: "https://www.google.com/maps/place/Papawai+Point/@20.7748335,-156.53807,17z/data=!4m5!3m4!1s0x7954d7240384c3c7:0x9dae7601d85df5a5!8m2!3d20.7750655!4d-156.5363747"
+  url: "https://www.google.com/maps/place/Papawai+Point/@20.7750149,-156.5390569,17z/data=!4m6!3m5!1s0x7954d7240384c3c7:0x9dae7601d85df5a5!8m2!3d20.7750655!4d-156.5363747!16s%2Fg%2F1vhkkrm0?entry=ttu"
 -
   id: 376
   linkable_type: "attraction"
@@ -2259,13 +2259,13 @@
   linkable_type: "attraction"
   linkable_id: 48
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Papawai+Point"
+  url: "https://www.google.com/search?q=Papawai+Point&udm=2"
 -
   id: 378
   linkable_type: "attraction"
   linkable_id: 49
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ka%E2%80%99anapali+Beach/@20.9447774,-156.6938805,17z/data=!4m5!3m4!1s0x7eaad559e5d92b1f:0xe94d2d0992da04ba!8m2!3d20.9449001!4d-156.6923138"
+  url: "https://www.google.com/maps/place/Kaanapali+Beach/@20.9179559,-156.6987002,17z/data=!4m6!3m5!1s0x79552b4f5c65bd03:0xc6b1fcd12574c5d7!8m2!3d20.9178314!4d-156.6966248!16s%2Fg%2F1hc27y3hy?entry=ttu"
 -
   id: 379
   linkable_type: "attraction"
@@ -2277,13 +2277,13 @@
   linkable_type: "attraction"
   linkable_id: 49
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ka'anapali+Beach"
+  url: "https://www.google.com/search?q=Ka%27anapali+Beach&udm=2"
 -
   id: 381
   linkable_type: "attraction"
   linkable_id: 50
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kenolio+Park/@20.7805667,-156.4635189,17z/data=!4m5!3m4!1s0x7954d1b1d2a21cf1:0x65680e1145f0accb!8m2!3d20.7807385!4d-156.4623052"
+  url: "https://www.google.com/maps/place/Kenolio+Park/@20.7807974,-156.4645489,17z/data=!4m6!3m5!1s0x7954d1b1d2a21cf1:0x65680e1145f0accb!8m2!3d20.7807385!4d-156.4623052!16s%2Fg%2F1tj805cv?entry=ttu"
 -
   id: 382
   linkable_type: "attraction"
@@ -2295,13 +2295,13 @@
   linkable_type: "attraction"
   linkable_id: 50
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kenolio+Park"
+  url: "https://www.google.com/search?q=Kenolio+Park&udm=2"
 -
   id: 384
   linkable_type: "attraction"
   linkable_id: 51
   link_type: "map"
-  url: "https://www.google.com/maps/place/L%C4%81hain%C4%81+Banyan+Court,+United+States/@20.8720762,-156.679295,17z/data=!4m5!3m4!1s0x79552bb840ab7649:0x20049bc15959892c!8m2!3d20.8718511!4d-156.6776043"
+  url: "https://www.google.com/maps/place/Lahaina+Banyan+Court/@20.8721464,-156.6798314,17z/data=!4m6!3m5!1s0x79552bb840ab7649:0x20049bc15959892c!8m2!3d20.8718511!4d-156.6776043!16s%2Fm%2F0hzmr3r?entry=ttu"
 -
   id: 385
   linkable_type: "attraction"
@@ -2313,13 +2313,13 @@
   linkable_type: "attraction"
   linkable_id: 51
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lāhainā+Banyan+Tree+Court+Park"
+  url: "https://www.google.com/search?q=L%C4%81hain%C4%81+Banyan+Tree+Court+Park&udm=2"
 -
   id: 387
   linkable_type: "attraction"
   linkable_id: 52
   link_type: "map"
-  url: "https://www.google.com/maps/place/%CA%BB%C4%AAao+Valley+State+Monument/@20.8808837,-156.547366,17z/data=!3m1!4b1!4m5!3m4!1s0x7954d36960476677:0xd4a4ed6d73aed86f!8m2!3d20.8808837!4d-156.5451773"
+  url: "https://www.google.com/maps/place/%CA%BB%C4%AAao+Valley+State+Monument/@20.880994,-156.5471407,17z/data=!4m6!3m5!1s0x7954d36960476677:0xd4a4ed6d73aed86f!8m2!3d20.8808837!4d-156.5451773!16s%2Fg%2F11h0c4pyg?entry=ttu"
 -
   id: 388
   linkable_type: "attraction"
@@ -2331,31 +2331,31 @@
   linkable_type: "attraction"
   linkable_id: 52
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=%CA%BB%C4%AAao+Valley+State+Monument"
+  url: "https://www.google.com/search?q=%CA%BB%C4%AAao+Valley+State+Monument&udm=2"
 -
   id: 390
   linkable_type: "attraction"
   linkable_id: 53
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ho%E2%80%98okipa/@20.9328389,-156.3603159,17z/data=!4m5!3m4!1s0x7eab330b07a3dce1:0x1b28b3ae25bfe270!8m2!3d20.9331087!4d-156.358596"
+  url: "https://www.google.com/maps/place/Ho'okipa+Lookout/@20.9354192,-156.3577624,17z/data=!4m6!3m5!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!8m2!3d20.9352639!4d-156.3555308!16s%2Fg%2F1ywqfx54p?entry=ttu"
 -
   id: 391
   linkable_type: "attraction"
   linkable_id: 53
-  link_type: "website"
+  link_type: "reviews"
   url: "https://www.yelp.com/biz/hookipa-beach-lookout-paia"
 -
   id: 392
   linkable_type: "attraction"
   linkable_id: 53
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ho'okipa+Beach+Lookout"
+  url: "https://www.google.com/search?q=Ho%27okipa+Beach+Lookout&udm=2"
 -
   id: 393
   linkable_type: "attraction"
   linkable_id: 54
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ho'okipa+Beach+Park/@20.9352639,-156.3577195,17z/data=!4m12!1m6!3m5!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!2sHo'okipa+Lookout!8m2!3d20.9352639!4d-156.3555308!3m4!1s0x7eab330ae74efe51:0xd69131776ff145f!8m2!3d20.9342545!4d-156.356079"
+  url: "https://www.google.com/maps/place/Ho'okipa+Beach+Park/@20.9344723,-156.3580199,17z/data=!4m14!1m7!3m6!1s0x7eab3375480a3e33:0x3fbc62a18629a5be!2sHo'okipa+Lookout!8m2!3d20.9352639!4d-156.3555308!16s%2Fg%2F1ywqfx54p!3m5!1s0x7eab330ae74efe51:0xd69131776ff145f!8m2!3d20.9342545!4d-156.356079!16s%2Fg%2F1z264lcmh?entry=ttu"
 -
   id: 394
   linkable_type: "attraction"
@@ -2367,13 +2367,13 @@
   linkable_type: "attraction"
   linkable_id: 54
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ho'okipa+Beach"
+  url: "https://www.google.com/search?q=Ho%27okipa+Beach&udm=2"
 -
   id: 396
   linkable_type: "attraction"
   linkable_id: 55
   link_type: "map"
-  url: "https://www.google.com/maps/place/Olowalu+Petroglyphs/@20.8187182,-156.6207625,17z/data=!4m12!1m6!3m5!1s0x795529e017e276ef:0x414c9a4b7c10fcbf!2sOlowalu+Petroglyphs!8m2!3d20.8187182!4d-156.6185738!3m4!1s0x795529e017e276ef:0x414c9a4b7c10fcbf!8m2!3d20.8187182!4d-156.6185738"
+  url: "https://www.google.com/maps/place/Olowalu+Petroglyphs/@20.818989,-156.6205157,17z/data=!4m14!1m7!3m6!1s0x795529e017e276ef:0x414c9a4b7c10fcbf!2sOlowalu+Petroglyphs!8m2!3d20.818989!4d-156.6182949!16s%2Fg%2F11c59tytlj!3m5!1s0x795529e017e276ef:0x414c9a4b7c10fcbf!8m2!3d20.818989!4d-156.6182949!16s%2Fg%2F11c59tytlj?entry=ttu"
 -
   id: 397
   linkable_type: "attraction"
@@ -2385,13 +2385,13 @@
   linkable_type: "attraction"
   linkable_id: 55
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Olowalu+Petroglyphs"
+  url: "https://www.google.com/search?q=Olowalu+Petroglyphs&udm=2"
 -
   id: 399
   linkable_type: "attraction"
   linkable_id: 56
   link_type: "map"
-  url: "https://www.google.com/maps/place/Lower+P%C4%81%CA%BBia+Park/@20.9174777,-156.4330819,13z/data=!4m9!1m2!2m1!1sLower+Paia+Beach+Park!3m5!1s0x7eab32de7daf08db:0xa9fead98a42c2c40!8m2!3d20.9151504!4d-156.3847041!15sChVMb3dlciBQYWlhIEJlYWNoIFBhcmtaFyIVbG93ZXIgcGFpYSBiZWFjaCBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSTmNWb3lhRTUzRUFF"
+  url: "https://www.google.com/maps/place/Lower+P%C4%81%CA%BBia+Park/@20.9174777,-156.4330819,13z/data=!4m15!1m7!3m6!1s0x7eab32de7daf08db:0xa9fead98a42c2c40!2zTG93ZXIgUMSByrtpYSBQYXJr!8m2!3d20.9151504!4d-156.3847041!16s%2Fg%2F1tf_t28z!3m6!1s0x7eab32de7daf08db:0xa9fead98a42c2c40!8m2!3d20.9151504!4d-156.3847041!15sChVMb3dlciBQYWlhIEJlYWNoIFBhcmtaFyIVbG93ZXIgcGFpYSBiZWFjaCBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSTmNWb3lhRTUzRUFF!16s%2Fg%2F1tf_t28z?entry=ttu"
 -
   id: 400
   linkable_type: "attraction"
@@ -2403,43 +2403,43 @@
   linkable_type: "attraction"
   linkable_id: 56
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lower+Paia+Beach+Park"
+  url: "https://www.google.com/search?q=Lower+Paia+Beach+Park&udm=2"
 -
   id: 402
   linkable_type: "attraction"
   linkable_id: 57
   link_type: "map"
-  url: "https://www.google.com/maps/place/P%C4%81%CA%BBia+Secret+Beach/@20.905825,-156.3966137,13.85z/data=!4m9!1m2!2m1!1sLower+Paia+Beach+Park!3m5!1s0x7eab335e2356658f:0x427fa2a94b534656!8m2!3d20.9153104!4d-156.3886421!15sChVMb3dlciBQYWlhIEJlYWNoIFBhcmtaFyIVbG93ZXIgcGFpYSBiZWFjaCBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSemQwc3pRMlJCRUFF"
+  url: "https://www.google.com/maps/place/P%C4%81%CA%BBia+Secret+Beach/@20.9164084,-156.4227062,13z/data=!4m15!1m7!3m6!1s0x7eab32de7daf08db:0xa9fead98a42c2c40!2zTG93ZXIgUMSByrtpYSBQYXJr!8m2!3d20.9151504!4d-156.3847041!16s%2Fg%2F1tf_t28z!3m6!1s0x7eab335e2356658f:0x427fa2a94b534656!8m2!3d20.9153104!4d-156.3886421!15sChVMb3dlciBQYWlhIEJlYWNoIFBhcmtaFyIVbG93ZXIgcGFpYSBiZWFjaCBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSemQwc3pRMlJCRUFF!16s%2Fg%2F11hzqhc1vk?entry=ttu"
 -
   id: 403
   linkable_type: "attraction"
   linkable_id: 57
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Paia+Secret+Beach"
+  url: "https://www.google.com/search?q=Paia+Secret+Beach&udm=2"
 -
   id: 404
   linkable_type: "attraction"
   linkable_id: 58
   link_type: "map"
-  url: "https://www.google.com/maps/place/The+King+Kamehameha+Golf+Club/@20.8371839,-156.5190789,17z/data=!4m9!1m2!2m1!1sKing+Kamehameha+Country+Club!3m5!1s0x7954d3ee96160ec5:0xf395d8d7a89ac31b!8m2!3d20.8406816!4d-156.5187633!15sChxLaW5nIEthbWVoYW1laGEgQ291bnRyeSBDbHViWh4iHGtpbmcga2FtZWhhbWVoYSBjb3VudHJ5IGNsdWKSAQlnb2xmX2NsdWI"
+  url: "https://www.google.com/maps/place/The+King+Kamehameha+Golf+Club/@20.8407936,-156.5207633,17z/data=!4m15!1m7!3m6!1s0x7954d3ee96160ec5:0xf395d8d7a89ac31b!2sThe+King+Kamehameha+Golf+Club!8m2!3d20.8406816!4d-156.5187633!16s%2Fm%2F0j3fx40!3m6!1s0x7954d3ee96160ec5:0xf395d8d7a89ac31b!8m2!3d20.8406816!4d-156.5187633!15sChxLaW5nIEthbWVoYW1laGEgQ291bnRyeSBDbHViWh4iHGtpbmcga2FtZWhhbWVoYSBjb3VudHJ5IGNsdWKSAQlnb2xmX2NsdWI!16s%2Fm%2F0j3fx40?entry=ttu"
 -
   id: 405
   linkable_type: "attraction"
   linkable_id: 58
   link_type: "website"
-  url: "https://www.kamehamehagolf.com/index.php"
+  url: "https://www.kamehamehagolf.com/"
 -
   id: 406
   linkable_type: "attraction"
   linkable_id: 58
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=King+Kamehameha+Golf+Course+Clubhouse"
+  url: "https://www.google.com/search?q=King+Kamehameha+Golf+Course+Clubhouse&udm=2"
 -
   id: 407
   linkable_type: "attraction"
   linkable_id: 59
   link_type: "map"
-  url: "https://www.google.com/maps/place/Mai+Poina+Beach+Park/@20.7741773,-156.4625162,17z/data=!4m12!1m6!3m5!1s0x7954d1b2e4895985:0x57ba871d671a7554!2sMai+Poina+Beach+Park!8m2!3d20.7741773!4d-156.4603275!3m4!1s0x7954d1b2e4895985:0x57ba871d671a7554!8m2!3d20.7741773!4d-156.4603275"
+  url: "https://www.google.com/maps/place/Mai+Poina+Beach+Park/@20.773445,-156.4625484,17z/data=!4m14!1m7!3m6!1s0x7954d1b2e4895985:0x57ba871d671a7554!2sMai+Poina+Beach+Park!8m2!3d20.7730337!4d-156.4602675!16s%2Fg%2F11c713cs06!3m5!1s0x7954d1b2e4895985:0x57ba871d671a7554!8m2!3d20.7730337!4d-156.4602675!16s%2Fg%2F11c713cs06?entry=ttu"
 -
   id: 408
   linkable_type: "attraction"
@@ -2451,13 +2451,13 @@
   linkable_type: "attraction"
   linkable_id: 59
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Mai+Poina+Beach+Park"
+  url: "https://www.google.com/search?q=Mai+Poina+Beach+Park&udm=2"
 -
   id: 410
   linkable_type: "attraction"
   linkable_id: 60
   link_type: "map"
-  url: "https://www.google.com/maps/place/Maluaka+Beach/@20.6461101,-156.4451945,17z/data=!4m12!1m6!3m5!1s0x7954db5b9973a693:0x79f3d040af56d38!2sMaluaka+Beach!8m2!3d20.6461101!4d-156.4430058!3m4!1s0x7954db5b9973a693:0x79f3d040af56d38!8m2!3d20.6461101!4d-156.4430058"
+  url: "https://www.google.com/maps/place/Maluaka+Beach/@20.6461101,-156.4451945,17z/data=!4m14!1m7!3m6!1s0x7954db5b9973a693:0x79f3d040af56d38!2sMaluaka+Beach!8m2!3d20.6461101!4d-156.4430058!16s%2Fg%2F1th0ykf_!3m5!1s0x7954db5b9973a693:0x79f3d040af56d38!8m2!3d20.6461101!4d-156.4430058!16s%2Fg%2F1th0ykf_?entry=ttu"
 -
   id: 411
   linkable_type: "attraction"
@@ -2469,31 +2469,31 @@
   linkable_type: "attraction"
   linkable_id: 60
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Maluaka+Beach"
+  url: "https://www.google.com/search?q=Maluaka+Beach&udm=2"
 -
   id: 413
   linkable_type: "attraction"
   linkable_id: 61
   link_type: "map"
-  url: "https://www.google.com/maps/place/Makena+Beach/@20.6328457,-156.4511739,16.08z/data=!4m13!1m7!3m6!1s0x7eaad5ca21da6add:0xf2d3d66f2d3e5c3a!2sMakena+Beach!3b1!8m2!3d20.6316217!4d-156.4447925!3m4!1s0x7eaad5ca21da6add:0xf2d3d66f2d3e5c3a!8m2!3d20.6316217!4d-156.4447925"
+  url: "https://www.google.com/maps/place/Makena+Beach/@20.6319019,-156.4472257,17z/data=!4m14!1m7!3m6!1s0x7eaad5ca21da6add:0xf2d3d66f2d3e5c3a!2sMakena+Beach!8m2!3d20.6316217!4d-156.4447925!16s%2Fg%2F1x6q1zbt!3m5!1s0x7eaad5ca21da6add:0xf2d3d66f2d3e5c3a!8m2!3d20.6316217!4d-156.4447925!16s%2Fg%2F1x6q1zbt?entry=ttu"
 -
   id: 414
   linkable_type: "attraction"
   linkable_id: 61
   link_type: "website"
-  url: "https://www.gohawaii.com/islands/maui/regions/south-maui/makena-beach"
+  url: "https://dlnr.hawaii.gov/dsp/parks/maui/makena-state-park/"
 -
   id: 415
   linkable_type: "attraction"
   linkable_id: 61
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Makena+Beach"
+  url: "https://www.google.com/search?q=Makena+Beach&udm=2"
 -
   id: 416
   linkable_type: "attraction"
   linkable_id: 62
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ahihi-Kinau+Natural+Area+Reserve,+Wailea,+HI+96753/@20.6061338,-156.4494529,14z/data=!4m15!1m8!3m7!1s0x7954dcb43b2c4571:0xa24e6b6dec318bca!2sAhihi-Kinau+Natural+Area+Reserve,+Wailea,+HI+96753!3b1!8m2!3d20.6060995!4d-156.433102!16s%2Fm%2F0bs8cl1!3m5!1s0x7954dcb43b2c4571:0xa24e6b6dec318bca!8m2!3d20.6060995!4d-156.433102!16s%2Fm%2F0bs8cl1?entry=ttu"
+  url: "https://www.google.com/maps/place/Ahihi-Kinau+Natural+Reserve/@20.5996326,-156.42222,17z/data=!4m14!1m7!3m6!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!2sAhihi-Kinau+Natural+Reserve!8m2!3d20.6006507!4d-156.4201208!16s%2Fg%2F11bwq8_91t!3m5!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!8m2!3d20.6006507!4d-156.4201208!16s%2Fg%2F11bwq8_91t?entry=ttu"
 -
   id: 417
   linkable_type: "attraction"
@@ -2505,13 +2505,13 @@
   linkable_type: "attraction"
   linkable_id: 62
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ahihi+Kinau+Natural+Area+Reserve"
+  url: "https://www.google.com/search?q=Ahihi+Kinau+Natural+Area+Reserve&udm=2"
 -
   id: 419
   linkable_type: "attraction"
   linkable_id: 63
   link_type: "map"
-  url: "https://www.google.com/maps/place/La+Perouse+Memorial/@20.6007558,-156.4220702,17z/data=!3m1!4b1!4m5!3m4!1s0x7954c33198325ab7:0x741d5e718e84e979!8m2!3d20.6007558!4d-156.4198815"
+  url: "https://www.google.com/maps/place/La+Perouse+Memorial/@20.6007056,-156.4219951,17z/data=!4m6!3m5!1s0x7954c33198325ab7:0x741d5e718e84e979!8m2!3d20.6007558!4d-156.4198815!16s%2Fg%2F11g9nhnp5x?entry=ttu"
 -
   id: 420
   linkable_type: "attraction"
@@ -2523,13 +2523,13 @@
   linkable_type: "attraction"
   linkable_id: 63
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=La+Perouse+Memorial"
+  url: "https://www.google.com/search?q=La+Perouse+Memorial&udm=2"
 -
   id: 422
   linkable_type: "attraction"
   linkable_id: 64
   link_type: "map"
-  url: "https://www.google.com/maps/place/Lava+Fields/@20.5996326,-156.42222,17z/data=!4m12!1m6!3m5!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!2sLava+Fields!8m2!3d20.5996326!4d-156.4200313!3m4!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!8m2!3d20.5996326!4d-156.4200313"
+  url: "https://www.google.com/maps/place/Ahihi-Kinau+Natural+Reserve/@20.5996326,-156.42222,17z/data=!4m14!1m7!3m6!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!2sAhihi-Kinau+Natural+Reserve!8m2!3d20.6006507!4d-156.4201208!16s%2Fg%2F11bwq8_91t!3m5!1s0x7954c331e9454c6b:0x5b2c1e43320452a1!8m2!3d20.6006507!4d-156.4201208!16s%2Fg%2F11bwq8_91t?entry=ttu"
 -
   id: 423
   linkable_type: "attraction"
@@ -2541,13 +2541,13 @@
   linkable_type: "attraction"
   linkable_id: 64
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Lava+Fields+Maui"
+  url: "https://www.google.com/search?q=Lava+Fields+Maui&udm=2"
 -
   id: 425
   linkable_type: "attraction"
   linkable_id: 65
   link_type: "map"
-  url: "https://www.google.com/maps/place/H%C4%81na+Bay+Beach+Park/@20.7551518,-155.985599,17z/data=!4m12!1m6!3m5!1s0x7954ac24568435e1:0xb5818c2681d0110f!2sH%C4%81na+Bay+Beach+Park!8m2!3d20.7551518!4d-155.9834103!3m4!1s0x7954ac24568435e1:0xb5818c2681d0110f!8m2!3d20.7551518!4d-155.9834103"
+  url: "https://www.google.com/maps/place/H%C4%81na+Bay+Beach+Park/@20.7551568,-155.9859852,17z/data=!3m1!4b1!4m6!3m5!1s0x7954ac24568435e1:0xb5818c2681d0110f!8m2!3d20.7551518!4d-155.9834103!16s%2Fg%2F1td3ls_m?entry=ttu"
 -
   id: 426
   linkable_type: "attraction"
@@ -2559,13 +2559,13 @@
   linkable_type: "attraction"
   linkable_id: 65
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hana+Bay+Beach+Park"
+  url: "https://www.google.com/search?q=Hana+Bay+Beach+Park&udm=2"
 -
   id: 428
   linkable_type: "attraction"
   linkable_id: 66
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ukumehame+Beach+Park/@20.7946464,-156.5920857,15z/data=!3m1!4b1!4m6!3m5!1s0x79552bb6e6a99a3b:0xe3297bedea214fb4!8m2!3d20.794627!4d-156.581786!16s%2Fg%2F1vhq3xpb?entry=ttu"
+  url: "https://www.google.com/maps/place/Ukumehame+Beach+Park/@20.7950516,-156.5847877,17z/data=!3m1!4b1!4m6!3m5!1s0x7954d7006cf0cbd1:0x297704e3f2bd9e80!8m2!3d20.7950466!4d-156.5822128!16s%2Fg%2F11vx5f43b9?entry=ttu"
 -
   id: 429
   linkable_type: "attraction"
@@ -2577,19 +2577,19 @@
   linkable_type: "attraction"
   linkable_id: 66
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ukumehame+Beach+Park"
+  url: "https://www.google.com/search?q=Ukumehame+Beach+Park&udm=2"
 -
   id: 431
   linkable_type: "attraction"
   linkable_id: 67
   link_type: "map"
-  url: "https://www.google.com/maps/place/K%C5%ABhi%C5%8D+Beach/@21.2719169,-157.823846,17z/data=!4m5!3m4!1s0x7c00727128728279:0xf1a8c5bdd3752804!8m2!3d21.2727724!4d-157.8238124"
+  url: "https://www.google.com/maps/place/Kuhio+Beach/@21.2728824,-157.8257221,17z/data=!4m6!3m5!1s0x7c00727128728279:0xf1a8c5bdd3752804!8m2!3d21.2727724!4d-157.8238124!16s%2Fm%2F0gxzmkn?entry=ttu"
 -
   id: 432
   linkable_type: "attraction"
   linkable_id: 68
   link_type: "map"
-  url: "https://www.google.com/maps/place/Waikiki+Wall/@21.2719169,-157.823846,17z/data=!4m5!3m4!1s0x0:0x67589bfea8ab42f8!8m2!3d21.2713882!4d-157.8230116"
+  url: "https://www.google.com/maps/place/Waikiki+Wall/@21.2713932,-157.8255865,17z/data=!3m1!4b1!4m6!3m5!1s0x7c007270f962feab:0x67589bfea8ab42f8!8m2!3d21.2713882!4d-157.8230116!16s%2Fg%2F1tknknh1?entry=ttu"
 -
   id: 433
   linkable_type: "attraction"
@@ -2601,79 +2601,79 @@
   linkable_type: "attraction"
   linkable_id: 76
   link_type: "map"
-  url: "https://www.google.com/maps/place/Steam+Vents/@19.4314419,-155.2732052,15z/data=!4m5!3m4!1s0x7953d08de1e092c9:0x3497a559a6f3ea9d!8m2!3d19.4314196!4d-155.2678831"
+  url: "https://www.google.com/maps/place/Steam+Vents/@19.431329,-155.2704922,17z/data=!3m1!4b1!4m6!3m5!1s0x7953d08de1e092c9:0x3497a559a6f3ea9d!8m2!3d19.431324!4d-155.2679173!16s%2Fg%2F11bwm3jg5c?entry=ttu"
 -
   id: 435
   linkable_type: "attraction"
   linkable_id: 77
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kilauea+Overlook/@19.4227809,-155.2883972,15z/data=!4m5!3m4!1s0x0:0x2a43f85d9c40e464!8m2!3d19.4232814!4d-155.2841674?shorturl=1"
+  url: "https://www.google.com/maps/place/Kilauea+Overlook/@19.4232864,-155.2867423,17z/data=!3m1!4b1!4m6!3m5!1s0x7953d09fd8df7cc3:0x2a43f85d9c40e464!8m2!3d19.4232814!4d-155.2841674!16s%2Fg%2F1z449tm76?entry=ttu"
 -
   id: 436
   linkable_type: "attraction"
   linkable_id: 78
   link_type: "map"
-  url: "https://www.google.com/maps/place/Nahuku+-+Thurston+Lava+Tube/@19.4119859,-155.2418891,15z/data=!4m5!3m4!1s0x7953d0dff48262ff:0x9f8869525eb45d9b!8m2!3d19.4138014!4d-155.238647"
+  url: "https://www.google.com/maps/place/Nahuku+-+Thurston+Lava+Tube/@19.4149693,-155.2391586,17z/data=!4m6!3m5!1s0x7953d0dff48262ff:0x9f8869525eb45d9b!8m2!3d19.414944!4d-155.2369055!16s%2Fg%2F122tpr2j?entry=ttu"
 -
   id: 437
   linkable_type: "attraction"
   linkable_id: 79
   link_type: "map"
-  url: "https://www.google.com/maps/place/Devastation+Trail/@19.4064602,-155.2550908,17z/data=!3m1!4b1!4m5!3m4!1s0x7953d0c5788cf87b:0x7b6fa1e7149011c3!8m2!3d19.4064602!4d-155.2529021"
+  url: "https://www.google.com/maps/place/Devastation+Trail/@19.4067072,-155.2554741,17z/data=!3m1!4b1!4m6!3m5!1s0x7953d0c5788cf87b:0x7b6fa1e7149011c3!8m2!3d19.4067022!4d-155.2528992!16s%2Fm%2F0gj9y6c?entry=ttu"
 -
   id: 438
   linkable_type: "attraction"
   linkable_id: 80
   link_type: "map"
-  url: "https://www.google.com/maps/place/Hale+Ma'uma'u+Volcano+Crater/@19.4029551,-155.2823118,17.13z/data=!4m5!3m4!1s0x7953d0a96428eda3:0x184a1216e531bf2e!8m2!3d19.4053821!4d-155.2810377"
+  url: "https://www.google.com/maps/place/Hale+Ma'uma'u+Volcano+Crater/@19.4053567,-155.2838487,17z/data=!4m6!3m5!1s0x7953d0a96428eda3:0x184a1216e531bf2e!8m2!3d19.4053821!4d-155.2810377!16s%2Fg%2F1pzvq1pcg?entry=ttu"
 -
   id: 439
   linkable_type: "attraction"
   linkable_id: 81
   link_type: "map"
-  url: "https://www.google.com/maps/place/Luamanu+Crater/@19.401241,-155.2561273,15.18z/data=!4m5!3m4!1s0x7953d0c953d8c683:0xd17a85cdf2326cce!8m2!3d19.3986262!4d-155.2537281"
+  url: "https://www.google.com/maps/place/Luamanu+Crater/@19.3989239,-155.2557961,17z/data=!4m6!3m5!1s0x7953d0c953d8c683:0xd17a85cdf2326cce!8m2!3d19.3986262!4d-155.2537281!16s%2Fg%2F1tf3p31f?entry=ttu"
 -
   id: 440
   linkable_type: "attraction"
   linkable_id: 82
   link_type: "map"
-  url: "https://www.google.com/maps/place/K%C5%8Dko%E2%80%98Olau+Crater/@19.3876802,-155.2498449,16z/data=!4m5!3m4!1s0x7953d72e62c70623:0xf15717fc2765988c!8m2!3d19.3877777!4d-155.2472222"
+  url: "https://www.google.com/maps/place/K%C5%8Dko%E2%80%98Olau+Crater/@19.3877828,-155.2494977,17z/data=!4m6!3m5!1s0x7953d72e62c70623:0xf15717fc2765988c!8m2!3d19.3877777!4d-155.2472222!16s%2Fg%2F1tw1f0kr?entry=ttu"
 -
   id: 441
   linkable_type: "attraction"
   linkable_id: 83
   link_type: "map"
-  url: "https://www.google.com/maps/place/Hi'iaka+Crater/@19.3723964,-155.2345301,14z/data=!4m5!3m4!1s0x7953d6dc7a04f501:0xc599b248b35bce96!8m2!3d19.3745867!4d-155.2300189"
+  url: "https://www.google.com/maps/place/Hiiaka+Crater/@19.3745105,-155.2321723,17z/data=!4m6!3m5!1s0x7953d6d9645b2923:0x791dfdef0e2ae363!8m2!3d19.3745412!4d-155.2299621!16s%2Fg%2F1v3_2w_t?entry=ttu"
 -
   id: 442
   linkable_type: "attraction"
   linkable_id: 84
   link_type: "map"
-  url: "https://www.google.com/maps/place/Pauahi+Crater/@19.3687677,-155.2266586,15z/data=!4m5!3m4!1s0x7953d6c32728820d:0x13523d33ad810ad0!8m2!3d19.3695517!4d-155.2226957"
+  url: "https://www.google.com/maps/place/Pauahi+Crater/@19.3695713,-155.2329954,15z/data=!3m1!4b1!4m6!3m5!1s0x7953d6c32728820d:0x13523d33ad810ad0!8m2!3d19.3695517!4d-155.2226957!16s%2Fm%2F027k15s?entry=ttu"
 -
   id: 443
   linkable_type: "attraction"
   linkable_id: 85
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kapi%CA%BBolani+Regional+Park/@21.2660806,-157.817983,17.54z/data=!4m5!3m4!1s0x7c00727ac7f5ad0f:0x94df96e0a28f26e0!8m2!3d21.2667349!4d-157.8187536"
+  url: "https://www.google.com/maps/place/Kapi%CA%BBolani+Regional+Park/@21.2667399,-157.8213285,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00727ac7f5ad0f:0x94df96e0a28f26e0!8m2!3d21.2667349!4d-157.8187536!16zL20vMDZmeGdn?entry=ttu"
 -
   id: 444
   linkable_type: "attraction"
   linkable_id: 87
   link_type: "map"
-  url: "https://www.google.com/maps/place/Waim%C4%81nalo+Beach+Park/@21.3321621,-157.6978268,17z/data=!3m1!4b1!4m5!3m4!1s0x7c001396ebfc5acd:0xd0c39557f7ae72d0!8m2!3d21.3321621!4d-157.6956381"
+  url: "https://www.google.com/maps/place/Waim%C4%81nalo+Beach+Park/@21.3321671,-157.698213,17z/data=!3m1!4b1!4m6!3m5!1s0x7c001396ebfc5acd:0xd0c39557f7ae72d0!8m2!3d21.3321621!4d-157.6956381!16s%2Fg%2F1tgh35pf?entry=ttu"
 -
   id: 445
   linkable_type: "attraction"
   linkable_id: 88
   link_type: "map"
-  url: "https://www.google.com/maps/place/Maunalua+Bay+Beach+Park/@21.2834655,-157.7186812,17z/data=!4m5!3m4!1s0x7c00128bab113437:0x63ffd0979b5620cb!8m2!3d21.2837497!4d-157.7172941"
+  url: "https://www.google.com/maps/place/Maunalua+Bay+Beach+Park/@21.2838046,-157.7196759,17z/data=!4m6!3m5!1s0x7c00128bab113437:0x63ffd0979b5620cb!8m2!3d21.2837497!4d-157.7172941!16s%2Fg%2F1td05847?entry=ttu"
 -
   id: 446
   linkable_type: "attraction"
   linkable_id: 89
   link_type: "map"
-  url: "https://www.google.com/maps/place/North+Shore+Macadamia+Nut+Company/@21.5997938,-158.1035825,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0058d9f34aa8dd:0xaa8256704f8a08fc!8m2!3d21.5997938!4d-158.1013938"
+  url: "https://www.google.com/maps/place/North+Shore+Macadamia+Nut+Company/@21.5998432,-158.1038627,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0058d9f34aa8dd:0xaa8256704f8a08fc!8m2!3d21.5998382!4d-158.1012878!16s%2Fg%2F11c6cz7cyl?entry=ttu"
 -
   id: 447
   linkable_type: "attraction"
@@ -2685,25 +2685,25 @@
   linkable_type: "attraction"
   linkable_id: 90
   link_type: "map"
-  url: "https://www.google.com/maps/place/Queen+Kapi%CA%BBolani+Statue/@21.2686977,-157.8218292,19z/data=!4m5!3m4!1s0x0:0x7a2a36cf272edca7!8m2!3d21.2689106!4d-157.8217022"
+  url: "https://www.google.com/maps/place/Queen+Kapi%CA%BBolani+Statue/@21.2689118,-157.8223459,19z/data=!3m1!4b1!4m6!3m5!1s0x7c006deff77c1c9f:0x7a2a36cf272edca7!8m2!3d21.2689106!4d-157.8217022!16s%2Fg%2F11dxl6wwxn?entry=ttu"
 -
   id: 449
   linkable_type: "attraction"
   linkable_id: 91
   link_type: "map"
-  url: "https://www.google.com/maps/place/Shark%E2%80%99s+Cove/@21.6498444,-158.065156,16z/data=!4m5!3m4!1s0x7c005993278aa08f:0x7af5606caf43ba2a!8m2!3d21.6499775!4d-158.0628227"
+  url: "https://www.google.com/maps/place/Shark%E2%80%99s+Cove/@21.6500913,-158.0649226,17z/data=!4m6!3m5!1s0x7c005993278aa08f:0x7af5606caf43ba2a!8m2!3d21.6499775!4d-158.0628227!16s%2Fg%2F11b86dcz34?entry=ttu"
 -
   id: 450
   linkable_type: "attraction"
   linkable_id: 92
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kawela+Bay+Beach+Park/@21.6973862,-158.0097013,15z/data=!4m5!3m4!1s0x7c0050f0ee37ee01:0x82b95d7e2feac6c7!8m2!3d21.6973731!4d-158.0067635"
+  url: "https://www.google.com/maps/place/Kawela+Bay+Beach+Park/@21.6985426,-158.0159669,15z/data=!4m6!3m5!1s0x7c0050f0ee37ee01:0x82b95d7e2feac6c7!8m2!3d21.6973731!4d-158.0067635!16s%2Fg%2F1tf_nj2v?entry=ttu"
 -
   id: 451
   linkable_type: "attraction"
   linkable_id: 93
   link_type: "map"
-  url: "https://www.google.com/maps/place/Ahupua%CA%BBa+%CA%BBO+Kahana+State+Park/@21.5559723,-157.8839722,14z/data=!4m5!3m4!1s0x7c0043c03b6c08c7:0xe4669485810c5bdc!8m2!3d21.5559903!4d-157.8763274"
+  url: "https://www.google.com/maps/place/Ahupua%CA%BBa+%CA%BBO+Kahana+State+Park/@21.5559953,-157.8789023,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0043c03b6c08c7:0xe4669485810c5bdc!8m2!3d21.5559903!4d-157.8763274!16zL20vMGMyamd3?entry=ttu"
 -
   id: 452
   linkable_type: "attraction"
@@ -2715,25 +2715,25 @@
   linkable_type: "attraction"
   linkable_id: 94
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kahana+Bay+Beach+Park/@21.5552244,-157.8773687,15.67z/data=!4m5!3m4!1s0x7c0043f58b3ab115:0xbaf96689cd2d20ca!8m2!3d21.5561936!4d-157.8743992"
+  url: "https://www.google.com/maps/place/Kahana+Bay+Beach+Park/@21.5561986,-157.8769741,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0043f58b3ab115:0xbaf96689cd2d20ca!8m2!3d21.5561936!4d-157.8743992!16s%2Fm%2F0g54wd8?entry=ttu"
 -
   id: 454
   linkable_type: "attraction"
   linkable_id: 95
   link_type: "map"
-  url: "https://www.google.com/maps/place/Diamond+Head+Beach+Park/@21.2549473,-157.8092937,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00728ae0159e07:0xb47479f0971655b7!8m2!3d21.2549473!4d-157.807105"
+  url: "https://www.google.com/maps/place/Diamond+Head+Beach+Park/@21.2549523,-157.8096799,17z/data=!3m1!4b1!4m6!3m5!1s0x7c00728ae0159e07:0xb47479f0971655b7!8m2!3d21.2549473!4d-157.807105!16s%2Fg%2F1tmy582q?entry=ttu"
 -
   id: 455
   linkable_type: "attraction"
   linkable_id: 96
   link_type: "map"
-  url: "https://www.google.com/maps/place/Pearl+Harbor+National+Memorial/@21.366442,-157.9385196,17z/data=!4m5!3m4!1s0x7c006f4309506633:0xb8c592a70d9c602c!8m2!3d21.3675985!4d-157.938858"
+  url: "https://www.google.com/maps/place/Pearl+Harbor+National+Memorial/@21.3676134,-157.9414222,17z/data=!4m6!3m5!1s0x7c006f4309506633:0xb8c592a70d9c602c!8m2!3d21.3675985!4d-157.938858!16s%2Fg%2F11c60nstxc?entry=ttu"
 -
   id: 456
   linkable_type: "attraction"
   linkable_id: 97
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kaua%CA%BBi+Museum/@21.9749902,-159.3701627,17z/data=!4m6!3m5!1s0x7c071e8fb50ce8f1:0x11faaaa3a7da3cd2!8m2!3d21.975035!4d-159.368253!16s%2Fm%2F06_8r5z"
+  url: "https://www.google.com/maps/place/Kaua%CA%BBi+Museum/@21.97504,-159.3708279,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071e8fb50ce8f1:0x11faaaa3a7da3cd2!8m2!3d21.975035!4d-159.368253!16s%2Fm%2F06_8r5z?entry=ttu"
 -
   id: 457
   linkable_type: "attraction"
@@ -2745,13 +2745,13 @@
   linkable_type: "attraction"
   linkable_id: 97
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kauai+Museum"
+  url: "https://www.google.com/search?q=Kauai+Museum&udm=2"
 -
   id: 459
   linkable_type: "attraction"
   linkable_id: 98
   link_type: "map"
-  url: "https://www.google.com/maps/place/Hanak%C4%81p%C4%AB%E2%80%98Ai+Beach/@22.2093718,-159.6001691,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06f9bc56ef9d93:0x3d72c35c041ce399!8m2!3d22.2087411!4d-159.5981826!16zL20vMGNyYzdo"
+  url: "https://www.google.com/maps/place/Hanak%C4%81p%C4%AB%E2%80%98Ai+Beach/@22.2093718,-159.6001691,17z/data=!3m1!4b1!4m6!3m5!1s0x7c06f9bc56ef9d93:0x3d72c35c041ce399!8m2!3d22.2087411!4d-159.5981826!16zL20vMGNyYzdo?entry=ttu"
 -
   id: 460
   linkable_type: "attraction"
@@ -2763,13 +2763,13 @@
   linkable_type: "attraction"
   linkable_id: 98
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hanakapiai+Beach"
+  url: "https://www.google.com/search?q=Hanakapiai+Beach&udm=2"
 -
   id: 462
   linkable_type: "restaurant"
   linkable_id: 71
   link_type: "map"
-  url: "https://www.google.com/maps/place/Kenji+Burger+Koloa/@21.904053,-159.4676554,17z/data=!4m14!1m7!3m6!1s0x7c071bfeaebf4243:0x7dc9685ed2da1b08!2sKenji+Burger+Koloa!8m2!3d21.904048!4d-159.4650805!16s%2Fg%2F11sg_0d01l!3m5!1s0x7c071bfeaebf4243:0x7dc9685ed2da1b08!8m2!3d21.904048!4d-159.4650805!16s%2Fg%2F11sg_0d01l?entry=ttu"
+  url: "https://www.google.com/maps/place/Kenji+Burger+Koloa/@21.904033,-159.4673657,17z/data=!4m6!3m5!1s0x7c071bfeaebf4243:0x7dc9685ed2da1b08!8m2!3d21.904048!4d-159.4650805!16s%2Fg%2F11sg_0d01l?entry=ttu"
 -
   id: 463
   linkable_type: "restaurant"
@@ -2781,7 +2781,7 @@
   linkable_type: "restaurant"
   linkable_id: 71
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kenji+Burger+Koloa"
+  url: "https://www.google.com/search?q=Kenji+Burger+Koloa&udm=2"
 -
   id: 465
   linkable_type: "restaurant"
@@ -2799,7 +2799,7 @@
   linkable_type: "restaurant"
   linkable_id: 70
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kalaheo+Cafe+Coffee+Company"
+  url: "https://www.google.com/search?q=Kalaheo+Cafe+%26+Coffee+Company&udm=2"
 -
   id: 468
   linkable_type: "restaurant"
@@ -2829,7 +2829,7 @@
   linkable_type: "restaurant"
   linkable_id: 72
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Merimans+Poipu"
+  url: "https://www.google.com/search?q=Merriman%27s+Koloa&udm=2"
 -
   id: 473
   linkable_type: "restaurant"
@@ -2853,7 +2853,7 @@
   linkable_type: "restaurant"
   linkable_id: 73
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Trucking+Delicious+Kauai"
+  url: "https://www.google.com/search?q=Wake+Up+Delicious&udm=2"
 -
   id: 477
   linkable_type: "restaurant"
@@ -2877,7 +2877,7 @@
   linkable_type: "restaurant"
   linkable_id: 74
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Ama+Kauai"
+  url: "https://www.google.com/search?q=Ama+Hanalei&udm=2"
 -
   id: 481
   linkable_type: "restaurant"
@@ -2901,7 +2901,7 @@
   linkable_type: "restaurant"
   linkable_id: 75
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Passion+Bakery+Cafe+Kauai"
+  url: "https://www.google.com/search?q=Passion+Bakery+Cafe&udm=2"
 -
   id: 485
   linkable_type: "restaurant"
@@ -2925,7 +2925,7 @@
   linkable_type: "restaurant"
   linkable_id: 76
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Konohiki+Seafood+Kauai"
+  url: "https://www.google.com/search?q=Konohiki+Seafoods&udm=2"
 -
   id: 489
   linkable_type: "restaurant"
@@ -2949,7 +2949,7 @@
   linkable_type: "restaurant"
   linkable_id: 77
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Unko's+Kitchen+Kauai"
+  url: "https://www.google.com/search?q=Unko%27s+Kitchen&udm=2"
 -
   id: 493
   linkable_type: "restaurant"
@@ -2973,7 +2973,7 @@
   linkable_type: "restaurant"
   linkable_id: 78
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Midnight+Bear+Breads+Kauai"
+  url: "https://www.google.com/search?q=Midnight+Bear+Breads&udm=2"
 -
   id: 497
   linkable_type: "restaurant"
@@ -2997,7 +2997,7 @@
   linkable_type: "restaurant"
   linkable_id: 79
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Kauai+Sushi+Station"
+  url: "https://www.google.com/search?q=Kauai+Sushi+Station&udm=2"
 -
   id: 501
   linkable_type: "restaurant"
@@ -3021,7 +3021,7 @@
   linkable_type: "restaurant"
   linkable_id: 80
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hukilau+Lanai"
+  url: "https://www.google.com/search?q=Hukilau+Lanai&udm=2"
 -
   id: 505
   linkable_type: "restaurant"
@@ -3045,7 +3045,7 @@
   linkable_type: "restaurant"
   linkable_id: 81
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Tidepools+Kauai"
+  url: "https://www.google.com/search?q=Tidepools+Poipu&udm=2"
 -
   id: 509
   linkable_type: "restaurant"
@@ -3069,7 +3069,7 @@
   linkable_type: "restaurant"
   linkable_id: 82
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Eating+House+1849+Koloa"
+  url: "https://www.google.com/search?q=Eating+House+1849+Koloa&udm=2"
 -
   id: 513
   linkable_type: "restaurant"
@@ -3093,7 +3093,7 @@
   linkable_type: "restaurant"
   linkable_id: 83
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Table+at+Poipu"
+  url: "https://www.google.com/search?q=Table+at+Poipu&udm=2"
 -
   id: 517
   linkable_type: "restaurant"
@@ -3117,7 +3117,7 @@
   linkable_type: "restaurant"
   linkable_id: 84
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Koloa+Pizza+Kitchen+Bar"
+  url: "https://www.google.com/search?q=Koloa+Pizza+Kitchen+Bar&udm=2"
 -
   id: 521
   linkable_type: "restaurant"
@@ -3141,7 +3141,7 @@
   linkable_type: "restaurant"
   linkable_id: 85
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Anuenue+Cafe+Kauai"
+  url: "https://www.google.com/search?q=Anuenue+Cafe&udm=2"
 -
   id: 525
   linkable_type: "restaurant"
@@ -3165,7 +3165,7 @@
   linkable_type: "restaurant"
   linkable_id: 86
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Break+Feast+Kauai"
+  url: "https://www.google.com/search?q=Break+Feast+Koloa&udm=2"
 -
   id: 529
   linkable_type: "restaurant"
@@ -3189,7 +3189,7 @@
   linkable_type: "restaurant"
   linkable_id: 87
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Hualanis+Kauai"
+  url: "https://www.google.com/search?q=Hualanis&udm=2"
 -
   id: 533
   linkable_type: "restaurant"
@@ -3201,7 +3201,7 @@
   linkable_type: "restaurant"
   linkable_id: 88
   link_type: "map"
-  url: "https://www.google.com/maps/place/Smiley's+Local+Grinds/@21.9697334,-159.3635505,995m/data=!3m2!1e3!4b1!4m6!3m5!1s0x7c071e92dfd2ff6f:0x545040133c236d43!8m2!3d21.9697284!4d-159.3609756!16s%2Fg%2F1tgxj87y?entry=ttu"
+  url: "https://www.google.com/maps/place/Smiley's+Local+Grinds/@21.9697334,-159.3635505,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071e92dfd2ff6f:0x545040133c236d43!8m2!3d21.9697284!4d-159.3609756!16s%2Fg%2F1tgxj87y?entry=ttu"
 -
   id: 535
   linkable_type: "restaurant"
@@ -3213,7 +3213,7 @@
   linkable_type: "restaurant"
   linkable_id: 88
   link_type: "images"
-  url: "https://www.google.com/search?tbm=isch&q=Smileys+Local+Grinds+Kauai"
+  url: "https://www.google.com/search?q=Smiley%27s+Local+Grinds&udm=2"
 -
   id: 537
   linkable_type: "restaurant"
@@ -3237,10 +3237,118 @@
   linkable_type: "attraction"
   linkable_id: 110
   link_type: "images"
-  url: "https://www.google.com/search?q=Brennecke%27s+Beach+Kauai&udm=2"
+  url: "https://www.google.com/search?q=Brennecke%27s+Beach&udm=2"
 -
   id: 541
   linkable_type: "attraction"
   linkable_id: 110
   link_type: "reviews"
   url: "https://www.yelp.com/biz/brenneckes-beach-uninc-kauai"
+-
+  id: 542
+  linkable_type: "attraction"
+  linkable_id: 101
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Kalapaki+Beach/@21.9601804,-159.3514694,18z/data=!3m1!4b1!4m6!3m5!1s0x7c071ee9d3b67121:0xa3743c0e00c13d8a!8m2!3d21.9605229!4d-159.3501759!16s%2Fg%2F1trpq_x7?entry=ttu"
+-
+  id: 543
+  linkable_type: "attraction"
+  linkable_id: 101
+  link_type: "website"
+  url: "https://www.to-hawaii.com/kauai/beaches/kalapakibeach.php"
+-
+  id: 544
+  linkable_type: "attraction"
+  linkable_id: 101
+  link_type: "images"
+  url: "https://www.google.com/search?q=Kalapaki+Beach&udm=2"
+-
+  id: 545
+  linkable_type: "attraction"
+  linkable_id: 101
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/kalapaki-beach-lihue"
+-
+  id: 546
+  linkable_type: "attraction"
+  linkable_id: 102
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Lawa'i+Beach/@21.8815848,-159.4789346,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071ab4e8915e4d:0x9bf83ad958576856!8m2!3d21.8817476!4d-159.4765221!16s%2Fg%2F11b8vdhvhs?entry=ttu"
+-
+  id: 547
+  linkable_type: "attraction"
+  linkable_id: 102
+  link_type: "website"
+  url: "https://www.to-hawaii.com/kauai/beaches/lawai-beach.php"
+-
+  id: 548
+  linkable_type: "attraction"
+  linkable_id: 102
+  link_type: "images"
+  url: "https://www.google.com/search?q=Lawa%27i+Beach&udm=2"
+-
+  id: 549
+  linkable_type: "attraction"
+  linkable_id: 102
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/lawai-beach-koloa"
+-
+  id: 550
+  linkable_type: "restaurant"
+  linkable_id: 89
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Koloa+Mill+Ice+Cream+%26+Coffee/@21.9043562,-159.467346,17z/data=!3m1!4b1!4m6!3m5!1s0x7c071ad847f9b389:0x1a3ba5cfe9ce9320!8m2!3d21.9043512!4d-159.4647711!16s%2Fg%2F1tgw579_?entry=ttu"
+-
+  id: 551
+  linkable_type: "restaurant"
+  linkable_id: 89
+  link_type: "website"
+  url: "https://koloamill.com/"
+-
+  id: 552
+  linkable_type: "restaurant"
+  linkable_id: 89
+  link_type: "images"
+  url: "https://www.google.com/search?q=Koloa+Mill+Ice+Cream+%26+Coffee&udm=2"
+-
+  id: 553
+  linkable_type: "restaurant"
+  linkable_id: 89
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/koloa-mill-ice-cream-and-coffee-koloa"
+-
+  id: 554
+  linkable_type: "attraction"
+  linkable_id: 32
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/poipu-beach-koloa-2"
+-
+  id: 555
+  linkable_type: "attraction"
+  linkable_id: 53
+  link_type: "website"
+  url: "https://roadtohana.com/hookipa-beach-park.php"
+-
+  id: 556
+  linkable_type: "attraction"
+  linkable_id: 121
+  link_type: "map"
+  url: "https://www.google.com/maps/place/Opaeka%E2%80%98a+Falls/@22.0482892,-159.3638501,17z/data=!4m14!1m7!3m6!1s0x7c06e1ff4ab27b81:0xdf820849349c58a4!2sWailua+Falls!8m2!3d22.0345722!4d-159.3789015!16zL20vMDc0M2h6!3m5!1s0x7c06e1bd04a53ba3:0x21bb2d7f93c754ae!8m2!3d22.0482288!4d-159.3620434!16s%2Fg%2F1tmpf47w?entry=ttu"
+-
+  id: 557
+  linkable_type: "attraction"
+  linkable_id: 121
+  link_type: "website"
+  url: "https://www.to-hawaii.com/kauai/waterfalls/opaekaa-falls.php"
+-
+  id: 558
+  linkable_type: "attraction"
+  linkable_id: 121
+  link_type: "images"
+  url: "https://www.google.com/search?q=Opaeka%E2%80%98a+Falls&udm=2"
+-
+  id: 559
+  linkable_type: "attraction"
+  linkable_id: 121
+  link_type: "reviews"
+  url: "https://www.yelp.com/biz/opaekaa-falls-kapaa-2"
