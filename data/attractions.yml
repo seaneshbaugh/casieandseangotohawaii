@@ -1318,3 +1318,14 @@
   notes: null
   notes_danger: null
   frommers_guide_book_page: null
+-
+  id: 121
+  name: "Opaeka‘a Falls"
+  attraction_type: "point-of-interest"
+  priority: "normal"
+  address: "Kapaʻa, HI 96746"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
