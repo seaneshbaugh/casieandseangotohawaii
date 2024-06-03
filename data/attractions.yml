@@ -121,7 +121,7 @@
   frommers_guide_book_page: null
 -
   id: 12
-  name: "Maipalaoa Beach Park"
+  name: "Ulehawa Beach Park"
   attraction_type: "beach"
   priority: "minor"
   address: "Maipalaoa Rd, Waianae, HI 96792"
@@ -1103,7 +1103,7 @@
   name: "Kalapaki Beach"
   attraction_type: "beach"
   priority: "low"
-  address: "Rice Rd, Lihue, HI 96766"
+  address: "Rice St, Lihue, HI 96766"
   phone: null
   hours: null
   notes: null
@@ -1114,7 +1114,7 @@
   name: "Lawa'i Beach"
   attraction_type: "beach"
   priority: "normal"
-  address: "5022 Lawai Rd Koloa, HI 96756"
+  address: "5022 Lawai Rd, Koloa, HI 96756"
   phone: null
   hours: null
   notes: null
@@ -1302,6 +1302,17 @@
   attraction_type: "point-of-interest"
   priority: "high"
   address: "2000 Poipu Rd, Koloa, HI 96756"
+  phone: null
+  hours: null
+  notes: null
+  notes_danger: null
+  frommers_guide_book_page: null
+-
+  id: 120
+  name: "Sugar Beach"
+  attraction_type: "beach"
+  priority: "normal"
+  address: "54 S Kihei Rd, Kihei, HI 96753"
   phone: null
   hours: null
   notes: null
